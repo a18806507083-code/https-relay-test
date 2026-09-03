@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T15:39:39Z",
+    "description": "REDD \u2014 DeFi agent for Robinhood Chain. Remembers your strategy, guards your fees. Non-custodial.",
+    "detected_at": "2026-09-03T15:43:44Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ReddAgentRH/redd",
+    "homepage": null,
+    "html_url": "https://github.com/ReddAgentRH/redd",
+    "pushed_at": "2026-09-03T15:42:53Z",
+    "repo_id": 1356143612,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
