@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T15:57:53Z",
+    "description": "Fully open source tool for memecoin traders on Robinhood Chain showing which tokenized stocks are cornered and what your wallet is really long",
+    "detected_at": "2026-09-03T16:07:57Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "DenomHQ/denom",
+    "homepage": null,
+    "html_url": "https://github.com/DenomHQ/denom",
+    "pushed_at": "2026-09-03T16:06:17Z",
+    "repo_id": 1356161781,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
