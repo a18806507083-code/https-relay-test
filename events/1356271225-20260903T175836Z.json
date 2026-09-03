@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T17:52:34Z",
+    "description": null,
+    "detected_at": "2026-09-03T17:58:36Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "V4vlads/vladsHook",
+    "homepage": null,
+    "html_url": "https://github.com/V4vlads/vladsHook",
+    "pushed_at": "2026-09-03T17:55:32Z",
+    "repo_id": 1356271225,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
