@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T16:51:50Z",
+    "description": null,
+    "detected_at": "2026-09-03T16:59:36Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "r0utex/r0utex",
+    "homepage": null,
+    "html_url": "https://github.com/r0utex/r0utex",
+    "pushed_at": "2026-09-03T16:56:47Z",
+    "repo_id": 1356212600,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
