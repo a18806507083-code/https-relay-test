@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T18:14:29Z",
+    "description": "Autonomous Robinhood Chain (4663) launch trader: a learning conviction oracle scores every NOXA and Odyssey launch, arm-and-guardrail controls, sequencer-feed execution, live dashboard.",
+    "detected_at": "2026-09-03T18:25:49Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "nirholas/hood-oracle",
+    "homepage": null,
+    "html_url": "https://github.com/nirholas/hood-oracle",
+    "pushed_at": "2026-09-03T18:15:23Z",
+    "repo_id": 1356291765,
+    "score": 7,
+    "tech_signals": [
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
