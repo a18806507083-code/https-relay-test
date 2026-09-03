@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T22:34:07Z",
+    "description": null,
+    "detected_at": "2026-09-03T23:46:40Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Nasabdul1/hail-rh",
+    "homepage": null,
+    "html_url": "https://github.com/Nasabdul1/hail-rh",
+    "pushed_at": "2026-09-03T23:41:35Z",
+    "repo_id": 1356488469,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
