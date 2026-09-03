@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T19:43:36Z",
+    "description": null,
+    "detected_at": "2026-09-03T20:02:54Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "OpenPonsPro/OpenPons",
+    "homepage": null,
+    "html_url": "https://github.com/OpenPonsPro/OpenPons",
+    "pushed_at": "2026-09-03T20:02:44Z",
+    "repo_id": 1356368362,
+    "score": 16,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
