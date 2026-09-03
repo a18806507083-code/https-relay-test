@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T13:24:11Z",
+    "description": "web utama dari roxy(recur) protokol",
+    "detected_at": "2026-09-03T13:32:26Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "novenrizkia856-ui/Roxy-web",
+    "homepage": null,
+    "html_url": "https://github.com/novenrizkia856-ui/Roxy-web",
+    "pushed_at": "2026-09-03T13:27:55Z",
+    "repo_id": 1356005848,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
