@@ -3,7 +3,7 @@
 
 Only PUSH/WATCH candidates notify the repo owner. SKIP candidates keep their AI
 report in the PR body and close silently (no assignee, no bot comment).
-Regression-tested against a known low-value RH candidate.
+Regression-tested against a low-signal public RH candidate.
 """
 from __future__ import annotations
 
