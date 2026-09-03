@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T16:14:49Z",
+    "description": "Read-only HTTP API for Robinhood Chain creator fees. Returns unsigned launch transactions and holds no private keys.",
+    "detected_at": "2026-09-03T16:22:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "hoodvault/hoodvault-api",
+    "homepage": "https://hoodvault.app/",
+    "html_url": "https://github.com/hoodvault/hoodvault-api",
+    "pushed_at": "2026-09-03T16:15:15Z",
+    "repo_id": 1356177041,
+    "score": 11,
+    "tech_signals": [
+      "Lending/Vault",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
