@@ -8,11 +8,13 @@ on:
     paths:
       - ".github/workflows/rh-fast-sensor.yml"
       - "scripts/rh_fast_sensor.py"
+      - "scripts/rh_fast_analyzer.py"
 
 permissions:
   contents: write
   issues: write
   pull-requests: write
+  copilot-requests: write
 
 concurrency:
   group: rh-github-fast-sensor
@@ -21,7 +23,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 8
     steps:
       - name: Checkout sensor state
         uses: actions/checkout@v4
@@ -53,8 +55,46 @@ jobs:
           git commit -m "state: record RH Fast Sensor candidates [skip ci]"
           git push
 
-      - name: Surface sensor failure
-        if: steps.sensor.outcome == 'failure'
+      - name: Check for pending RH-FAST candidate PRs
+        id: pending
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
         run: |
-          echo "RH Fast Sensor scan or notification failed; next scheduled run will retry unrecorded candidates."
+          count=$(gh pr list --repo "$GITHUB_REPOSITORY" --state open --limit 100 --json title --jq '[.[] | select(.title | startswith("[RH-FAST][NEW_REPO] "))] | length')
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          if [ "$count" -gt 0 ]; then
+            echo "has_pending=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_pending=false" >> "$GITHUB_OUTPUT"
+          fi
+          echo "Pending RH-FAST PRs: $count"
+
+      - name: Set up Node for Copilot CLI
+        if: steps.pending.outputs.has_pending == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Copilot CLI
+        if: steps.pending.outputs.has_pending == 'true'
+        run: npm install -g @github/copilot
+
+      - name: Deep-analyze pending RH-FAST candidates
+        if: steps.pending.outputs.has_pending == 'true'
+        id: analyzer
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENSOR_REPO: ${{ github.repository }}
+          MAX_AI_CANDIDATES: "5"
+          RH_FAST_MAX_FILES: "24"
+          RH_FAST_MAX_FILE_BYTES: "70000"
+          RH_FAST_MAX_TOTAL_BYTES: "500000"
+        run: python3 scripts/rh_fast_analyzer.py
+
+      - name: Surface failures
+        if: steps.sensor.outcome == 'failure' || steps.analyzer.outcome == 'failure'
+        run: |
+          echo "RH Fast Sensor discovery or AI first-pass failed; unprocessed candidates will retry on a later scheduled run."
           exit 1
