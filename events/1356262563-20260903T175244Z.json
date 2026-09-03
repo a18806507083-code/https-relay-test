@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T17:43:33Z",
+    "description": "the sniper terminal for pons v2 on Robinhood Chain. local, open, non-custodial, dry run by default",
+    "detected_at": "2026-09-03T17:52:44Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Phosphenq/bodkin",
+    "homepage": null,
+    "html_url": "https://github.com/Phosphenq/bodkin",
+    "pushed_at": "2026-09-03T17:50:31Z",
+    "repo_id": 1356262563,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
