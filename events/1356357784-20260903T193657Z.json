@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T19:30:47Z",
+    "description": null,
+    "detected_at": "2026-09-03T19:36:57Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "Stock-Pack/stock-pack",
+    "homepage": null,
+    "html_url": "https://github.com/Stock-Pack/stock-pack",
+    "pushed_at": "2026-09-03T19:31:37Z",
+    "repo_id": 1356357784,
+    "score": 18,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
