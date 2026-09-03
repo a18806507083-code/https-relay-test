@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""RH GitHub Fast Sensor v0.2 — low-noise NEW_REPO discovery."""
+"""RH GitHub Fast Sensor v0.3 — low-noise NEW_REPO discovery + PR events."""
 from __future__ import annotations
 
 import base64
@@ -17,12 +17,11 @@ from pathlib import Path
 API = "https://api.github.com"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 SENSOR_REPO = os.environ.get("SENSOR_REPO", "")
+BASE_BRANCH = os.environ.get("SENSOR_BASE_BRANCH", "main")
 STATE_PATH = Path(os.environ.get("STATE_PATH", "state/seen.json"))
 LOOKBACK_MINUTES = int(os.environ.get("LOOKBACK_MINUTES", "120"))
 MAX_CANDIDATES = int(os.environ.get("MAX_CANDIDATES", "10"))
 
-# Redundant discovery queries are intentional. Exact freshness and RH evidence are
-# re-checked after retrieval, so search-engine false positives do not become alerts.
 BASE_QUERIES = [
     '"Robinhood Chain" in:name,description,readme',
     '4663 in:readme',
@@ -76,13 +75,13 @@ def gh(path: str, method: str = "GET", payload: dict | None = None):
     headers = {
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28",
-        "User-Agent": "rh-fast-sensor/0.2",
+        "User-Agent": "rh-fast-sensor/0.3",
     }
     if TOKEN:
         headers["Authorization"] = f"Bearer {TOKEN}"
     data = None
     if payload is not None:
-        data = json.dumps(payload).encode()
+        data = json.dumps(payload).encode("utf-8")
         headers["Content-Type"] = "application/json"
     req = urllib.request.Request(url, data=data, headers=headers, method=method)
     try:
@@ -90,14 +89,14 @@ def gh(path: str, method: str = "GET", payload: dict | None = None):
             raw = r.read()
             return json.loads(raw) if raw else None
     except urllib.error.HTTPError as e:
-        detail = e.read().decode("utf-8", "replace")[:1000]
+        detail = e.read().decode("utf-8", "replace")[:1200]
         raise RuntimeError(f"GitHub HTTP {e.code}: {url}: {detail}") from e
 
 
 def load_state() -> dict:
     if not STATE_PATH.exists():
         return {"version": 1, "started_at": iso(now()), "seen_repo_ids": {}}
-    s = json.loads(STATE_PATH.read_text())
+    s = json.loads(STATE_PATH.read_text(encoding="utf-8"))
     s.setdefault("version", 1)
     s.setdefault("started_at", iso(now()))
     s.setdefault("seen_repo_ids", {})
@@ -106,7 +105,7 @@ def load_state() -> dict:
 
 def save_state(s: dict) -> None:
     STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    STATE_PATH.write_text(json.dumps(s, indent=2, sort_keys=True) + "\n")
+    STATE_PATH.write_text(json.dumps(s, indent=2, sort_keys=True) + "\n", encoding="utf-8")
 
 
 def readme(full_name: str) -> str:
@@ -155,15 +154,18 @@ def classify(repo: dict, md: str) -> tuple[list[str], list[str]]:
     )
 
 
-def existing_issue(full_name: str) -> bool:
-    q = f'repo:{SENSOR_REPO} is:issue in:title "[RH-FAST][NEW_REPO] {full_name}"'
-    qs = urllib.parse.urlencode({"q": q, "per_page": 5})
-    return bool((gh(f"/search/issues?{qs}") or {}).get("total_count", 0))
+def existing_event(full_name: str) -> str | None:
+    q = f'repo:{SENSOR_REPO} in:title "[RH-FAST][NEW_REPO] {full_name}"'
+    qs = urllib.parse.urlencode({"q": q, "per_page": 10})
+    res = gh(f"/search/issues?{qs}") or {}
+    for item in res.get("items", []):
+        if item.get("title") == f"[RH-FAST][NEW_REPO] {full_name}":
+            return item.get("html_url")
+    return None
 
 
-def notify(c: dict) -> str:
-    title = f"[RH-FAST][NEW_REPO] {c['full_name']}"
-    body = (
+def candidate_body(c: dict) -> str:
+    return (
         "## RH Fast Sensor candidate\n\n"
         f"**Trigger:** NEW_REPO  \n**Created:** {c['created_at']}  \n"
         f"**Detected:** {c['detected_at']}  \n**Repo:** {c['html_url']}  \n"
@@ -172,11 +174,60 @@ def notify(c: dict) -> str:
         f"**Hard RH evidence:** {', '.join(c['direct_signals'])}\n\n"
         f"**Technical signals:** {', '.join(c['tech_signals'])}\n\n"
         f"**Fast score:** {c['score']}\n\n---\n"
-        "Machine-generated discovery only: not a quality verdict, token endorsement, or proof that the project identity itself is new. "
-        "Deep code/identity/deployment checks remain the RH Tech radar's job.\n"
+        "Machine-generated discovery only. The next stage must deep-check code, identity continuity, deployment evidence, website/X and token status before notifying the user.\n"
     )
+
+
+def make_pr_event(c: dict) -> str:
+    # A PR is used deliberately because ChatGPT supports event-triggered GitHub PR tasks.
+    # Each candidate gets an immutable JSON event file on its own branch.
+    base_ref = gh(f"/repos/{SENSOR_REPO}/git/ref/heads/{urllib.parse.quote(BASE_BRANCH, safe='')}")
+    base_sha = base_ref["object"]["sha"]
+    stamp = c["detected_at"].replace(":", "").replace("-", "")
+    branch = f"rh-fast/{c['repo_id']}-{stamp}"
+    gh(f"/repos/{SENSOR_REPO}/git/refs", "POST", {"ref": f"refs/heads/{branch}", "sha": base_sha})
+
+    event = {
+        "schema": "rh-fast-event/1",
+        "trigger": "NEW_REPO",
+        "candidate": c,
+    }
+    content = base64.b64encode((json.dumps(event, indent=2, sort_keys=True) + "\n").encode("utf-8")).decode("ascii")
+    path = f"events/{c['repo_id']}-{stamp}.json"
+    gh(
+        f"/repos/{SENSOR_REPO}/contents/{urllib.parse.quote(path, safe='/')}",
+        "PUT",
+        {"message": f"RH-FAST event: {c['full_name']}", "content": content, "branch": branch},
+    )
+
+    title = f"[RH-FAST][NEW_REPO] {c['full_name']}"
+    pr = gh(
+        f"/repos/{SENSOR_REPO}/pulls",
+        "POST",
+        {"title": title, "body": candidate_body(c), "head": branch, "base": BASE_BRANCH, "draft": False},
+    )
+    return pr.get("html_url", "") if isinstance(pr, dict) else ""
+
+
+def fallback_issue(c: dict, pr_error: Exception) -> str:
+    # Keep the fast discovery signal even if repository settings temporarily block
+    # GitHub Actions from opening PRs. This path is visible and retriable, but does
+    # not provide the desired PR webhook semantics.
+    title = f"[RH-FAST][NEW_REPO] {c['full_name']}"
+    body = candidate_body(c) + f"\n**PR event creation failed:** `{str(pr_error)[:600]}`\n"
     obj = gh(f"/repos/{SENSOR_REPO}/issues", "POST", {"title": title, "body": body})
     return obj.get("html_url", "") if isinstance(obj, dict) else ""
+
+
+def notify(c: dict) -> tuple[str, str]:
+    existing = existing_event(c["full_name"])
+    if existing:
+        return "existing", existing
+    try:
+        return "pull_request", make_pr_event(c)
+    except Exception as e:
+        print(f"RH_FAST_PR_FALLBACK {c['full_name']}: {e}", file=sys.stderr)
+        return "issue_fallback", fallback_issue(c, e)
 
 
 def main() -> int:
@@ -216,20 +267,20 @@ def main() -> int:
     changed = False
     for c in candidates[:MAX_CANDIDATES]:
         try:
-            issue_url = "existing" if existing_issue(c["full_name"]) else notify(c)
+            event_type, event_url = notify(c)
             state["seen_repo_ids"][str(c["repo_id"])] = {
                 "full_name": c["full_name"],
                 "created_at": c["created_at"],
                 "first_seen_at": c["detected_at"],
-                "issue": issue_url,
+                "event_type": event_type,
+                "event_url": event_url,
             }
             changed = True
-            print(f"RH_FAST_NEW {c['full_name']} score={c['score']} issue={issue_url}")
+            print(f"RH_FAST_NEW {c['full_name']} score={c['score']} event={event_type} url={event_url}")
         except Exception as e:
             failures.append(f"{c['full_name']}: {e}")
             print(f"RH_FAST_NOTIFY_ERROR {c['full_name']}: {e}", file=sys.stderr)
 
-    # Persist only real dedupe changes; no empty 5-minute heartbeat commits.
     if changed:
         save_state(state)
 
