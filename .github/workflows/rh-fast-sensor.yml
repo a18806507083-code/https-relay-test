@@ -10,6 +10,7 @@ on:
       - ".github/workflows/rh-fast-sensor.yml"
       - "scripts/rh_fast_sensor.py"
       - "scripts/rh_fast_analyzer.py"
+      - "scripts/rh_fast_analyzer_gate.py"
 
 permissions:
   contents: write
@@ -92,7 +93,7 @@ jobs:
           RH_FAST_MAX_FILES: "24"
           RH_FAST_MAX_FILE_BYTES: "70000"
           RH_FAST_MAX_TOTAL_BYTES: "500000"
-        run: python3 scripts/rh_fast_analyzer.py
+        run: python3 scripts/rh_fast_analyzer_gate.py
 
       - name: Surface failures
         if: steps.sensor.outcome == 'failure' || steps.analyzer.outcome == 'failure'
