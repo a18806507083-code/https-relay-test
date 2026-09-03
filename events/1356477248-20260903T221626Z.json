@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T22:15:01Z",
+    "description": "Browser-native workspace for building crypto apps on Robinhood. Six verified TypeScript templates, tests included.",
+    "detected_at": "2026-09-03T22:16:26Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "izyxg/nock",
+    "homepage": null,
+    "html_url": "https://github.com/izyxg/nock",
+    "pushed_at": "2026-09-03T22:16:10Z",
+    "repo_id": 1356477248,
+    "score": 9,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
