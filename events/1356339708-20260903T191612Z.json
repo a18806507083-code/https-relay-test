@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T19:09:30Z",
+    "description": "Topo \u2014 the LP route map for Robinhood Chain. Backtest a range before you mint it.",
+    "detected_at": "2026-09-03T19:16:12Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "topoliquidity/topo-liquidity",
+    "homepage": null,
+    "html_url": "https://github.com/topoliquidity/topo-liquidity",
+    "pushed_at": "2026-09-03T19:11:49Z",
+    "repo_id": 1356339708,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
