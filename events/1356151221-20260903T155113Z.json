@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T15:46:48Z",
+    "description": "Robinhood simple liquidity provider",
+    "detected_at": "2026-09-03T15:51:13Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "mrtampan/LINUNI",
+    "homepage": null,
+    "html_url": "https://github.com/mrtampan/LINUNI",
+    "pushed_at": "2026-09-03T15:47:47Z",
+    "repo_id": 1356151221,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
