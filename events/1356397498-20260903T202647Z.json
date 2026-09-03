@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T20:20:55Z",
+    "description": null,
+    "detected_at": "2026-09-03T20:26:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC"
+    ],
+    "full_name": "Ali213112/Agentic-on-bot-chain-",
+    "homepage": null,
+    "html_url": "https://github.com/Ali213112/Agentic-on-bot-chain-",
+    "pushed_at": "2026-09-03T20:23:03Z",
+    "repo_id": 1356397498,
+    "score": 11,
+    "tech_signals": [
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
