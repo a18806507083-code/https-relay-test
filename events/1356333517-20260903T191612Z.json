@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T19:02:21Z",
+    "description": "The x402 rail for Robinhood Chain: open facilitator, facilitator router with failover, settlement explorer, attested escrow, and chain registry. USDG over Permit2 on eip155:4663.",
+    "detected_at": "2026-09-03T19:16:12Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "nirholas/loxley",
+    "homepage": null,
+    "html_url": "https://github.com/nirholas/loxley",
+    "pushed_at": "2026-09-03T19:15:26Z",
+    "repo_id": 1356333517,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
