@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T19:51:35Z",
+    "description": "Proof-based VRF infrastructure for Robinhood Chain. V3 testnet canary; experimental threshold DKG and resharing. Pre-audit.",
+    "detected_at": "2026-09-03T19:55:42Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "EntropyRail/vrf",
+    "homepage": "https://entropyrail.com",
+    "html_url": "https://github.com/EntropyRail/vrf",
+    "pushed_at": "2026-09-03T19:53:56Z",
+    "repo_id": 1356374572,
+    "score": 7,
+    "tech_signals": [
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
