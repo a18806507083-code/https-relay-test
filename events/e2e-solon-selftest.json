@@ -1,0 +1,8 @@
+{
+  "schema": "rh-fast-event/1",
+  "trigger": "SELFTEST_ANALYSIS",
+  "candidate": {
+    "full_name": "solonlend/contracts",
+    "html_url": "https://github.com/solonlend/contracts"
+  }
+}
