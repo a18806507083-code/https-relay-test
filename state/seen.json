@@ -1,6 +1,14 @@
 {
-  "version": 1,
-  "started_at": "2026-09-03T12:18:00Z",
   "last_run_at": null,
-  "seen_repo_ids": {}
+  "seen_repo_ids": {
+    "1355967583": {
+      "created_at": "2026-09-03T12:45:21Z",
+      "event_type": "existing",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/issues/1",
+      "first_seen_at": "2026-09-03T12:53:52Z",
+      "full_name": "robinhood-bundler/robinhood-bundler-bot"
+    }
+  },
+  "started_at": "2026-09-03T12:18:00Z",
+  "version": 1
 }
