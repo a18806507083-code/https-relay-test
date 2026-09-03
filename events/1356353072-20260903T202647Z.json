@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T19:25:05Z",
+    "description": null,
+    "detected_at": "2026-09-03T20:26:47Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Trixen-AI/puns",
+    "homepage": null,
+    "html_url": "https://github.com/Trixen-AI/puns",
+    "pushed_at": "2026-09-03T20:26:41Z",
+    "repo_id": 1356353072,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
