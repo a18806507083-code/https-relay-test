@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T17:04:47Z",
+    "description": null,
+    "detected_at": "2026-09-03T17:10:09Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "travisiol/hedge",
+    "homepage": null,
+    "html_url": "https://github.com/travisiol/hedge",
+    "pushed_at": "2026-09-03T17:04:51Z",
+    "repo_id": 1356225163,
+    "score": 10,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
