@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T19:34:08Z",
+    "description": null,
+    "detected_at": "2026-09-03T19:36:57Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "vern-sh/vernagent",
+    "homepage": null,
+    "html_url": "https://github.com/vern-sh/vernagent",
+    "pushed_at": "2026-09-03T19:35:32Z",
+    "repo_id": 1356360490,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
