@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T13:55:23Z",
+    "description": null,
+    "detected_at": "2026-09-03T14:10:42Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "Hypotheca-Dev/hypotheca-sdk",
+    "homepage": null,
+    "html_url": "https://github.com/Hypotheca-Dev/hypotheca-sdk",
+    "pushed_at": "2026-09-03T14:06:40Z",
+    "repo_id": 1356036603,
+    "score": 15,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
