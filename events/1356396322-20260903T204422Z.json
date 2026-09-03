@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-03T20:19:35Z",
+    "description": null,
+    "detected_at": "2026-09-03T20:44:22Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "demo-gitpons/gitpons",
+    "homepage": null,
+    "html_url": "https://github.com/demo-gitpons/gitpons",
+    "pushed_at": "2026-09-03T20:43:25Z",
+    "repo_id": 1356396322,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
