@@ -1,0 +1,58 @@
+name: RH GitHub Fast Sensor
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/rh-fast-sensor.yml"
+      - "scripts/rh_fast_sensor.py"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: rh-github-fast-sensor
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: Checkout sensor state
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Scan newly-created RH repositories
+        id: sensor
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENSOR_REPO: ${{ github.repository }}
+          LOOKBACK_MINUTES: "120"
+          MAX_CANDIDATES: "10"
+        run: python3 scripts/rh_fast_sensor.py
+
+      - name: Persist repo-id dedupe state
+        if: always()
+        shell: bash
+        run: |
+          if git diff --quiet -- state/seen.json; then
+            echo "No new dedupe state."
+            exit 0
+          fi
+          git config user.name "rh-fast-sensor[bot]"
+          git config user.email "rh-fast-sensor[bot]@users.noreply.github.com"
+          git add state/seen.json
+          git commit -m "state: record RH Fast Sensor candidates [skip ci]"
+          git push
+
+      - name: Surface sensor failure
+        if: steps.sensor.outcome == 'failure'
+        run: |
+          echo "RH Fast Sensor scan or notification failed; next scheduled run will retry unrecorded candidates."
+          exit 1
