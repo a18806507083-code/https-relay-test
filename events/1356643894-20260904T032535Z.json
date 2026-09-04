@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T03:04:59Z",
+    "description": "Description: HEAT Protocol \u2014 on-chain thermodynamic engineering and mining protocol on Robinhood Chain  Website: https://www.heat-protocol.com",
+    "detected_at": "2026-09-04T03:25:35Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "bradford5942-debug/heat-protocol",
+    "homepage": "",
+    "html_url": "https://github.com/bradford5942-debug/heat-protocol",
+    "pushed_at": "2026-09-04T03:18:44Z",
+    "repo_id": 1356643894,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
