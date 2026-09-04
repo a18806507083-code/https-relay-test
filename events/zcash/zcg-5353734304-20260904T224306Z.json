@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T22:30:41Z",
+    "detected_at": "2026-09-04T22:43:06Z",
+    "display": "#417 Grant Application - Zcash Awareness, Education & Community Growth Campaign",
+    "key": "zcg:5353734304",
+    "metadata": {
+      "author": "coldheartedmen",
+      "issue_number": 417,
+      "labels": [],
+      "title": "Grant Application - Zcash Awareness, Education & Community Growth Campaign"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5353734304,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/417"
+  },
+  "schema": "zcash-fast-event/1"
+}
