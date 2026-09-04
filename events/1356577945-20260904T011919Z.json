@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T01:12:34Z",
+    "description": "Source-bound Programmable V4 main-token launch package for Robinhood Chain.",
+    "detected_at": "2026-09-04T01:19:19Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "programmablehq/programmable-v4-token",
+    "homepage": null,
+    "html_url": "https://github.com/programmablehq/programmable-v4-token",
+    "pushed_at": "2026-09-04T01:12:37Z",
+    "repo_id": 1356577945,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
