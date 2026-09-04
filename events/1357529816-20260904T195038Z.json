@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T19:38:47Z",
+    "description": null,
+    "detected_at": "2026-09-04T19:50:38Z",
+    "direct_signals": [
+      "RH testnet 46630"
+    ],
+    "full_name": "MarginCalledG/RACKS",
+    "homepage": null,
+    "html_url": "https://github.com/MarginCalledG/RACKS",
+    "pushed_at": "2026-09-04T19:49:00Z",
+    "repo_id": 1357529816,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
