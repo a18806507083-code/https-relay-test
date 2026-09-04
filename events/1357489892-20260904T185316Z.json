@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T18:47:31Z",
+    "description": "Browser-native 24/7 television network where every display surface is programmable advertising inventory. Built on Robinhood Chain; network income buys Anduril pre-stock for holders.",
+    "detected_at": "2026-09-04T18:53:16Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "JermWang/airtime",
+    "homepage": null,
+    "html_url": "https://github.com/JermWang/airtime",
+    "pushed_at": "2026-09-04T18:47:35Z",
+    "repo_id": 1357489892,
+    "score": 17,
+    "tech_signals": [
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
