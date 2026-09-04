@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T12:57:57Z",
+    "description": null,
+    "detected_at": "2026-09-04T13:24:32Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "staqcash/staq",
+    "homepage": null,
+    "html_url": "https://github.com/staqcash/staq",
+    "pushed_at": "2026-09-04T13:13:52Z",
+    "repo_id": 1357141952,
+    "score": 13,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
