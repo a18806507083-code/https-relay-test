@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T18:08:14Z",
+    "description": "Pons Volume Bot - real, on-chain trading volume for Pons launchpad tokens on Robinhood Chain. Venue-resolved (curve or graduated), carried by unique maker wallets, non-custodial with no deposit and flat 1%, verifiable on Robinscan. Run a campaign at www.ponsvolumebot.com",
+    "detected_at": "2026-09-04T18:15:35Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "pons-v3p1/Pons-Volume-Bot",
+    "homepage": "",
+    "html_url": "https://github.com/pons-v3p1/Pons-Volume-Bot",
+    "pushed_at": "2026-09-04T18:08:50Z",
+    "repo_id": 1357456621,
+    "score": 7,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
