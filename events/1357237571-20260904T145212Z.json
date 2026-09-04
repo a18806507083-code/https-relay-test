@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T14:28:50Z",
+    "description": "Download FOMO Desktop App \u2014 high-speed Web3 trading for Solana, Base, BNB & Robinhood Chain. Zero-latency execution, hardware security & PiP mode. Get it free!",
+    "detected_at": "2026-09-04T14:52:12Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "fomo-desktop-app/fomo-app",
+    "homepage": "",
+    "html_url": "https://github.com/fomo-desktop-app/fomo-app",
+    "pushed_at": "2026-09-04T14:44:54Z",
+    "repo_id": 1357237571,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
