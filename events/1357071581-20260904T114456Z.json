@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T11:42:41Z",
+    "description": null,
+    "detected_at": "2026-09-04T11:44:56Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "S4PAY/payhole",
+    "homepage": null,
+    "html_url": "https://github.com/S4PAY/payhole",
+    "pushed_at": "2026-09-04T11:43:40Z",
+    "repo_id": 1357071581,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
