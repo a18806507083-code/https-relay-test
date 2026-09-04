@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T18:03:35Z",
+    "description": "The vault that guards itself \u2014 fully-backed stock indexes on Robinhood Chain. One token per index, rebalanced by an autonomous agent that can never withdraw.",
+    "detected_at": "2026-09-04T18:15:35Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "arcafi/arca",
+    "homepage": null,
+    "html_url": "https://github.com/arcafi/arca",
+    "pushed_at": "2026-09-04T18:03:36Z",
+    "repo_id": 1357452361,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
