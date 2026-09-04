@@ -1,0 +1,106 @@
+name: Zcash Fast Sensor
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/zcash-fast-sensor.yml"
+      - "scripts/zcash_fast_sensor.py"
+      - "scripts/zcash_fast_analyzer.py"
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+  copilot-requests: write
+
+concurrency:
+  group: zcash-fast-sensor
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout sensor state
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Scan Zcash fast sources
+        id: sensor
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENSOR_REPO: ${{ github.repository }}
+          SENSOR_BASE_BRANCH: ${{ github.event.repository.default_branch }}
+          ZCASH_STATE_PATH: state/zcash_seen.json
+          OVERLAP_MINUTES: "30"
+          RECOVERY_LOOKBACK_MINUTES: "1440"
+          MAX_CANDIDATES: "12"
+        run: python3 scripts/zcash_fast_sensor.py
+
+      - name: Persist Zcash watermarks and dedupe state
+        if: always()
+        shell: bash
+        run: |
+          if git diff --quiet -- state/zcash_seen.json 2>/dev/null && git ls-files --error-unmatch state/zcash_seen.json >/dev/null 2>&1; then
+            echo "No Zcash state change."
+            exit 0
+          fi
+          if [ ! -f state/zcash_seen.json ]; then
+            echo "Zcash state file was not produced."
+            exit 1
+          fi
+          git config user.name "zcash-fast-sensor[bot]"
+          git config user.email "zcash-fast-sensor[bot]@users.noreply.github.com"
+          git add state/zcash_seen.json
+          git commit -m "state: persist Zcash Fast Sensor watermarks [skip ci]"
+          git push
+
+      - name: Check for pending ZCASH-FAST candidate PRs
+        id: pending
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          count=$(gh pr list --repo "$GITHUB_REPOSITORY" --state open --limit 100 --json title --jq '[.[] | select((.title | startswith("[ZCASH-FAST][NEW_REPO] ")) or (.title | startswith("[ZCASH-FAST][FIXED_ORG] ")) or (.title | startswith("[ZCASH-FAST][ZCG] ")) or (.title | startswith("[ZCASH-FAST][FORUM] ")))] | length')
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          if [ "$count" -gt 0 ]; then
+            echo "has_pending=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_pending=false" >> "$GITHUB_OUTPUT"
+          fi
+          echo "Pending ZCASH-FAST PRs: $count"
+
+      - name: Set up Node for Copilot CLI
+        if: steps.pending.outputs.has_pending == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Copilot CLI
+        if: steps.pending.outputs.has_pending == 'true'
+        run: npm install -g @github/copilot
+
+      - name: AI-analyze pending ZCASH-FAST candidates
+        if: steps.pending.outputs.has_pending == 'true'
+        id: analyzer
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENSOR_REPO: ${{ github.repository }}
+          MAX_AI_CANDIDATES: "6"
+          ZCASH_FAST_MAX_FILES: "28"
+          ZCASH_FAST_MAX_FILE_BYTES: "70000"
+          ZCASH_FAST_MAX_TOTAL_BYTES: "600000"
+        run: python3 scripts/zcash_fast_analyzer.py
+
+      - name: Surface source or AI failures
+        if: steps.sensor.outcome == 'failure' || steps.analyzer.outcome == 'failure'
+        run: |
+          echo "Zcash Fast Sensor source collection or AI first-pass failed; successful source watermarks were preserved and pending candidates will retry."
+          exit 1
