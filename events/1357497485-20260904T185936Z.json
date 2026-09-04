@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T18:56:37Z",
+    "description": "Stock packs: one tokenized share per pack, routed through Voxelithic Protocol on Robinhood Chain.",
+    "detected_at": "2026-09-04T18:59:36Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "Shellr-Packs/shellr-stock-packs",
+    "homepage": "https://shellr.trade/stocks",
+    "html_url": "https://github.com/Shellr-Packs/shellr-stock-packs",
+    "pushed_at": "2026-09-04T18:56:40Z",
+    "repo_id": 1357497485,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
