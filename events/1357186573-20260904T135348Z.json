@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T13:41:59Z",
+    "description": null,
+    "detected_at": "2026-09-04T13:53:48Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "cashflipdotorg/cashflip",
+    "homepage": null,
+    "html_url": "https://github.com/cashflipdotorg/cashflip",
+    "pushed_at": "2026-09-04T13:46:46Z",
+    "repo_id": 1357186573,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
