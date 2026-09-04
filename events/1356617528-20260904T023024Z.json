@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T02:22:11Z",
+    "description": "how to choose a crypto exchange: a clear-eyed checklist for fees, safety, liquidity and the coins you actually want",
+    "detected_at": "2026-09-04T02:30:24Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "jtbl19/crypto-exchange-checklist",
+    "homepage": "",
+    "html_url": "https://github.com/jtbl19/crypto-exchange-checklist",
+    "pushed_at": "2026-09-04T02:22:29Z",
+    "repo_id": 1356617528,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
