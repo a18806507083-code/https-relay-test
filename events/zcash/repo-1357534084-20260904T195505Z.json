@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T19:43:54Z",
+    "detected_at": "2026-09-04T19:55:05Z",
+    "display": "dowoop/cryptopos-core",
+    "key": "repo:1357534084",
+    "metadata": {
+      "description": "Payment-rail protocol core: the PaymentRail contract, address validation, URI construction and the rail catalogue. Rails ship as separate packages.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "dowoop/cryptopos-core",
+      "homepage": null,
+      "pushed_at": "2026-09-04T19:43:57Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1357534084,
+    "url": "https://github.com/dowoop/cryptopos-core"
+  },
+  "schema": "zcash-fast-event/1"
+}
