@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T12:50:23Z",
+    "detected_at": "2026-09-04T13:35:25Z",
+    "display": "nfl0/Names-website",
+    "key": "repo:1357134601",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "nfl0/Names-website",
+      "homepage": null,
+      "pushed_at": "2026-09-04T13:33:17Z",
+      "tech_signals": [
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1357134601,
+    "url": "https://github.com/nfl0/Names-website"
+  },
+  "schema": "zcash-fast-event/1"
+}
