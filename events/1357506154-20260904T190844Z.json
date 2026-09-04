@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T19:07:16Z",
+    "description": "Structured notes on tokenised stocks. Robinhood Chain.",
+    "detected_at": "2026-09-04T19:08:44Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "NoteSystems/note-systems",
+    "homepage": "https://note.systems",
+    "html_url": "https://github.com/NoteSystems/note-systems",
+    "pushed_at": "2026-09-04T19:08:38Z",
+    "repo_id": 1357506154,
+    "score": 10,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
