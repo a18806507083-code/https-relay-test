@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T04:17:15Z",
+    "description": null,
+    "detected_at": "2026-09-04T04:31:52Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "enigma-1111/quiver",
+    "homepage": "https://quiver-topaz.vercel.app",
+    "html_url": "https://github.com/enigma-1111/quiver",
+    "pushed_at": "2026-09-04T04:29:54Z",
+    "repo_id": 1356686784,
+    "score": 15,
+    "tech_signals": [
+      "Hook",
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
