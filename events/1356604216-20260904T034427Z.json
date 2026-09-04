@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T01:59:45Z",
+    "description": "description:\u5bf9\u94fe\u4e0a\u805a\u5408\u5668\u3001Robinhood Chain \u4ee3\u5e01\u5316\u80a1\u7968\u4e0e\u9884\u6d4b\u5e02\u573a\u7684\u72ec\u7acb\u53ef\u6267\u884c\u6df1\u5ea6\u6d4b\u91cf\u3002\u6570\u636e\u4e0e\u590d\u6838\u811a\u672c\u968f\u9644\u3002",
+    "detected_at": "2026-09-04T03:44:27Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "dirkdiggler1026/executability-report",
+    "homepage": "https://dirkdiggler1026.github.io/executability-report/",
+    "html_url": "https://github.com/dirkdiggler1026/executability-report",
+    "pushed_at": "2026-09-04T03:42:09Z",
+    "repo_id": 1356604216,
+    "score": 5,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
