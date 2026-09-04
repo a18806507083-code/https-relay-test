@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T13:09:03Z",
+    "description": "Agentic RWA index underwriter for tokenised equities on Robinhood Chain. Mandates are hashed objects; rebalances are deterministically planned, hash-committed, then executed.",
+    "detected_at": "2026-09-04T13:11:55Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "fiduciaindex/fiducia",
+    "homepage": "https://fiduciaindex.com",
+    "html_url": "https://github.com/fiduciaindex/fiducia",
+    "pushed_at": "2026-09-04T13:09:08Z",
+    "repo_id": 1357152395,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
