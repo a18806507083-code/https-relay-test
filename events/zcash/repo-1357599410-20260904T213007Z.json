@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T21:15:34Z",
+    "detected_at": "2026-09-04T21:30:07Z",
+    "display": "justneverminding/ZKSpin",
+    "key": "repo:1357599410",
+    "metadata": {
+      "description": "Zero Knowledge Roulette - a privacy focused roulette demo inspired by Zcash",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "justneverminding/ZKSpin",
+      "homepage": null,
+      "pushed_at": "2026-09-04T21:30:00Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "protocol/ZK"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1357599410,
+    "url": "https://github.com/justneverminding/ZKSpin"
+  },
+  "schema": "zcash-fast-event/1"
+}
