@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T20:14:44.837Z",
+    "detected_at": "2026-09-04T20:30:05Z",
+    "display": "57418 Introducing ZecGuard",
+    "key": "forum:57418",
+    "metadata": {
+      "category_id": 41,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "introducing-zecguard",
+      "title": "Introducing ZecGuard",
+      "topic_id": 57418
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57418,
+    "url": "https://forum.zcashcommunity.com/t/introducing-zecguard/57418"
+  },
+  "schema": "zcash-fast-event/1"
+}
