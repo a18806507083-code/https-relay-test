@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T18:44:57Z",
+    "description": "shellr.trade - the pack-opening front end. Next.js 16, wagmi, three.js.",
+    "detected_at": "2026-09-04T18:46:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "Shellr-Packs/shellr-web",
+    "homepage": "https://shellr.trade",
+    "html_url": "https://github.com/Shellr-Packs/shellr-web",
+    "pushed_at": "2026-09-04T18:46:02Z",
+    "repo_id": 1357487737,
+    "score": 13,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
