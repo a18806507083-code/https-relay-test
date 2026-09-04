@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T15:30:31Z",
+    "description": null,
+    "detected_at": "2026-09-04T15:43:25Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "daorcaderek-bit/slow-wealth-lab",
+    "homepage": null,
+    "html_url": "https://github.com/daorcaderek-bit/slow-wealth-lab",
+    "pushed_at": "2026-09-04T15:34:59Z",
+    "repo_id": 1357305900,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
