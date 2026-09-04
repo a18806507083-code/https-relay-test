@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T05:54:31Z",
+    "description": "Fail-closed single-sided PAIR/SPY range grid for Robinhood Chain",
+    "detected_at": "2026-09-04T05:58:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "MeiYanDong/robinhood-pair-grid",
+    "homepage": null,
+    "html_url": "https://github.com/MeiYanDong/robinhood-pair-grid",
+    "pushed_at": "2026-09-04T05:56:29Z",
+    "repo_id": 1356750466,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
