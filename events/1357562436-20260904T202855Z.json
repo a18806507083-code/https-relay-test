@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-04T20:19:52Z",
+    "description": "Autonomous On-Chain AI Agent Framework & Collateral Vault (100ms Arbitrum Orbit)",
+    "detected_at": "2026-09-04T20:28:55Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "Synxneuos/robyn-llm-framework",
+    "homepage": null,
+    "html_url": "https://github.com/Synxneuos/robyn-llm-framework",
+    "pushed_at": "2026-09-04T20:26:42Z",
+    "repo_id": 1357562436,
+    "score": 16,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
