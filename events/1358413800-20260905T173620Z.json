@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T17:29:45Z",
+    "description": "Midas Hookr proposals: five Uniswap v4 hooks, 175 tests, reviewer briefs. Unaudited, not deployed.",
+    "detected_at": "2026-09-05T17:36:20Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "thecvretoken/midas-hookr-proposals",
+    "homepage": null,
+    "html_url": "https://github.com/thecvretoken/midas-hookr-proposals",
+    "pushed_at": "2026-09-05T17:36:25Z",
+    "repo_id": 1358413800,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
