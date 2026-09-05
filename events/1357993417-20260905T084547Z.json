@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T08:44:18Z",
+    "description": "Ultra-Fast Android & iOS Mobile Trading App for Robinhood Chain (Arbitrum Orbit) with Pump.fun / Photon UI",
+    "detected_at": "2026-09-05T08:45:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "Synxneuos/robyn-mobile-app",
+    "homepage": null,
+    "html_url": "https://github.com/Synxneuos/robyn-mobile-app",
+    "pushed_at": "2026-09-05T08:44:28Z",
+    "repo_id": 1357993417,
+    "score": 10,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
