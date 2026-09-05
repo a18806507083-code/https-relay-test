@@ -1,0 +1,149 @@
+# Integrated five-minute discovery + conditional GitHub Copilot first-pass
+name: RH + Zcash Fast Sensors
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/fast-sensors.yml"
+      - "scripts/rh_fast_sensor.py"
+      - "scripts/rh_fast_analyzer.py"
+      - "scripts/rh_fast_analyzer_gate.py"
+      - "scripts/zcash_fast_sensor.py"
+      - "scripts/zcash_fast_analyzer.py"
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+  copilot-requests: write
+
+concurrency:
+  group: integrated-fast-sensors
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - name: Checkout shared sensor state
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Scan newly-created RH repositories
+        id: rh_sensor
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENSOR_REPO: ${{ github.repository }}
+          SENSOR_BASE_BRANCH: ${{ github.event.repository.default_branch }}
+          LOOKBACK_MINUTES: "120"
+          MAX_CANDIDATES: "10"
+        run: python3 scripts/rh_fast_sensor.py
+
+      - name: Scan Zcash fast sources
+        id: zcash_sensor
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENSOR_REPO: ${{ github.repository }}
+          SENSOR_BASE_BRANCH: ${{ github.event.repository.default_branch }}
+          ZCASH_STATE_PATH: state/zcash_seen.json
+          OVERLAP_MINUTES: "30"
+          RECOVERY_LOOKBACK_MINUTES: "1440"
+          MAX_CANDIDATES: "12"
+        run: python3 scripts/zcash_fast_sensor.py
+
+      - name: Persist both sensors' watermarks and dedupe state
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "fast-sensors[bot]"
+          git config user.email "fast-sensors[bot]@users.noreply.github.com"
+          for path in state/seen.json state/zcash_seen.json; do
+            if [ -f "$path" ]; then
+              git add "$path"
+            fi
+          done
+          if git diff --cached --quiet; then
+            echo "No sensor state change."
+            exit 0
+          fi
+          git commit -m "state: persist integrated fast-sensor watermarks [skip ci]"
+          git push
+
+      - name: Preflight pending candidates without AI
+        id: pending
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENSOR_REPO: ${{ github.repository }}
+          MAX_AI_CANDIDATES: "6"
+          RH_FAST_MAX_FILES: "24"
+          RH_FAST_MAX_FILE_BYTES: "70000"
+          RH_FAST_MAX_TOTAL_BYTES: "500000"
+          ZCASH_FAST_MAX_FILES: "28"
+          ZCASH_FAST_MAX_FILE_BYTES: "70000"
+          ZCASH_FAST_MAX_TOTAL_BYTES: "600000"
+        shell: bash
+        run: |
+          set -euo pipefail
+          rh_count=$(python3 scripts/rh_fast_analyzer_gate.py --pending-count | tail -n 1)
+          zcash_count=$(python3 scripts/zcash_fast_analyzer.py --pending-count | tail -n 1)
+          case "$rh_count:$zcash_count" in
+            (*[!0-9:]*|"":*) echo "Invalid pending counts: $rh_count:$zcash_count"; exit 1 ;;
+          esac
+          echo "rh_count=$rh_count" >> "$GITHUB_OUTPUT"
+          echo "zcash_count=$zcash_count" >> "$GITHUB_OUTPUT"
+          if [ "$rh_count" -gt 0 ] || [ "$zcash_count" -gt 0 ]; then
+            echo "has_analyzable=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_analyzable=false" >> "$GITHUB_OUTPUT"
+          fi
+          echo "Analyzable candidates: RH=$rh_count Zcash=$zcash_count"
+
+      - name: Set up Node for Copilot CLI
+        if: steps.pending.outputs.has_analyzable == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Copilot CLI once
+        if: steps.pending.outputs.has_analyzable == 'true'
+        run: npm install -g @github/copilot
+
+      - name: Deep-analyze pending RH candidates
+        if: steps.pending.outputs.rh_count != '0'
+        id: rh_analyzer
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENSOR_REPO: ${{ github.repository }}
+          MAX_AI_CANDIDATES: "5"
+          RH_FAST_MAX_FILES: "24"
+          RH_FAST_MAX_FILE_BYTES: "70000"
+          RH_FAST_MAX_TOTAL_BYTES: "500000"
+        run: python3 scripts/rh_fast_analyzer_gate.py
+
+      - name: Deep-analyze pending Zcash candidates
+        if: steps.pending.outputs.zcash_count != '0'
+        id: zcash_analyzer
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENSOR_REPO: ${{ github.repository }}
+          MAX_AI_CANDIDATES: "6"
+          ZCASH_FAST_MAX_FILES: "28"
+          ZCASH_FAST_MAX_FILE_BYTES: "70000"
+          ZCASH_FAST_MAX_TOTAL_BYTES: "600000"
+        run: python3 scripts/zcash_fast_analyzer.py
+
+      - name: Surface source or retryable AI failures
+        if: steps.rh_sensor.outcome == 'failure' || steps.zcash_sensor.outcome == 'failure' || steps.rh_analyzer.outcome == 'failure' || steps.zcash_analyzer.outcome == 'failure'
+        run: |
+          echo "A fast source or retryable AI first-pass failed. Successful state was preserved; eligible candidates retry up to three times."
+          exit 1

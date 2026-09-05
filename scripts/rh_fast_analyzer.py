@@ -80,23 +80,99 @@ def repo_owner() -> str:
     return SENSOR_REPO.split("/", 1)[0]
 
 
-def list_pending() -> list[dict]:
+RESULT_PREFIXES = ("[RH-FAST][PUSH] ", "[RH-FAST][WATCH] ", "[RH-FAST][SKIP] ")
+STOP_PREFIXES = ("[RH-FAST][ERROR] ", "[RH-FAST][INVALID] ")
+
+
+def candidate_name(pr: dict) -> str:
+    title = pr.get("title") or ""
+    for prefix in (PREFIX, *RESULT_PREFIXES, *STOP_PREFIXES):
+        if title.startswith(prefix):
+            return title[len(prefix):].strip()
+    return title.strip() or f"PR-{pr.get('number')}"
+
+
+def combined_pr_text(pr: dict) -> str:
+    comments = gh(f"/repos/{SENSOR_REPO}/issues/{pr['number']}/comments?per_page=100") or []
+    return (pr.get("body") or "") + "\n" + "\n".join((c.get("body") or "") for c in comments)
+
+
+def is_permanent_error(error: Exception) -> bool:
+    msg = str(error)
+    return (
+        "GitHub HTTP 404:" in msg
+        or "invalid candidate repository name" in msg
+    )
+
+
+def mark_stopped(pr: dict, status: str) -> None:
+    gh(
+        f"/repos/{SENSOR_REPO}/pulls/{pr['number']}",
+        "PATCH",
+        {"title": f"[RH-FAST][{status}] {candidate_name(pr)}"},
+    )
+
+
+def handle_failure(pr: dict, error: Exception) -> bool:
+    permanent = is_permanent_error(error)
+    attempt = combined_pr_text(pr).count(ERROR_MARKER) + 1
+    retry = not permanent and attempt < 3
+    disposition = (
+        "Permanent candidate error; this PR will be closed without retry."
+        if permanent
+        else (
+            f"Retryable AI first-pass error {attempt}/3; it will retry later."
+            if retry
+            else "Retryable AI first-pass error 3/3; retry limit reached and this PR will be closed."
+        )
+    )
+    comment(
+        int(pr["number"]),
+        f"{ERROR_MARKER}\n{disposition}\n\n`{str(error)[:3000]}`",
+    )
+    if not retry:
+        mark_stopped(pr, "INVALID" if permanent else "ERROR")
+        close_pr(int(pr["number"]))
+    return retry
+
+
+def preflight_candidate(pr: dict) -> None:
+    full_name = candidate_name(pr)
+    if not re.fullmatch(r"[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+", full_name):
+        raise RuntimeError(f"invalid candidate repository name: {full_name!r}")
+    with tempfile.TemporaryDirectory(prefix="rh-fast-preflight-") as td:
+        evidence = collect_candidate(full_name, Path(td))
+        if not evidence.get("selected_files"):
+            raise RuntimeError("no safe text/code files could be sampled")
+
+
+def list_pending(preflight: bool = False) -> list[dict]:
     pulls = gh(f"/repos/{SENSOR_REPO}/pulls?state=open&sort=created&direction=asc&per_page=100") or []
     out = []
     for pr in pulls:
         title = pr.get("title") or ""
+        if title.startswith(RESULT_PREFIXES) or title.startswith(STOP_PREFIXES):
+            close_pr(int(pr["number"]))
+            continue
         if not title.startswith(PREFIX):
             continue
-        comments = gh(f"/repos/{SENSOR_REPO}/issues/{pr['number']}/comments?per_page=100") or []
-        bodies = "\n".join((c.get("body") or "") for c in comments)
-        if MARKER in bodies:
+        combined = combined_pr_text(pr)
+        if MARKER in combined:
+            close_pr(int(pr["number"]))
             continue
-        error_count = bodies.count(ERROR_MARKER)
-        if error_count >= 3:
+        if combined.count(ERROR_MARKER) >= 3:
+            mark_stopped(pr, "ERROR")
+            close_pr(int(pr["number"]))
             continue
+        if preflight:
+            try:
+                preflight_candidate(pr)
+            except Exception as e:
+                handle_failure(pr, e)
+                print(f"RH_FAST_PREFLIGHT_REJECT pr={pr.get('number')}: {e}", file=sys.stderr)
+                continue
         out.append(pr)
     return out[:MAX_AI_CANDIDATES]
-
 
 def score_path(path: str, size: int) -> int:
     p = path.lower()
@@ -268,6 +344,7 @@ ANALYSIS STANDARD:
 - Website/X: include only if directly supported; otherwise unknown.
 - Do not treat a repository creation timestamp as proof the underlying project identity is new.
 - Cite concrete local file paths and commit SHAs when making important technical claims.
+- The **价值判断** section must use plain Chinese and exactly cover three things in three short sentences: one sentence explaining what the project is for; one sentence stating whether it is usable now, test/simulation only, or not deployed; one sentence explaining investor/user value and the single most important limitation. Do not pile up jargon, contract fields, parameters, or component lists. Do not imply that code, configuration, or a private-key interface means the product can already trade live or make money.
 
 OUTPUT IN CHINESE, compact and decision-oriented, at most about 1000 Chinese characters. Use this structure:
 **结论**
@@ -351,6 +428,10 @@ def main() -> int:
     if not TOKEN or not SENSOR_REPO:
         print("GITHUB_TOKEN and SENSOR_REPO are required", file=sys.stderr)
         return 2
+    if "--pending-count" in sys.argv:
+        print(len(list_pending(preflight=True)))
+        return 0
+
     pending = list_pending()
     if not pending:
         print("RH_FAST_AI_NONE")
@@ -361,12 +442,14 @@ def main() -> int:
         try:
             analyze_pr(pr)
         except Exception as e:
-            failures += 1
-            msg = str(e)[:3000]
+            retry = False
             try:
-                comment(int(pr["number"]), f"{ERROR_MARKER}\nRH Fast AI first-pass failed and will retry on a later run.\n\n`{msg}`")
-            except Exception:
-                pass
+                retry = handle_failure(pr, e)
+            except Exception as handling_error:
+                print(f"RH_FAST_ERROR_HANDLER_FAILED pr={pr.get('number')}: {handling_error}", file=sys.stderr)
+                retry = True
+            if retry:
+                failures += 1
             print(f"RH_FAST_AI_ERROR pr={pr.get('number')}: {e}", file=sys.stderr)
     return 1 if failures else 0
 

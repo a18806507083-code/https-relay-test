@@ -102,23 +102,106 @@ def parse_event(body: str) -> dict:
     return json.loads(m.group(1))
 
 
-def list_pending() -> list[dict]:
+RESULT_PREFIXES = ("[ZCASH-FAST][PUSH]", "[ZCASH-FAST][WATCH]", "[ZCASH-FAST][SKIP]")
+STOP_PREFIXES = ("[ZCASH-FAST][ERROR]", "[ZCASH-FAST][INVALID]")
+
+
+def candidate_name(pr: dict) -> str:
+    title = pr.get("title") or ""
+    return re.sub(r"^\[ZCASH-FAST\]\[[^]]+\]\s*", "", title).strip() or f"PR-{pr.get('number')}"
+
+
+def combined_pr_text(pr: dict) -> str:
+    comments = gh(f"/repos/{SENSOR_REPO}/issues/{pr['number']}/comments?per_page=100") or []
+    return (pr.get("body") or "") + "\n" + "\n".join((c.get("body") or "") for c in comments)
+
+
+def is_permanent_error(error: Exception) -> bool:
+    msg = str(error)
+    return (
+        "GitHub HTTP 404:" in msg
+        or "HTTP Error 404" in msg
+        or "missing ZCASH_FAST_EVENT metadata" in msg
+        or "unsupported source:" in msg
+    )
+
+
+def mark_stopped(pr: dict, status: str) -> None:
+    gh(
+        f"/repos/{SENSOR_REPO}/pulls/{pr['number']}",
+        "PATCH",
+        {"title": f"[ZCASH-FAST][{status}] {candidate_name(pr)}"},
+    )
+
+
+def handle_failure(pr: dict, error: Exception) -> bool:
+    permanent = is_permanent_error(error)
+    attempt = combined_pr_text(pr).count(ERROR_MARKER) + 1
+    retry = not permanent and attempt < 3
+    disposition = (
+        "Permanent candidate error; this PR will be closed without retry."
+        if permanent
+        else (
+            f"Retryable AI first-pass error {attempt}/3; it will retry later."
+            if retry
+            else "Retryable AI first-pass error 3/3; retry limit reached and this PR will be closed."
+        )
+    )
+    append_body(
+        int(pr["number"]),
+        f"{ERROR_MARKER}\n{disposition}\n\n`{str(error)[:3000]}`",
+    )
+    if not retry:
+        mark_stopped(pr, "INVALID" if permanent else "ERROR")
+        close_pr(int(pr["number"]))
+    return retry
+
+
+def preflight_candidate(pr: dict) -> None:
+    event = parse_event(pr.get("body") or "")
+    with tempfile.TemporaryDirectory(prefix="zcash-fast-preflight-") as td:
+        root = Path(td)
+        collect_candidate(event, root)
+        if event.get("source") in {"GITHUB_NEW_REPO", "FIXED_ORG_NEW_REPO"}:
+            evidence_path = root / "__REPO_EVIDENCE__.json"
+            evidence = json.loads(evidence_path.read_text(encoding="utf-8"))
+            if not evidence.get("selected_files"):
+                raise RuntimeError("no safe text/code files could be sampled")
+        elif event.get("source") == "ZCG_NEW_ISSUE":
+            if not (root / "source_zcg.md").read_text(encoding="utf-8").strip():
+                raise RuntimeError("ZCG issue has no analyzable content")
+        elif event.get("source") == "FORUM_NEW_TOPIC":
+            if not (root / "source_forum.md").read_text(encoding="utf-8").strip():
+                raise RuntimeError("Forum topic has no analyzable content")
+
+
+def list_pending(preflight: bool = False) -> list[dict]:
     pulls = gh(f"/repos/{SENSOR_REPO}/pulls?state=open&sort=created&direction=asc&per_page=100") or []
     out = []
     for pr in pulls:
         title = pr.get("title") or ""
+        if title.startswith(RESULT_PREFIXES) or title.startswith(STOP_PREFIXES):
+            close_pr(int(pr["number"]))
+            continue
         if not PENDING_RX.match(title):
             continue
-        body = pr.get("body") or ""
-        comments = gh(f"/repos/{SENSOR_REPO}/issues/{pr['number']}/comments?per_page=100") or []
-        combined = body + "\n" + "\n".join((c.get("body") or "") for c in comments)
+        combined = combined_pr_text(pr)
         if MARKER in combined:
+            close_pr(int(pr["number"]))
             continue
         if combined.count(ERROR_MARKER) >= 3:
+            mark_stopped(pr, "ERROR")
+            close_pr(int(pr["number"]))
             continue
+        if preflight:
+            try:
+                preflight_candidate(pr)
+            except Exception as e:
+                handle_failure(pr, e)
+                print(f"ZCASH_FAST_PREFLIGHT_REJECT pr={pr.get('number')}: {e}", file=sys.stderr)
+                continue
         out.append(pr)
     return out[:MAX_AI_CANDIDATES]
-
 
 def score_path(path: str, size: int) -> int:
     p = path.lower()
@@ -375,6 +458,7 @@ ANALYSIS STANDARD:
 - Website and X: include only if directly supported; otherwise unknown.
 - Token output must be exactly one of: `CA: <address>` only when an official token address is directly verifiable in evidence; `没发币` only when evidence explicitly confirms no project token; otherwise `未知`.
 - Keep investor usefulness in mind: explain whether there is any participation surface (product, points, token/NFT, grant-backed build, testnet/mainnet), but do not invent one.
+- The **价值判断** section must use plain Chinese and exactly cover three things in three short sentences: one sentence explaining what the project is for; one sentence stating whether it is usable now, test/simulation only, or not deployed; one sentence explaining investor/user value and the single most important limitation. Do not pile up jargon, contract fields, parameters, or component lists. Do not imply that code, configuration, or a private-key interface means the product can already trade live or make money.
 
 DECISION:
 - PUSH = genuinely new/meaningful Zcash project or major technical event with concrete technical/product evidence and clear research value.
@@ -492,6 +576,10 @@ def main() -> int:
     if not TOKEN or not SENSOR_REPO:
         print("GITHUB_TOKEN and SENSOR_REPO are required", file=sys.stderr)
         return 2
+    if "--pending-count" in sys.argv:
+        print(len(list_pending(preflight=True)))
+        return 0
+
     pending = list_pending()
     if not pending:
         print("ZCASH_FAST_AI_NONE")
@@ -502,12 +590,14 @@ def main() -> int:
         try:
             analyze_pr(pr)
         except Exception as e:
-            failures += 1
-            msg = str(e)[:3000]
+            retry = False
             try:
-                append_body(int(pr["number"]), f"{ERROR_MARKER}\nZcash Fast AI first-pass failed and will retry on a later run.\n\n`{msg}`")
-            except Exception:
-                pass
+                retry = handle_failure(pr, e)
+            except Exception as handling_error:
+                print(f"ZCASH_FAST_ERROR_HANDLER_FAILED pr={pr.get('number')}: {handling_error}", file=sys.stderr)
+                retry = True
+            if retry:
+                failures += 1
             print(f"ZCASH_FAST_AI_ERROR pr={pr.get('number')}: {e}", file=sys.stderr)
     return 1 if failures else 0
 
