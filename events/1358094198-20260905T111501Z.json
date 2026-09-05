@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T10:50:53Z",
+    "description": "An app that hints for early alpha on RH",
+    "detected_at": "2026-09-05T11:15:01Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "lovawin/RH-alpha-Scanner",
+    "homepage": null,
+    "html_url": "https://github.com/lovawin/RH-alpha-Scanner",
+    "pushed_at": "2026-09-05T11:03:38Z",
+    "repo_id": 1358094198,
+    "score": 10,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
