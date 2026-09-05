@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T18:26:32Z",
+    "description": null,
+    "detected_at": "2026-09-05T18:40:51Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "robinshareapp/robinshare",
+    "homepage": null,
+    "html_url": "https://github.com/robinshareapp/robinshare",
+    "pushed_at": "2026-09-05T18:32:15Z",
+    "repo_id": 1358457418,
+    "score": 13,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
