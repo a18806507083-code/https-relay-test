@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T23:52:14Z",
+    "description": "Bitbank V3 launchpad development contracts: fixed protocol allocation, immutable collaborator splits and locked liquidity.",
+    "detected_at": "2026-09-05T23:53:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "BitBanknz/bitbankcontracts",
+    "homepage": null,
+    "html_url": "https://github.com/BitBanknz/bitbankcontracts",
+    "pushed_at": "2026-09-05T23:52:39Z",
+    "repo_id": 1358644341,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
