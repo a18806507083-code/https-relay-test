@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T20:28:51Z",
+    "description": null,
+    "detected_at": "2026-09-05T20:35:59Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "PumpLandSOL/divi",
+    "homepage": null,
+    "html_url": "https://github.com/PumpLandSOL/divi",
+    "pushed_at": "2026-09-05T20:28:55Z",
+    "repo_id": 1358538645,
+    "score": 16,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
