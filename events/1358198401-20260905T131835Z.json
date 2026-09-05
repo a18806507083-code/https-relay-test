@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T13:04:01Z",
+    "description": null,
+    "detected_at": "2026-09-05T13:18:35Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "RobicBobic/archer",
+    "homepage": null,
+    "html_url": "https://github.com/RobicBobic/archer",
+    "pushed_at": "2026-09-05T13:08:02Z",
+    "repo_id": 1358198401,
+    "score": 18,
+    "tech_signals": [
+      "Hook",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
