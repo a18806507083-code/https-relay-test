@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T07:01:14Z",
+    "description": "Premium and discount readout for Stock Tokens on Robinhood Chain \u2014 every figure verifiable",
+    "detected_at": "2026-09-05T07:03:25Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "basisinvestments/basis",
+    "homepage": "https://melodic-syrniki-2d566a.netlify.app",
+    "html_url": "https://github.com/basisinvestments/basis",
+    "pushed_at": "2026-09-05T07:02:33Z",
+    "repo_id": 1357917659,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
