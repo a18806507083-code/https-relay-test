@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T21:46:39Z",
+    "description": null,
+    "detected_at": "2026-09-05T21:54:15Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "travisiol/spendrrr",
+    "homepage": "https://spendrrr.vercel.app",
+    "html_url": "https://github.com/travisiol/spendrrr",
+    "pushed_at": "2026-09-05T21:46:48Z",
+    "repo_id": 1358582868,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
