@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T14:40:50Z",
+    "description": null,
+    "detected_at": "2026-09-05T14:48:38Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH testnet 46630"
+    ],
+    "full_name": "HeavenpadFun/Heavenpad",
+    "homepage": null,
+    "html_url": "https://github.com/HeavenpadFun/Heavenpad",
+    "pushed_at": "2026-09-05T14:41:05Z",
+    "repo_id": 1358283756,
+    "score": 18,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
