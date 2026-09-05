@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T00:10:26.874Z",
+    "detected_at": "2026-09-05T00:11:48Z",
+    "display": "57427 Congratulations, Satoshi Nakamoto and Zooko!",
+    "key": "forum:57427",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "congratulations-satoshi-nakamoto-and-zooko",
+      "title": "Congratulations, Satoshi Nakamoto and Zooko!",
+      "topic_id": 57427
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57427,
+    "url": "https://forum.zcashcommunity.com/t/congratulations-satoshi-nakamoto-and-zooko/57427"
+  },
+  "schema": "zcash-fast-event/1"
+}
