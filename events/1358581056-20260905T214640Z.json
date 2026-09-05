@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T21:43:07Z",
+    "description": "Research lab: multiple LLM-backed trading agents paper-trade live memecoins across Solana and Robinhood Chain with self-learning",
+    "detected_at": "2026-09-05T21:46:40Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Charafeddine26/llm-trading-agent-arena",
+    "homepage": null,
+    "html_url": "https://github.com/Charafeddine26/llm-trading-agent-arena",
+    "pushed_at": "2026-09-05T21:43:12Z",
+    "repo_id": 1358581056,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
