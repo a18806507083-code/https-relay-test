@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T02:32:17Z",
+    "description": null,
+    "detected_at": "2026-09-05T02:57:04Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "maladeza315-wq/umbrella-desk-allocator",
+    "homepage": null,
+    "html_url": "https://github.com/maladeza315-wq/umbrella-desk-allocator",
+    "pushed_at": "2026-09-05T02:55:30Z",
+    "repo_id": 1357762052,
+    "score": 9,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
