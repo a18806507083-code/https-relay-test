@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T15:27:02Z",
+    "description": null,
+    "detected_at": "2026-09-05T15:39:41Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "jincheng828/SmartRouter",
+    "homepage": null,
+    "html_url": "https://github.com/jincheng828/SmartRouter",
+    "pushed_at": "2026-09-05T15:32:02Z",
+    "repo_id": 1358319164,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
