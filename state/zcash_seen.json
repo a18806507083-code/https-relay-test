@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-05T11:29:18Z",
+  "last_run_at": "2026-09-05T11:38:28Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-05T10:58:41Z",
+      "cutoff": "2026-09-05T10:59:18Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-05T10:58:41Z",
+      "cutoff": "2026-09-05T10:59:18Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
       "cutoff": "2026-09-05T10:58:41Z",
-      "error": "GitHub HTTP 403: https://api.github.com/search/repositories?q=%22zcash_primitives%22+in%3Areadme+created%3A%3E%3D2026-09-05+fork%3Afalse+archived%3Afalse&sort=updated&order=desc&per_page=50: {\n\t\"message\": \"API rate limit exceeded for installation. If you reach out to GitHub Support for help, please include the request ID 648E:320462:1D19F0:5DFA58:6A9BFD0F and timestamp 2026-09-05 11:29:19 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https:\\/\\/docs.github.com\\/en\\/site-policy\\/github-terms\\/github-terms-of-service)\",\n\t\"documentation_url\": \"https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting\",\n\t\"status\": \"403\"\n}\n",
-      "status": "FAIL"
+      "matches": 0,
+      "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-05T10:58:41Z",
+      "cutoff": "2026-09-05T10:59:18Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -115,9 +115,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-05T11:29:18Z",
-    "forum": "2026-09-05T11:29:18Z",
-    "github": "2026-09-05T11:28:41Z",
-    "zcg": "2026-09-05T11:29:18Z"
+    "fixed_orgs": "2026-09-05T11:38:28Z",
+    "forum": "2026-09-05T11:38:28Z",
+    "github": "2026-09-05T11:38:28Z",
+    "zcg": "2026-09-05T11:38:28Z"
   }
 }
