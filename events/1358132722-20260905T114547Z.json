@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T11:43:13Z",
+    "description": null,
+    "detected_at": "2026-09-05T11:45:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "Trixen-AI/EchoHood",
+    "homepage": null,
+    "html_url": "https://github.com/Trixen-AI/EchoHood",
+    "pushed_at": "2026-09-05T11:45:26Z",
+    "repo_id": 1358132722,
+    "score": 13,
+    "tech_signals": [
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
