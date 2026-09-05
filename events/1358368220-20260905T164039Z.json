@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T16:31:51Z",
+    "description": "Token Launcher DApp for Robinhood Chain - Next.js 14, wagmi, Tailwind CSS",
+    "detected_at": "2026-09-05T16:40:39Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "swishh-eth/AURA",
+    "homepage": "https://aura-six-gilt.vercel.app",
+    "html_url": "https://github.com/swishh-eth/AURA",
+    "pushed_at": "2026-09-05T16:31:56Z",
+    "repo_id": 1358368220,
+    "score": 8,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
