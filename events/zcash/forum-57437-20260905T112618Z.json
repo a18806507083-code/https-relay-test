@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T11:25:51.929Z",
+    "detected_at": "2026-09-05T11:26:18Z",
+    "display": "57437 Zcash East Africa @ Africa Blockchain Festival 2026",
+    "key": "forum:57437",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-east-africa-africa-blockchain-festival-2026",
+      "title": "Zcash East Africa @ Africa Blockchain Festival 2026",
+      "topic_id": 57437
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57437,
+    "url": "https://forum.zcashcommunity.com/t/zcash-east-africa-africa-blockchain-festival-2026/57437"
+  },
+  "schema": "zcash-fast-event/1"
+}
