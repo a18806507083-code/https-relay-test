@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T11:32:19Z",
+    "detected_at": "2026-09-05T11:45:54Z",
+    "display": "LuciusArameusSeneca/braintrust",
+    "key": "repo:1358124721",
+    "metadata": {
+      "description": "Automatisches Archiv aller Stufe-3-KI-Auswertungen zu GitHub-Auftraegen (CryptoJobHunter-Pipeline) - unverifizierte Rohausgaben, siehe README.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "LuciusArameusSeneca/braintrust",
+      "homepage": null,
+      "pushed_at": "2026-09-05T11:40:26Z",
+      "tech_signals": [
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1358124721,
+    "url": "https://github.com/LuciusArameusSeneca/braintrust"
+  },
+  "schema": "zcash-fast-event/1"
+}
