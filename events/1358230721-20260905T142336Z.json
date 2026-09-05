@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T13:39:59Z",
+    "description": "Robinhood Chain stock-token Aomi apps",
+    "detected_at": "2026-09-05T14:23:36Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "aomi-labs/hoodit-apps",
+    "homepage": null,
+    "html_url": "https://github.com/aomi-labs/hoodit-apps",
+    "pushed_at": "2026-09-05T14:18:50Z",
+    "repo_id": 1358230721,
+    "score": 5,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
