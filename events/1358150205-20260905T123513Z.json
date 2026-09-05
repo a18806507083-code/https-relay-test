@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T12:07:26Z",
+    "description": null,
+    "detected_at": "2026-09-05T12:35:13Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "tuanphan2448-hash/memecoin-scanner",
+    "homepage": null,
+    "html_url": "https://github.com/tuanphan2448-hash/memecoin-scanner",
+    "pushed_at": "2026-09-05T12:33:34Z",
+    "repo_id": 1358150205,
+    "score": 10,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
