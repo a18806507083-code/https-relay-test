@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T15:03:45Z",
+    "description": "An app the tracks RH alpha ",
+    "detected_at": "2026-09-05T15:19:14Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "lovawin/RH-alpha-scanner-",
+    "homepage": null,
+    "html_url": "https://github.com/lovawin/RH-alpha-scanner-",
+    "pushed_at": "2026-09-05T15:13:26Z",
+    "repo_id": 1358301550,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
