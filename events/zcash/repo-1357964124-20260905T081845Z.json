@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T08:06:28Z",
+    "detected_at": "2026-09-05T08:18:45Z",
+    "display": "zcash-team/zecwallet-lite",
+    "key": "repo:1357964124",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "zcash-team/zecwallet-lite",
+      "homepage": null,
+      "pushed_at": "2026-09-05T08:07:26Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1357964124,
+    "url": "https://github.com/zcash-team/zecwallet-lite"
+  },
+  "schema": "zcash-fast-event/1"
+}
