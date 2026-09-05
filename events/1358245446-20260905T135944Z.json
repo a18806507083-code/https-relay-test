@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T13:58:15Z",
+    "description": "Robo Hood ($ROBOHOOD) on Robinhood Chain. The AI is the dev.",
+    "detected_at": "2026-09-05T13:59:44Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "webfarm-rad/robohood",
+    "homepage": null,
+    "html_url": "https://github.com/webfarm-rad/robohood",
+    "pushed_at": "2026-09-05T13:59:00Z",
+    "repo_id": 1358245446,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
