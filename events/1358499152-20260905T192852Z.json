@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T19:26:32Z",
+    "description": "The Missing Point Protocol on Robinhood Chain and Pons v2",
+    "detected_at": "2026-09-05T19:28:52Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "PointDrh/PointD",
+    "homepage": null,
+    "html_url": "https://github.com/PointDrh/PointD",
+    "pushed_at": "2026-09-05T19:26:40Z",
+    "repo_id": 1358499152,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
