@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T22:50:35Z",
+    "description": null,
+    "detected_at": "2026-09-05T23:20:02Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "JeanBaptisteDurand/crypto_test",
+    "homepage": null,
+    "html_url": "https://github.com/JeanBaptisteDurand/crypto_test",
+    "pushed_at": "2026-09-05T23:16:55Z",
+    "repo_id": 1358615054,
+    "score": 11,
+    "tech_signals": [
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
