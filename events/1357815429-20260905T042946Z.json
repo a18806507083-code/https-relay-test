@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T04:11:58Z",
+    "description": null,
+    "detected_at": "2026-09-05T04:29:46Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "guppi21/FALCONMINTS",
+    "homepage": null,
+    "html_url": "https://github.com/guppi21/FALCONMINTS",
+    "pushed_at": "2026-09-05T04:29:14Z",
+    "repo_id": 1357815429,
+    "score": 13,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
