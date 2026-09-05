@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T04:20:43Z",
+    "description": "Float documentation: tokenized equities backed one for one by real custodied shares, on Robinhood Chain 4663.",
+    "detected_at": "2026-09-05T04:29:46Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "cocainebit/float-docs",
+    "homepage": null,
+    "html_url": "https://github.com/cocainebit/float-docs",
+    "pushed_at": "2026-09-05T04:20:46Z",
+    "repo_id": 1357819964,
+    "score": 16,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
