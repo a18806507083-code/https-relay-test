@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T21:44:33Z",
+    "description": null,
+    "detected_at": "2026-09-05T22:03:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "boxiwang/Alliance",
+    "homepage": null,
+    "html_url": "https://github.com/boxiwang/Alliance",
+    "pushed_at": "2026-09-05T21:56:23Z",
+    "repo_id": 1358581757,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
