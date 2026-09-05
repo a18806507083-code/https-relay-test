@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T22:13:44Z",
+    "description": "Orynth Robinhood Chain smart contracts, deployment metadata, and reproducible verification inputs",
+    "detected_at": "2026-09-05T22:16:43Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "gianniskenzi/orynth-contracts",
+    "homepage": null,
+    "html_url": "https://github.com/gianniskenzi/orynth-contracts",
+    "pushed_at": "2026-09-05T22:13:49Z",
+    "repo_id": 1358597337,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
