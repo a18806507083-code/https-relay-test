@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T22:13:27Z",
+    "detected_at": "2026-09-05T22:16:59Z",
+    "display": "justneverminding/ZecHolderMap",
+    "key": "repo:1358597204",
+    "metadata": {
+      "description": " A privacy-first world map showing where Zcash holders are — without ever revealing who they are.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "justneverminding/ZecHolderMap",
+      "homepage": null,
+      "pushed_at": "2026-09-05T22:15:33Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1358597204,
+    "url": "https://github.com/justneverminding/ZecHolderMap"
+  },
+  "schema": "zcash-fast-event/1"
+}
