@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T04:17:39Z",
+    "description": "RH Burner OS \u2014 Burner hardware wallet for Robinhood Chain, with WalletConnect for Safe.global",
+    "detected_at": "2026-09-05T04:39:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "z80dev/burner",
+    "homepage": null,
+    "html_url": "https://github.com/z80dev/burner",
+    "pushed_at": "2026-09-05T04:38:31Z",
+    "repo_id": 1357818433,
+    "score": 20,
+    "tech_signals": [
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
