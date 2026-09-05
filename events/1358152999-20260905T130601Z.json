@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T12:10:54Z",
+    "description": null,
+    "detected_at": "2026-09-05T13:06:01Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "fletch-now/fletch-registry-data",
+    "homepage": null,
+    "html_url": "https://github.com/fletch-now/fletch-registry-data",
+    "pushed_at": "2026-09-05T13:00:46Z",
+    "repo_id": 1358152999,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
