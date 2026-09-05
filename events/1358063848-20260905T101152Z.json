@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T10:09:49Z",
+    "description": null,
+    "detected_at": "2026-09-05T10:11:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "spike-soc/pons-launch",
+    "homepage": null,
+    "html_url": "https://github.com/spike-soc/pons-launch",
+    "pushed_at": "2026-09-05T10:11:28Z",
+    "repo_id": 1358063848,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
