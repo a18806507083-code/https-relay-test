@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T02:44:42Z",
+    "detected_at": "2026-09-05T02:54:46Z",
+    "display": "Tarzelf/zec-watch",
+    "key": "repo:1357768248",
+    "metadata": {
+      "description": "ZEC Watch — live DAT terminal + one-click swap into Zcash via NEAR Intents",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Tarzelf/zec-watch",
+      "homepage": null,
+      "pushed_at": "2026-09-05T02:46:04Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1357768248,
+    "url": "https://github.com/Tarzelf/zec-watch"
+  },
+  "schema": "zcash-fast-event/1"
+}
