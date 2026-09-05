@@ -94,9 +94,10 @@ jobs:
           set -euo pipefail
           rh_count=$(python3 scripts/rh_fast_analyzer_gate.py --pending-count | tail -n 1)
           zcash_count=$(python3 scripts/zcash_fast_analyzer.py --pending-count | tail -n 1)
-          case "$rh_count:$zcash_count" in
-            (*[!0-9:]*|"":*) echo "Invalid pending counts: $rh_count:$zcash_count"; exit 1 ;;
-          esac
+          if ! [[ "$rh_count" =~ ^[0-9]+$ ]] || ! [[ "$zcash_count" =~ ^[0-9]+$ ]]; then
+            echo "Invalid pending counts: $rh_count:$zcash_count"
+            exit 1
+          fi
           echo "rh_count=$rh_count" >> "$GITHUB_OUTPUT"
           echo "zcash_count=$zcash_count" >> "$GITHUB_OUTPUT"
           if [ "$rh_count" -gt 0 ] || [ "$zcash_count" -gt 0 ]; then
