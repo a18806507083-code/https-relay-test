@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T14:36:13Z",
+    "description": "Delivery Guy ($DELIVERY) on Robinhood Chain. Static site: HTML, CSS, vanilla JS.",
+    "detected_at": "2026-09-05T14:40:58Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "eliaskosho/delivery-guy",
+    "homepage": "https://delivery-guy-ten.vercel.app",
+    "html_url": "https://github.com/eliaskosho/delivery-guy",
+    "pushed_at": "2026-09-05T14:36:18Z",
+    "repo_id": 1358279322,
+    "score": 18,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
