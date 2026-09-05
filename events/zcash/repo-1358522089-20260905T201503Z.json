@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T20:03:56Z",
+    "detected_at": "2026-09-05T20:15:03Z",
+    "display": "ztsalexey/wallet-privacy-testkit",
+    "key": "repo:1358522089",
+    "metadata": {
+      "description": "Adversarial TLS metadata and transaction-delivery testing for Zcash wallets. Independent research preview.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "ztsalexey/wallet-privacy-testkit",
+      "homepage": null,
+      "pushed_at": "2026-09-05T20:07:33Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1358522089,
+    "url": "https://github.com/ztsalexey/wallet-privacy-testkit"
+  },
+  "schema": "zcash-fast-event/1"
+}
