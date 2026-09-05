@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T19:57:43Z",
+    "description": null,
+    "detected_at": "2026-09-05T20:00:21Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH testnet 46630"
+    ],
+    "full_name": "efsanedizzy/wick5market",
+    "homepage": null,
+    "html_url": "https://github.com/efsanedizzy/wick5market",
+    "pushed_at": "2026-09-05T19:59:17Z",
+    "repo_id": 1358518390,
+    "score": 15,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
