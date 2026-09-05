@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T20:27:47Z",
+    "detected_at": "2026-09-05T20:36:11Z",
+    "display": "cyb3r4rmy-droid/walletaid-v2",
+    "key": "repo:1358537937",
+    "metadata": {
+      "description": "Time is Money and use it wisely",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "cyb3r4rmy-droid/walletaid-v2",
+      "homepage": null,
+      "pushed_at": "2026-09-05T20:31:54Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1358537937,
+    "url": "https://github.com/cyb3r4rmy-droid/walletaid-v2"
+  },
+  "schema": "zcash-fast-event/1"
+}
