@@ -580,6 +580,26 @@
       "project": "repo:meiyandong/robinhood-pair-liquidity",
       "all_missing": false,
       "parser_version": 3
+    },
+    "173": {
+      "project": "repo:lovawin/rh-alpha-scanner",
+      "all_missing": true,
+      "parser_version": 3
+    },
+    "275": {
+      "project": "repo:skewliq/rails",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "283": {
+      "project": "repo:fluixoo/hexley",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "285": {
+      "project": "repo:zostaff/agent-arena",
+      "all_missing": false,
+      "parser_version": 3
     }
   },
   "projects": {
@@ -3890,9 +3910,57 @@
       "first_report_sha256": "2f4717a67a755d4136e9bf5eb67f2b03b791dba3dcd8054c4ed5a28d71aa9237",
       "files": {},
       "next_check_at": null
+    },
+    "repo:lovawin/rh-alpha-scanner": {
+      "source": "repo",
+      "repo": "lovawin/RH-alpha-Scanner",
+      "name": "lovawin/RH-alpha-Scanner",
+      "pr": 173,
+      "status": "tracking",
+      "registered_at": "2026-09-06T14:08:15.280870+00:00",
+      "first_report_sha256": "0b76a7de777f4b2e2246cda1d805e8f2b2710e7d1fe7d836a381ca82d6c96073",
+      "files": {},
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:08:16.408705+00:00",
+      "last_error": "property 'reason' of 'HTTPError' object has no setter"
+    },
+    "repo:skewliq/rails": {
+      "source": "repo",
+      "repo": "skewliq/rails",
+      "name": "skewliq/rails",
+      "pr": 275,
+      "status": "excluded",
+      "registered_at": "2026-09-06T14:08:16.018524+00:00",
+      "first_report_sha256": "f8bf50836e280c2796363d7e34bc55b00f24b32b3b4922b39c084f7af52bee1b",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:fluixoo/hexley": {
+      "source": "repo",
+      "repo": "fluixoo/hexley",
+      "name": "fluixoo/hexley",
+      "pr": 283,
+      "status": "excluded",
+      "registered_at": "2026-09-06T14:08:16.196103+00:00",
+      "first_report_sha256": "8c7668502feb54340ca7fbd6eb63f97d702b31608320ffa038d76f9a52960016",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:zostaff/agent-arena": {
+      "source": "repo",
+      "repo": "zostaff/agent-arena",
+      "name": "zostaff/agent-arena",
+      "pr": 285,
+      "status": "excluded",
+      "registered_at": "2026-09-06T14:08:16.407951+00:00",
+      "first_report_sha256": "b2fe0b774f4d85f2f2a9615c63dd479eb5cf21099a404897ce7b25232eaa6b8f",
+      "files": {},
+      "next_check_at": null
     }
   },
-  "last_collect_at": "2026-09-06T14:06:03.005949+00:00",
-  "last_errors": [],
+  "last_collect_at": "2026-09-06T14:08:16.532677+00:00",
+  "last_errors": [
+    "repo:lovawin/rh-alpha-scanner: property 'reason' of 'HTTPError' object has no setter"
+  ],
   "last_verify_errors": []
 }
