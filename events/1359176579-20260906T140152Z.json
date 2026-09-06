@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T13:39:24Z",
+    "description": "Live game index for Robinhood Chain. Ranks the build before it prices the token. REST API + MCP server.",
+    "detected_at": "2026-09-06T14:01:52Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "SarutobiSasuke8/greenwood",
+    "homepage": null,
+    "html_url": "https://github.com/SarutobiSasuke8/greenwood",
+    "pushed_at": "2026-09-06T13:39:48Z",
+    "repo_id": 1359176579,
+    "score": 14,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
