@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T12:49:00Z",
+    "detected_at": "2026-09-06T14:02:22Z",
+    "display": "bajpai244/zcash-price-omarchy-plugin",
+    "key": "repo:1359137258",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "bajpai244/zcash-price-omarchy-plugin",
+      "homepage": null,
+      "pushed_at": "2026-09-06T13:00:07Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1359137258,
+    "url": "https://github.com/bajpai244/zcash-price-omarchy-plugin"
+  },
+  "schema": "zcash-fast-event/1"
+}
