@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T13:49:23Z",
+    "description": null,
+    "detected_at": "2026-09-06T15:03:08Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "gytfel/mem-robinhood-and-bnb",
+    "homepage": null,
+    "html_url": "https://github.com/gytfel/mem-robinhood-and-bnb",
+    "pushed_at": "2026-09-06T14:44:15Z",
+    "repo_id": 1359184523,
+    "score": 5,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
