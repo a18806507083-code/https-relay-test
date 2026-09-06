@@ -4,522 +4,582 @@
     "12": {
       "project": "repo:runesleo/meme-cohort-observatory",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "13": {
       "project": "repo:realdeanai/golden--trader",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "15": {
       "project": "repo:voxelithicag/mcp",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "17": {
       "project": "repo:reddagentrh/redd",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "19": {
       "project": "repo:rizkijack/gashood",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "20": {
       "project": "repo:denomhq/denom",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "22": {
       "project": "repo:hoodvault/hoodvault-api",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "23": {
       "project": "repo:hoodvault/hoodvault-docs",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "24": {
       "project": "repo:hoodvault/hoodvault-sdk",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "26": {
       "project": "repo:travisiol/hedge",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "28": {
       "project": "repo:phosphenq/bodkin",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "33": {
       "project": "repo:snobistisch/stock-lp-radar",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "36": {
       "project": "repo:nirholas/loxley",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "37": {
       "project": "repo:topoliquidity/topo-liquidity",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "41": {
       "project": "repo:vern-sh/vernagent",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "43": {
       "project": "repo:openponspro/openpons",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "44": {
       "project": "repo:pumplandsol/mark",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "46": {
       "project": "repo:ali213112/agentic-on-bot-chain-",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "47": {
       "project": "repo:qorbquant/fomo-robinhood-copy",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "50": {
       "project": "repo:dancingcowboy/weald-protocol",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "51": {
       "project": "repo:stock-pack/stock-pack",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "55": {
       "project": "repo:bollardxyz/bollard",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "59": {
       "project": "repo:heirlabs/famcash-contracts",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "62": {
       "project": "repo:nirholas/quiver",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "63": {
       "project": "repo:programmablehq/programmable-v4-token",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "66": {
       "project": "repo:jermwang/rh-incinerator",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "67": {
       "project": "repo:gabrielfrneto/stockcity-mcp",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "68": {
       "project": "repo:akumathedev/observer-radar",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "69": {
       "project": "repo:bradford5942-debug/heat-protocol",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "70": {
       "project": "repo:dirkdiggler1026/executability-report",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "72": {
       "project": "repo:clankrace/clankrace-v4",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "74": {
       "project": "repo:meiyandong/robinhood-pair-grid",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "75": {
       "project": "repo:meiyandong/manga-chan-atomic-arbitrage",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "76": {
       "project": "repo:nirholas/sherwood",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "78": {
       "project": "repo:kealabama/midcap-random-index",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "80": {
       "project": "repo:monkiilabs/monkiilabsapp",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "84": {
       "project": "repo:leveradotfun/levera-dapp",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "86": {
       "project": "repo:flock-io/flock-v4-hook",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "87": {
       "project": "repo:clawplaza/meowdinger-dev",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "89": {
       "project": "repo:yafieae/morpho-toolkit",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "92": {
       "project": "repo:levu-lol/levu",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "94": {
       "project": "repo:thesoloycoder/omnilauncher",
-      "all_missing": false,
-      "parser_version": 2
+      "all_missing": true,
+      "parser_version": 3
     },
     "95": {
       "project": "repo:shehzadashrafai/robinhood-alpha-intelligence",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "98": {
       "project": "repo:s4pay/payhole",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "100": {
       "project": "repo:dandamaev1111/equity-lens",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "102": {
       "project": "repo:fiduciaindex/fiducia",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "108": {
       "project": "repo:bruisedhacksa/pulse",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "110": {
       "project": "repo:florityswap/meridian-robinhood",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "112": {
       "project": "repo:florityswap/unicrit",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "115": {
       "project": "repo:catrisxyz/catris",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "116": {
       "project": "repo:hanisyed/robinhood-tool",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "117": {
       "project": "repo:arcafi/arca",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "121": {
       "project": "repo:memeticstate/ms-v1",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "123": {
       "project": "repo:shellr-packs/shellr-web",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "124": {
       "project": "repo:shellr-packs/shellr-contracts",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "126": {
       "project": "repo:jermwang/airtime",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "127": {
       "project": "repo:nar-123/lpbot-new",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "128": {
       "project": "repo:shellr-packs/shellr-stock-packs",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "129": {
       "project": "repo:notesystems/note-systems",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "130": {
       "project": "repo:arxumed372/lp-evm-rh",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "131": {
       "project": "repo:altarprotocol/altarprotocol",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "132": {
       "project": "repo:crispjb-ui/crypto-assist",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "136": {
       "project": "repo:galaxydestroyer0000/button",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "143": {
       "project": "repo:tickrmarkets/tickr-markets",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "148": {
       "project": "repo:novenrizkia856-ui/roxy-contract",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "150": {
       "project": "repo:xlabsg/fomo-copy-bot",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "153": {
       "project": "repo:basisinvestments/basis",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "154": {
       "project": "repo:cocainebit/float-docs",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "156": {
       "project": "repo:z80dev/burner",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "159": {
       "project": "repo:shadnsurfer/pons-pal",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "160": {
       "project": "repo:paktfamily/pakt",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "161": {
       "project": "repo:basisinvestments/basis",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "164": {
       "project": "repo:lindalang666888/rpv4-robinhood-hook-4.",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "170": {
       "project": "repo:spike-soc/pons-launch",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "171": {
       "project": "repo:cony-horizon/rhbot",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "177": {
       "project": "repo:trixen-ai/echohood",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "179": {
       "project": "repo:gtanetwork0299/robinhood-zk-sandbox",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "184": {
       "project": "repo:fletch-now/fletch-registry-data",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "186": {
       "project": "repo:fletch-now/fletch-api",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "194": {
       "project": "forum:57447",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "195": {
       "project": "repo:aomi-labs/hoodit-apps",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "199": {
       "project": "repo:trixen-ai/cat",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "202": {
       "project": "repo:jincheng828/smartrouter",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "203": {
       "project": "repo:milesdev888/guardian-scan",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "205": {
       "project": "repo:itsnex1s/fomopulse-robinhood-chain-tape",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "214": {
       "project": "repo:spikecalls/tocsin",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "216": {
       "project": "repo:robinshareapp/robinshare",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "219": {
       "project": "repo:pointdrh/pointd",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "222": {
       "project": "repo:efsanedizzy/wick5market",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "225": {
       "project": "repo:pumplandsol/divi",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "224": {
       "project": "repo:ztsalexey/wallet-privacy-testkit",
-      "all_missing": false,
-      "parser_version": 2
+      "all_missing": true,
+      "parser_version": 3
     },
     "229": {
       "project": "repo:merlo-team/fund1-contracts",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "240": {
       "project": "repo:zodlprotocol/zodl",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "233": {
       "project": "repo:boxiwang/alliance",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "234": {
       "project": "repo:aurexcashgit/boogie-contracts",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "242": {
       "project": "repo:auditchain/audt-supply",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "247": {
       "project": "repo:stockcurve/stockcurve.github.io",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "248": {
       "project": "repo:askspecter/fomoprofil",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "249": {
       "project": "repo:boyfromcave/ycash-dd",
-      "all_missing": false,
-      "parser_version": 2
+      "all_missing": true,
+      "parser_version": 3
     },
     "250": {
       "project": "repo:nativ3ai/robinhood-terminal",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "253": {
       "project": "repo:bubble-rh/bubble-docs",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "258": {
       "project": "repo:clankrace/clankrace-v6",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
     },
     "260": {
       "project": "repo:gc0rbs/hyperscale",
       "all_missing": true,
-      "parser_version": 2
+      "parser_version": 3
     },
     "261": {
       "project": "repo:xinchen37/primefi-app",
       "all_missing": false,
-      "parser_version": 2
+      "parser_version": 3
+    },
+    "227": {
+      "project": "repo:vesperpad/vesper",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "238": {
+      "project": "repo:zodlprotocol/zodl",
+      "all_missing": true,
+      "parser_version": 3
+    },
+    "243": {
+      "project": "repo:harkor421/costco-back",
+      "all_missing": true,
+      "parser_version": 3
+    },
+    "264": {
+      "project": "repo:kiattisakph/robinhood-wallet-alert-bot",
+      "all_missing": true,
+      "parser_version": 3
+    },
+    "265": {
+      "project": "repo:rudo-onchain/robinhood-wallet-alert-bot",
+      "all_missing": true,
+      "parser_version": 3
+    },
+    "266": {
+      "project": "repo:33hodl/rh-chain-wallet-lens",
+      "all_missing": true,
+      "parser_version": 3
+    },
+    "270": {
+      "project": "repo:afutrus/ularular",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "271": {
+      "project": "repo:edgeza/zorpha",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "272": {
+      "project": "repo:seanbc618-tech/robinhood-meme-bot",
+      "all_missing": true,
+      "parser_version": 3
+    },
+    "274": {
+      "project": "repo:quantumcoinputer/quantum-cats",
+      "all_missing": true,
+      "parser_version": 3
+    },
+    "279": {
+      "project": "repo:hoodsale/contracts",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "281": {
+      "project": "repo:meiyandong/robinhood-pair-liquidity",
+      "all_missing": false,
+      "parser_version": 3
     }
   },
   "projects": {
@@ -568,10 +628,10 @@
           "url": "https://github.com/runesleo/meme-cohort-observatory/blob/ffde5cf1a84a5849f54c8e568739c7098b49667c/docs/STAGE_B.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:24:02.803703+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:58.708675+00:00",
       "repo_id": 1356051016,
-      "file_cursor": 4,
+      "file_cursor": 2,
       "failed_fingerprints": {
         "fbd3c7058d7ab91d49d18b996a4eed6415ffb2c66edba032d0a304de1ac48e51": 1
       },
@@ -619,10 +679,10 @@
           "url": "https://github.com/realdeanai/golden--trader/blob/cb1b89504a2bc6294da2ddcc600751de811635ef/development/wallet-monitor/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:32.137489+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:08.854650+00:00",
       "repo_id": 1356082615,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "verified_fingerprint": "5e05e3c551c4fcca49198c17c9185bd87e66d3774a4e908305dd8673fa62fdfe"
     },
     "repo:voxelithicag/mcp": {
@@ -656,8 +716,8 @@
           "url": "https://github.com/ReddAgentRH/redd/blob/938adaa0b90e22e8eaf1d4fab79ad32ab656f8cb/contract/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:33.090841+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:10.392801+00:00",
       "repo_id": 1356143612,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -722,8 +782,8 @@
           "url": "https://github.com/Rizkijack/gashood/blob/853edd0a271357936dfddcd2a858dfa5969c9dd7/docs/WORKFLOW.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:24:03.653772+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:59.751394+00:00",
       "repo_id": 1356167900,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -801,8 +861,8 @@
           "url": "https://github.com/travisiol/hedge/blob/3bd37a63234bcca0bb5bc56d50990857998fb187/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:24:04.367381+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:06:00.797878+00:00",
       "repo_id": 1356225163,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -872,8 +932,8 @@
           "url": "https://github.com/Phosphenq/bodkin/blob/27b801ad5358061fc10f151cc1e305974df89178/src/pons/deployerIndex.ts"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:33.846076+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:11.511157+00:00",
       "repo_id": 1356262563,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -916,8 +976,8 @@
           "url": "https://github.com/snobistisch/stock-lp-radar/blob/590dc2bc4b8e98f3303c3ebece3fdea54a235f80/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:24:05.039916+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:06:01.909794+00:00",
       "repo_id": 1356269686,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1044,10 +1104,10 @@
           "url": "https://github.com/nirholas/loxley/blob/afd42677c3333bdbb7689852872e838d732e4e89/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:34.564226+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:12.590902+00:00",
       "repo_id": 1356333517,
-      "file_cursor": 17,
+      "file_cursor": 16,
       "failed_fingerprints": {
         "4cd72aa43fb1e32ca7340d6179028e9795aab4ce5cc71f4f5409a55a839983c2": 1
       },
@@ -1088,8 +1148,8 @@
           "url": "https://github.com/vern-sh/vernagent/blob/95d5ffff949efa04c76065d5d8241ccf3fdb4a86/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:35.483063+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:13.709610+00:00",
       "repo_id": 1356364734,
       "file_cursor": 0,
       "claims": [],
@@ -1153,10 +1213,10 @@
           "url": "https://github.com/Ali213112/Agentic-on-bot-chain-/blob/dc6f15d0a837849cd10e16db657132fdf912e57c/src/lib/deployed.ts"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:36.242115+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:14.865985+00:00",
       "repo_id": 1356397498,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "claims": [],
       "claims_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83",
       "verified_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83"
@@ -1181,8 +1241,8 @@
           "url": "https://github.com/QorbQuant/fomo-robinhood-copy/blob/c4ef852b5483af691df5411fc01c03a1899272b6/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:36.996980+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:16.062762+00:00",
       "repo_id": 1356394695,
       "file_cursor": 0,
       "claims": [],
@@ -1214,8 +1274,8 @@
           "url": "https://github.com/dancingcowboy/weald-protocol/blob/823571cd9733959da2630072938ca909278d11e3/docs/SECURITY.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:37.768109+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:17.476821+00:00",
       "repo_id": 1356419688,
       "file_cursor": 0
     },
@@ -1263,8 +1323,8 @@
           "url": "https://github.com/heirlabs/famcash-contracts/blob/6c0196611c2a1859903f05c038285d81e4c322e4/scripts/deploy.js"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:38.989961+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:19.439526+00:00",
       "repo_id": 1356497199,
       "file_cursor": 0
     },
@@ -1345,10 +1405,10 @@
           "url": "https://github.com/JermWang/rh-incinerator/blob/be505c6e4869619496ae4a194bfe51d1e4a8b5d8/packages/contracts/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:39.704819+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:20.819227+00:00",
       "repo_id": 1356615492,
-      "file_cursor": 4
+      "file_cursor": 6
     },
     "repo:gabrielfrneto/stockcity-mcp": {
       "source": "repo",
@@ -1409,8 +1469,8 @@
           "url": "https://github.com/ClankRace/clankrace-v4/blob/4615160fcf6ad4afa7109f1d7d216a54a05f1b14/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:40.379627+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:22.018911+00:00",
       "repo_id": 1356715579,
       "file_cursor": 0
     },
@@ -1509,10 +1569,10 @@
           "url": "https://github.com/MeiYanDong/robinhood-pair-grid/blob/f71e85d1bbea61c4a4946f0916d499ac36bf693f/docs/stories/0003-external-alert-delivery.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:41.052089+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:23.124320+00:00",
       "repo_id": 1356750466,
-      "file_cursor": 4
+      "file_cursor": 6
     },
     "repo:meiyandong/manga-chan-atomic-arbitrage": {
       "source": "repo",
@@ -1630,8 +1690,8 @@
           "url": "https://github.com/nirholas/sherwood/blob/2dbd22d6a8e0f78ba2f83a589733a67ffbca5acd/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:41.754970+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:24.244825+00:00",
       "repo_id": 1356845105,
       "file_cursor": 0
     },
@@ -1665,8 +1725,8 @@
           "url": "https://github.com/kealabama/midcap-random-index/blob/8bc8400cd23c3f0907d8f07deccc39b230bf1728/docs/VERIFIER.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:42.473921+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:25.323513+00:00",
       "repo_id": 1356858272,
       "file_cursor": 0
     },
@@ -1695,8 +1755,8 @@
           "url": "https://github.com/MonkiiLabs/MonkiiLabsApp/blob/84d035308c0053798992b803a710ba528a4ca385/contracts/deployed_address.json"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:43.188806+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:26.521466+00:00",
       "repo_id": 1356847100,
       "file_cursor": 0
     },
@@ -1745,8 +1805,8 @@
           "url": "https://github.com/leveradotfun/levera-dapp/blob/25c76a8fcf823f254f5505f0101a1b4e0fa3b315/testnet/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:44.000849+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:27.705808+00:00",
       "repo_id": 1356925368,
       "file_cursor": 0
     },
@@ -1780,8 +1840,8 @@
           "url": "https://github.com/FLock-io/flock-v4-hook/blob/b8098bd9ad58b776c7c92839a0980a222a4c2a06/script/testing/00_DeployV4.s.sol"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:44.802218+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:28.939731+00:00",
       "repo_id": 1356947738,
       "file_cursor": 0
     },
@@ -1856,8 +1916,8 @@
           "url": "https://github.com/yafieae/morpho-toolkit/blob/0260e804d65da84d15bb13df88fd42e1216594da/tools/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:45.614858+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:30.033671+00:00",
       "repo_id": 1356964162,
       "file_cursor": 0
     },
@@ -1877,11 +1937,20 @@
       "repo": "thesoloycoder/OmniLauncher",
       "name": "thesoloycoder/OmniLauncher",
       "pr": 94,
-      "status": "excluded",
+      "status": "tracking",
       "registered_at": "2026-09-06T10:22:35.624874+00:00",
       "first_report_sha256": "8ee4257247f8e50844efd7969f6dd97f2d0af6632fcb5e8ccaceeb0caed5d5f9",
-      "files": {},
-      "next_check_at": null
+      "files": {
+        "README.md": {
+          "sha": "dc667dd02064a84f51ec3334ececb3b551876a19",
+          "text": "| Field | Where it goes |\n| --- | --- |\n| X post URL (`https://x.com/user/status/…`) | `socials.twitter` |\n| YouTube URL | `socials.website` |\n| Telegram / Discord / Farcaster | matching social slots |\n```\n\nOpen `http://127.0.0.1:5173`. Connect a wallet on Robinhood Chain, fill the ticket, sign.\n\nDrop a logo onto the square (PNG, JPG, WEBP, or GIF). The dev server hosts it on a public image host and fills the on-chain URL for you. You can still paste an `https://` or `ipfs://` link instead.\n| --- | --- |\n| Chain | Robinhood Chain `4663` |\n| Factory | `0x7eD598BcEf8bd9Edd8C97A195C6d13f40801EC7e` |\n| Launch and buy | `0xe33E9E479dF8802cb0866d5d05258bEc4cF62948` |\n| RPC | `https://rpc.mainnet.chain.robinhood.com` |\n\nThis is an unofficial interface. Tokens are experimental and can go to zero.",
+          "url": "https://github.com/thesoloycoder/OmniLauncher/blob/7984ba04eb4451dae3205ddc15eda8ba0edd5a51/README.md"
+        }
+      },
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:04:41.095189+00:00",
+      "repo_id": 1357020146,
+      "file_cursor": 0
     },
     "repo:shehzadashrafai/robinhood-alpha-intelligence": {
       "source": "repo",
@@ -1916,9 +1985,9 @@
           "url": "https://github.com/S4PAY/payhole/blob/2784d34ed2257d8f7b0cc4fea211864d3f4c5d0d/docs/website-brief.md"
         },
         "packages/app/README.md": {
-          "sha": "b67ba17e2365afb2a1d1c61c3f956872bfc36fc9",
-          "text": "| --- | --- |\n| Home | One protection toggle with the vortex turning while the tunnel is up, 24-hour counters, a half-hour histogram of lookups and blocked answers, the last blocked names. |\n| Resolver | The public PayHole resolver (`https://dns.payhole.org/dns-query`, `dns.payhole.org:853`) or a custom DoH URL and/or DoT host, with a one-query reachability check. |\n| Lists | The two lists on the public resolver, license, and when each was last updated upstream (GitHub API, fails quietly offline). |\n| About | How it works, what it does not do, what comes next, project links. |\n```\npnpm install                          # from the repo root\npnpm --filter @payhole/app typecheck\npnpm --filter @payhole/app lint       # repo-wide ESLint config\npnpm --filter @payhole/app test       # Vitest, pure logic only\npnpm --filter @payhole/app start      # Metro; needs a development build, not Expo Go\n```\n\n```\nmkdir -p ~/.local/jdk ~/.local/android-sdk/cmdline-tools\ncurl -L -o /tmp/jdk17.tgz \"https://api.adoptium.net/v3/binary/latest/17/ga/linux/x64/jdk/hotspot/normal/eclipse?project=jdk\"\ntar -xzf /tmp/jdk17.tgz -C ~/.local/jdk --strip-components=1\ncurl -L -o /tmp/cmdline-tools.zip https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip\nunzip -q /tmp/cmdline-tools.zip -d ~/.local/android-sdk/cmdline-tools\nmv ~/.local/android-sdk/cmdline-tools/cmdline-tools ~/.local/android-sdk/cmdline-tools/latest",
-          "url": "https://github.com/S4PAY/payhole/blob/2784d34ed2257d8f7b0cc4fea211864d3f4c5d0d/packages/app/README.md"
+          "sha": "089eddf54fa818aa5089ad69393e19ed7f629c1c",
+          "text": "app. The PayHole token never pays anyone, here or anywhere else in the project.\n\nBundle id `org.payhole.app` on both stores. Built with Expo SDK 57 and React Native, TypeScript\nstrict, a local Expo module for the native pieces, and Vitest for the pure logic.\n\n| Home | One protection toggle with the vortex turning while the tunnel is up, 24-hour counters, a half-hour histogram of lookups and blocked answers, the last blocked names with their category, each expandable to the resolver's verdict and a report-a-mistake link. |\n| Check | Paste or share a link, a domain, or a message; the resolver's public verdict endpoint answers with blocked or not, the category, and who confirmed it. Verdicts share back out as text. Android's share sheet opens this tab with the shared text already checked. |\n| Resolver | The public PayHole resolver (`https://dns.payhole.org/dns-query`, `dns.payhole.org:853`) or a custom DoH URL and/or DoT host, with a one-query reachability check. |\n| Lists | The three lists on the public resolver, license, and when each was last updated upstream (GitHub API, fails quietly offline). |\n| About | How it works, what it does not do, what comes next, project links. |\nNot covered in 0.1: DNS over TCP/53, IPv6 transport for the queries themselves (the answers can\nstill carry AAAA records), and Android's own Private DNS setting, which should be off or set to\n`dns.payhole.org` while the tunnel is on.\n\n### iOS\n```\npnpm install                          # from the repo root\npnpm --filter @payhole/app typecheck\npnpm --filter @payhole/app lint       # repo-wide ESLint config\npnpm --filter @payhole/app test       # Vitest, pure logic only\npnpm --filter @payhole/app start      # Metro; needs a development build, not Expo Go\n```\n\n```\nmkdir -p ~/.local/jdk ~/.local/android-sdk/cmdline-tools\ncurl -L -o /tmp/jdk17.tgz \"https://api.adoptium.net/v3/binary/latest/17/ga/linux/x64/jdk/hotspot/normal/eclipse?project=jdk\"\ntar -xzf /tmp/jdk17.tgz -C ~/.local/jdk --strip-components=1\ncurl -L -o /tmp/cmdline-tools.zip https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip\nunzip -q /tmp/cmdline-tools.zip -d ~/.local/android-sdk/cmdline-tools\nmv ~/.local/android-sdk/cmdline-tools/cmdline-tools ~/.local/android-sdk/cmdline-tools/latest\n2. `npx eas-cli build --profile preview --platform android` gives an installable APK.\n3. iOS needs an Apple Developer membership. Add the Network Extensions capability with DNS Settings\n   to the `org.payhole.app` App ID, then `npx eas-cli build --profile production --platform ios`\n   and `npx eas-cli submit` for TestFlight.\n4. Android release builds go through `npx eas-cli build --profile production --platform android`\n   and a Google Play Console account for `org.payhole.app`.\n\nCredentials for the stores stay off this repository and off developer machines; the same rule as\n\n```\nadb shell \"nslookup payhole.org\"     # answers\n```\n\nOn the Home tab the query counter moves and blocked names appear as the lists catch them. The\nResolver tab's check sends a single A query for `payhole.org` over HTTPS and shows the answer time.",
+          "url": "https://github.com/S4PAY/payhole/blob/2811c24e51b067d3eec6fc210fc09a85f8e36f2d/packages/app/README.md"
         },
         "packages/contracts/README.md": {
           "sha": "e6bfbd669cde5976b6efb4b3055ff2f6721da388",
@@ -1996,9 +2065,9 @@
           "url": "https://github.com/S4PAY/payhole/blob/2784d34ed2257d8f7b0cc4fea211864d3f4c5d0d/packages/sdk/src/generated/deployments.ts"
         },
         "packages/sinkhole/README.md": {
-          "sha": "f65cca4f20d94da7e36ac1cebdbddb5bba1d6723",
-          "text": "# @payhole/sinkhole\n\nDNS-level blocker for PayHole users plus the sync agent that feeds it. One container runs two things:\n### Verdicts\n\n`GET /verdict?name=<host>` on the DoH listener (public on `https://dns.payhole.org/verdict?name=...`) and\n`GET /api/verdict?name=<host>` on the admin API answer what a node knows about a name: `blocked`, `allowlisted`, `category`,\n`sources`, `reasons`, the live `reporters`, and whether the swarm `confirmed` it. The public route shares the encrypted DNS rate\nFormats: hosts files (`0.0.0.0 name`, `127.0.0.1 name`, comments), one hostname per line, and JSON, either an array of\nhostnames or an object with a `domains` array. Three lists worth starting with: the ScamSniffer scam database for payment\ndrainers and web3 phishing (`https://raw.githubusercontent.com/scamsniffer/scam-database/refs/heads/main/blacklist/domains.json`,\nabout 350,000 names, GPL-3.0, updated daily), the Phishing.Database active domains for phishing at large\n(`https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/master/phishing-domains-ACTIVE.txt`, about\n390,000 names, MIT, rebuilt hourly), and the StevenBlack unified hosts file for ads and trackers\n(`https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`, about 80,000 names, MIT).\n\nPhishing lists are built from URLs, so when a phishing page sits on a shared platform the platform's own name lands on\n  hostname, for example `dns.payhole.org`. Applies to every app, on every network.\n- iPhone and iPad: DoH and DoT are configured through a profile. Install a profile that names either\n  `https://dns.payhole.org/dns-query` (DoH) or `dns.payhole.org` on port 853 (DoT); Apple's Configuration Profile\n  reference describes the `DNSSettings` payload, and open-source profile generators exist for both.\n\n2. `cp packages/sinkhole/.env.example packages/sinkhole/.env` and fill in at least `ADMIN_TOKEN` (`openssl rand -hex 32`) and, for the swarm, `SWARM_BOOTSTRAP`, `BURN_VAULT_ADDRESS` (until the SDK deployment record carries it) and `NODE_OPERATOR_KEY`. Set `SWARM_ENABLED=0` for a purely local blocker.\n3. `docker compose -f packages/sinkhole/docker-compose.yml up -d`\n4. Check `curl http://127.0.0.1:8053/healthz` and open `http://127.0.0.1:8053/` for the admin page (paste the token).\n5. Point clients at the host's IP as their DNS server, and configure the extension to push to `http://<host>:8053/api/blocklist` with the token.\n\n```sh\npnpm install\npnpm --filter @payhole/sdk build\npnpm --filter @payhole/sinkhole test        # vitest, no Docker or dnsmasq needed\npnpm --filter @payhole/sinkhole typecheck\npnpm --filter @payhole/sinkhole lint\npnpm --filter @payhole/sinkhole build\n```\n",
-          "url": "https://github.com/S4PAY/payhole/blob/2784d34ed2257d8f7b0cc4fea211864d3f4c5d0d/packages/sinkhole/README.md"
+          "sha": "899d7ce4b47369cfb5707298851eb0ab032eba33",
+          "text": "# @payhole/sinkhole\n\nDNS-level blocker for PayHole users plus the sync agent that feeds it. One container runs two things:\n| Swarm flags | Flag messages from other nodes | Only after `FLAG_THRESHOLD` distinct reporters (default 5) with valid membership proofs have flagged the domain within `FLAG_TTL_DAYS` (default 30) |\n| Subscribed lists | `BLOCKLIST_URLS` plus `POST /api/subscriptions` on the admin page; hosts format or one name per line, refetched every `BLOCKLIST_REFRESH_HOURS` (default 24) with `ETag` and `If-Modified-Since` | Always, by exact name |\n| Allowlist | `ALLOWLIST_URLS` (default: the curated `lists/allow.txt` in this repository, fetched from GitHub) plus `MANUAL_ALLOWLIST_FILE`; `example.com` protects the exact name, `.example.com` the name and everything under it | Never: a protected name is removed from every source above, swarm verdicts included |\n\n### Categories\n### Verdicts\n\n`GET /verdict?name=<host>` on the DoH listener (public on `https://dns.payhole.org/verdict?name=...`) and\n`GET /api/verdict?name=<host>` on the admin API answer what a node knows about a name: `blocked`, `allowlisted`, `category`,\n`sources`, `reasons`, the live `reporters`, and whether the swarm `confirmed` it. The public route shares the encrypted DNS rate\n### Radar\n\n`GET /radar` on the DoH listener (public on `https://dns.payhole.org/radar`) and `GET /api/radar` on the admin API answer what\nthe network learned lately, built only from swarm confirmations and list refreshes, never from queries: how many names the\nswarm confirmed in the last 24 hours and 7 days and the newest twenty with their category and reporter count, how many are\nflagged and still waiting for confirmation, each subscribed list with the names it gained and lost in the window and a sample\nof the new ones, new names by category, the brands the new names impersonate (`metamask-verify.pages.dev` counts for\nMetaMask, `metamask.io` does not), and the total number of list names. Nodes keep the last 500 confirmations in `state.json`\nand the last twelve changing refreshes per list, with up to 5,000 gained names each, in `lists/history.json`; a refresh with no\nearlier copy of the list to compare against records nothing. The snapshot is rebuilt at most once a minute, is cacheable for\nFormats: hosts files (`0.0.0.0 name`, `127.0.0.1 name`, comments), one hostname per line, and JSON, either an array of\nhostnames or an object with a `domains` array. Three lists worth starting with: the ScamSniffer scam database for payment\ndrainers and web3 phishing (`https://raw.githubusercontent.com/scamsniffer/scam-database/refs/heads/main/blacklist/domains.json`,\nabout 350,000 names, GPL-3.0, updated daily), the Phishing.Database active domains for phishing at large\n(`https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/master/phishing-domains-ACTIVE.txt`, about\n390,000 names, MIT, rebuilt hourly), and the StevenBlack unified hosts file for ads and trackers\n(`https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`, about 80,000 names, MIT).\n\nPhishing lists are built from URLs, so when a phishing page sits on a shared platform the platform's own name lands on\nthe list: `sites.google.com`, Netflix's video CDN, Gravatar, IPFS gateways, link-in-bio services. The allowlist exists for\nthat. Every node fetches `lists/allow.txt` from this repository on the same refresh interval and removes those names from\nevery source, and a node can add its own rules with `MANUAL_ALLOWLIST_FILE` or replace the list with `ALLOWLIST_URLS`.\n\n- Android: Settings, Network and internet, Private DNS, \"Private DNS provider hostname\", enter the node's\n  hostname, for example `dns.payhole.org`. Applies to every app, on every network.\n- iPhone and iPad: DoH and DoT are configured through a profile. Install a profile that names either\n  `https://dns.payhole.org/dns-query` (DoH) or `dns.payhole.org` on port 853 (DoT); Apple's Configuration Profile\n  reference describes the `DNSSettings` payload, and open-source profile generators exist for both.\n\nHow the public node is wired on the PayHole VPS: Caddy already terminates TLS for the site, so it also serves\n`dns.payhole.org` and proxies `/dns-query` and `/healthz` to the container's DoH port on loopback; for DoT the\ncontainer gets Caddy's certificate directory mounted read-only and `DOT_CERT_FILE` and `DOT_KEY_FILE` point at the\nfiles inside it, and TCP 853 is opened in the firewall. Operators running their own node do the same with any\n2. `cp packages/sinkhole/.env.example packages/sinkhole/.env` and fill in at least `ADMIN_TOKEN` (`openssl rand -hex 32`) and, for the swarm, `SWARM_BOOTSTRAP`, `BURN_VAULT_ADDRESS` (until the SDK deployment record carries it) and `NODE_OPERATOR_KEY`. Set `SWARM_ENABLED=0` for a purely local blocker.\n3. `docker compose -f packages/sinkhole/docker-compose.yml up -d`\n4. Check `curl http://127.0.0.1:8053/healthz` and open `http://127.0.0.1:8053/` for the admin page (paste the token).\n5. Point clients at the host's IP as their DNS server, and configure the extension to push to `http://<host>:8053/api/blocklist` with the token.\n\n```sh\npnpm install\npnpm --filter @payhole/sdk build\npnpm --filter @payhole/sinkhole test        # vitest, no Docker or dnsmasq needed\npnpm --filter @payhole/sinkhole typecheck\npnpm --filter @payhole/sinkhole lint\npnpm --filter @payhole/sinkhole build\n```\n\n### Container test\n\n`scripts/container-test.sh` needs Docker, `dig` and `curl`. It builds the image, starts a container with a temporary data directory holding a manual blocklist with `blocked.example`, waits for `/healthz`, pushes a blocklist with `tracker.example`, then checks that `tracker.example`, `sub.tracker.example` and `blocked.example` resolve to `0.0.0.0` while `example.com` gets a real answer, that the export lists both domains, and that the API refuses requests without the token. Ports default to 5553 (DNS) and 18053 (admin) on localhost; `TEST_DNS_PORT`, `TEST_ADMIN_PORT`, `TEST_UPSTREAM_DNS`, `SKIP_BUILD=1` and `TEST_SWARM_ENABLED=1` adjust it. The swarm is off in the test by default because it needs no peers to prove the resolver path.\n\n## Known limitations\n   then `docker compose -f packages/sinkhole/docker-compose.home.yml up -d --no-build`. Verified on a Radxa Rock Pi\n   (64-bit ARM, Debian 12): the build takes about fifteen minutes and the running container uses about 120 MB.\n5. Check it answers and blocks: `dig @<box LAN address> example.com` returns an address, and a domain on the list\n   returns nothing. `curl -H \"Authorization: Bearer $ADMIN_TOKEN\" http://<box LAN address>:8053/healthz` shows the\n   resolver, list size, and peer count.",
+          "url": "https://github.com/S4PAY/payhole/blob/2811c24e51b067d3eec6fc210fc09a85f8e36f2d/packages/sinkhole/README.md"
         },
         "packages/verifier/README.md": {
           "sha": "c478cb5fe2d5bce5799683aedac79ac48d1786a1",
@@ -2006,10 +2075,10 @@
           "url": "https://github.com/S4PAY/payhole/blob/2784d34ed2257d8f7b0cc4fea211864d3f4c5d0d/packages/verifier/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:46.377654+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:31.205905+00:00",
       "repo_id": 1357071581,
-      "file_cursor": 17
+      "file_cursor": 16
     },
     "repo:dandamaev1111/equity-lens": {
       "source": "repo",
@@ -2050,8 +2119,8 @@
           "url": "https://github.com/bruisedhacksa/pulse/blob/9ffb7047778ddb030c832826f95c309389c68cb6/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:47.305503+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:32.944705+00:00",
       "repo_id": 1357231201,
       "file_cursor": 0
     },
@@ -2070,8 +2139,8 @@
           "url": "https://github.com/florityswap/meridian-robinhood/blob/cb7d1b04ad8ed9456dcf25971592dc13f125cdda/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:47.948857+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:34.195489+00:00",
       "repo_id": 1357293588,
       "file_cursor": 0
     },
@@ -2095,8 +2164,8 @@
           "url": "https://github.com/florityswap/unicrit/blob/7eb691e95684bdcd10ba4b5b426ec32f0adf78f0/scripts/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:48.613610+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:35.409878+00:00",
       "repo_id": 1357293353,
       "file_cursor": 0
     },
@@ -2131,8 +2200,8 @@
           "url": "https://github.com/HANISYED/Robinhood-tool/blob/1eef64eea77e8dcd0da67a854fe2c20873bb1bd2/scripts/deploy.js"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:49.280624+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:36.627929+00:00",
       "repo_id": 1357446096,
       "file_cursor": 0
     },
@@ -2186,10 +2255,10 @@
           "url": "https://github.com/arcafi/arca/blob/2f6091f6e5ba25ae78c8933acdbed64b265d7755/web/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:49.986820+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:37.654890+00:00",
       "repo_id": 1357452361,
-      "file_cursor": 1
+      "file_cursor": 5
     },
     "repo:memeticstate/ms-v1": {
       "source": "repo",
@@ -2246,10 +2315,10 @@
           "url": "https://github.com/memeticstate/ms-v1/blob/7e8e071b0a52e6229ca6efa4ae480d3c7497bd2e/docs/mvp-architecture.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:50.663935+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:38.826174+00:00",
       "repo_id": 1357414038,
-      "file_cursor": 4
+      "file_cursor": 6
     },
     "repo:shellr-packs/shellr-web": {
       "source": "repo",
@@ -2298,8 +2367,8 @@
           "url": "https://github.com/JermWang/airtime/blob/f4ee5bf1637aa16ad06e9594fa61328018b005fb/scripts/deploy-local.ts"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:51.585321+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:40.290526+00:00",
       "repo_id": 1357489892,
       "file_cursor": 0
     },
@@ -2323,8 +2392,8 @@
           "url": "https://github.com/Nar-123/lpbot-new/blob/bdf13f4e573ba6d1d4c700776bdf00a3ee5b3c60/scripts/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:52.246973+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:41.500617+00:00",
       "repo_id": 1357484187,
       "file_cursor": 0
     },
@@ -2408,8 +2477,8 @@
           "url": "https://github.com/galaxydestroyer0000/button/blob/b9c73bfcdd110dd88bee175a254a142cf3880181/docs/superpowers/specs/2026-09-03-frontend-rebuild-design.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:53.052061+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:42.899267+00:00",
       "repo_id": 1357556366,
       "file_cursor": 0
     },
@@ -2428,8 +2497,8 @@
           "url": "https://github.com/TICKRMARKETS/tickr-markets/blob/2975a167061cc90a19ac92bb21d6e3a1f1864f57/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:53.805265+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:44.122169+00:00",
       "repo_id": 1357604173,
       "file_cursor": 0
     },
@@ -2483,10 +2552,10 @@
           "url": "https://github.com/novenrizkia856-ui/Roxy-contract/blob/f78052bf2dc56f335f4e9cd53880baab9eeebfc8/script/DeployTestnet.s.sol"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:54.539590+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:45.721193+00:00",
       "repo_id": 1357694785,
-      "file_cursor": 1
+      "file_cursor": 5
     },
     "repo:xlabsg/fomo-copy-bot": {
       "source": "repo",
@@ -2513,8 +2582,8 @@
           "url": "https://github.com/xlabsg/fomo-copy-bot/blob/837b5c8fe49395ac8348ecb8a60e39e4394f0e53/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:55.218528+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:46.901088+00:00",
       "repo_id": 1357743987,
       "file_cursor": 0
     },
@@ -2588,10 +2657,10 @@
           "url": "https://github.com/basisinvestments/basis/blob/f83e52be9d35b0cf0e11885fa90c79ee9df5f741/docs/use-cases.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:55.995538+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:48.100376+00:00",
       "repo_id": 1357917659,
-      "file_cursor": 3
+      "file_cursor": 10
     },
     "repo:cocainebit/float-docs": {
       "source": "repo",
@@ -2608,8 +2677,8 @@
           "url": "https://github.com/cocainebit/float-docs/blob/4717d162ad8d98bcb381e3e9df398d96d4e9fdee/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:56.768959+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:49.304189+00:00",
       "repo_id": 1357819964,
       "file_cursor": 0
     },
@@ -2678,13 +2747,13 @@
       "first_report_sha256": "db08669787d7d3df2a38dba1cc002341e87772e15104ba6976c71a124276d5c9",
       "files": {
         "README.md": {
-          "sha": "b9cef4b82e389b3587b91f18087aaaea706cbaed",
-          "text": "\n```bash\ngit clone https://github.com/cony-horizon/rhbot.git\ncd rhbot\nnpm install\n### 1. Telegram ボットを作る\n\n1. Telegram で [@BotFather](https://t.me/BotFather) に `/newbot` → トークンを取得 → `.env` の `TELEGRAM_BOT_TOKEN` に設定\n2. 作ったボットに何か話しかける（グループで使うならグループに追加して話しかける）\n3. ブラウザで `https://api.telegram.org/bot<トークン>/getUpdates` を開き、`\"chat\":{\"id\":123456789` の数字を `TELEGRAM_CHAT_ID` に設定\n   （グループは負の数になります。複数はカンマ区切り）\n\n### RPC について\n\n`RPC_URL` 既定の公式パブリック RPC（`https://rpc.mainnet.chain.robinhood.com`）は bot 向けに保証されていないため、\n429 が出る場合は `RPC_BLOCK_CHUNK` を下げるか `RPC_SCAN_INTERVAL_SEC` を上げるか、\n[GetBlock](https://docs.getblock.io/api-reference/robinhood) 等のプロバイダの URL に差し替えてください。\nRPC を使いたくない場合は `RPC_URL=` と空にすると DexScreener のみで動作します（新規ローンチ検知の網羅性は落ちます）。\n",
-          "url": "https://github.com/cony-horizon/rhbot/blob/519be386ce2848ba5c75081a13c23127f142d627/README.md"
+          "sha": "67f06cd0c9344ff8d563ffd6627156922cc8ace1",
+          "text": "\n```bash\ngit clone https://github.com/cony-horizon/rhbot.git\ncd rhbot\nnpm install\n### 1. Telegram ボットを作る\n\n1. Telegram で [@BotFather](https://t.me/BotFather) に `/newbot` → トークンを取得 → `.env` の `TELEGRAM_BOT_TOKEN` に設定\n2. 作ったボットに何か話しかける（グループで使うならグループに追加して話しかける）\n3. ブラウザで `https://api.telegram.org/bot<トークン>/getUpdates` を開き、`\"chat\":{\"id\":123456789` の数字を `TELEGRAM_CHAT_ID` に設定\n   （グループは負の数になります。複数はカンマ区切り）\n\n### RPC について\n\n`RPC_URL` 既定の公式パブリック RPC（`https://rpc.mainnet.chain.robinhood.com`）は bot 向けに保証されていないため、\n429 が出る場合は `RPC_BLOCK_CHUNK` を下げるか `RPC_SCAN_INTERVAL_SEC` を上げるか、\n[GetBlock](https://docs.getblock.io/api-reference/robinhood) 等のプロバイダの URL に差し替えてください。\nRPC を使いたくない場合は `RPC_URL=` と空にすると DexScreener のみで動作します（新規ローンチ検知の網羅性は落ちます）。\n\n- DexScreener の `search` は全チェーン横断で最大 30 件しか返しません。`DISCOVERY_SEARCH_QUERIES` を増やす、\n  `DISCOVERY_TOKEN_ADDRESSES` に主要 quote トークンを列挙する、RPC 監視を有効にする、の 3 つで補っています。\n- pump.fun 型ローンチパッド（ボンディングカーブ）上のトークンは DEX にマイグレーションされるまで RPC 監視には現れません。\n  DexScreener がそれらを掲載していれば search / profiles 経由で拾えます。\n- DexScreener 側で価格 (`priceUsd`) や `pairCreatedAt` が欠けているペアは対象外になります。",
+          "url": "https://github.com/cony-horizon/rhbot/blob/e72f07a13ec5a393f46e27da1f7feeeb572f23f8/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:57.533563+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:50.372471+00:00",
       "repo_id": 1358070563,
       "file_cursor": 0
     },
@@ -2746,8 +2815,8 @@
       "registered_at": "2026-09-06T10:22:46.608671+00:00",
       "first_report_sha256": "8fcc2582361e9d54505aa2746ea0af6480e2d422b38b44c57b674234b3e58207",
       "files": {},
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:58.204011+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:51.586040+00:00",
       "linked_repositories": {}
     },
     "repo:aomi-labs/hoodit-apps": {
@@ -2760,13 +2829,13 @@
       "first_report_sha256": "8a148e7fb6285b7567363b04dab187f927c90f41d840ae38896749974d8be5f2",
       "files": {
         "README.md": {
-          "sha": "a1f0b2c0f0eb96e122cc5fffef1d46598cfdd864",
+          "sha": "3cdcf6b1c55e3e249dea7f33d50871ed047c2e91",
           "text": "",
-          "url": "https://github.com/aomi-labs/hoodit-apps/blob/638102373b476c1cbb81fa9a93d211ae6523678c/README.md"
+          "url": "https://github.com/aomi-labs/hoodit-apps/blob/13bf24de4aa6a8301d6dba24bcdd4150996c9958/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:58.690865+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:51.809201+00:00",
       "repo_id": 1358230721,
       "file_cursor": 0
     },
@@ -2828,8 +2897,8 @@
           "url": "https://github.com/jincheng828/SmartRouter/blob/e15b31c021e6e3fa7aaaf8c2a89fc139d26a6fd5/rocketh/deploy.ts"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:59.332494+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:53.035755+00:00",
       "repo_id": 1358319164,
       "file_cursor": 0
     },
@@ -2863,8 +2932,8 @@
           "url": "https://github.com/milesdev888/guardian-scan/blob/3ea4cfe1aec409c4d530885c93ded9eabcdec467/app/api/scan/xrpl/[address]/route.ts"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:59.964365+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:54.250504+00:00",
       "repo_id": 1358324827,
       "file_cursor": 0
     },
@@ -2904,8 +2973,8 @@
           "url": "https://github.com/SpikeCalls/tocsin/blob/af7c069fc85f819af2e40e3169cc1cb206417651/docs/GUIDE.ru.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:24:00.636436+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:55.415909+00:00",
       "repo_id": 1358435897,
       "file_cursor": 0
     },
@@ -2951,8 +3020,8 @@
           "url": "https://github.com/efsanedizzy/wick5market/blob/51f7dffcd4b6de64a2df41f35e96121e90bdc97b/DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:24:01.309736+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:56.530560+00:00",
       "repo_id": 1358518390,
       "file_cursor": 0
     },
@@ -2972,11 +3041,110 @@
       "repo": "ztsalexey/wallet-privacy-testkit",
       "name": "ztsalexey/wallet-privacy-testkit",
       "pr": 224,
-      "status": "excluded",
+      "status": "tracking",
       "registered_at": "2026-09-06T10:27:21.235236+00:00",
       "first_report_sha256": "41092f0a0164fcf8a7bb5b449d1a40470f9a3e3c6ef9566f8caa3ea72187641b",
-      "files": {},
-      "next_check_at": null
+      "files": {
+        "README.md": {
+          "sha": "081eb3a89637c5533650d9d868878f65693ad200",
+          "text": "Wallet Privacy Testkit is an adversarial test layer for Zcash wallet-to-indexer traffic. It records the lengths and timing visible outside TLS, injects uncertainty around `SendTransaction`, and evaluates size-only transaction matching without awarding full credit to ties.\n\nThis is an independent project maintained at [ztsalexey/wallet-privacy-testkit](https://github.com/ztsalexey/wallet-privacy-testkit). It is not affiliated with or endorsed by the Zcash Foundation, Electric Coin Company, or any wallet or indexer maintainer.\n\nVersion 0.2.0 is a research preview. It supplies reusable test components and a verified Zingolib case study. It does not certify a wallet, assign a privacy score, inspect mainnet funds, or replace a wallet's existing integration tests.\nPython 3.11 or newer is required.\n\nInstall version 0.2.0 from [PyPI](https://pypi.org/project/wallet-privacy-testkit/0.2.0/):\n\n```sh\nThe release was developed with Python 3.12.9, gRPC 1.83.1, and protobuf 7.36.1. CI tests the pinned development environment on Python 3.11–3.13 on Linux and macOS. The broader runtime dependency ranges are not exhaustively tested.\n\nPackaged wheels and source archives are available from [GitHub Releases](https://github.com/ztsalexey/wallet-privacy-testkit/releases). After activating a virtual environment, install a downloaded wheel with `python -m pip install ./wallet_privacy_testkit-0.2.0-py3-none-any.whl`.\n\n## Passive TLS metadata capture",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/README.md"
+        },
+        "docs/COMPETITIVE_LANDSCAPE.md": {
+          "sha": "398ee033e29c07a83c7e9ffe3d8b1f70b5125aef",
+          "text": "Reviewed September 5, 2026. This is a product-positioning review, not an audit of the listed projects. Public repositories and documentation can change after this date.\n\nThe project uses the independent product name **Wallet Privacy Testkit** and describes its relationship as “for Zcash.” This follows the [Zcash Foundation trademark policy](https://zfnd.org/trademark-policy/), which permits truthful “for Zcash” descriptions while disallowing the mark as part of a third-party product name. Exact-name searches found no indexed GitHub repository, and the PyPI JSON endpoint returned 404 on the review date. Neither check reserves the name or substitutes for a publication-time check.\n\n## Zcash testing infrastructure\n| Project | What it already provides | Relationship to this testkit |\n| --- | --- | --- |\n| [Z3](https://github.com/ZcashFoundation/z3) | Docker Compose deployments of Zebra, Zallet, the RPC router, and optional Zaino; an isolated regtest environment | Preferred future environment provider. Reimplementing this stack would duplicate maintained infrastructure. |\n| [Zcash Integration Tests](https://github.com/zcash/integration-tests) | Python functional tests and cross-repository CI for Zebra, Zaino, and Zallet | Natural home for accepted ecosystem-wide scenarios. It currently focuses on RPC behavior rather than an external TLS observer. Maintainer acknowledgment is required before a PR. |\n| [Zingo Regchest](https://github.com/zingolabs/zingo-regchest) and [Zingo Mobile tests](https://github.com/zingolabs/zingo-mobile) | A containerized regtest network plus Android and iOS wallet integration suites | Natural host for a Zingo adapter. The testkit should supply faults and measurements rather than another chain fixture. |\n| Zingolib darkside and lib-to-node tests | Controlled wallet sync scenarios and real node/indexer integration inside Zingolib | Existing framework for wallet-state assertions. Protocol-aware acknowledgement loss may fit here after maintainer alignment. |\n\n| Project | Current overlap | Remaining distinction |\n| --- | --- | --- |\n| [Zingolib network privacy work](https://github.com/zingolabs/zingolib/issues/2508) | Nym transport, broadcast destinations, retry policy, and wallet integration | This testkit measures or injects behavior around those transports. It does not implement an anonymity network. |\n| [Zero-indexer](https://forum.zcashcommunity.com/t/zero-indexer-protecting-network-privacy-for-zcash-users/57113) | Attested indexer shim/hub, delayed batch broadcast, wallet and operator integrations | A candidate system under test. Its own protection depends on deployment and batch activity; the testkit cannot replace its attestation or relay. |\n| [ZIP 307](https://zips.z.cash/zip-0307) and [ZIP 318](https://zips.z.cash/zip-0318) | Privacy requirements and design guidance for light clients and pool migration | Sources for test requirements. Specifications are not test runners. |\n\n## General-purpose substitutes\n| Tool | Strength | Why the testkit still differs |\n| --- | --- | --- |\n| [Toxiproxy](https://github.com/Shopify/toxiproxy) | Mature TCP latency, timeout, bandwidth, and connection fault injection | It cannot identify the point after a specific gRPC transaction has been accepted upstream. It is a better dependency for generic network conditions. |\n| [mitmproxy](https://docs.mitmproxy.org/stable/) | Mature TLS/HTTP interception, modification, capture, and replay | It records far more content and is not a Zcash result model. Custom scripts could reproduce parts of the relay. |\n| Wireshark/tcpdump | Established packet capture and protocol analysis | They provide raw observations rather than candidate-set accounting, wallet-state assertions, or a transaction-aware failure boundary. |\n\n## Privacy analyzers and audit services\n\n[Stealth](https://github.com/stealth-bitcoin/stealth) and [Am I Exposed?](https://github.com/Copexit/am-i-exposed) analyze Bitcoin on-chain wallet behavior. CipherScan supplies Zcash and cross-chain privacy analytics. These validate interest in privacy analysis but address public transaction patterns rather than wallet-to-indexer encrypted traffic.\n\nWallet security firms offer code, mobile, key-management, and privacy audits. [Hacken](https://hacken.io/services/wallet-audit/) advertises wallet audits, while [Chainscore Labs](https://chainscorelabs.com/services/wallet-infrastructure/wallet-security-audits/privacy-preserving-wallet-security-audit) advertises privacy-preserving wallet audits including metadata analysis. These are service competitors at the budget level. Their public materials do not establish an open, Zcash-specific regression runner with this testkit's exact fault boundary.\n\n## Conclusion",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/docs/COMPETITIVE_LANDSCAPE.md"
+        },
+        "docs/METHODOLOGY.md": {
+          "sha": "7d9451cfe79f89ce6e68bb50e4436af0eef127df",
+          "text": "",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/docs/METHODOLOGY.md"
+        },
+        "docs/PRIVACY_STUDY.md": {
+          "sha": "4a46991b2149b26456f5058be52fec452a668730",
+          "text": "## Independent wallet and trust boundary\n\nThe second implementation is the official [zcash-devtool](https://github.com/zcash/zcash-devtool), pinned to revision `5a26ee854e634a4e88d1d79dab13f8fbb1eac6b8`. It uses `zcash_client_backend` and `zcash_client_sqlite`. It is a development wallet, not a consumer application and not a proxy for Zashi. The archive hash and build inputs are pinned in the lab Dockerfile.\n\nIts normal local-host transport is plaintext. The small hash-checked lab patch explicitly enables TLS and adds the generated lab certificate as a trust anchor only when `ZCASH_LAB_CA` is set. Certificate and hostname verification remain enabled. Payment, sync, and transaction-construction code is unchanged. The wallet is built with regtest support and explicit upgrade heights matching the lab node.",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/docs/PRIVACY_STUDY.md"
+        },
+        "docs/RELEASE_CHECKLIST.md": {
+          "sha": "569104865197a2c8242fb77803378dad8c93e5ac",
+          "text": "- [x] Passed all six declared GitHub Actions jobs: Python 3.11–3.13 on Linux and macOS, including tests, dependency audit, source audit, and package builds.\n\nThe [release page](https://github.com/ztsalexey/wallet-privacy-testkit/releases/tag/v0.1.0) identifies the tagged commit and downloadable wheel, source archive, and SHA-256 checksums. The [CI history](https://github.com/ztsalexey/wallet-privacy-testkit/actions/workflows/ci.yml) records the checks for each pushed commit. Main-branch protection requires all six CI checks and blocks branch deletion and force pushes.\n\n## PyPI publication\n\n- [x] Configured the PyPI trusted publisher: project `wallet-privacy-testkit`, owner `ztsalexey`, repository `wallet-privacy-testkit`, workflow filename `publish.yml`, environment `pypi`.\n- [x] Published version 0.1.0 from the reviewed release tag through [GitHub Actions](https://github.com/ztsalexey/wallet-privacy-testkit/actions/runs/33990073305).\n- [x] Verified that both PyPI artifact hashes match the tagged release checksums and that PyPI exposes publication attestations for both files.\n- [x] Installed version 0.1.0 directly from PyPI in a clean virtual environment, passed all 14 tests against that installation, exercised the CLI and example matcher, and passed `pip check`.\n\nThe package is available on [PyPI](https://pypi.org/project/wallet-privacy-testkit/0.1.0/). GitHub release files can also be installed independently.\n\n## After publication\n- [x] Native Linux Docker passed the five recovery scenarios, live negative control, and continuous-traffic regression.\n\nPublication requires auditing the final wheel and source archive, testing a clean wheel installation, committing their exact SHA-256 checksums, and publishing through Trusted Publishing. After publication, verify PyPI file hashes and attestations and test a fresh PyPI installation. The tagged [release page](https://github.com/ztsalexey/wallet-privacy-testkit/releases/tag/v0.2.0) and publishing workflow record the publication outcome.\n\n",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/docs/RELEASE_CHECKLIST.md"
+        },
+        "docs/RELEASE_NOTES.md": {
+          "sha": "94496a10dd151987c4a7bfab83544b5bfc6a6352",
+          "text": "The installed wheel was also exercised against released Zingolib v5.0.0, lightwalletd, and Zebra. A newly constructed transaction was accepted before its response was lost, stayed byte-identical across four attempts, appeared in the real node mempool, and reached three confirmations in node and wallet state.\n\nVersion 0.1.0 is available on [PyPI](https://pypi.org/project/wallet-privacy-testkit/0.1.0/). The publishing workflow verified the GitHub release checksums and used Trusted Publishing with package attestations, without a stored PyPI credential. Both published artifact hashes match the reviewed release. A clean PyPI installation passed all 14 tests, CLI checks, and dependency consistency checks.",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/docs/RELEASE_NOTES.md"
+        },
+        "docs/THREAT_MODEL.md": {
+          "sha": "831e22200de3c4a256ea82b65a2c181607ecc1d6",
+          "text": "",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/docs/THREAT_MODEL.md"
+        },
+        "evidence/privacy-study-020/README.md": {
+          "sha": "fd6c932b1af6a432f16449ace83e1b58aabe528a",
+          "text": "```\n\nA separate native Linux Docker run of the collection source passed the regular five recovery scenarios, live negative control, and two-session privacy regression: [Actions run 34008979902](https://github.com/ztsalexey/wallet-privacy-testkit/actions/runs/34008979902). Its [recovery report](linux-regression/report.json), [privacy manifest](linux-regression/privacy-manifest.json), [computed privacy report](linux-regression/privacy-report.json), and both metadata traces are also retained. That regression fits its own calibration cutoff; it is not a cross-platform evaluation of the frozen study detector.\n\nThe test suite includes 40 tests, including altered-model rejection, evaluation-label independence, byte-preserving conditioning, and rejection of a trimmed negative observation window. Release package/source audits also scan the retained traces. Wallet keys, seed phrases, TLS keys, raw signed transactions, and raw wallet logs are excluded. The disposable study volume was removed after successful completion.",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/evidence/privacy-study-020/README.md"
+        },
+        "evidence/privacy-study-020/linux-regression/privacy-manifest.json": {
+          "sha": "4af358fdf9e6500490ddc1da2674de1adb50c0a3",
+          "text": "",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/evidence/privacy-study-020/linux-regression/privacy-manifest.json"
+        },
+        "evidence/privacy-study-020/study-manifest.json": {
+          "sha": "8ac047e7ca9e3cf2d3620d19e981c9e4471a9093",
+          "text": "",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/evidence/privacy-study-020/study-manifest.json"
+        },
+        "evidence/randomized-study/README.md": {
+          "sha": "f2509accab3ee080b31bc6964352f0138e3659fb",
+          "text": "All **63 payments across 21 sessions** confirmed on OrbStack ARM64. Each session began with a distinct fresh sender, zero initial balance, and 480,000 spendable Orchard zatoshis after identical funding. Every recipient balance increase was exactly 150,000 zatoshis. The same run passed five recovery scenarios and detected the live unmined-payment control.\n\nThe [complete plan](study-plan.json) and collector were [committed before collection](https://github.com/ztsalexey/wallet-privacy-testkit/commit/d450c2432a2a80eabe217d9d0e7190e41dd531a1). The public seed was generated once; it determines scheduling, not wallet keys. Development smoke sessions used a separate seed and separate wallets and are excluded from this dataset.\n\nThe [manifest](study-manifest.json), [frozen detector](frozen-detector.json), [computed report](study-report.json), [recovery observations](report.json), all 21 complete metadata traces, and [provenance/checksums](provenance.json) are retained. A clean installed development wheel independently reproduced the report. After collection started, offline checks were strengthened to reject a schema downgrade and prevent mutable plan values from leaking into later generated plans; the collector, serialized plan, and detector rule did not change. A separate local observation recorded the frozen model hash while only the three calibration results existed.\n```\n\nThe separate [native Linux regression](https://github.com/ztsalexey/wallet-privacy-testkit/actions/runs/34015912957) passed on the collector source. Its [recovery report](linux-regression/report.json), [privacy manifest](linux-regression/privacy-manifest.json), [computed report](linux-regression/privacy-report.json), and two traces are retained and independently verified. It fits its own cutoff on the smaller two-session design; it is not cross-platform evaluation of this frozen study model.\n\nThe [methodology](../../docs/PRIVACY_STUDY.md) describes funding, the plan, wallets, network conditions, and remaining confounders. Raw wallet logs, keys, addresses, wallet seed phrases, and signed transaction bytes are excluded. The disposable full-study project is cleaned by the runner after success.\n\nValidation: all 47 tests passed on Python 3.11–3.13 across Linux and macOS and against a clean development wheel installation. The [final native Linux workflow](https://github.com/ztsalexey/wallet-privacy-testkit/actions/runs/34017199858) also passed.",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/evidence/randomized-study/README.md"
+        },
+        "evidence/randomized-study/linux-regression/privacy-manifest.json": {
+          "sha": "0ab566268f89eeabd3b79695c6181aa7099763f2",
+          "text": "",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/evidence/randomized-study/linux-regression/privacy-manifest.json"
+        },
+        "evidence/randomized-study/study-manifest.json": {
+          "sha": "3ba4fdf745a938078326c43c153bbb210cae1eca",
+          "text": "",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/evidence/randomized-study/study-manifest.json"
+        },
+        "evidence/zingolib-v5-compose/README.md": {
+          "sha": "acdcae67455d2a01042b94de2370fae1cf4f9810",
+          "text": "The [OrbStack ARM64 report](orbstack-aarch64.json) was produced on September 5, 2026 by the [Compose lab](../../examples/regtest/README.md), using new wallet seeds, a new TLS certificate, and an empty chain volume. The tested lab and runtime source correspond to commit `0e9f59f615fe4d53d7e8e03f3a4c9ef7c34cbf8f`. This is an executed Linux container experiment on OrbStack, not a replay of the older retained Mac wallet state.\n\nThe same source passed on native Linux Docker in [GitHub Actions run 33991854350](https://github.com/ztsalexey/wallet-privacy-testkit/actions/runs/33991854350), producing the [Linux x86-64 report](linux-x86_64.json). Both executions observed the same recovery states and balance deltas below, with independently generated wallets and transaction IDs. Docker Desktop has not been separately tested.\n\n| Scenario | Observed attempts | State after reopening, before mining | State after synchronization | Recipient increase |",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/evidence/zingolib-v5-compose/README.md"
+        },
+        "evidence/zingolib-v5-continuous/README.md": {
+          "sha": "0248ea0a572c5d4197b760aff65db343d335b39e",
+          "text": "# Executed recovery and continuous-traffic evidence\n\nBoth datasets below were produced from testkit source `a5d20cd877ba8d18f3a0abc719bdc135b571ae10` (0.2.0.dev1), merged in [PR #4](https://github.com/ztsalexey/wallet-privacy-testkit/pull/4). They use independently generated wallets, an empty chain volume, and the [documented Compose recipe](../../examples/regtest/README.md). Execution finished on September 6, 2026 UTC (September 5 in the local US timezone).\n\n- **OrbStack ARM64:** [recovery observations](orbstack-aarch64/report.json), [privacy manifest](orbstack-aarch64/privacy-manifest.json), and [computed privacy report](orbstack-aarch64/privacy-report.json). Docker Engine 29.4.0 ran Linux ARM64 containers on macOS.\n- **Native Linux Docker x86-64:** [recovery observations](linux-x86_64/report.json), [privacy manifest](linux-x86_64/privacy-manifest.json), and [computed privacy report](linux-x86_64/privacy-report.json), from [Actions run 34006560792](https://github.com/ztsalexey/wallet-privacy-testkit/actions/runs/34006560792).\n\nEach dataset also retains its complete calibration and evaluation metadata traces beside the manifest. [Provenance and file checksums](provenance.json) bind the retained files to this evidence set. Docker Desktop has not been separately tested.",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/evidence/zingolib-v5-continuous/README.md"
+        },
+        "evidence/zingolib-v5-continuous/linux-x86_64/privacy-manifest.json": {
+          "sha": "b770804ff22987dcd0b8a26c1a0d784a3e63a3f9",
+          "text": "",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/evidence/zingolib-v5-continuous/linux-x86_64/privacy-manifest.json"
+        },
+        "evidence/zingolib-v5-continuous/orbstack-aarch64/privacy-manifest.json": {
+          "sha": "110e8abdf4cfc7bdcb775dadf6d42edc04205cc4",
+          "text": "",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/evidence/zingolib-v5-continuous/orbstack-aarch64/privacy-manifest.json"
+        },
+        "examples/regtest/README.md": {
+          "sha": "2e6bc331abac23cf3be6fe23849d052bb96c82c9",
+          "text": "",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/examples/regtest/README.md"
+        },
+        "examples/zingolib/README.md": {
+          "sha": "6165017b244bbcffc893623cc044ac11b420cdb3",
+          "text": "",
+          "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/examples/zingolib/README.md"
+        }
+      },
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:04:42.654441+00:00",
+      "repo_id": 1358522089,
+      "file_cursor": 0
     },
     "repo:merlo-team/fund1-contracts": {
       "source": "repo",
@@ -3049,8 +3217,8 @@
           "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/site/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:24:02.013908+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:57.617247+00:00",
       "repo_id": 1358614318,
       "file_cursor": 0,
       "claims": [],
@@ -3094,8 +3262,8 @@
           "url": "https://github.com/Auditchain/audt-supply/blob/ef60a676317e146bfaf9b6793e853f8a098ca7c4/README.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:27.881977+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:02.756780+00:00",
       "repo_id": 1358626962,
       "file_cursor": 0,
       "claims": [],
@@ -3129,11 +3297,115 @@
       "repo": "boyfromcave/ycash-dd",
       "name": "boyfromcave/ycash-dd",
       "pr": 249,
-      "status": "excluded",
+      "status": "tracking",
       "registered_at": "2026-09-06T11:23:26.801899+00:00",
       "first_report_sha256": "fa33f6f03bf9a5ed291b4829fc75165749f3c2b6a51fdf552c1b210f3116e818",
-      "files": {},
-      "next_check_at": null
+      "files": {
+        "README.md": {
+          "sha": "32353e616e6bf17928587ad62c578b0ceacdbe54",
+          "text": "## Getting Started\n\nYcash is a digital currency. For more information, see https://y.cash.\n\nFor a comparison of Ycash to Bitcoin, see https://y.cash/fact-sheet.\n\nThis software is the Ycash node. It downloads and stores the entire history\n**Ycash is experimental and a work-in-progress.** Use at your own risk.\n\nYcash is a chain fork of Zcash. For most topics, you can rely on Zcash-related documentation, including the [user guide for zcashd](https://zcash.readthedocs.io/en/latest/rtd_pages/zcashd.html).\n\n## Need Help?\n\n* Visit https://y.cash\n* Ask for help in one of the [Ycash forums](https://y.cash/forums).\n\n## Code of Conduct\nFollow the instructions for building Zcash:\n\nhttps://zcash.readthedocs.io/en/latest/rtd_pages/zcashd.html#install\n\nFor any Ycash-specific build instructions, see the release notes. Host-specific notes for",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/README.md"
+        },
+        "README_ATOMIC_SWAP_GOLDEN_RULE.md": {
+          "sha": "4f28e6c994bf3cfe5d8fa6b2cbec84b379d4972c",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/README_ATOMIC_SWAP_GOLDEN_RULE.md"
+        },
+        "contrib/README.md": {
+          "sha": "4ec9fffa545783ce2d854c042f38672edfeb92a9",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/README.md"
+        },
+        "contrib/bitrpc/README.md": {
+          "sha": "f5ef2f0405a941e2c9ca8c4c1178a5a97a9d590e",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/bitrpc/README.md"
+        },
+        "contrib/ci-builders/buildbot/README.md": {
+          "sha": "46cd3affb9124997b47f15f7af0c878f5bc876dd",
+          "text": "\nCurrently available images are hosted at\nhttps://hub.docker.com/r/electriccoinco/zcashd-build/tags\n\n\n## gitian images\n\n`Dockerfile-gitian.apt` uses the build images to generate images for use with [gitian-builder](https://github.com/devrandom/gitian-builder)\n\nCurrently available images are hosted at https://hub.docker.com/r/electriccoinco/zcashd-gitian/tags\n\n\n## bbworker images\n\n`Dockerfile-bbworker.apt` uses the build images for use with [buildbot](https://buildbot.net)\n\n- bbworker-buildbot.tac is a required worker boot file (most is overridden at instancitation)\n- bbworker-requirements.txt is the python package requirements for the buildbot worker\n\nCurrently available images are hosted at https://hub.docker.com/r/electriccoinco/zcashd-bbworker/tags\n\n",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/ci-builders/buildbot/README.md"
+        },
+        "contrib/ci-builders/tekton/README.md": {
+          "sha": "667caf5aba80143f546799aa323c0a6ff6f3aa18",
+          "text": "\nCurrently available images are hosted at\nhttps://hub.docker.com/r/electriccoinco/zcashd-build/tags\n\n\n- requirements.txt is the python package requirements for the tekton worker\n\nCurrently available images are hosted at https://hub.docker.com/r/electriccoinco\n\n",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/ci-builders/tekton/README.md"
+        },
+        "contrib/ci-workers/README.md": {
+          "sha": "8ce9dc7641596abd1b645df508d6b0d0d3d8197d",
+          "text": "# Setting up a latent worker on Amazon EC2\n\n1. Add a regular (non-latent) worker to the master.cfg for dev-ci.z.cash, and\n   deploy the changes.\n  - This enables the Ansible playbook to run to completion, ending in the worker\n5. Run `ansible-playbook -e buildbot_worker_host_template=templates/host.ec2.j2 -i inventory/hosts unix.yml`,\n   passing in the worker's Buildbot name and password.\n  - After a successful run, the worker should be connected to dev-ci.z.cash and\n    visible in its worker list.\n\n6. Create an AMI from the instance. This is the worker AMI to put into the\n   master.cfg for dev-ci.z.cash.\n  - 16 GB of storage should be sufficient.\n\n7. SSH into the instance, and edit the worker config to connect to ci.z.cash.\n\n8. Create an AMI from the instance. This is the worker AMI to put into the\n   master.cfg for ci.z.cash.\n  - 16 GB of storage should be sufficient.\n",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/ci-workers/README.md"
+        },
+        "contrib/devtools/README.md": {
+          "sha": "e16e6b5b0b1dd2640b0796e1fde0068454a14a73",
+          "text": "\nA small script to automatically create manpages in ../../doc/man by running the release binaries with the -help option.\nThis requires help2man which can be found at: https://www.gnu.org/software/help2man/\n\ngit-subtree-check.sh\nTo use, make sure that you have fetched the upstream repository branch in which the subtree is\nmaintained:\n* for src/secp256k1: https://github.com/bitcoin/secp256k1.git (branch master)\n* for sec/leveldb: https://github.com/bitcoin/leveldb.git (branch bitcoin-fork)\n\nUsage: git-subtree-check.sh DIR COMMIT",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/devtools/README.md"
+        },
+        "contrib/docker/README.md": {
+          "sha": "912604517f2a078edde30357fe13e808c18bf5ca",
+          "text": "This is an example Dockerfile to run the zcashd daemon in a containerized Debian base OS. The image pulls the apt package built by Electric Coin Company.\n\nThe output of building this image should be accessible at https://hub.docker.com/r/electriccoinco/zcashd\n\n## Defaults\n\nIn order to ensure you are adequately protecting your privacy when using Zcash,\nplease see <https://z.cash/support/security/>.\n\nCopyright (C) 2009-2019 The Bitcoin Core Developers\n\nDistributed under the MIT software license, see the accompanying file COPYING\nor <https://www.opensource.org/licenses/mit-license.php>.\n```\n",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/docker/README.md"
+        },
+        "contrib/gitian-descriptors/README.md": {
+          "sha": "8ca2347e0564d89f68db539e19987bc0983b57c0",
+          "text": "\nThese instructions distilled from\n[https://help.ubuntu.com/community/KVM/Installation](https://help.ubuntu.com/community/KVM/Installation).\n\nYou need the right hardware: you need a 64-bit-capable CPU with hardware virtualization support (Intel VT-x or AMD-V). Not all modern CPUs support hardware virtualization.\nOnce you've got the right hardware and software:\n\n    git clone git://github.com/bitcoin/bitcoin.git\n    git clone git://github.com/devrandom/gitian-builder.git\n    mkdir gitian-builder/inputs\n    cd gitian-builder/inputs\n\n`gitian-builder` now also supports building using LXC. See\n[help.ubuntu.com](https://ubuntu.com/server/docs/containers-lxc)\nfor how to get LXC up and running under Ubuntu.\n\nHere's a description of Gavin's setup on OSX 10.6:\n\n1. Download and install VirtualBox from [https://www.virtualbox.org/](https://www.virtualbox.org/)\n\n2. Download the 64-bit Ubuntu Desktop 12.04 LTS .iso CD image from\n   [https://ubuntu.com/](https://ubuntu.com)\n\n3. Run VirtualBox and create a new virtual machine, using the Ubuntu .iso (see the [VirtualBox documentation](https://www.virtualbox.org/wiki/Documentation) for details). Create it with at least 2 gigabytes of memory and a disk that is at least 20 gigabytes big.\n\n4. Inside the running Ubuntu desktop, install:\n\n\texport USE_LXC=1\n\tgit clone git://github.com/bitcoin/bitcoin.git\n\t... etc",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/gitian-descriptors/README.md"
+        },
+        "contrib/linearize/README.md": {
+          "sha": "06f278f3b3c710ed237ee81b1357970b583bd457",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/linearize/README.md"
+        },
+        "contrib/macdeploy/README.md": {
+          "sha": "ab670c6e4e78d367dfcbb60bc96eb66778bc6188",
+          "text": "## SDK Extraction\n\n### Step 1: Obtaining `Xcode.app`\n\nOur current macOS SDK\n(`Xcode-11.3.1-11C505-extracted-SDK-with-libcxx-headers.tar.gz`) can be\nextracted from\n[Xcode_11.3.1.xip](https://download.developer.apple.com/Developer_Tools/Xcode_11.3.1/Xcode_11.3.1.xip).\nIn order to download this, you may need to first\n[log in with an Apple ID here](https://developer.apple.com/download/more/).\n\nThe file is ~7.8 GB.\n\nAfter Xcode version 7.x, Apple started shipping the `Xcode.app` in a `.xip`\narchive. This makes the SDK less-trivial to extract on non-macOS machines. One\napproach (tested on Debian Buster) is outlined below:\n\n```bash\n# Install/clone tools needed for extracting Xcode.app\napt install cpio\ngit clone https://github.com/bitcoin-core/apple-sdk-tools.git\n\n# Unpack Xcode_11.3.1.xip and place the resulting Xcode.app in your current\n# working directory\npython3 apple-sdk-tools/extract_xcode.py -f Xcode_11.3.1.xip | cpio -d -i\nThe extracted files require ~17 GB of disk space.\n\n### Step 2: Generating `Xcode-11.3.1-11C505-extracted-SDK-with-libcxx-headers.tar.gz` from `Xcode.app`\n\nTo generate `Xcode-11.3.1-11C505-extracted-SDK-with-libcxx-headers.tar.gz`, run\nthe script [`gen-sdk`](./gen-sdk) with the path to `Xcode.app` (extracted in the\nprevious stage) as the first argument.\n\n```bash\n# Generate a Xcode-11.3.1-11C505-extracted-SDK-with-libcxx-headers.tar.gz from\n# the supplied Xcode.app\n./contrib/macdeploy/gen-sdk '/path/to/Xcode.app'\n```\n\nother tools are needed as well such as `install_name_tool`, `lipo`, and `nmedit`. These\ndo not build under Linux, so they have been patched to do so. The work here was used as\na starting point: [mingwandroid/toolchain4](https://github.com/mingwandroid/toolchain4).\n\nIn order to build a working toolchain, the following source packages are needed from\n\n```bash\nXcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk\n```\n\n`genisoimage` is used to create the initial DMG. It is not deterministic as-is, so it has been\npatched. A system `genisoimage` will work fine, but it will not be deterministic because\nthe file-order will change between invocations. The patch can be seen here: [cdrkit-deterministic.patch](https://github.com/bitcoin/bitcoin/blob/master/depends/patches/native_cdrkit/cdrkit-deterministic.patch).\nNo effort was made to fix this cleanly, so it likely leaks memory badly, however it's only used for\na single invocation, so that's no real concern.\n  built in order to create a final DMG.\n- The Apple keyholder uses this unsigned app to create a detached signature, using the\n  script that is also included there. Detached signatures are available from this [repository](https://github.com/bitcoin-core/bitcoin-detached-sigs).\n- Builders feed the unsigned app + detached signature back into Gitian. It uses the\n  pre-built tools to recombine the pieces into a deterministic DMG.",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/macdeploy/README.md"
+        },
+        "contrib/qos/README.md": {
+          "sha": "43ec02364c3159fb04cc6cf564bf425e880394c6",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/qos/README.md"
+        },
+        "contrib/seeds/README.md": {
+          "sha": "0a9d59d88cafd00eabe2e125a5ab4270d5cc4e36",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/seeds/README.md"
+        },
+        "contrib/testgen/README.md": {
+          "sha": "83624f443a7f9f71ba2a1f1c2dbc3d3a8297bc7d",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/testgen/README.md"
+        },
+        "contrib/yellowback/README.md": {
+          "sha": "eb1973a1818ba999cd4cac71d4d35526fce0b3d8",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/contrib/yellowback/README.md"
+        },
+        "depends/README.md": {
+          "sha": "cf88a425fa8d24f3a2c57567cd7795a6693c3a0b",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/depends/README.md"
+        },
+        "doc/book/src/README.md": {
+          "sha": "3bad00702a7672d10d993a8ce183aed3a24aef7b",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/doc/book/src/README.md"
+        },
+        "qa/README.md": {
+          "sha": "6cca07d2d8501320cc7b222286f59c408402414c",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/qa/README.md"
+        },
+        "qa/rpc-tests/README.md": {
+          "sha": "315feae71cf96bf0c956fe17ab277ff6ed76ef92",
+          "text": "",
+          "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/qa/rpc-tests/README.md"
+        }
+      },
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:04:47.940179+00:00",
+      "repo_id": 1358682417,
+      "file_cursor": 18
     },
     "repo:nativ3ai/robinhood-terminal": {
       "source": "repo",
@@ -3271,12 +3543,102 @@
           "sha": "8deb66b57393dd1139192c167700d368276de893",
           "text": "",
           "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/design/logo-marks/README.md"
+        },
+        "docs/01-PRD.md": {
+          "sha": "bfff9238b752d26f413e3994086170b85b18eaf3",
+          "text": "## 10. Assumptions to verify (discovery milestone)\n\n1. **Verified 2026-09-04.** Robinhood Chain is an Arbitrum Orbit chain, chain id 4663, ETH for gas, public RPC `rpc.mainnet.chain.robinhood.com`, explorer `robinhoodchain.blockscout.com`.\n2. **Verified 2026-09-04.** Robinhood Stock Tokens are plain ERC-20s, 18 decimals, no transfer hook or allowlist; any wallet or contract can hold and move them. They carry an ERC-8056 corporate-action multiplier (`uiMultiplier`, `balanceOfUI`). Restrictions are legal, not on-chain: not for U.S., Canadian, UK or Swiss persons, so eligibility is a front-end geo-fence plus terms. Canonical addresses come from `api.robinhood.com/rhj/assets`; look-alike tokens exist.\n3. **Verified 2026-09-04, and decided.** $RIG launches on Pons and graduates to a Uniswap v3 RIG/WETH pool (NFT position, locked). No fungible LP exists; LP staking is off in v1 (Q3). The token has no burn function; upgrade spend is transferred to the dead address.\n4. **Verified 2026-09-04.** Every Stock Token has a Chainlink feed (AggregatorV3, multiplier included) on Robinhood Chain; `ChainlinkOracle` adapts it for cash-out. The chain's dollar is USDG, which the vault uses as the quote token.",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/01-PRD.md"
+        },
+        "docs/02-MINING-MODEL.md": {
+          "sha": "df5375f390a9c9fe24c1055751f6cfecdaa53d62",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/02-MINING-MODEL.md"
+        },
+        "docs/03-GAME-DESIGN.md": {
+          "sha": "997c120e464b06705994f0e06f3f65fe893d63e9",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/03-GAME-DESIGN.md"
+        },
+        "docs/04-TOKENOMICS.md": {
+          "sha": "ec32297cf219c27e8933bfcf1a16b0cd2070d230",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/04-TOKENOMICS.md"
+        },
+        "docs/05-TECH-SPEC-CONTRACTS.md": {
+          "sha": "f343fd28de52433894d4bda3f04f4f31fed04be0",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/05-TECH-SPEC-CONTRACTS.md"
+        },
+        "docs/06-TECH-SPEC-APP.md": {
+          "sha": "b469916eb3794fcae8c3ce288919031587a0819f",
+          "text": "## 6. Operations tooling\n\nAll in `ops/` (`pnpm --filter @stock-miner/ops <script>`); the full procedure is `docs/RUNBOOK.md`.\n\n- `deploy-factory` / `create-season`: wrappers over `contracts/script/DeployFactory.s.sol` and\n- Visual regression on `/mine` in each phase and density.\n- Contract math parity test: TypeScript `pending`/`eta` vs the contract's `pending()`/`eta()` on random\n  states against Anvil (`pnpm --filter @stock-miner/app parity`).\n\n## 8. Accessibility and performance",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/06-TECH-SPEC-APP.md"
+        },
+        "docs/07-COMPLIANCE-AND-RISK.md": {
+          "sha": "ba693eebd456ee74976dd11bd6a70450db79d75e",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/07-COMPLIANCE-AND-RISK.md"
+        },
+        "docs/08-DELIVERY-PLAN.md": {
+          "sha": "a2fbfd3a641231c7eda43c2f7cc2a8537b4fafdc",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/08-DELIVERY-PLAN.md"
+        },
+        "docs/09-OPEN-QUESTIONS.md": {
+          "sha": "e8ad6042615b20ad70647738e6ff70e76504f5c0",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/09-OPEN-QUESTIONS.md"
+        },
+        "docs/10-BUILD-PLAN.md": {
+          "sha": "088a9506e3fbc08c5ab26572b0f90f8779cacb92",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/10-BUILD-PLAN.md"
+        },
+        "docs/11-DESIGN-BRIEF.md": {
+          "sha": "54c3b42f69f247d146555bbefa60c572204cd1c7",
+          "text": "  page titles 64–80px, block ticker 80px, hero 96–150px. Weight 600 for titles, 700 for 56px and up.\n  Below 36px a heading becomes a Readex Pro label instead.\n- **Readex Pro** (UI; Google Fonts build self-hosted via `@fontsource-variable/readex-pro`). Body,\n  buttons, labels (uppercase, tracked +0.08em, 12px).\n- **IBM Plex Mono** (data). Every number, address and unit, tabular.",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/11-DESIGN-BRIEF.md"
+        },
+        "docs/12-REBRAND-AI-INFERENCE.md": {
+          "sha": "ada22817df9b953e833f8854bbfa7074535dee8b",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/12-REBRAND-AI-INFERENCE.md"
+        },
+        "docs/AUDIT-PACKAGE.md": {
+          "sha": "a2c2943e5f6433c2805ef04e135d228ae57a6b59",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/AUDIT-PACKAGE.md"
+        },
+        "docs/AUDIT-RESPONSE-2026-09-04.md": {
+          "sha": "90c623147df41cb18823a8a65446609243fec066",
+          "text": "| # | Severity | Finding | Resolution | Regression test |\n|---|---|---|---|---|\n| B1 | Critical | Next 15.1.2 / React 19.0.0 (React Flight RCE, GHSA-9qr9-h5gf-34mp) | Next 15.5.25, React 19.2.8, Playwright 1.62; pnpm overrides for `ws`, `postcss`, `sharp`, `vite`, `kysely`, `drizzle-orm`, `@hono/node-server`. `pnpm audit --prod`: 0 critical, 0 high (7 moderate, 1 low, all transitive) | CI step `pnpm audit --prod --audit-level high` |\n| B2 | High | Logical close can leave `closeX` unset so redemption never opens | The vault already pokes before every redemption/sweep on this branch. Added: the keeper pokes once when `phase == Closed && closeX == 0` then stops (`keeperDecision`); the closed screen shows \"Record the close\" (a `poke`) while the close is unpersisted; the redeem page explains the state | `ops/test/keeper.test.ts`; `Vault.t.sol` sweep/redeem self-heal already covered |\n| B3 | High | Factory accepts zero eligibility / oracle / usdc | `SeasonFactory.create` reverts `InvalidParams(\"vault dependencies\")`; `validateVaultDeps` mirrors it in `ops plan` | `Gating.t.sol::test_factory_rejects_zero_vault_dependencies`, `ops/test/validate.test.ts` |",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/AUDIT-RESPONSE-2026-09-04.md"
+        },
+        "docs/BUILD-LOG.md": {
+          "sha": "62c63c29c055978bfb8fa4c2692d1e769b720613",
+          "text": "  MockERC20, MockStockToken, AllowlistEligibility, MockPriceOracle, SeasonFactory).\n- Demo season: `anvil --block-time 1` then\n  `forge script script/DeployDemo.s.sol --rpc-url http://127.0.0.1:8545 --broadcast`\n  (env `PACE_SECONDS`, `DEMO_HASH`, `OPEN_DELAY`). Time-warp with `cast rpc evm_increaseTime`.\n- Reads the UI needs in one multicall: `shift, workInShift, lastX, totalHash, closeX, progress(),\n\n- `docker-compose.yml`, `.env.example`, `.dockerignore`, `ops/Dockerfile` (Foundry build stage + Node\n  runtime, entrypoint `pnpm --filter @stock-miner/ops`), `indexer/Dockerfile`.\n- `ops watch`: `ALERT_WEBHOOK_URL` / `ALERT_MIN_LEVEL` / `ALERT_REPEAT_SECONDS`; verified on Anvil\n  with a local receiver (info forwarded at `info`, suppressed at `warn`).\n- Railway: `app/Dockerfile` (Next.js), `railway/{app,indexer,keeper,watch}.json`, `/api/health`\n  liveness route. Project `shimmering-inspiration` runs `app`, `indexer`, `keeper`, `Postgres`;\n  app at `https://app-production-8f29.up.railway.app`. RUNBOOK §10c is the procedure.\n- Ops: chain profiles accept `${VAR:-default}` (the Robinhood profiles already used it, but `expand`\n  only handled `${VAR}`); `loadDeployment` falls back to `MINE_ADDRESS` env; `fund --mint-mocks`\n\n**Known gaps**: Railway services still deploy from `railway up`, not from GitHub (dashboard step);\nthree stray Postgres services and the five empty `@stock-miner/*` services from the original import\nneed deleting in the dashboard; Cloudflare zone pending the domain; the mock oracle's timestamps are\nfixed at deploy time, so cash-out on the testnet needs an `oracle.set` refresh before use.\ninstructions are in docs/HOSTING.md.\n\nPublished the landing-page export at https://witty-breeze-ggxj.here.now/ on 2026-09-04.\nThe publish was finalized successfully in anonymous mode (24-hour expiry). Private claim details\nremain exclusively in ignored local publisher state and the user handoff.\nstates. The supplied PNG is byte-for-byte preserved and used in the header, footer and browser icon.\n\nUpdated https://witty-breeze-ggxj.here.now/ successfully on 2026-09-04 (anonymous 24-hour preview).\nKnown gaps: gameplay still requires a live season/backend. Next 15's existing development hot-reload\nmanifest issue recurred during edits; restarting the local preview restored normal rendering. The\n\nRehearsal season with the mock token set, deployed from a throwaway key. Explorer:\nhttps://explorer.testnet.chain.robinhood.com\n\n| Contract | Address |\n|---|---|\n| SeasonFactory | `0xF98f1De589D1fdDCAdd62500373B807B07720A2a` |\n| SeasonMine (season 0) | `0xcA24Ea657371E27B3281a1DfF5A1e8119De71D40` |\n| StockFragments | `0xdd2712C6457E15993D1d0ab30c3719F30c757621` |\n| RedemptionVault | `0x776E7993c4527EA5EB834ce1fdB61580f41497Bc` |\n| RIG (mock) | `0x6E323a6B2De8c3Df127b5FD0E253b73AEb270264` |\n| LP, USDC (mocks) | `0x0E5A6F524e8cD877B8Ae71047dE9E957500928a0`, `0x127bc68E1DfCa3f6Ea512Ed391F7CfBEB934f2f2` |\n| Oracle, eligibility (mocks) | `0xC74779bB0cC5b77BADD2B9F68D8D4Bd133D48893`, `0x14B4767E4984E8178F175e81BC7E363c54895E09` |\n| Stocks NVDAx/TSLAx/AAPLx/SPYx (mocks) | `0x50EC…ffA1`, `0xaaF1…B2e6`, `0xF9e6…278c`, `0x51e9…F387` |\n\nSeason `testnet-rehearsal-1`: planned 3600s at 1,000,000 RIG-eq, cap 7200s, open 2026-09-04T21:06:35Z,\nparamsHash `0xb93674952af9d14b02e8346eeadace7e72063b9a062dd902240b88b3eff257cb`, vault funded, phase PreOpen.\nDeployer/operator/treasury are all the throwaway key (`0xa5b712ba714118CB75615AD5103E14c8F4680939`).\n\nWhat shipped: `ops/chains/robinhood-testnet.json` filled in, `robinhood-testnet-mocks.json` profile, the",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/BUILD-LOG.md"
+        },
+        "docs/DECISIONS.md": {
+          "sha": "7e807dcf363e9d65942a90027e42a0f8aac4ee47",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/DECISIONS.md"
+        },
+        "docs/GLOSSARY.md": {
+          "sha": "69005b3949514f12f344315205fe8e4fc2889241",
+          "text": "",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/GLOSSARY.md"
+        },
+        "docs/HOSTING.md": {
+          "sha": "e47d0d13ffb15bf76e3f9f9427e73fb365ec9c47",
+          "text": "\n```sh\npnpm --filter @stock-miner/app export:landing\n```\n",
+          "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/docs/HOSTING.md"
         }
       },
-      "next_check_at": "2026-09-06T12:00:00+00:00",
-      "last_check_at": "2026-09-06T11:23:28.807102+00:00",
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:03.906940+00:00",
       "repo_id": 1358787003,
-      "file_cursor": 18,
+      "file_cursor": 36,
       "claims": [],
       "claims_fingerprint": "b99370f43ac7c3de12a6aebf515572954fd1158b7f5f23c14d436c0cc86c9663",
       "verified_fingerprint": "b99370f43ac7c3de12a6aebf515572954fd1158b7f5f23c14d436c0cc86c9663"
@@ -3291,9 +3653,209 @@
       "first_report_sha256": "49dfd1003262ca282734fa8f557dc6dac67f2b74db870367e45673674fb55ec4",
       "files": {},
       "next_check_at": null
+    },
+    "repo:vesperpad/vesper": {
+      "source": "repo",
+      "repo": "vesperpad/vesper",
+      "name": "vesperpad/vesper",
+      "pr": 227,
+      "status": "excluded",
+      "registered_at": "2026-09-06T14:04:34.628167+00:00",
+      "first_report_sha256": "c758f468bb1586f7f312aa90daf56474b2b59c4de186da8f0d33d648cd28cded",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:harkor421/costco-back": {
+      "source": "repo",
+      "repo": "Harkor421/costco-back",
+      "name": "Harkor421/costco-back",
+      "pr": 243,
+      "status": "tracking",
+      "registered_at": "2026-09-06T14:04:36.524283+00:00",
+      "first_report_sha256": "b15aad260a14514932e00fa3722de287b5e72ed6555601d3cfd329edc69558f4",
+      "files": {
+        "README.md": {
+          "sha": "2b68fbfd1f83c2a6e074b80ec24fd77b391a1ec0",
+          "text": "everybody is buying the same hot dog.\n\nThe machinery underneath is [Stock Royale](https://github.com/Harkor421/stock-royale-back)'s,\ncarried over where it matters. That project bought the winning stock at the bell\nand split it pro-rata among a memecoin's holders; this one skips the contest and\nword of it is still true here. The short version:\n\n**The indexer will not talk to you.** `robinhoodchain.blockscout.com` sits behind\na Cloudflare challenge and answers a server **403** with an HTML *\"Just a\nmoment…\"* page. Nothing identifies itself as an error — the crawl comes back\nempty, which downstream looks exactly like *a coin with no holders*. That is the\nfailure mode to recognise. `api.blockscout.com/4663` answers **402** without a\nkey, which at least says what is wrong. **Set `BLOCKSCOUT_API_KEY`** and this\npath works.\n\n1. `railway init` → `railway up`, or connect the GitHub repo.\n   **Live: `wss://hotdog-rewards-back-production.up.railway.app`**\n2. Set at minimum: `TOKEN`, `DISTRIBUTOR_PRIVATE_KEY`, `PAYOUTS`, `DRY_RUN`.\n3. Networking → generate a domain. The frontend's `NEXT_PUBLIC_BACKEND_URL` is",
+          "url": "https://github.com/Harkor421/costco-back/blob/e718643f14e8daa323a584d32fa8df0c89a9ba27/README.md"
+        }
+      },
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:04:52.840049+00:00",
+      "repo_id": 1358634709,
+      "file_cursor": 0
+    },
+    "repo:kiattisakph/robinhood-wallet-alert-bot": {
+      "source": "repo",
+      "repo": "kiattisakph/robinhood-wallet-alert-bot",
+      "name": "kiattisakph/robinhood-wallet-alert-bot",
+      "pr": 264,
+      "status": "tracking",
+      "registered_at": "2026-09-06T14:04:38.939783+00:00",
+      "first_report_sha256": "ac8e2ef5231f7ea71b04bf504782f1eb1256d57703fed3484001539cba066a37",
+      "files": {
+        "README.md": {
+          "sha": "a52be75cef9f182d28a8637c96bbfc885030e432",
+          "text": "Use any Robinhood Chain Mainnet HTTP + WS endpoints. Explorer:\n\nhttps://robinhoodchain.blockscout.com\n\n### 4. Telegram\n\n1. Create a bot with [@BotFather](https://t.me/BotFather) and copy the token.\n2. Add the bot to your chat/channel.\n3. Resolve `TELEGRAM_CHAT_ID` (for channels/groups, often `-100...`).\nTables: `wallets`, `wallet_events`, `tokens`, `chain_state`, `quote_assets`.\n\n**Quote assets:** do not invent Robinhood token addresses. After you verify USDC / USDT / WETH (and optionally native ETH sentinel `0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE`), insert them into `quote_assets`. Classification of BUY/SELL depends on configured quote assets.\n\n## Adding wallets",
+          "url": "https://github.com/kiattisakph/robinhood-wallet-alert-bot/blob/91dae85e2cd97fa67b12db1ef1177b96ce367ecb/README.md"
+        },
+        "docs/robinhood_realtime_telegram_bot_cursor_spec.md": {
+          "sha": "891e82a7d286e3a3b4a5d6f224168455887e06f6",
+          "text": "\n```text\nhttps://robinhoodchain.blockscout.com\n```\n\n\n```html\n<code>0x39dBED3a2bd333467115dE45665cC57F813C4571</code>\n```\n\n\n📄 CA:\n0x39dBED3a2bd333467115dE45665cC57F813C4571\n\n🎯 Confidence: 98%\n\n👛 Wallet:\n0x696d1265C8Fc4F14797aBEBFAe3C43EBFA9D8e28\n\n🔗 Explorer\nhttps://robinhoodchain.blockscout.com/tx/0x...\n\n📊 Chart\nhttps://...\n```\n\n\n📄 CA:\n0x39dBED3a2bd333467115dE45665cC57F813C4571\n\n🎯 Confidence: 98%\n\n👛 Wallet:\n0x696d1265C8Fc4F14797aBEBFAe3C43EBFA9D8e28\n\n🔗 Explorer\nhttps://robinhoodchain.blockscout.com/tx/0x...\n\n📊 Chart\nhttps://...\n```\n\nExplorer:\n\nhttps://robinhoodchain.blockscout.com\n\nAt startup:\nHTML example:\n\n<code>0x39dBED3a2bd333467115dE45665cC57F813C4571</code>\n\nDo NOT shorten the token CA.\nnpm run wallet:add -- \\\n  --name \"Frank\" \\\n  --address 0x696d1265C8Fc4F14797aBEBFAe3C43EBFA9D8e28\n```\n",
+          "url": "https://github.com/kiattisakph/robinhood-wallet-alert-bot/blob/91dae85e2cd97fa67b12db1ef1177b96ce367ecb/docs/robinhood_realtime_telegram_bot_cursor_spec.md"
+        }
+      },
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:04:55.077247+00:00",
+      "repo_id": 1358885217,
+      "file_cursor": 0
+    },
+    "repo:rudo-onchain/robinhood-wallet-alert-bot": {
+      "source": "repo",
+      "repo": "rudo-onchain/robinhood-wallet-alert-bot",
+      "name": "rudo-onchain/robinhood-wallet-alert-bot",
+      "pr": 265,
+      "status": "tracking",
+      "registered_at": "2026-09-06T14:04:39.219533+00:00",
+      "first_report_sha256": "cb097e4bef45d6c88f3cd594ff87594184a123a9b8c9d7422b4d1b002ba1b06c",
+      "files": {
+        "README.md": {
+          "sha": "a52be75cef9f182d28a8637c96bbfc885030e432",
+          "text": "Use any Robinhood Chain Mainnet HTTP + WS endpoints. Explorer:\n\nhttps://robinhoodchain.blockscout.com\n\n### 4. Telegram\n\n1. Create a bot with [@BotFather](https://t.me/BotFather) and copy the token.\n2. Add the bot to your chat/channel.\n3. Resolve `TELEGRAM_CHAT_ID` (for channels/groups, often `-100...`).\nTables: `wallets`, `wallet_events`, `tokens`, `chain_state`, `quote_assets`.\n\n**Quote assets:** do not invent Robinhood token addresses. After you verify USDC / USDT / WETH (and optionally native ETH sentinel `0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE`), insert them into `quote_assets`. Classification of BUY/SELL depends on configured quote assets.\n\n## Adding wallets",
+          "url": "https://github.com/rudo-onchain/robinhood-wallet-alert-bot/blob/8c0f34ab4626f273b037595f715174291b7086f7/README.md"
+        },
+        "docs/robinhood_realtime_telegram_bot_cursor_spec.md": {
+          "sha": "891e82a7d286e3a3b4a5d6f224168455887e06f6",
+          "text": "\n```text\nhttps://robinhoodchain.blockscout.com\n```\n\n\n```html\n<code>0x39dBED3a2bd333467115dE45665cC57F813C4571</code>\n```\n\n\n📄 CA:\n0x39dBED3a2bd333467115dE45665cC57F813C4571\n\n🎯 Confidence: 98%\n\n👛 Wallet:\n0x696d1265C8Fc4F14797aBEBFAe3C43EBFA9D8e28\n\n🔗 Explorer\nhttps://robinhoodchain.blockscout.com/tx/0x...\n\n📊 Chart\nhttps://...\n```\n\n\n📄 CA:\n0x39dBED3a2bd333467115dE45665cC57F813C4571\n\n🎯 Confidence: 98%\n\n👛 Wallet:\n0x696d1265C8Fc4F14797aBEBFAe3C43EBFA9D8e28\n\n🔗 Explorer\nhttps://robinhoodchain.blockscout.com/tx/0x...\n\n📊 Chart\nhttps://...\n```\n\nExplorer:\n\nhttps://robinhoodchain.blockscout.com\n\nAt startup:\nHTML example:\n\n<code>0x39dBED3a2bd333467115dE45665cC57F813C4571</code>\n\nDo NOT shorten the token CA.\nnpm run wallet:add -- \\\n  --name \"Frank\" \\\n  --address 0x696d1265C8Fc4F14797aBEBFAe3C43EBFA9D8e28\n```\n",
+          "url": "https://github.com/rudo-onchain/robinhood-wallet-alert-bot/blob/8c0f34ab4626f273b037595f715174291b7086f7/docs/robinhood_realtime_telegram_bot_cursor_spec.md"
+        }
+      },
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:04:56.668745+00:00",
+      "repo_id": 1358922518,
+      "file_cursor": 0
+    },
+    "repo:33hodl/rh-chain-wallet-lens": {
+      "source": "repo",
+      "repo": "33hodl/rh-chain-wallet-lens",
+      "name": "33hodl/rh-chain-wallet-lens",
+      "pr": 266,
+      "status": "tracking",
+      "registered_at": "2026-09-06T14:04:39.482545+00:00",
+      "first_report_sha256": "d200795d71846ab25c01d07e37aba5fc85bd77d3b5db6c5a0b8af9131e410d42",
+      "files": {
+        "README.md": {
+          "sha": "2fabf560eb96d569268a5c4f7dc1fb9398c504a7",
+          "text": "# 🦅 Robinhood Chain · Wallet Lens\n\nA read-only, **client-side** portfolio viewer + cost-basis PnL tool for [Robinhood Chain](https://robinhoodchain.blockscout.com/) (Arbitrum Orbit L2, chain ID **4663**). Paste any wallet address — or open a `?wallet=0x…` link — and see live on-chain balances with market prices, mcap, liquidity, volume, 24h change, and token-safety flags. Optionally reconstruct the wallet's **cost-basis PnL** from its on-chain history.\n\nNo server, no keys, no analytics. All data is fetched straight from public endpoints into your browser.\n## Data endpoints\n\n- Public RPC: `https://robinhood-rpc.publicnode.com` (CORS `*`)\n- Blockscout v2: `https://robinhoodchain.blockscout.com/api/v2` (CORS `*`, flaky under load)\n- DexScreener: `https://api.dexscreener.com/tokens/v1/robinhood/{ca}` (CORS `*`)\n- GoPlus security: `https://api.gopluslabs.io/api/v1/token_security/4663?contract_addresses={ca}` (CORS echoes origin)\n\n## Roadmap\n\n- [ ] Live trader tape / top-PnL panel — robinhoodtrenches.com API has no CORS headers; needs a tiny proxy (Cloudflare Worker) first\n- [ ] LP position value detection (Uni v3/v4, Revert, hook wrappers) — needs the same worker for Blockscout position endpoints\n- [ ] Gas inclusion via per-tx fee lookups",
+          "url": "https://github.com/33hodl/rh-chain-wallet-lens/blob/00fcbfd2a072ad4f7c0ac709912b68184ff8d0e9/README.md"
+        }
+      },
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:04:57.978959+00:00",
+      "repo_id": 1358940529,
+      "file_cursor": 0
+    },
+    "repo:afutrus/ularular": {
+      "source": "repo",
+      "repo": "Afutrus/ularular",
+      "name": "Afutrus/ularular",
+      "pr": 270,
+      "status": "excluded",
+      "registered_at": "2026-09-06T14:04:39.717295+00:00",
+      "first_report_sha256": "ca471bb2eed0496c2081318f0ce36a134180d3ec7c97c8df9e2f8671f3862797",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:edgeza/zorpha": {
+      "source": "repo",
+      "repo": "edgeza/zorpha",
+      "name": "edgeza/zorpha",
+      "pr": 271,
+      "status": "excluded",
+      "registered_at": "2026-09-06T14:04:39.967884+00:00",
+      "first_report_sha256": "39cb12bc35869f35072469a34b5e8f7cf415a967fedaf43f783a9bd20f650706",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:seanbc618-tech/robinhood-meme-bot": {
+      "source": "repo",
+      "repo": "seanbc618-tech/robinhood-meme-bot",
+      "name": "seanbc618-tech/robinhood-meme-bot",
+      "pr": 272,
+      "status": "tracking",
+      "registered_at": "2026-09-06T14:04:40.260961+00:00",
+      "first_report_sha256": "91240d95af64c6031835ba55cbc66db8e5bdc3fdbbeaf7ba5cfa512e37c226b5",
+      "files": {
+        "README.md": {
+          "sha": "53d61c4faf607ee628e2a5ee3f38363d6f3d0b1d",
+          "text": "已完成：Pons 事件观察、热点筛选、V4 双向报价/连续买卖模拟、收据记账与 Telegram 播报。\n**还不是可实盘交易的 bot，没有盈利验证。** 不读取私钥、不发链上交易。\n已获授权安装并锁定 `viem 2.56.3`、`@uniswap/v4-sdk 2.3.3`，Node 22.13+。\nPython 首版保持可用；新增功能入口见下节。\n保留原始《制作指南》，本文件记录本轮具体决定和实际完成情况。\n遇到 trace 错误仍会明确标记，不能把能力验证等同于所有历史都可用。\n\n已登记公开钱包 `0xC2dc593C69075b24Dec00dAB3F17af421f63Ca94`。\n本轮链上查询：ETH=0、USDG=0、nonce=0；未初始化资金账本，避免尚未入金触发虚假的亏损熔断。\n尚无钱包签名连接，不持有私钥。先完成账户启动基线和订单闭环，再进行小额入金验收。\n## 本轮验证（2026-09-05）\n\n- Pons 源码固定版本 `845bd546b37515621e47b08015ce4f9d374f6eca`，来源 [ponsdotdev/ponsfamily](https://github.com/ponsdotdev/ponsfamily)。\n- V4 地址来自 [Uniswap 部署清单](https://github.com/Uniswap/contracts/blob/main/deployments/4663.md)。已校验链上工厂/hook 关联、池状态和路由版本特征；未完成编译后逐字节源码匹配。\n- 真实池 `0x775f7609637aaf5adb5ab837f7d4986d5931b0d3`，在区块 54,777,707 完成买→授权→卖连续模拟，4 次调用成功。\n  0.005 ETH 返回 0.004802060032602147 ETH，约 3.95% 往返损耗，尚未含完整 Gas；不是实盘成交。\n- 已根据真实模拟日志修正 V4 买卖方向。样本筛选识别 44 个买方收币地址，因净流出、量能衰减拒绝。\n\n事件包括发射、sweep、毕业、注册池。发现结果都是 `OBSERVED_ONLY`，不是可以买的热点排名。\n工厂和 hook 地址及事件布局来自 [Bitquery Pons 文档](https://docs.bitquery.io/docs/blockchain/robinhood/pons-api/)。\n本轮已读取对应地址的链上字节码；尚未独立核验源码/ABI。浏览器源码接口返回 HTTP 403。\n官网页面本次研究入口返回地区不可用；没有绕过限制。\n| 候选 | 固定版本 | 代码适配结论 |\n|---|---|---|\n| [nirholas/robinhood-trading-bot](https://github.com/nirholas/robinhood-trading-bot) | `c5d0c2438274ad125c05d955f1fee1aec5f503f0` | Apache-2.0；依赖 hoodchain/viem。包含界面和跟单，但本版交易路径为 V3，未发现 Pons V2 支持；现有退出代码卖全仓。可参考，当前不作为主干。 |\n| [LaChance-Lab/robinhood-sniper-bot](https://github.com/LaChance-Lab/robinhood-sniper-bot) | `d8ea0b61e7d53764999c0c070ca521d70d586c25` | MIT；配置和依赖较多。DEX 类型只有 V2/V3/mock；不完整配置可进入 mock，退出触发调用卖 100%。迁移 Pons V4 仍需重做关键路径。 |\n\n另一个值得重写而非直接继承的细节：nirholas 的 `src/chain/trader.js` 中，实盘买卖记账取 `result.quote.amountOut`，纸面交易以单价乘数量记账。\n\nPons V2 的曲线及毕业后 V4 hook 路径与这些旧适配器不同，不能只换 RPC 和链 ID。\n链的基本参数见 [Robinhood 官方连接文档](https://docs.robinhood.com/chain/connecting/)。\nV4 的链上可用性见 [Uniswap 官方公告](https://blog.uniswap.org/robinhood-chain-is-live)。\n\n## 首轮历史验证记录",
+          "url": "https://github.com/seanbc618-tech/robinhood-meme-bot/blob/7f170b1f6f2bdf6c01987bf9c1a693688aa13d48/README.md"
+        }
+      },
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:04:59.181514+00:00",
+      "repo_id": 1358970900,
+      "file_cursor": 0
+    },
+    "repo:quantumcoinputer/quantum-cats": {
+      "source": "repo",
+      "repo": "quantumcoinputer/quantum-cats",
+      "name": "quantumcoinputer/quantum-cats",
+      "pr": 274,
+      "status": "tracking",
+      "registered_at": "2026-09-06T14:04:40.514639+00:00",
+      "first_report_sha256": "402a35d3c080d57a292a8908a9436b3a4c5eb2002d645c82a002653ef0a49b72",
+      "files": {
+        "README.md": {
+          "sha": "5feb33e4d1baebd0dd446d616860524145e5ab05",
+          "text": "\n```bash\ncurl -L https://foundry.paradigm.xyz | bash && foundryup\nnpm install\npip3 install qiskit qiskit-ibm-runtime\n\nMainnet (Robinhood Chain, 4663): QuantumCats\n`0xd421a43172873811a8b9E6fFEe23acd263dB837a`, CatRenderer\n`0x85B78b8C807d13741510C6Dd51a3032C6d6F21b6`, both Sourcify-verified\n(exact_match). Minting activates when `setMintToken` is called.\n\n\nLive testnet rehearsal (Robinhood testnet): contract\n[`0xc6b3eafeb626662f6e6353441bce232419d58747`](https://explorer.testnet.chain.robinhood.com/address/0xc6b3eafeb626662f6e6353441bce232419d58747),\ntwo tokens revealed from IBM job `daeinh642tqs73aupkm0` on `ibm_marrakesh`,\nseven-check verification passing, records in [`archive/`](archive/).\nestablishes an IBM digital signature or independently certifies QPU physics.\n\nIBM references: [job-detail and result authorization](https://quantum.cloud.ibm.com/docs/en/api/qiskit-runtime-rest/tags/jobs)\nand [Reader access](https://quantum.cloud.ibm.com/docs/en/guides/access-groups).",
+          "url": "https://github.com/quantumcoinputer/quantum-cats/blob/c9a0aa87c7229fe02f1b3e34b73e334868b8bf1c/README.md"
+        },
+        "archive/README.md": {
+          "sha": "8948afa2501f44b9fc8d462e1d64b72526c64678",
+          "text": "an instance removes its jobs and results. A public copy makes verification\navailable to NFT holders independently of that account and retention window.\nSee [IBM retention policy](https://quantum.cloud.ibm.com/docs/en/guides/secure-data)\nand [job-result API authorization](https://quantum.cloud.ibm.com/docs/en/api/qiskit-runtime-rest/tags/jobs).\n\nThe chain already stores each cat's measurement and the batch's archive hash.\n\nCanonical location:\n`https://raw.githubusercontent.com/quantumcoinputer/quantum-cats/master/archive/job-<jobId>.json`.\nThe production daemon publishes each resolved batch through\n`oracle/publish-archive.mjs` before reveal, when GitHub publication is enabled.",
+          "url": "https://github.com/quantumcoinputer/quantum-cats/blob/c9a0aa87c7229fe02f1b3e34b73e334868b8bf1c/archive/README.md"
+        },
+        "archive/historical/README.md": {
+          "sha": "59bea71b4757ae9fd68ffd51ff2eabd301def0a6",
+          "text": "",
+          "url": "https://github.com/quantumcoinputer/quantum-cats/blob/c9a0aa87c7229fe02f1b3e34b73e334868b8bf1c/archive/historical/README.md"
+        },
+        "script/Deploy.s.sol": {
+          "sha": "5c5e0309ea7479ac837514a436f7316d5dcda792",
+          "text": "",
+          "url": "https://github.com/quantumcoinputer/quantum-cats/blob/c9a0aa87c7229fe02f1b3e34b73e334868b8bf1c/script/Deploy.s.sol"
+        }
+      },
+      "next_check_at": "2026-09-06T15:00:00+00:00",
+      "last_check_at": "2026-09-06T14:05:00.698162+00:00",
+      "repo_id": 1359023114,
+      "file_cursor": 0
+    },
+    "repo:hoodsale/contracts": {
+      "source": "repo",
+      "repo": "hoodsale/contracts",
+      "name": "hoodsale/contracts",
+      "pr": 279,
+      "status": "excluded",
+      "registered_at": "2026-09-06T14:04:40.802729+00:00",
+      "first_report_sha256": "837edcd6291343680f0862391bfdd4543007577146da8d40e18800e5044221aa",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:meiyandong/robinhood-pair-liquidity": {
+      "source": "repo",
+      "repo": "MeiYanDong/robinhood-pair-liquidity",
+      "name": "MeiYanDong/robinhood-pair-liquidity",
+      "pr": 281,
+      "status": "excluded",
+      "registered_at": "2026-09-06T14:04:41.094385+00:00",
+      "first_report_sha256": "2f4717a67a755d4136e9bf5eb67f2b03b791dba3dcd8054c4ed5a28d71aa9237",
+      "files": {},
+      "next_check_at": null
     }
   },
-  "last_collect_at": "2026-09-06T11:24:05.717994+00:00",
+  "last_collect_at": "2026-09-06T14:06:03.005949+00:00",
   "last_errors": [],
   "last_verify_errors": [
     "repo:phosphenq/bodkin: HTTP Error 403: Forbidden"
