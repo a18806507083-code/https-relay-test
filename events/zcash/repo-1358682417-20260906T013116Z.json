@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T01:13:26Z",
+    "detected_at": "2026-09-06T01:31:16Z",
+    "display": "boyfromcave/ycash-dd",
+    "key": "repo:1358682417",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "boyfromcave/ycash-dd",
+      "homepage": null,
+      "pushed_at": "2026-09-06T01:29:14Z",
+      "tech_signals": [
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1358682417,
+    "url": "https://github.com/boyfromcave/ycash-dd"
+  },
+  "schema": "zcash-fast-event/1"
+}
