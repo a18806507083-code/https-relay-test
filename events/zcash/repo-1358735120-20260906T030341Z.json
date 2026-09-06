@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T02:57:14Z",
+    "detected_at": "2026-09-06T03:03:41Z",
+    "display": "omnitraceapp/ofac-sdn-parser",
+    "key": "repo:1358735120",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "omnitraceapp/ofac-sdn-parser",
+      "homepage": null,
+      "pushed_at": "2026-09-06T03:00:38Z",
+      "tech_signals": [
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1358735120,
+    "url": "https://github.com/omnitraceapp/ofac-sdn-parser"
+  },
+  "schema": "zcash-fast-event/1"
+}
