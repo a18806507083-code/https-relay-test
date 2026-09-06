@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T14:28:30Z",
+    "description": "Robinhood Chain scanner and Telegram alert bot",
+    "detected_at": "2026-09-06T15:03:08Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "hblicy/robinhood-scanner-bot",
+    "homepage": null,
+    "html_url": "https://github.com/hblicy/robinhood-scanner-bot",
+    "pushed_at": "2026-09-06T14:32:23Z",
+    "repo_id": 1359221368,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
