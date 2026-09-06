@@ -877,7 +877,7 @@
       "repo": "Phosphenq/bodkin",
       "name": "Phosphenq/bodkin",
       "pr": 28,
-      "status": "tracking",
+      "status": "found",
       "registered_at": "2026-09-06T10:22:27.013792+00:00",
       "first_report_sha256": "3ee6d117226350b76880a486b3d480617ce03f59f6c8516912b8cc67a909f4e6",
       "files": {
@@ -959,7 +959,20 @@
         }
       ],
       "claims_fingerprint": "63ed91926d3b131cd6b89719b1f859a3821e17d6b9b8412f1980e68e2221bab0",
-      "last_verify_error": "HTTP Error 403: Forbidden"
+      "identities": [
+        {
+          "kind": "ca",
+          "value": "0xB06B1E58F5ba2a3df1AB74C01cB2A44C5395B3be",
+          "source": "README.md",
+          "quote": "<b>$BODKIN</b> · <code>0xB06B1E58F5ba2a3df1AB74C01cB2A44C5395B3be</code>",
+          "chain_id": 4663,
+          "official_project": true,
+          "mainnet_token": true,
+          "source_url": "https://github.com/Phosphenq/bodkin/blob/27b801ad5358061fc10f151cc1e305974df89178/README.md"
+        }
+      ],
+      "notified_at": "2026-09-06T14:06:10.613032+00:00",
+      "verified_fingerprint": "63ed91926d3b131cd6b89719b1f859a3821e17d6b9b8412f1980e68e2221bab0"
     },
     "repo:snobistisch/stock-lp-radar": {
       "source": "repo",
@@ -1950,7 +1963,10 @@
       "next_check_at": "2026-09-06T15:00:00+00:00",
       "last_check_at": "2026-09-06T14:04:41.095189+00:00",
       "repo_id": 1357020146,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "895d2ebee41be88aa0a06dde90a29b7e4cb8006bb39d9e40c404467344b32397",
+      "verified_fingerprint": "895d2ebee41be88aa0a06dde90a29b7e4cb8006bb39d9e40c404467344b32397"
     },
     "repo:shehzadashrafai/robinhood-alpha-intelligence": {
       "source": "repo",
@@ -3144,7 +3160,10 @@
       "next_check_at": "2026-09-06T15:00:00+00:00",
       "last_check_at": "2026-09-06T14:04:42.654441+00:00",
       "repo_id": 1358522089,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "4f856bc787ecea53788c3929d1fff21c856bceff903b07ad8ba9663fe38c36af",
+      "verified_fingerprint": "4f856bc787ecea53788c3929d1fff21c856bceff903b07ad8ba9663fe38c36af"
     },
     "repo:merlo-team/fund1-contracts": {
       "source": "repo",
@@ -3405,7 +3424,10 @@
       "next_check_at": "2026-09-06T15:00:00+00:00",
       "last_check_at": "2026-09-06T14:04:47.940179+00:00",
       "repo_id": 1358682417,
-      "file_cursor": 18
+      "file_cursor": 18,
+      "claims": [],
+      "claims_fingerprint": "446bed9df1424439283450f1c1a6459a601817ed1b7404cfa099daab462def95",
+      "verified_fingerprint": "446bed9df1424439283450f1c1a6459a601817ed1b7404cfa099daab462def95"
     },
     "repo:nativ3ai/robinhood-terminal": {
       "source": "repo",
@@ -3683,7 +3705,10 @@
       "next_check_at": "2026-09-06T15:00:00+00:00",
       "last_check_at": "2026-09-06T14:04:52.840049+00:00",
       "repo_id": 1358634709,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "bf8fbe4b8396faaa2dc27e1ec46cc02687af26c0382e95c8152f611af05ede13",
+      "verified_fingerprint": "bf8fbe4b8396faaa2dc27e1ec46cc02687af26c0382e95c8152f611af05ede13"
     },
     "repo:kiattisakph/robinhood-wallet-alert-bot": {
       "source": "repo",
@@ -3708,7 +3733,10 @@
       "next_check_at": "2026-09-06T15:00:00+00:00",
       "last_check_at": "2026-09-06T14:04:55.077247+00:00",
       "repo_id": 1358885217,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "18555c4678853edd222dc67c74c77c1ebd74a2bddaa4863c31a5db1526e22678",
+      "verified_fingerprint": "18555c4678853edd222dc67c74c77c1ebd74a2bddaa4863c31a5db1526e22678"
     },
     "repo:rudo-onchain/robinhood-wallet-alert-bot": {
       "source": "repo",
@@ -3733,7 +3761,10 @@
       "next_check_at": "2026-09-06T15:00:00+00:00",
       "last_check_at": "2026-09-06T14:04:56.668745+00:00",
       "repo_id": 1358922518,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "d26eaf2db6e7232ab499e0d3177a6a306cdfcca2ab533132f2a3e106930eee73",
+      "verified_fingerprint": "d26eaf2db6e7232ab499e0d3177a6a306cdfcca2ab533132f2a3e106930eee73"
     },
     "repo:33hodl/rh-chain-wallet-lens": {
       "source": "repo",
@@ -3753,7 +3784,10 @@
       "next_check_at": "2026-09-06T15:00:00+00:00",
       "last_check_at": "2026-09-06T14:04:57.978959+00:00",
       "repo_id": 1358940529,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "a51b28b907718217804c11cc81825dfbd4b914f5fbda9afb3dc79289b2c96324",
+      "verified_fingerprint": "a51b28b907718217804c11cc81825dfbd4b914f5fbda9afb3dc79289b2c96324"
     },
     "repo:afutrus/ularular": {
       "source": "repo",
@@ -3795,7 +3829,10 @@
       "next_check_at": "2026-09-06T15:00:00+00:00",
       "last_check_at": "2026-09-06T14:04:59.181514+00:00",
       "repo_id": 1358970900,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "d46023eb9327963ac4b057bf3a488070018a03981d4deb61a0a8dc6c639f3ba6",
+      "verified_fingerprint": "d46023eb9327963ac4b057bf3a488070018a03981d4deb61a0a8dc6c639f3ba6"
     },
     "repo:quantumcoinputer/quantum-cats": {
       "source": "repo",
@@ -3857,7 +3894,5 @@
   },
   "last_collect_at": "2026-09-06T14:06:03.005949+00:00",
   "last_errors": [],
-  "last_verify_errors": [
-    "repo:phosphenq/bodkin: HTTP Error 403: Forbidden"
-  ]
+  "last_verify_errors": []
 }
