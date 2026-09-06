@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T09:47:48Z",
+    "detected_at": "2026-09-06T09:58:05Z",
+    "display": "NoahMoney/DMZ",
+    "key": "repo:1359001429",
+    "metadata": {
+      "description": "DMZ: a social DEX, token launchpad and NFT platform for DERO, served from the chain (TELA)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "NoahMoney/DMZ",
+      "homepage": null,
+      "pushed_at": "2026-09-06T09:52:44Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1359001429,
+    "url": "https://github.com/NoahMoney/DMZ"
+  },
+  "schema": "zcash-fast-event/1"
+}
