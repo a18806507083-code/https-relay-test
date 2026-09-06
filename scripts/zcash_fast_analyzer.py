@@ -20,6 +20,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
+from radar_decision import decision as parse_decision
 import fast_ai_quota as quota
 
 API = "https://api.github.com"
@@ -439,6 +440,10 @@ def collect_candidate(event: dict, root: Path) -> None:
 def copilot_report(root: Path, event: dict) -> str:
     prompt = f"""You are the first-pass analyst for an experienced crypto researcher monitoring genuinely NEW Zcash ecosystem projects.
 
+EVIDENCE DIRECTORY: {root.resolve()}
+Read the evidence files from this exact absolute directory, not session storage.
+AVAILABLE FILES: {', '.join(str(p.resolve()) for p in sorted(root.rglob('*')) if p.is_file())}
+
 CANDIDATE SOURCE: {event.get('source')}
 CANDIDATE: {event.get('display')}
 DISCOVERY URL: {event.get('url')}
@@ -511,14 +516,18 @@ End with exactly one standalone line: `PUSH`, `WATCH`, or `SKIP`.
     report = proc.stdout.strip()
     if not report:
         raise RuntimeError("Copilot CLI returned empty report")
+    if parse_decision(report) is None:
+        raise RuntimeError("AI report missing final PUSH/WATCH/SKIP decision")
+    if re.search(r"未找到.{0,30}采样证据|未提供任何本地文件|no local evidence files were (?:found|provided)", report, re.I):
+        raise RuntimeError("AI could not locate prepared evidence; retry with absolute evidence paths")
     return report[:18000]
 
 
 def decision(report: str) -> str:
-    m = re.findall(r"(?m)^(PUSH|WATCH|SKIP)\s*$", report)
+    m = parse_decision(report)
     if not m:
         raise RuntimeError("AI report missing final PUSH/WATCH/SKIP decision")
-    return m[-1]
+    return m
 
 
 def append_body(pr_number: int, text: str) -> None:
