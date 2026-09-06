@@ -21,6 +21,7 @@ class IdentityRules(unittest.TestCase):
         for fields in ('官网：https://project.org\nX：未知\n未知',
                        '官网：未知\nX：https://x.com/project\n未知',
                        '官网：未知\nX：@project\n未知',
+                       '官网project.xyz；X：未知；Token：未知',
                        '官网：未知\nX：未知\nCA: 0x' + '1'*40):
             self.assertFalse(tracker.all_missing(self.report(fields)))
 
@@ -70,6 +71,12 @@ class IdentityRules(unittest.TestCase):
         value = 'https://x.com/share'
         docs = {'README.md': {'text': value}}
         self.assertFalse(tracker.validate({'kind': 'x', 'value': value, 'source': 'README.md', 'quote': value, 'official_project': True}, docs))
+
+    def test_bare_domain_and_handle(self):
+        for kind, value in [('website', 'project.xyz'), ('x', '@project')]:
+            text = 'Official project ' + kind + ': ' + value
+            docs = {'README.md': {'text': text}}
+            self.assertTrue(tracker.validate({'kind': kind, 'value': value, 'source': 'README.md', 'quote': text, 'official_project': True}, docs))
 
     def test_notification_idempotent_after_state_write_failure(self):
         comments = [{'body': '<!-- RADAR-IDENTITY-FOUND-v1 -->', 'user': {'login': 'github-actions[bot]'}}]
