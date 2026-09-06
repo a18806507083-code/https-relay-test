@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T03:32:47Z",
+    "description": "PONS $101 \u2014 ROB Lab is an experimental education, research, provenance, and agent-development environment for studying token creation and launch behavior on Robinhood Chain, including launches through Pons v2.  The laboratory combines human-directed experimentation, public blockchain evidence, Discord classroom infrastructure, GitHub reproducibility, mixed-methods research, and specialized AI agents\u2014including agents operated by @hashwarlock\u2014to study what happens from the moment a token-launch hypothesis is registered through deployment, early trading, fee generation, telemetry, after-action review, and public-good accounting.",
+    "detected_at": "2026-09-06T03:42:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "GoldstonianConcordanceBible/-101---PONS-101_Stealth_Launch_on_Pons",
+    "homepage": null,
+    "html_url": "https://github.com/GoldstonianConcordanceBible/-101---PONS-101_Stealth_Launch_on_Pons",
+    "pushed_at": "2026-09-06T03:32:48Z",
+    "repo_id": 1358756588,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
