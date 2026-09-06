@@ -111,9 +111,15 @@ def identity_section(report):
 def all_missing(report):
     """Only explicitly absent identities qualify; ambiguous reports do not enroll."""
     section = identity_section(report)
+    header = next((line for line in report.splitlines() if '官网' in line and re.search(r'\bX\b', line) and re.search(r'Token|CA', line, re.I) and line.strip().startswith(('**', '#'))), '')
+    section = header + '\n' + section
     if not section or URL.search(section) or DOMAIN.search(section) or ADDRESS.search(section) or re.search(r'@[A-Za-z0-9_]{1,15}', section):
         return False
     clean = section.replace('*', '').replace('；', '\n').replace(';', '\n')
+    group_value = re.sub(r'^.*?(?:Token|CA)\s*[:：/ ]*', '', clean.splitlines()[0], flags=re.I).strip()
+    rest = '\n'.join(clean.splitlines()[1:]).strip()
+    if UNKNOWN.search(group_value) or re.fullmatch(r'(?:未知|没发币|未发币|UNKNOWN)[。\s]*', rest, re.I):
+        return True
     website = any('官网' in x and UNKNOWN.search(x) for x in clean.splitlines())
     social = any(re.search(r'\bX\b', x) and UNKNOWN.search(x) for x in clean.splitlines())
     token = any((re.search(r'Token|\bCA\b|代币', x, re.I) and UNKNOWN.search(x))
@@ -149,18 +155,20 @@ def origin(pr):
 def register(state):
     for pr in pages(f'/repos/{REPO}/pulls?state=all&sort=created&direction=asc'):
         number = str(pr['number'])
-        if state['registered'].get(number, {}).get('parser_version') == 2 or not RESULT.match(pr['title']):
+        if state['registered'].get(number, {}).get('parser_version') == 3 or not RESULT.match(pr['title']):
             continue
         report = first_report(pr)
         if report is None:
             continue  # Analyzer may still be publishing; try next hour.
         key, info = origin(pr)
         eligible = all_missing(report)
-        state['registered'][number] = {'project': key, 'all_missing': eligible, 'parser_version': 2}
+        state['registered'][number] = {'project': key, 'all_missing': eligible, 'parser_version': 3}
         if key in state['projects']:
             existing = state['projects'][key]
             if existing['pr'] == pr['number'] and not eligible and existing['status'] == 'tracking':
                 existing['status'] = 'excluded'
+            if existing['pr'] == pr['number'] and eligible and existing['status'] == 'excluded':
+                existing['status'] = 'tracking'
             continue  # Earliest completed first-pass controls enrollment.
         info.update({'pr': pr['number'], 'status': 'tracking' if eligible else 'excluded',
                      'registered_at': stamp(), 'first_report_sha256': digest(report),
@@ -378,6 +386,10 @@ No grades, project analysis or investment recommendations. Do not guess. Empty i
     return parse_verification(result.stdout.strip())
 
 
+class PendingChainVerification(RuntimeError):
+    pass
+
+
 def token_live(value, chain):
     if chain not in RPC:
         return False
@@ -385,9 +397,12 @@ def token_live(value, chain):
              {'jsonrpc': '2.0', 'id': 2, 'method': 'eth_getCode', 'params': [value, 'latest']},
              {'jsonrpc': '2.0', 'id': 3, 'method': 'eth_call', 'params': [{'to': value, 'data': '0x95d89b41'}, 'latest']},
              {'jsonrpc': '2.0', 'id': 4, 'method': 'eth_call', 'params': [{'to': value, 'data': '0x18160ddd'}, 'latest']}]
-    request = urllib.request.Request(RPC[chain], data=json.dumps(calls).encode(), headers={'Content-Type': 'application/json'})
-    with urllib.request.urlopen(request, timeout=25) as response:
-        results = {r['id']: r for r in json.loads(response.read())}
+    request = urllib.request.Request(RPC[chain], data=json.dumps(calls).encode(), headers={'Content-Type': 'application/json', 'User-Agent': 'Mozilla/5.0 radar-identity-verifier'})
+    try:
+        with urllib.request.urlopen(request, timeout=25) as response:
+            results = {r['id']: r for r in json.loads(response.read())}
+    except (urllib.error.URLError, TimeoutError) as error:
+        raise PendingChainVerification(str(error)) from error
     if any('error' in results.get(i, {}) for i in range(1, 5)):
         return False
     return (int(results[1].get('result', '0x0'), 16) == chain and
@@ -472,6 +487,9 @@ def verify():
                 state['quota_next_probe_at'] = (now() + dt.timedelta(hours=24)).isoformat()
                 print('IDENTITY_AI_QUOTA_PAUSED: tracking retained')
                 break
+            except PendingChainVerification as error:
+                item['last_verify_error'] = 'Pending chain verification: ' + str(error)[:400]
+                print('IDENTITY_CHAIN_PENDING ' + work['key'])
             except Exception as error:
                 if item.get('claims_fingerprint') != work['fingerprint']:
                     attempts = item.setdefault('failed_fingerprints', {})
