@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T19:12:04.919Z",
+    "detected_at": "2026-09-06T19:33:41Z",
+    "display": "57463 How Much Is Financial Privacy Really Worth?",
+    "key": "forum:57463",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "how-much-is-financial-privacy-really-worth",
+      "title": "How Much Is Financial Privacy Really Worth?",
+      "topic_id": 57463
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57463,
+    "url": "https://forum.zcashcommunity.com/t/how-much-is-financial-privacy-really-worth/57463"
+  },
+  "schema": "zcash-fast-event/1"
+}
