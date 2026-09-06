@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T00:25:41Z",
+    "description": "StockCurve \u2014 free public Pons RWA-quote radar for Robinhood Chain",
+    "detected_at": "2026-09-06T00:28:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "stockcurve/stockcurve.github.io",
+    "homepage": null,
+    "html_url": "https://github.com/stockcurve/stockcurve.github.io",
+    "pushed_at": "2026-09-06T00:25:42Z",
+    "repo_id": 1358661027,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
