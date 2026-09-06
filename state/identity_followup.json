@@ -3,363 +3,463 @@
   "registered": {
     "12": {
       "project": "repo:runesleo/meme-cohort-observatory",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "13": {
       "project": "repo:realdeanai/golden--trader",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "15": {
       "project": "repo:voxelithicag/mcp",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "17": {
       "project": "repo:reddagentrh/redd",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "19": {
       "project": "repo:rizkijack/gashood",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "20": {
       "project": "repo:denomhq/denom",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "22": {
       "project": "repo:hoodvault/hoodvault-api",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "23": {
       "project": "repo:hoodvault/hoodvault-docs",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "24": {
       "project": "repo:hoodvault/hoodvault-sdk",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "26": {
       "project": "repo:travisiol/hedge",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "28": {
       "project": "repo:phosphenq/bodkin",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "33": {
       "project": "repo:snobistisch/stock-lp-radar",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "36": {
       "project": "repo:nirholas/loxley",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "37": {
       "project": "repo:topoliquidity/topo-liquidity",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "41": {
       "project": "repo:vern-sh/vernagent",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "43": {
       "project": "repo:openponspro/openpons",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "44": {
       "project": "repo:pumplandsol/mark",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "46": {
       "project": "repo:ali213112/agentic-on-bot-chain-",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "47": {
       "project": "repo:qorbquant/fomo-robinhood-copy",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "50": {
       "project": "repo:dancingcowboy/weald-protocol",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "51": {
       "project": "repo:stock-pack/stock-pack",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "55": {
       "project": "repo:bollardxyz/bollard",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "59": {
       "project": "repo:heirlabs/famcash-contracts",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "62": {
       "project": "repo:nirholas/quiver",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "63": {
       "project": "repo:programmablehq/programmable-v4-token",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "66": {
       "project": "repo:jermwang/rh-incinerator",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "67": {
       "project": "repo:gabrielfrneto/stockcity-mcp",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "68": {
       "project": "repo:akumathedev/observer-radar",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "69": {
       "project": "repo:bradford5942-debug/heat-protocol",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "70": {
       "project": "repo:dirkdiggler1026/executability-report",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "72": {
       "project": "repo:clankrace/clankrace-v4",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "74": {
       "project": "repo:meiyandong/robinhood-pair-grid",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "75": {
       "project": "repo:meiyandong/manga-chan-atomic-arbitrage",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "76": {
       "project": "repo:nirholas/sherwood",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "78": {
       "project": "repo:kealabama/midcap-random-index",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "80": {
       "project": "repo:monkiilabs/monkiilabsapp",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "84": {
       "project": "repo:leveradotfun/levera-dapp",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "86": {
       "project": "repo:flock-io/flock-v4-hook",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "87": {
       "project": "repo:clawplaza/meowdinger-dev",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "89": {
       "project": "repo:yafieae/morpho-toolkit",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "92": {
       "project": "repo:levu-lol/levu",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "94": {
       "project": "repo:thesoloycoder/omnilauncher",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "95": {
       "project": "repo:shehzadashrafai/robinhood-alpha-intelligence",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "98": {
       "project": "repo:s4pay/payhole",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "100": {
       "project": "repo:dandamaev1111/equity-lens",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "102": {
       "project": "repo:fiduciaindex/fiducia",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "108": {
       "project": "repo:bruisedhacksa/pulse",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "110": {
       "project": "repo:florityswap/meridian-robinhood",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "112": {
       "project": "repo:florityswap/unicrit",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "115": {
       "project": "repo:catrisxyz/catris",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "116": {
       "project": "repo:hanisyed/robinhood-tool",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "117": {
       "project": "repo:arcafi/arca",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "121": {
       "project": "repo:memeticstate/ms-v1",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "123": {
       "project": "repo:shellr-packs/shellr-web",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "124": {
       "project": "repo:shellr-packs/shellr-contracts",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "126": {
       "project": "repo:jermwang/airtime",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "127": {
       "project": "repo:nar-123/lpbot-new",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "128": {
       "project": "repo:shellr-packs/shellr-stock-packs",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "129": {
       "project": "repo:notesystems/note-systems",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "130": {
       "project": "repo:arxumed372/lp-evm-rh",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "131": {
       "project": "repo:altarprotocol/altarprotocol",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "132": {
       "project": "repo:crispjb-ui/crypto-assist",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "136": {
       "project": "repo:galaxydestroyer0000/button",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "143": {
       "project": "repo:tickrmarkets/tickr-markets",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "148": {
       "project": "repo:novenrizkia856-ui/roxy-contract",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "150": {
       "project": "repo:xlabsg/fomo-copy-bot",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "153": {
       "project": "repo:basisinvestments/basis",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "154": {
       "project": "repo:cocainebit/float-docs",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "156": {
       "project": "repo:z80dev/burner",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "159": {
       "project": "repo:shadnsurfer/pons-pal",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "160": {
       "project": "repo:paktfamily/pakt",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "161": {
       "project": "repo:basisinvestments/basis",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "164": {
       "project": "repo:lindalang666888/rpv4-robinhood-hook-4.",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "170": {
       "project": "repo:spike-soc/pons-launch",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "171": {
       "project": "repo:cony-horizon/rhbot",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "177": {
       "project": "repo:trixen-ai/echohood",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "179": {
       "project": "repo:gtanetwork0299/robinhood-zk-sandbox",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "184": {
       "project": "repo:fletch-now/fletch-registry-data",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "186": {
       "project": "repo:fletch-now/fletch-api",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "194": {
       "project": "forum:57447",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "195": {
       "project": "repo:aomi-labs/hoodit-apps",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "199": {
       "project": "repo:trixen-ai/cat",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "202": {
       "project": "repo:jincheng828/smartrouter",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "203": {
       "project": "repo:milesdev888/guardian-scan",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "205": {
       "project": "repo:itsnex1s/fomopulse-robinhood-chain-tape",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "214": {
       "project": "repo:spikecalls/tocsin",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "216": {
       "project": "repo:robinshareapp/robinshare",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "219": {
       "project": "repo:pointdrh/pointd",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
     },
     "222": {
       "project": "repo:efsanedizzy/wick5market",
-      "all_missing": true
+      "all_missing": true,
+      "parser_version": 2
     },
     "225": {
       "project": "repo:pumplandsol/divi",
-      "all_missing": false
+      "all_missing": false,
+      "parser_version": 2
+    },
+    "224": {
+      "project": "repo:ztsalexey/wallet-privacy-testkit",
+      "all_missing": false,
+      "parser_version": 2
+    },
+    "229": {
+      "project": "repo:merlo-team/fund1-contracts",
+      "all_missing": false,
+      "parser_version": 2
     }
   },
   "projects": {
@@ -2721,18 +2821,32 @@
       "first_report_sha256": "06327ad3514c3fe9571d0f202fc4a4602f98a0496771e3d7e9dbaafa70a2aa11",
       "files": {},
       "next_check_at": null
+    },
+    "repo:ztsalexey/wallet-privacy-testkit": {
+      "source": "repo",
+      "repo": "ztsalexey/wallet-privacy-testkit",
+      "name": "ztsalexey/wallet-privacy-testkit",
+      "pr": 224,
+      "status": "excluded",
+      "registered_at": "2026-09-06T10:27:21.235236+00:00",
+      "first_report_sha256": "41092f0a0164fcf8a7bb5b449d1a40470f9a3e3c6ef9566f8caa3ea72187641b",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:merlo-team/fund1-contracts": {
+      "source": "repo",
+      "repo": "merlo-team/fund1-contracts",
+      "name": "merlo-team/fund1-contracts",
+      "pr": 229,
+      "status": "excluded",
+      "registered_at": "2026-09-06T10:27:21.932501+00:00",
+      "first_report_sha256": "dfb628792e9d2969458484090de95b38b58077fd751afadf1f97047a70e9c15b",
+      "files": {},
+      "next_check_at": null
     }
   },
-  "last_collect_at": "2026-09-06T10:24:29.330305+00:00",
-  "last_errors": [
-    "repo:denomhq/denom: HTTP Error 404: Not Found",
-    "repo:bollardxyz/bollard: HTTP Error 404: Not Found",
-    "repo:shehzadashrafai/robinhood-alpha-intelligence: HTTP Error 404: Not Found",
-    "repo:dandamaev1111/equity-lens: HTTP Error 404: Not Found",
-    "repo:trixen-ai/echohood: HTTP Error 404: Not Found",
-    "repo:gtanetwork0299/robinhood-zk-sandbox: HTTP Error 404: Not Found",
-    "repo:trixen-ai/cat: HTTP Error 404: Not Found"
-  ],
+  "last_collect_at": "2026-09-06T10:27:21.933242+00:00",
+  "last_errors": [],
   "last_verify_errors": [
     "repo:runesleo/meme-cohort-observatory: Expecting value: line 1 column 1 (char 0)",
     "repo:rizkijack/gashood: HTTP Error 403: Forbidden",
