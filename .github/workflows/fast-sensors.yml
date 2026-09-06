@@ -8,6 +8,7 @@ on:
   push:
     paths:
       - ".github/workflows/fast-sensors.yml"
+      - "state/ai_quota.json"
       - "scripts/fast_ai_quota.py"
       - "scripts/rh_fast_sensor.py"
       - "scripts/rh_fast_analyzer.py"
