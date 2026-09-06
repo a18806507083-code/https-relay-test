@@ -1,4 +1,6 @@
 import sys
+import io
+import urllib.error
 import unittest
 from pathlib import Path
 from unittest.mock import patch
@@ -103,6 +105,14 @@ class IdentityRules(unittest.TestCase):
             tracker.parse_verification('{"identities": []}\n{"identities": []}')
         with self.assertRaises(ValueError):
             tracker.parse_verification('No structured result')
+
+    def test_http_error_preserves_type_and_details(self):
+        error = urllib.error.HTTPError('https://api.github.com/repos/a/b', 404, 'Not Found', {}, io.BytesIO(b'{"message":"Not Found"}'))
+        with patch.object(tracker.urllib.request, 'urlopen', side_effect=error):
+            with self.assertRaises(urllib.error.HTTPError) as caught:
+                tracker.gh('/repos/a/b')
+        self.assertEqual(caught.exception.code, 404)
+        self.assertIn('message', caught.exception.reason)
 
 
 if __name__ == '__main__':
