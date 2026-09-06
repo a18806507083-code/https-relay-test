@@ -23,6 +23,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
+import fast_ai_quota as quota
 
 API = "https://api.github.com"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
@@ -147,7 +148,14 @@ def preflight_candidate(pr: dict) -> None:
 
 
 def list_pending(preflight: bool = False) -> list[dict]:
-    pulls = gh(f"/repos/{SENSOR_REPO}/pulls?state=open&sort=created&direction=asc&per_page=100") or []
+    pulls = []
+    page = 1
+    while True:
+        batch = gh(f"/repos/{SENSOR_REPO}/pulls?state=open&sort=created&direction=asc&per_page=100&page={page}") or []
+        pulls.extend(batch)
+        if len(batch) < 100:
+            break
+        page += 1
     out = []
     for pr in pulls:
         title = pr.get("title") or ""
@@ -172,6 +180,8 @@ def list_pending(preflight: bool = False) -> list[dict]:
                 print(f"RH_FAST_PREFLIGHT_REJECT pr={pr.get('number')}: {e}", file=sys.stderr)
                 continue
         out.append(pr)
+        if len(out) >= MAX_AI_CANDIDATES:
+            break
     return out[:MAX_AI_CANDIDATES]
 
 def score_path(path: str, size: int) -> int:
@@ -373,7 +383,11 @@ End with exactly one recommendation: `PUSH`, `WATCH`, or `SKIP`.
         timeout=150,
     )
     if proc.returncode != 0:
-        raise RuntimeError((proc.stderr or proc.stdout or "Copilot CLI failed")[-3000:])
+        error = (proc.stderr or "") + "\n" + (proc.stdout or "")
+        if quota.is_quota_error(error):
+            raise quota.QuotaExhausted("Copilot monthly quota exhausted")
+        raise RuntimeError((error.strip() or "Copilot CLI failed")[-3500:])
+    quota.recovered()
     report = proc.stdout.strip()
     if not report:
         raise RuntimeError("Copilot CLI returned empty report")
@@ -428,6 +442,9 @@ def main() -> int:
     if not TOKEN or not SENSOR_REPO:
         print("GITHUB_TOKEN and SENSOR_REPO are required", file=sys.stderr)
         return 2
+    if quota.paused():
+        print("0" if "--pending-count" in sys.argv else "AI_QUOTA_PAUSED: candidates retained")
+        return 0
     if "--pending-count" in sys.argv:
         print(len(list_pending(preflight=True)))
         return 0
@@ -441,6 +458,10 @@ def main() -> int:
     for pr in pending:
         try:
             analyze_pr(pr)
+        except quota.QuotaExhausted:
+            quota.pause()
+            print("AI_QUOTA_PAUSED: candidates retained; next probe in 24 hours")
+            break
         except Exception as e:
             retry = False
             try:
@@ -456,3 +477,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
