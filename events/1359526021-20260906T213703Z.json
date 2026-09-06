@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T21:32:44Z",
+    "description": "Rug sniffer for Robinhood Chain. Score any memecoin 0-100 in two seconds, before you buy it. Zero dependencies, MIT.",
+    "detected_at": "2026-09-06T21:37:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "SpikeCalls/hoodrat",
+    "homepage": "https://spikecalls.github.io/hoodrat/",
+    "html_url": "https://github.com/SpikeCalls/hoodrat",
+    "pushed_at": "2026-09-06T21:32:57Z",
+    "repo_id": 1359526021,
+    "score": 8,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
