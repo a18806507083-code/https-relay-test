@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T03:06:34Z",
+    "description": "The official documentation for $BUBBLE on Robinhood Chain. ",
+    "detected_at": "2026-09-06T03:18:54Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "BUBBLE-RH/Bubble-Docs",
+    "homepage": null,
+    "html_url": "https://github.com/BUBBLE-RH/Bubble-Docs",
+    "pushed_at": "2026-09-06T03:17:31Z",
+    "repo_id": 1358739467,
+    "score": 9,
+    "tech_signals": [
+      "Hook",
+      "RWA/stock",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
