@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T09:10:36Z",
+    "description": null,
+    "detected_at": "2026-09-06T09:19:38Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "Afutrus/ularular",
+    "homepage": "https://ularular-sooty.vercel.app",
+    "html_url": "https://github.com/Afutrus/ularular",
+    "pushed_at": "2026-09-06T09:12:28Z",
+    "repo_id": 1358975591,
+    "score": 13,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
