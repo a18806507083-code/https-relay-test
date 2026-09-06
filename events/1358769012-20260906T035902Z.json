@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T03:57:07Z",
+    "description": "ClankRaceV6 \u2014 two-tier fixed-stake races with rolling jackpot on Robinhood Chain (chainId 4663). Deployed at 0xbaa8d6236c4b68570365a87be458528ff. V6 fixes RH Chain slow block.number by using block.timestamp deadlines.",
+    "detected_at": "2026-09-06T03:59:02Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "ClankRace/clankrace-v6",
+    "homepage": null,
+    "html_url": "https://github.com/ClankRace/clankrace-v6",
+    "pushed_at": "2026-09-06T03:57:10Z",
+    "repo_id": 1358769012,
+    "score": 16,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
