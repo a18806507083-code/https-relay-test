@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T14:52:04Z",
+    "description": "Settlement contract for Boogie: rent a GPU by the hour, pay with tokenized equity on Robinhood Chain",
+    "detected_at": "2026-09-06T15:03:08Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "boogiecompute/boogie-contracts",
+    "homepage": "https://boogiecompute.com",
+    "html_url": "https://github.com/boogiecompute/boogie-contracts",
+    "pushed_at": "2026-09-06T14:55:57Z",
+    "repo_id": 1359240797,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
