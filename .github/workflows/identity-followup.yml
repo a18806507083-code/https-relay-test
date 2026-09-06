@@ -14,7 +14,7 @@ on:
 permissions:
   contents: write
   issues: write
-  pull-requests: read
+  pull-requests: write
   copilot-requests: write
 
 concurrency:
@@ -37,11 +37,11 @@ jobs:
         continue-on-error: true
         run: python3 scripts/identity_followup.py --collect
       - uses: actions/setup-node@v4
-        if: steps.collect.outputs.has_pending == 'true'
+        if: steps.collect.outputs.needs_ai == 'true'
         with:
           node-version: '22'
       - name: Install Copilot only for changed identity evidence
-        if: steps.collect.outputs.has_pending == 'true'
+        if: steps.collect.outputs.needs_ai == 'true'
         run: npm install -g @github/copilot
       - name: Verify changes and notify once
         if: steps.collect.outputs.has_pending == 'true'
