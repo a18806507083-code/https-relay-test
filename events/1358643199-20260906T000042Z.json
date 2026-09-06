@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-05T23:50:21Z",
+    "description": "StockCurve \u2014 free public radar for stock-quoted Pons memecoins on Robinhood Chain (for FOMO / RHC traders)",
+    "detected_at": "2026-09-06T00:00:42Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "binnen48/stockcurve",
+    "homepage": null,
+    "html_url": "https://github.com/binnen48/stockcurve",
+    "pushed_at": "2026-09-05T23:59:22Z",
+    "repo_id": 1358643199,
+    "score": 13,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
