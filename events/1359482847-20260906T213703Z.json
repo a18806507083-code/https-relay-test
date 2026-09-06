@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T20:15:38Z",
+    "description": "Zstock \u2014 Robinhood Chain Stock Token markets, portfolio and verification",
+    "detected_at": "2026-09-06T21:37:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "zstockrh/zstock",
+    "homepage": null,
+    "html_url": "https://github.com/zstockrh/zstock",
+    "pushed_at": "2026-09-06T20:16:33Z",
+    "repo_id": 1359482847,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
