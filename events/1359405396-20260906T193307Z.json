@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T18:16:10Z",
+    "description": "Best routes across every DEX. One tap, best price.",
+    "detected_at": "2026-09-06T19:33:07Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "aiconhood/aicon_v0.01",
+    "homepage": "https://aicon-v0-01.vercel.app",
+    "html_url": "https://github.com/aiconhood/aicon_v0.01",
+    "pushed_at": "2026-09-06T19:08:51Z",
+    "repo_id": 1359405396,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
