@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T12:00:57Z",
+    "description": "Audited PAIR concentrated-liquidity operations and live dashboard for Robinhood Chain",
+    "detected_at": "2026-09-06T12:09:17Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "MeiYanDong/robinhood-pair-liquidity",
+    "homepage": "http://47.251.187.250/",
+    "html_url": "https://github.com/MeiYanDong/robinhood-pair-liquidity",
+    "pushed_at": "2026-09-06T12:02:50Z",
+    "repo_id": 1359098396,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
