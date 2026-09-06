@@ -2256,12 +2256,12 @@
         {
           "kind": "website",
           "value": "payhole.org",
-          "source": "packages/verifier/README.md",
-          "quote": "a real x402 resource used by payhole.org/try.html"
+          "source": "packages/app/README.md",
+          "quote": "the holder links it by signing a membership proof on payhole.org/link and pasting it here"
         }
       ],
-      "claims_fingerprint": "3cc9fa6be70f150afe8f1bf949b2ef02e51399a9b0e332e5ac809db929a10951",
-      "verified_fingerprint": "3cc9fa6be70f150afe8f1bf949b2ef02e51399a9b0e332e5ac809db929a10951"
+      "claims_fingerprint": "524c5e2d3fa44c1829fd55f142de81597307ac96383e47e27052123c73ee15bf",
+      "verified_fingerprint": "524c5e2d3fa44c1829fd55f142de81597307ac96383e47e27052123c73ee15bf"
     },
     "repo:dandamaev1111/equity-lens": {
       "source": "repo",
@@ -2783,7 +2783,10 @@
       "next_check_at": "2026-09-06T23:00:00+00:00",
       "last_check_at": "2026-09-06T22:54:01.823343+00:00",
       "repo_id": 1357694785,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675",
+      "verified_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675"
     },
     "repo:xlabsg/fomo-copy-bot": {
       "source": "repo",
@@ -2813,7 +2816,10 @@
       "next_check_at": "2026-09-06T23:00:00+00:00",
       "last_check_at": "2026-09-06T22:54:03.260194+00:00",
       "repo_id": 1357743987,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "62b28ad930bacade5f58376a606a113ec7df8ee311629d8d6a9cd0da0e7440cb",
+      "verified_fingerprint": "62b28ad930bacade5f58376a606a113ec7df8ee311629d8d6a9cd0da0e7440cb"
     },
     "repo:basisinvestments/basis": {
       "source": "repo",
@@ -2888,7 +2894,17 @@
       "next_check_at": "2026-09-06T23:00:00+00:00",
       "last_check_at": "2026-09-06T22:54:04.644334+00:00",
       "repo_id": 1357917659,
-      "file_cursor": 5
+      "file_cursor": 5,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://melodic-syrniki-2d566a.netlify.app",
+          "source": "repository_metadata",
+          "quote": "\"homepage\": \"https://melodic-syrniki-2d566a.netlify.app\""
+        }
+      ],
+      "claims_fingerprint": "e517bd521c181ea74f5bb9ba8c40b4715c9252a03e9f005e3957a227e6cd57d5",
+      "verified_fingerprint": "e517bd521c181ea74f5bb9ba8c40b4715c9252a03e9f005e3957a227e6cd57d5"
     },
     "repo:cocainebit/float-docs": {
       "source": "repo",
@@ -2908,7 +2924,10 @@
       "next_check_at": "2026-09-06T23:00:00+00:00",
       "last_check_at": "2026-09-06T22:54:06.017929+00:00",
       "repo_id": 1357819964,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "0c0b90ae37624be55bb26a96f0442def51ad17331e2d6f465f7770c3da40a5ad",
+      "verified_fingerprint": "0c0b90ae37624be55bb26a96f0442def51ad17331e2d6f465f7770c3da40a5ad"
     },
     "repo:z80dev/burner": {
       "source": "repo",
@@ -2983,7 +3002,10 @@
       "next_check_at": "2026-09-06T23:00:00+00:00",
       "last_check_at": "2026-09-06T22:54:07.340367+00:00",
       "repo_id": 1358070563,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "17b5e8b6ffdb8686529ea1b05940b8959a40a9044f327e1f67c3546e71bf1905",
+      "verified_fingerprint": "17b5e8b6ffdb8686529ea1b05940b8959a40a9044f327e1f67c3546e71bf1905"
     },
     "repo:trixen-ai/echohood": {
       "source": "repo",
@@ -4446,14 +4468,17 @@
       "next_check_at": "2026-09-06T23:00:00+00:00",
       "last_check_at": "2026-09-06T22:53:05.070455+00:00",
       "repo_id": 1359388343,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "c923049d111628004ae4b557023239db8eb8b63536125f351a9f5eb2c272bd43",
+      "verified_fingerprint": "c923049d111628004ae4b557023239db8eb8b63536125f351a9f5eb2c272bd43"
     },
     "repo:pardotfamily/par-sdk": {
       "source": "repo",
       "repo": "pardotfamily/par-sdk",
       "name": "pardotfamily/par-sdk",
       "pr": 310,
-      "status": "tracking",
+      "status": "found",
       "registered_at": "2026-09-06T22:53:05.070101+00:00",
       "first_report_sha256": "da229c78026c3b0aa10592a6c51d0edb8115d161d7a5787e2ffd0dd5b0621eb5",
       "files": {
@@ -4471,7 +4496,39 @@
       "next_check_at": "2026-09-06T23:00:00+00:00",
       "last_check_at": "2026-09-06T22:53:06.854737+00:00",
       "repo_id": 1359407210,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "par.family",
+          "source": "README.md",
+          "quote": "the token launchpad on Robinhood Chain"
+        },
+        {
+          "kind": "ca",
+          "value": "0x507B6F349a80114097A67B8b4677367acC15b220",
+          "source": "src/addresses.ts",
+          "quote": "par: \"0x507B6F349a80114097A67B8b4677367acC15b220\" as Address,",
+          "chain_id": 4663,
+          "official_project": true,
+          "mainnet_token": true
+        }
+      ],
+      "claims_fingerprint": "53f12cd420c30ae78ac811659ae19856f611c47d225ba8d32cfc8464f6b84dc0",
+      "identities": [
+        {
+          "kind": "ca",
+          "value": "0x507B6F349a80114097A67B8b4677367acC15b220",
+          "source": "src/addresses.ts",
+          "quote": "par: \"0x507B6F349a80114097A67B8b4677367acC15b220\" as Address,",
+          "chain_id": 4663,
+          "official_project": true,
+          "mainnet_token": true,
+          "source_url": "https://github.com/pardotfamily/par-sdk/blob/bcbeda5b177e0b764654a663bd9c55f2a40142ba/src/addresses.ts"
+        }
+      ],
+      "notified_at": "2026-09-06T22:54:59.820286+00:00",
+      "verified_fingerprint": "53f12cd420c30ae78ac811659ae19856f611c47d225ba8d32cfc8464f6b84dc0"
     }
   },
   "last_collect_at": "2026-09-06T22:54:22.351532+00:00",
