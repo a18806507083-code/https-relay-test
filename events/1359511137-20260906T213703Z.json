@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T21:05:07Z",
+    "description": "KILI \u2014 Mutate Your Cats. $KILI on Robinhood 4663.",
+    "detected_at": "2026-09-06T21:37:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "kili-lol/kili",
+    "homepage": "https://www.kili.lol",
+    "html_url": "https://github.com/kili-lol/kili",
+    "pushed_at": "2026-09-06T21:36:00Z",
+    "repo_id": 1359511137,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
