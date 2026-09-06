@@ -662,7 +662,20 @@
       "file_cursor": 0,
       "failed_fingerprints": {
         "b795af57b5a3386ebc746608f2673fb88ad03bc552ff7ae9c2759f3650b76a82": 1
-      }
+      },
+      "claims": [
+        {
+          "kind": "x",
+          "value": "@ReddAgentRH",
+          "source": "README.md",
+          "quote": "X: https://x.com/ReddAgentRH",
+          "chain_id": null,
+          "official_project": true,
+          "mainnet_token": null
+        }
+      ],
+      "claims_fingerprint": "b795af57b5a3386ebc746608f2673fb88ad03bc552ff7ae9c2759f3650b76a82",
+      "verified_fingerprint": "b795af57b5a3386ebc746608f2673fb88ad03bc552ff7ae9c2759f3650b76a82"
     },
     "repo:rizkijack/gashood": {
       "source": "repo",
@@ -865,7 +878,28 @@
       "file_cursor": 0,
       "failed_fingerprints": {
         "63ed91926d3b131cd6b89719b1f859a3821e17d6b9b8412f1980e68e2221bab0": 1
-      }
+      },
+      "claims": [
+        {
+          "kind": "x",
+          "value": "@phosphenq",
+          "source": "repository_metadata",
+          "quote": "https://x.com/phosphenq",
+          "chain_id": null,
+          "mainnet_token": null
+        },
+        {
+          "kind": "ca",
+          "value": "0xB06B1E58F5ba2a3df1AB74C01cB2A44C5395B3be",
+          "source": "README.md",
+          "quote": "<b>$BODKIN</b> · <code>0xB06B1E58F5ba2a3df1AB74C01cB2A44C5395B3be</code>",
+          "chain_id": 4663,
+          "official_project": true,
+          "mainnet_token": true
+        }
+      ],
+      "claims_fingerprint": "63ed91926d3b131cd6b89719b1f859a3821e17d6b9b8412f1980e68e2221bab0",
+      "last_verify_error": "HTTP Error 403: Forbidden"
     },
     "repo:snobistisch/stock-lp-radar": {
       "source": "repo",
@@ -1016,7 +1050,17 @@
       "file_cursor": 17,
       "failed_fingerprints": {
         "4cd72aa43fb1e32ca7340d6179028e9795aab4ce5cc71f4f5409a55a839983c2": 1
-      }
+      },
+      "claims": [
+        {
+          "kind": "website",
+          "value": "loxley.dev",
+          "source": "apps/web/README.md",
+          "quote": "The loxley.dev landing page."
+        }
+      ],
+      "claims_fingerprint": "97086bbfca6f617c550cb9e7e8ef6b13123f742ecb34764ac1278c68d4efe7ac",
+      "verified_fingerprint": "97086bbfca6f617c550cb9e7e8ef6b13123f742ecb34764ac1278c68d4efe7ac"
     },
     "repo:topoliquidity/topo-liquidity": {
       "source": "repo",
@@ -1047,7 +1091,10 @@
       "next_check_at": "2026-09-06T12:00:00+00:00",
       "last_check_at": "2026-09-06T11:23:35.483063+00:00",
       "repo_id": 1356364734,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "e273ad483998bb05b9263a68e0f8fc4c1d95ff7e9b398a54c15277b648443074",
+      "verified_fingerprint": "e273ad483998bb05b9263a68e0f8fc4c1d95ff7e9b398a54c15277b648443074"
     },
     "repo:openponspro/openpons": {
       "source": "repo",
@@ -1109,7 +1156,10 @@
       "next_check_at": "2026-09-06T12:00:00+00:00",
       "last_check_at": "2026-09-06T11:23:36.242115+00:00",
       "repo_id": 1356397498,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83",
+      "verified_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83"
     },
     "repo:qorbquant/fomo-robinhood-copy": {
       "source": "repo",
@@ -1134,7 +1184,10 @@
       "next_check_at": "2026-09-06T12:00:00+00:00",
       "last_check_at": "2026-09-06T11:23:36.996980+00:00",
       "repo_id": 1356394695,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "f9d136acd6ccb6923fb46b211c76aba50777a0aa445aa0e6d066cd00ae388b2f",
+      "verified_fingerprint": "f9d136acd6ccb6923fb46b211c76aba50777a0aa445aa0e6d066cd00ae388b2f"
     },
     "repo:dancingcowboy/weald-protocol": {
       "source": "repo",
@@ -3044,7 +3097,10 @@
       "next_check_at": "2026-09-06T12:00:00+00:00",
       "last_check_at": "2026-09-06T11:23:27.881977+00:00",
       "repo_id": 1358626962,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "6e2d705a122a8ffa149003c7f639e2352246f087e1beed12c2d6fb6ac268646d",
+      "verified_fingerprint": "6e2d705a122a8ffa149003c7f639e2352246f087e1beed12c2d6fb6ac268646d"
     },
     "repo:stockcurve/stockcurve.github.io": {
       "source": "repo",
@@ -3220,7 +3276,10 @@
       "next_check_at": "2026-09-06T12:00:00+00:00",
       "last_check_at": "2026-09-06T11:23:28.807102+00:00",
       "repo_id": 1358787003,
-      "file_cursor": 18
+      "file_cursor": 18,
+      "claims": [],
+      "claims_fingerprint": "b99370f43ac7c3de12a6aebf515572954fd1158b7f5f23c14d436c0cc86c9663",
+      "verified_fingerprint": "b99370f43ac7c3de12a6aebf515572954fd1158b7f5f23c14d436c0cc86c9663"
     },
     "repo:xinchen37/primefi-app": {
       "source": "repo",
@@ -3236,5 +3295,7 @@
   },
   "last_collect_at": "2026-09-06T11:24:05.717994+00:00",
   "last_errors": [],
-  "last_verify_errors": []
+  "last_verify_errors": [
+    "repo:phosphenq/bodkin: HTTP Error 403: Forbidden"
+  ]
 }
