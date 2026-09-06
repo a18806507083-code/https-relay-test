@@ -520,7 +520,9 @@
       "failed_fingerprints": {
         "fbd3c7058d7ab91d49d18b996a4eed6415ffb2c66edba032d0a304de1ac48e51": 1
       },
-      "last_verify_error": "Expecting value: line 1 column 1 (char 0)"
+      "claims": [],
+      "claims_fingerprint": "fbd3c7058d7ab91d49d18b996a4eed6415ffb2c66edba032d0a304de1ac48e51",
+      "verified_fingerprint": "fbd3c7058d7ab91d49d18b996a4eed6415ffb2c66edba032d0a304de1ac48e51"
     },
     "repo:realdeanai/golden--trader": {
       "source": "repo",
@@ -659,7 +661,16 @@
       "failed_fingerprints": {
         "7b71cf1f513ae590002fc59dd529ab0520a29d25236edd6879b3f9b7d0a38f44": 1
       },
-      "last_verify_error": "HTTP Error 403: Forbidden"
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://gashood.vercel.app",
+          "source": "repository_metadata",
+          "quote": "\"homepage\": \"https://gashood.vercel.app\""
+        }
+      ],
+      "claims_fingerprint": "7b71cf1f513ae590002fc59dd529ab0520a29d25236edd6879b3f9b7d0a38f44",
+      "verified_fingerprint": "7b71cf1f513ae590002fc59dd529ab0520a29d25236edd6879b3f9b7d0a38f44"
     },
     "repo:denomhq/denom": {
       "source": "repo",
@@ -729,7 +740,9 @@
       "failed_fingerprints": {
         "46c9e11bddf2205c0ba17070bb081815d7a65f9a2f260c684f839fbc774604c1": 1
       },
-      "last_verify_error": "Expecting value: line 1 column 1 (char 0)"
+      "claims": [],
+      "claims_fingerprint": "46c9e11bddf2205c0ba17070bb081815d7a65f9a2f260c684f839fbc774604c1",
+      "verified_fingerprint": "46c9e11bddf2205c0ba17070bb081815d7a65f9a2f260c684f839fbc774604c1"
     },
     "repo:phosphenq/bodkin": {
       "source": "repo",
@@ -821,7 +834,16 @@
       "failed_fingerprints": {
         "580e81f57f35e0f261a9774067e36c80e637b83317357a866f099276a984eb5f": 1
       },
-      "last_verify_error": "Expecting value: line 1 column 1 (char 0)"
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://snobistisch.github.io/stock-lp-radar/",
+          "source": "README.md",
+          "quote": "Every push to `main` builds and publishes the static export to:\n\n[https://snobistisch.github.io/stock-lp-radar/](https://snobistisch.github.io/stock-lp-radar/)"
+        }
+      ],
+      "claims_fingerprint": "580e81f57f35e0f261a9774067e36c80e637b83317357a866f099276a984eb5f",
+      "verified_fingerprint": "580e81f57f35e0f261a9774067e36c80e637b83317357a866f099276a984eb5f"
     },
     "repo:nirholas/loxley": {
       "source": "repo",
@@ -2912,15 +2934,13 @@
       "next_check_at": "2026-09-06T11:00:00+00:00",
       "last_check_at": "2026-09-06T10:28:16.585291+00:00",
       "repo_id": 1358614318,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "34744587a99c2d7be3e3517b33bb9948c8eba697bb84fb8354a7e1fa25b4d2c0",
+      "verified_fingerprint": "34744587a99c2d7be3e3517b33bb9948c8eba697bb84fb8354a7e1fa25b4d2c0"
     }
   },
   "last_collect_at": "2026-09-06T10:28:24.293711+00:00",
   "last_errors": [],
-  "last_verify_errors": [
-    "repo:runesleo/meme-cohort-observatory: Expecting value: line 1 column 1 (char 0)",
-    "repo:rizkijack/gashood: HTTP Error 403: Forbidden",
-    "repo:travisiol/hedge: Expecting value: line 1 column 1 (char 0)",
-    "repo:snobistisch/stock-lp-radar: Expecting value: line 1 column 1 (char 0)"
-  ]
+  "last_verify_errors": []
 }
