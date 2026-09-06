@@ -59,7 +59,7 @@ def gh(path, method='GET', data=None):
             return json.loads(response.read() or b'null')
     except urllib.error.HTTPError as error:
         # Retain the HTTPError type for permanent-repository detection.
-        error.reason = str(error.reason) + ': ' + error.read().decode('utf-8', 'replace')[:600]
+        error.msg = str(error.reason) + ': ' + error.read().decode('utf-8', 'replace')[:600]
         raise
 
 
