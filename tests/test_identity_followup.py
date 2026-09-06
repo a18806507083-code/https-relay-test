@@ -16,6 +16,8 @@ class IdentityRules(unittest.TestCase):
         self.assertTrue(tracker.all_missing(self.report('官网：未知；X：未知；Token：未知。')))
         self.assertTrue(tracker.all_missing(self.report('- 官网 / X：未知（未见官方入口）\n- Token：未知')))
         self.assertTrue(tracker.all_missing(self.report('官网：未知\nX：未知\n没发币')))
+        self.assertTrue(tracker.all_missing(self.report('未知')))
+        self.assertTrue(tracker.all_missing('**官网 / X / Token**：均未在样本中出现，UNKNOWN。\nToken: 未知\n**价值判断**\n说明'))
 
     def test_any_known_excludes(self):
         for fields in ('官网：https://project.org\nX：未知\n未知',
