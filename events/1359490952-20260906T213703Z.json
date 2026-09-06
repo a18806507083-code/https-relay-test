@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T20:29:35Z",
+    "description": "Free, open-source tools for Robinhood Chain: bulk NFT and token airdrops that hold nothing and take no fee, and a page that reads any transaction or contract in plain English before you sign it.",
+    "detected_at": "2026-09-06T21:37:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "SRHSoulja/robinhood-chain-tools",
+    "homepage": null,
+    "html_url": "https://github.com/SRHSoulja/robinhood-chain-tools",
+    "pushed_at": "2026-09-06T20:29:48Z",
+    "repo_id": 1359490952,
+    "score": 18,
+    "tech_signals": [
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
