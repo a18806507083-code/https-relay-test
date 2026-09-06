@@ -2295,7 +2295,10 @@
       "next_check_at": "2026-09-06T21:00:00+00:00",
       "last_check_at": "2026-09-06T20:28:49.978116+00:00",
       "repo_id": 1357231201,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "d23bb0df1da9197ea9d457f4a60d73c5eab0584fb55eb38aaea4ced2af006bd8",
+      "verified_fingerprint": "d23bb0df1da9197ea9d457f4a60d73c5eab0584fb55eb38aaea4ced2af006bd8"
     },
     "repo:florityswap/meridian-robinhood": {
       "source": "repo",
@@ -2340,7 +2343,10 @@
       "next_check_at": "2026-09-06T21:00:00+00:00",
       "last_check_at": "2026-09-06T20:28:52.239835+00:00",
       "repo_id": 1357293353,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "a6795fcfa391b9bed75ea8d364c70a93b63ed63c7a344eb68d0b0c86be7a5817",
+      "verified_fingerprint": "a6795fcfa391b9bed75ea8d364c70a93b63ed63c7a344eb68d0b0c86be7a5817"
     },
     "repo:catrisxyz/catris": {
       "source": "repo",
@@ -2432,7 +2438,17 @@
       "next_check_at": "2026-09-06T21:00:00+00:00",
       "last_check_at": "2026-09-06T20:28:53.414759+00:00",
       "repo_id": 1357452361,
-      "file_cursor": 3
+      "file_cursor": 3,
+      "claims": [
+        {
+          "kind": "x",
+          "value": "@arca_fi",
+          "source": "README.md",
+          "quote": "**$ARCA** · on Robinhood Chain · [@arca_fi](https://x.com/arca_fi)"
+        }
+      ],
+      "claims_fingerprint": "447102fb1e7ec78ade074a0a593f97d059aa870afce9281bde565e0a9eda2295",
+      "verified_fingerprint": "447102fb1e7ec78ade074a0a593f97d059aa870afce9281bde565e0a9eda2295"
     },
     "repo:memeticstate/ms-v1": {
       "source": "repo",
@@ -2544,7 +2560,17 @@
       "next_check_at": "2026-09-06T21:00:00+00:00",
       "last_check_at": "2026-09-06T20:28:55.910685+00:00",
       "repo_id": 1357489892,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://airtime-gray.vercel.app",
+          "source": "repository_metadata",
+          "quote": "\"homepage\": \"https://airtime-gray.vercel.app\""
+        }
+      ],
+      "claims_fingerprint": "7a16693173c04e6896ac9e6eeaa7cb47cfc6ab040785db71c77d6f9ec82f3405",
+      "verified_fingerprint": "7a16693173c04e6896ac9e6eeaa7cb47cfc6ab040785db71c77d6f9ec82f3405"
     },
     "repo:nar-123/lpbot-new": {
       "source": "repo",
@@ -2569,7 +2595,10 @@
       "next_check_at": "2026-09-06T21:00:00+00:00",
       "last_check_at": "2026-09-06T20:28:57.088036+00:00",
       "repo_id": 1357484187,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "5762c76876381fa2026069082a276c8a327b235ec10b93e566959f701320c2fe",
+      "verified_fingerprint": "5762c76876381fa2026069082a276c8a327b235ec10b93e566959f701320c2fe"
     },
     "repo:shellr-packs/shellr-stock-packs": {
       "source": "repo",
@@ -2654,7 +2683,19 @@
       "next_check_at": "2026-09-06T21:00:00+00:00",
       "last_check_at": "2026-09-06T20:28:58.235886+00:00",
       "repo_id": 1357556366,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://button-ivory.vercel.app",
+          "source": "repository_metadata",
+          "quote": "\"homepage\": \"https://button-ivory.vercel.app\"",
+          "chain_id": null,
+          "mainnet_token": null
+        }
+      ],
+      "claims_fingerprint": "634e91c01eb8f5dcfc7d0d0b048d0b042fe363bdc958f1af29f6091a532b9043",
+      "verified_fingerprint": "634e91c01eb8f5dcfc7d0d0b048d0b042fe363bdc958f1af29f6091a532b9043"
     },
     "repo:tickrmarkets/tickr-markets": {
       "source": "repo",
@@ -2674,7 +2715,10 @@
       "next_check_at": "2026-09-06T21:00:00+00:00",
       "last_check_at": "2026-09-06T20:28:59.406142+00:00",
       "repo_id": 1357604173,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "27229d737aac2e6436a4ed384078cbb188914c1b1c15c7755d3e10a46283a35b",
+      "verified_fingerprint": "27229d737aac2e6436a4ed384078cbb188914c1b1c15c7755d3e10a46283a35b"
     },
     "repo:novenrizkia856-ui/roxy-contract": {
       "source": "repo",
@@ -4347,7 +4391,10 @@
       "next_check_at": "2026-09-06T21:00:00+00:00",
       "last_check_at": "2026-09-06T20:28:15.383886+00:00",
       "repo_id": 1359317759,
-      "file_cursor": 4
+      "file_cursor": 4,
+      "claims": [],
+      "claims_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d",
+      "verified_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d"
     },
     "repo:aquiferofficial/aquifer": {
       "source": "repo",
