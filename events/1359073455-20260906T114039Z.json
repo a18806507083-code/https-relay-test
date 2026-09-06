@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T11:24:57Z",
+    "description": "Safety-first vault accounting prototype for the Arbitrum hackathon",
+    "detected_at": "2026-09-06T11:40:39Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "pdbsy/quantpass-arbitrum-hackathon",
+    "homepage": null,
+    "html_url": "https://github.com/pdbsy/quantpass-arbitrum-hackathon",
+    "pushed_at": "2026-09-06T11:36:35Z",
+    "repo_id": 1359073455,
+    "score": 7,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
