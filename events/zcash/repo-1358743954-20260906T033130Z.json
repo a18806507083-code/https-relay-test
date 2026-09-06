@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T03:13:37Z",
+    "detected_at": "2026-09-06T03:31:30Z",
+    "display": "boyfromcave/yellowback",
+    "key": "repo:1358743954",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "boyfromcave/yellowback",
+      "homepage": null,
+      "pushed_at": "2026-09-06T03:20:28Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1358743954,
+    "url": "https://github.com/boyfromcave/yellowback"
+  },
+  "schema": "zcash-fast-event/1"
+}
