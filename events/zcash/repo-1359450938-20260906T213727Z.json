@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T19:23:44Z",
+    "detected_at": "2026-09-06T21:37:27Z",
+    "display": "wegastudios/QualityTime",
+    "key": "repo:1359450938",
+    "metadata": {
+      "description": "microapp",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "wegastudios/QualityTime",
+      "homepage": null,
+      "pushed_at": "2026-09-06T20:33:51Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1359450938,
+    "url": "https://github.com/wegastudios/QualityTime"
+  },
+  "schema": "zcash-fast-event/1"
+}
