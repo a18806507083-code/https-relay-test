@@ -1,0 +1,51 @@
+name: Radar Missing Identity Follow-up
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/identity-followup.yml
+      - scripts/identity_followup.py
+      - tests/test_identity_followup.py
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: read
+  copilot-requests: write
+
+concurrency:
+  group: radar-identity-followup
+  cancel-in-progress: false
+
+jobs:
+  follow-up:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      SENSOR_REPO: ${{ github.repository }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify follow-up rules
+        run: python3 -m unittest discover -s tests -p test_identity_followup.py
+      - name: Check only missing project identities
+        id: collect
+        continue-on-error: true
+        run: python3 scripts/identity_followup.py --collect
+      - uses: actions/setup-node@v4
+        if: steps.collect.outputs.has_pending == 'true'
+        with:
+          node-version: '22'
+      - name: Install Copilot only for changed identity evidence
+        if: steps.collect.outputs.has_pending == 'true'
+        run: npm install -g @github/copilot
+      - name: Verify changes and notify once
+        if: steps.collect.outputs.has_pending == 'true'
+        run: python3 scripts/identity_followup.py --verify
+      - name: Surface collection failures
+        if: steps.collect.outcome == 'failure'
+        run: exit 1
