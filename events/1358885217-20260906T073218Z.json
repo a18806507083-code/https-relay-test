@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T07:15:56Z",
+    "description": "Real-time multi-wallet tracker for Robinhood Chain with Telegram alerts.",
+    "detected_at": "2026-09-06T07:32:18Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "kiattisakph/robinhood-wallet-alert-bot",
+    "homepage": null,
+    "html_url": "https://github.com/kiattisakph/robinhood-wallet-alert-bot",
+    "pushed_at": "2026-09-06T07:24:25Z",
+    "repo_id": 1358885217,
+    "score": 13,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
