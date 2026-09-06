@@ -460,6 +460,11 @@
       "project": "repo:merlo-team/fund1-contracts",
       "all_missing": false,
       "parser_version": 2
+    },
+    "240": {
+      "project": "repo:zodlprotocol/zodl",
+      "all_missing": true,
+      "parser_version": 2
     }
   },
   "projects": {
@@ -509,9 +514,9 @@
         }
       },
       "next_check_at": "2026-09-06T11:00:00+00:00",
-      "last_check_at": "2026-09-06T10:22:49.805043+00:00",
+      "last_check_at": "2026-09-06T10:28:19.900233+00:00",
       "repo_id": 1356051016,
-      "file_cursor": 3,
+      "file_cursor": 1,
       "failed_fingerprints": {
         "fbd3c7058d7ab91d49d18b996a4eed6415ffb2c66edba032d0a304de1ac48e51": 1
       },
@@ -648,7 +653,7 @@
         }
       },
       "next_check_at": "2026-09-06T11:00:00+00:00",
-      "last_check_at": "2026-09-06T10:22:56.903268+00:00",
+      "last_check_at": "2026-09-06T10:28:21.033861+00:00",
       "repo_id": 1356167900,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -718,7 +723,7 @@
         }
       },
       "next_check_at": "2026-09-06T11:00:00+00:00",
-      "last_check_at": "2026-09-06T10:22:59.622348+00:00",
+      "last_check_at": "2026-09-06T10:28:22.250864+00:00",
       "repo_id": 1356225163,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -810,7 +815,7 @@
         }
       },
       "next_check_at": "2026-09-06T11:00:00+00:00",
-      "last_check_at": "2026-09-06T10:23:04.162919+00:00",
+      "last_check_at": "2026-09-06T10:28:23.222688+00:00",
       "repo_id": 1356269686,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -2843,9 +2848,74 @@
       "first_report_sha256": "dfb628792e9d2969458484090de95b38b58077fd751afadf1f97047a70e9c15b",
       "files": {},
       "next_check_at": null
+    },
+    "repo:zodlprotocol/zodl": {
+      "source": "repo",
+      "repo": "zodlprotocol/zodl",
+      "name": "zodlprotocol/zodl",
+      "pr": 240,
+      "status": "tracking",
+      "registered_at": "2026-09-06T10:28:16.584674+00:00",
+      "first_report_sha256": "c571fe91480a1f4336791882941ee611260cecb80532de4b03868da6eec78afb",
+      "files": {
+        "README.md": {
+          "sha": "a4a5d7699ce62bcdc01e52c45e559671c4bcef1c",
+          "text": "",
+          "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/README.md"
+        },
+        "contracts/scripts/legacy/deploy-desk.ts": {
+          "sha": "839816c03e59e2000163d9f0f3006ed4a6e86f30",
+          "text": " *   DESK_OPERATOR=0x... npm run desk\n */\nconst ZZEC = '0x0b151Ff7a7c5250130EC16C275790961d558E402'\nasync function main() {\n  const net = await ethers.provider.getNetwork()",
+          "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/contracts/scripts/legacy/deploy-desk.ts"
+        },
+        "contracts/scripts/legacy/deploy-furnace.ts": {
+          "sha": "d29183a9857bdcd1d414c5c3e0bcea48f0038417",
+          "text": " * OWNER must call positionManager.safeTransferFrom(owner, furnace, tokenId).\n */\nconst POOL_MANAGER = '0x8366a39cc670b4001a1121b8f6a443a643e40951'\nconst POSITION_MANAGER = '0x58daec3116aae6d93017baaea7749052e8a04fa7'\nconst ZEAL = '0x9fA1C5E90A11294F83A9F135b81ad1b537A5FFdC'\nconst ZZEC = '0x0b151Ff7a7c5250130EC16C275790961d558E402'\nconst PONS_HOOK = '0xE5e702641Ea86F4ae6cC3cDaeD2B886f976Be044'\nconst ZERO = ethers.ZeroAddress\n\n  rec.furnaceV4 = { poolManager: POOL_MANAGER, positionManager: POSITION_MANAGER, zeal: ZEAL, zzec: ZZEC, owner, igniter, deployedAt: new Date().toISOString() }\n  writeFileSync(file, JSON.stringify(rec, null, 2) + '\\n')\n  console.log(`\\nNext:\\n  1. CONTRACTS.furnace = '${addr}' in src/config.ts\\n  2. Verify on robinhoodchain.blockscout.com\\n  3. As owner: positionManager.safeTransferFrom(owner, furnace, tokenId) so collectFees() works (safeTransferFrom, not transferFrom)\\n`)\n}\nmain().catch((e) => { console.error(e); process.exitCode = 1 })",
+          "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/contracts/scripts/legacy/deploy-furnace.ts"
+        },
+        "contracts/scripts/legacy/deploy-hook.ts": {
+          "sha": "4b1e618750984a8e75965422c2284633c5e4c6b9",
+          "text": " *   HOOK_SHARE_BPS=70 npm run hook            (defaults: share 0.70%, Furnace from deployments)\n */\nconst CREATE2 = '0x4e59b44847b379578588920cA78FbF26c0B4956C'\nconst POOL_MANAGER = '0x8366a39cc670b4001a1121b8f6a443a643e40951'\nconst FLAG_MASK = 0x3fffn, WANT = 0x0044n\n",
+          "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/contracts/scripts/legacy/deploy-hook.ts"
+        },
+        "contracts/scripts/legacy/deploy-tap.ts": {
+          "sha": "4c3ce38420e54cebe97920004410dda007081579",
+          "text": " * Both constructor args are fixed facts of the live system.\n */\nconst ESCROW = '0xd3AFEB2a57f70eF218Aa82451c51B2fb0416Ac9e' // Pons V2FeeEscrow\nconst FOUNDRY = '0xa1C1Fb281cCC47C587565a01700bF61a03D885a6'\n\nasync function main() {\n  rec.tap = { escrow: ESCROW, foundry: FOUNDRY, deployedAt: new Date().toISOString() }\n  writeFileSync(file, JSON.stringify(rec, null, 2) + '\\n')\n  console.log(`\\nNext: ask Pons to call setCreatorFeeRecipient(0x9fA1C5E90A11294F83A9F135b81ad1b537A5FFdC, ${addr})\\n`)\n}\nmain().catch((e) => { console.error(e); process.exitCode = 1 })",
+          "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/contracts/scripts/legacy/deploy-tap.ts"
+        },
+        "contracts/scripts/legacy/deploy-tap2.ts": {
+          "sha": "461d5d033b8ec7312aff66fb544850b5c4db325c",
+          "text": " *   TAP_STEWARD=0x... npm run tap2\n */\nconst ESCROW = '0xd3AFEB2a57f70eF218Aa82451c51B2fb0416Ac9e'\nconst FOUNDRY = '0xa1C1Fb281cCC47C587565a01700bF61a03D885a6'\nconst HOOK = '0xE5e702641Ea86F4ae6cC3cDaeD2B886f976Be044'\nconst FACTORY = '0x7eD598BcEf8bd9Edd8C97A195C6d13f40801EC7e'\nconst TOKEN = '0x9fA1C5E90A11294F83A9F135b81ad1b537A5FFdC'\nconst POOL_ID = '0x95f9fcf8eb2d707d6c9c8175822c6005fcce759933e54f8d5ca6df458c8ccaf0'\n",
+          "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/contracts/scripts/legacy/deploy-tap2.ts"
+        },
+        "contracts/scripts/legacy/deploy-wrap.ts": {
+          "sha": "2f5c77c9378d73154a9f1857d6c0e9750c6400f9",
+          "text": "  if (net.chainId !== 4663n) throw new Error(`wrong chain ${net.chainId}`)\n  const deployer = await unlock(ethers.provider)\n  const ZZEC = process.env.ZZEC_ADDRESS ?? '0x0b151Ff7a7c5250130EC16C275790961d558E402'\n  const operator = process.env.WRAP_OPERATOR\n  if (!operator || !ethers.isAddress(operator)) throw new Error('WRAP_OPERATOR must be an address (the minter key)')",
+          "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/contracts/scripts/legacy/deploy-wrap.ts"
+        },
+        "contracts/scripts/legacy/deploy-zzec.ts": {
+          "sha": "7754ebb7e1974713ae804485f6a727f81ddda5ac",
+          "text": "  rec.zzec = { deployedAt: new Date().toISOString(), zecReserveAddress: reserve, owner, attestor, minter, maxAttestationAge: maxAge }\n  writeFileSync(file, JSON.stringify(rec, null, 2) + '\\n')\n  console.log(`Wrote ${file}\\n\\nNext:\\n  1. CONTRACTS.zzec = '${address}' in src/config.ts and ZZEC_ADDRESS in ops/.env\\n  2. Verify the source on robinhoodchain.blockscout.com\\n  3. First attestation before any mint (ops: npm run attest)\\n`)\n}\nmain().catch((e) => { console.error(e); process.exitCode = 1 })",
+          "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/contracts/scripts/legacy/deploy-zzec.ts"
+        },
+        "contracts/scripts/legacy/deploy.ts": {
+          "sha": "86d840d1bf34e82ee8ac5831af7fa8b80d778f2f",
+          "text": "  console.log(`  2. Paste the address(es) into src/config.ts on the website (CONTRACTS.*)`)\n  if (phase2) console.log(`  2b. Point the zZEC LP position's fee collection at ${furnaceAddress}`)\n  console.log(`  3. Verify on https://robinhoodchain.blockscout.com`)\n  console.log(`  4. Post the first attestation before any mint — minting reverts without one\\n`)\n}",
+          "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/contracts/scripts/legacy/deploy.ts"
+        },
+        "site/README.md": {
+          "sha": "e915c2cdd545782c0ce2b852bf8c2db82fb3aa05",
+          "text": "",
+          "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/site/README.md"
+        }
+      },
+      "next_check_at": "2026-09-06T11:00:00+00:00",
+      "last_check_at": "2026-09-06T10:28:16.585291+00:00",
+      "repo_id": 1358614318,
+      "file_cursor": 0
     }
   },
-  "last_collect_at": "2026-09-06T10:27:21.933242+00:00",
+  "last_collect_at": "2026-09-06T10:28:24.293711+00:00",
   "last_errors": [],
   "last_verify_errors": [
     "repo:runesleo/meme-cohort-observatory: Expecting value: line 1 column 1 (char 0)",
