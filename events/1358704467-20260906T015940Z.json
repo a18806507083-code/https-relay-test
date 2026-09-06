@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T01:57:10Z",
+    "description": "Local-first Robinhood Chain activity terminal with live filters, inspectable risk signals, and an optional FOMO leaderboard adapter.",
+    "detected_at": "2026-09-06T01:59:40Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "nativ3ai/robinhood-terminal",
+    "homepage": null,
+    "html_url": "https://github.com/nativ3ai/robinhood-terminal",
+    "pushed_at": "2026-09-06T01:57:14Z",
+    "repo_id": 1358704467,
+    "score": 8,
+    "tech_signals": [
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
