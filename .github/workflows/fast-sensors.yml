@@ -8,6 +8,7 @@ on:
   push:
     paths:
       - ".github/workflows/fast-sensors.yml"
+      - "scripts/fast_ai_quota.py"
       - "scripts/rh_fast_sensor.py"
       - "scripts/rh_fast_analyzer.py"
       - "scripts/rh_fast_analyzer_gate.py"
@@ -118,7 +119,7 @@ jobs:
         run: npm install -g @github/copilot
 
       - name: Deep-analyze pending RH candidates
-        if: steps.pending.outputs.rh_count != '0'
+        if: steps.pending.outputs.has_analyzable == 'true' && steps.pending.outputs.rh_count != '0'
         id: rh_analyzer
         continue-on-error: true
         env:
@@ -131,7 +132,7 @@ jobs:
         run: python3 scripts/rh_fast_analyzer_gate.py
 
       - name: Deep-analyze pending Zcash candidates
-        if: steps.pending.outputs.zcash_count != '0'
+        if: steps.pending.outputs.has_analyzable == 'true' && steps.pending.outputs.zcash_count != '0'
         id: zcash_analyzer
         continue-on-error: true
         env:
@@ -143,8 +144,23 @@ jobs:
           ZCASH_FAST_MAX_TOTAL_BYTES: "600000"
         run: python3 scripts/zcash_fast_analyzer.py
 
+      - name: Persist shared AI quota pause
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ ! -f state/ai_quota.json ]; then exit 0; fi
+          git config user.name "fast-sensors[bot]"
+          git config user.email "fast-sensors[bot]@users.noreply.github.com"
+          git add state/ai_quota.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "state: persist AI quota circuit breaker [skip ci]"
+          git pull --rebase
+          git push
+
       - name: Surface source or retryable AI failures
         if: steps.rh_sensor.outcome == 'failure' || steps.zcash_sensor.outcome == 'failure' || steps.rh_analyzer.outcome == 'failure' || steps.zcash_analyzer.outcome == 'failure'
         run: |
           echo "A fast source or retryable AI first-pass failed. Successful state was preserved; eligible candidates retry up to three times."
           exit 1
+
