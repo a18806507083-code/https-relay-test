@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T21:34:24.333Z",
+    "detected_at": "2026-09-06T21:37:27Z",
+    "display": "57464 Zecboat.com | Desktop Wallet v0.6.2-beta",
+    "key": "forum:57464",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zecboat-com-desktop-wallet-v0-6-2-beta",
+      "title": "Zecboat.com | Desktop Wallet v0.6.2-beta",
+      "topic_id": 57464
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57464,
+    "url": "https://forum.zcashcommunity.com/t/zecboat-com-desktop-wallet-v0-6-2-beta/57464"
+  },
+  "schema": "zcash-fast-event/1"
+}
