@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T00:35:17Z",
+    "description": null,
+    "detected_at": "2026-09-06T00:58:30Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "askspecter/fomoprofil",
+    "homepage": null,
+    "html_url": "https://github.com/askspecter/fomoprofil",
+    "pushed_at": "2026-09-06T00:56:21Z",
+    "repo_id": 1358664888,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
