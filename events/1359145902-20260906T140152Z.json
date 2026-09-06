@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T13:00:39Z",
+    "description": "fluixoo \u2014 on-chain desk operator",
+    "detected_at": "2026-09-06T14:01:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "fluixoo/fluixoo",
+    "homepage": null,
+    "html_url": "https://github.com/fluixoo/fluixoo",
+    "pushed_at": "2026-09-06T13:06:10Z",
+    "repo_id": 1359145902,
+    "score": 5,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
