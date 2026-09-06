@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T00:06:19Z",
+    "description": null,
+    "detected_at": "2026-09-06T00:28:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "PumpLandSOL/folio-rh",
+    "homepage": null,
+    "html_url": "https://github.com/PumpLandSOL/folio-rh",
+    "pushed_at": "2026-09-06T00:17:39Z",
+    "repo_id": 1358651711,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
