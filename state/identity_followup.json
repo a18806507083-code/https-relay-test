@@ -3958,9 +3958,7 @@
       "next_check_at": null
     }
   },
-  "last_collect_at": "2026-09-06T14:08:16.532677+00:00",
-  "last_errors": [
-    "repo:lovawin/rh-alpha-scanner: property 'reason' of 'HTTPError' object has no setter"
-  ],
+  "last_collect_at": "2026-09-06T14:09:19.026633+00:00",
+  "last_errors": [],
   "last_verify_errors": []
 }
