@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T12:19:59Z",
+    "detected_at": "2026-09-06T14:02:22Z",
+    "display": "simak-kupang/Zaino.id",
+    "key": "repo:1359112728",
+    "metadata": {
+      "description": "Zero Accounting, Instant Note & Operation",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "simak-kupang/Zaino.id",
+      "homepage": "https://zaino-id.vercel.app",
+      "pushed_at": "2026-09-06T12:29:30Z",
+      "tech_signals": [
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1359112728,
+    "url": "https://github.com/simak-kupang/Zaino.id"
+  },
+  "schema": "zcash-fast-event/1"
+}
