@@ -1801,7 +1801,10 @@
       "next_check_at": "2026-09-06T19:00:00+00:00",
       "last_check_at": "2026-09-06T18:17:20.250501+00:00",
       "repo_id": 1356845105,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "4a97ac4ce3ca4a78dfc04ce09e8357e919ed8a7e02694a960dcf86f9f02d4483",
+      "verified_fingerprint": "4a97ac4ce3ca4a78dfc04ce09e8357e919ed8a7e02694a960dcf86f9f02d4483"
     },
     "repo:kealabama/midcap-random-index": {
       "source": "repo",
@@ -1836,7 +1839,10 @@
       "next_check_at": "2026-09-06T19:00:00+00:00",
       "last_check_at": "2026-09-06T18:17:21.553154+00:00",
       "repo_id": 1356858272,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "54053ca15b81c6b99f0ffd9b0c79039129af7e3c78ab2b3d32d83c716c9b3506",
+      "verified_fingerprint": "54053ca15b81c6b99f0ffd9b0c79039129af7e3c78ab2b3d32d83c716c9b3506"
     },
     "repo:monkiilabs/monkiilabsapp": {
       "source": "repo",
@@ -1866,14 +1872,17 @@
       "next_check_at": "2026-09-06T19:00:00+00:00",
       "last_check_at": "2026-09-06T18:17:22.662687+00:00",
       "repo_id": 1356847100,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "0dc2597d8c91847bd63e9cbb62fc94f9089cf92519bfa83976a1beaae41de4c1",
+      "verified_fingerprint": "0dc2597d8c91847bd63e9cbb62fc94f9089cf92519bfa83976a1beaae41de4c1"
     },
     "repo:leveradotfun/levera-dapp": {
       "source": "repo",
       "repo": "leveradotfun/levera-dapp",
       "name": "leveradotfun/levera-dapp",
       "pr": 84,
-      "status": "tracking",
+      "status": "found",
       "registered_at": "2026-09-06T10:22:34.282155+00:00",
       "first_report_sha256": "f867f11553eb2c4e42f2c40d190d3e01e45c4970ac974afb3130c2d532448e9d",
       "files": {
@@ -1916,7 +1925,29 @@
       "next_check_at": "2026-09-06T19:00:00+00:00",
       "last_check_at": "2026-09-06T18:17:23.979836+00:00",
       "repo_id": 1356925368,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://levera-dapp.vercel.app",
+          "source": "repository_metadata",
+          "quote": "\"homepage\": \"https://levera-dapp.vercel.app\"",
+          "official_project": true
+        }
+      ],
+      "claims_fingerprint": "c31200358bc3454e6c2ad9ab127ea415f658203d6f7220bd083b2a0b09a42bdb",
+      "identities": [
+        {
+          "kind": "website",
+          "value": "https://levera-dapp.vercel.app",
+          "source": "repository_metadata",
+          "quote": "\"homepage\": \"https://levera-dapp.vercel.app\"",
+          "official_project": true,
+          "source_url": "https://github.com/leveradotfun/levera-dapp"
+        }
+      ],
+      "notified_at": "2026-09-06T18:19:06.171782+00:00",
+      "verified_fingerprint": "c31200358bc3454e6c2ad9ab127ea415f658203d6f7220bd083b2a0b09a42bdb"
     },
     "repo:flock-io/flock-v4-hook": {
       "source": "repo",
@@ -1951,7 +1982,10 @@
       "next_check_at": "2026-09-06T19:00:00+00:00",
       "last_check_at": "2026-09-06T18:17:25.151850+00:00",
       "repo_id": 1356947738,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "7cc80bf517782c6ed8f681f5db0b2563350a6868f298afb25d7bf002822cef5f",
+      "verified_fingerprint": "7cc80bf517782c6ed8f681f5db0b2563350a6868f298afb25d7bf002822cef5f"
     },
     "repo:clawplaza/meowdinger-dev": {
       "source": "repo",
@@ -2027,7 +2061,10 @@
       "next_check_at": "2026-09-06T19:00:00+00:00",
       "last_check_at": "2026-09-06T18:17:26.285799+00:00",
       "repo_id": 1356964162,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "20776c0c1c5a432c56105430e9c0826298f650dd2cbc9b8bfa4fcb490b9bfd17",
+      "verified_fingerprint": "20776c0c1c5a432c56105430e9c0826298f650dd2cbc9b8bfa4fcb490b9bfd17"
     },
     "repo:levu-lol/levu": {
       "source": "repo",
@@ -2189,7 +2226,17 @@
       "next_check_at": "2026-09-06T19:00:00+00:00",
       "last_check_at": "2026-09-06T18:17:27.449975+00:00",
       "repo_id": 1357071581,
-      "file_cursor": 14
+      "file_cursor": 14,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "payhole.org",
+          "source": "packages/verifier/README.md",
+          "quote": "a real x402 resource used by payhole.org/try.html"
+        }
+      ],
+      "claims_fingerprint": "3cc9fa6be70f150afe8f1bf949b2ef02e51399a9b0e332e5ac809db929a10951",
+      "verified_fingerprint": "3cc9fa6be70f150afe8f1bf949b2ef02e51399a9b0e332e5ac809db929a10951"
     },
     "repo:dandamaev1111/equity-lens": {
       "source": "repo",
@@ -3381,8 +3428,8 @@
       "repo_id": 1358626962,
       "file_cursor": 0,
       "claims": [],
-      "claims_fingerprint": "6e2d705a122a8ffa149003c7f639e2352246f087e1beed12c2d6fb6ac268646d",
-      "verified_fingerprint": "6e2d705a122a8ffa149003c7f639e2352246f087e1beed12c2d6fb6ac268646d"
+      "claims_fingerprint": "663b8e00725b6889369377d4e1babaf4dcc6cc49f85c130227d8305d52e22b6b",
+      "verified_fingerprint": "663b8e00725b6889369377d4e1babaf4dcc6cc49f85c130227d8305d52e22b6b"
     },
     "repo:stockcurve/stockcurve.github.io": {
       "source": "repo",
