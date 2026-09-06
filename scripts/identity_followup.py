@@ -29,6 +29,7 @@ RESULT = re.compile(r'^\[(RH|ZCASH)-FAST\]\[(PUSH|WATCH)\]')
 MARKER = re.compile(r'<!-- (?:RH|ZCASH)-FAST-COPILOT-v1 -->')
 URL = re.compile(r'https?://[^\s<>"\x27`\]\)（），；。]+')
 ADDRESS = re.compile(r'\b0x[0-9a-fA-F]{40}\b')
+DOMAIN = re.compile(r'\b(?:[a-z0-9-]+\.)+(?:com|org|net|io|xyz|fun|app|dev|ai|co|cash|finance|network)\b', re.I)
 UNKNOWN = re.compile(r'未知|没发币|未发币|未见|未提供|未发现|无法确认|未确认|unknown|not found|not available', re.I)
 RPC = {4663: 'https://rpc.mainnet.chain.robinhood.com',
        1: 'https://ethereum-rpc.publicnode.com', 8453: 'https://mainnet.base.org',
@@ -105,7 +106,7 @@ def identity_section(report):
 def all_missing(report):
     """Only explicitly absent identities qualify; ambiguous reports do not enroll."""
     section = identity_section(report)
-    if not section or URL.search(section) or ADDRESS.search(section) or re.search(r'@[A-Za-z0-9_]{1,15}', section):
+    if not section or URL.search(section) or DOMAIN.search(section) or ADDRESS.search(section) or re.search(r'@[A-Za-z0-9_]{1,15}', section):
         return False
     clean = section.replace('*', '').replace('；', '\n').replace(';', '\n')
     website = any('官网' in x and UNKNOWN.search(x) for x in clean.splitlines())
@@ -143,15 +144,18 @@ def origin(pr):
 def register(state):
     for pr in pages(f'/repos/{REPO}/pulls?state=all&sort=created&direction=asc'):
         number = str(pr['number'])
-        if number in state['registered'] or not RESULT.match(pr['title']):
+        if state['registered'].get(number, {}).get('parser_version') == 2 or not RESULT.match(pr['title']):
             continue
         report = first_report(pr)
         if report is None:
             continue  # Analyzer may still be publishing; try next hour.
         key, info = origin(pr)
         eligible = all_missing(report)
-        state['registered'][number] = {'project': key, 'all_missing': eligible}
+        state['registered'][number] = {'project': key, 'all_missing': eligible, 'parser_version': 2}
         if key in state['projects']:
+            existing = state['projects'][key]
+            if existing['pr'] == pr['number'] and not eligible and existing['status'] == 'tracking':
+                existing['status'] = 'excluded'
             continue  # Earliest completed first-pass controls enrollment.
         info.update({'pr': pr['number'], 'status': 'tracking' if eligible else 'excluded',
                      'registered_at': stamp(), 'first_report_sha256': digest(report),
@@ -271,7 +275,7 @@ def snippets(docs):
         lines = doc['text'].splitlines()
         selected = set()
         for i, line in enumerate(lines):
-            if URL.search(line) or ADDRESS.search(line) or re.search(r'@[A-Za-z0-9_]{1,15}', line):
+            if URL.search(line) or DOMAIN.search(line) or ADDRESS.search(line) or re.search(r'@[A-Za-z0-9_]{1,15}', line):
                 selected.update(range(max(0, i-2), min(len(lines), i+3)))
         if selected:
             out[path] = {'url': doc['url'], 'text': '\n'.join(lines[i] for i in sorted(selected))[:25000]}
@@ -328,7 +332,7 @@ Never execute code or use shell, write, URL, memory, or MCP tools.
 Do not return developer personal websites/X, dependencies, RPCs, explorers, docs of other projects,
 routers, vaults, pools, testnet addresses, sample addresses, planned/unlaunched tokens.
 Require explicit first-party ownership of THIS project and context in evidence. If uncertain return no identities.
-Return ONLY JSON {"identities":[{"kind":"website|x|ca","value":"exact URL or address",
+Return ONLY JSON {"identities":[{"kind":"website|x|ca","value":"exact URL, bare domain, @handle or address",
 "source":"exact evidence key","quote":"exact contiguous supporting quote",
 "chain_id":4663,"official_project":true,"mainnet_token":true}]}. chain_id and mainnet_token required only for CA.
 No grades, project analysis or investment recommendations. Do not guess. Empty identities is valid.
@@ -378,6 +382,10 @@ def validate(identity, docs):
         return False
     if kind == 'ca':
         return bool(ADDRESS.fullmatch(value) and identity.get('mainnet_token') is True and token_live(value, identity.get('chain_id')))
+    if kind == 'x' and re.fullmatch(r'@[A-Za-z0-9_]{1,15}', value):
+        value = 'https://x.com/' + value[1:]
+    if kind == 'website' and DOMAIN.fullmatch(value):
+        value = 'https://' + value
     url = urllib.parse.urlsplit(value)
     if url.scheme not in ('http', 'https') or not url.hostname or url.username or url.password:
         return False
@@ -416,6 +424,10 @@ def verify():
                 valid = []
                 for identity in identities:
                     if validate(identity, work['docs']):
+                        if identity['kind'] == 'x' and identity['value'].startswith('@'):
+                            identity['value'] = 'https://x.com/' + identity['value'][1:]
+                        if identity['kind'] == 'website' and DOMAIN.fullmatch(identity['value']):
+                            identity['value'] = 'https://' + identity['value']
                         identity['source_url'] = work['docs'][identity['source']]['url']
                         valid.append(identity)
                 if valid:
