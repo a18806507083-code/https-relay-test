@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T17:20:48Z",
+    "description": "GOATSE\u2013SPCX wormhole + /suit page \u2014 live Robinhood Chain absorption visualization",
+    "detected_at": "2026-09-06T17:46:32Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "phelo1/goatse-spcx-wormhole",
+    "homepage": null,
+    "html_url": "https://github.com/phelo1/goatse-spcx-wormhole",
+    "pushed_at": "2026-09-06T17:21:11Z",
+    "repo_id": 1359365841,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
