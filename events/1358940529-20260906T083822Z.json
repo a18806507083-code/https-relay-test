@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T08:32:15Z",
+    "description": "Read-only client-side Robinhood Chain (4663) portfolio viewer: paste any wallet address for live balances, prices, mcap, liquidity. Static HTML, no server, no keys.",
+    "detected_at": "2026-09-06T08:38:22Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "33hodl/rh-chain-wallet-lens",
+    "homepage": null,
+    "html_url": "https://github.com/33hodl/rh-chain-wallet-lens",
+    "pushed_at": "2026-09-06T08:36:52Z",
+    "repo_id": 1358940529,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
