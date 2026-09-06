@@ -645,6 +645,16 @@
       "project": "repo:terminusveil/terminusveil",
       "all_missing": false,
       "parser_version": 3
+    },
+    "309": {
+      "project": "repo:idotmy/idex-contracts",
+      "all_missing": true,
+      "parser_version": 3
+    },
+    "310": {
+      "project": "repo:pardotfamily/par-sdk",
+      "all_missing": true,
+      "parser_version": 3
     }
   },
   "projects": {
@@ -693,10 +703,10 @@
           "url": "https://github.com/runesleo/meme-cohort-observatory/blob/ffde5cf1a84a5849f54c8e568739c7098b49667c/docs/STAGE_B.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:12.847632+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:17.021585+00:00",
       "repo_id": 1356051016,
-      "file_cursor": 1,
+      "file_cursor": 4,
       "failed_fingerprints": {
         "fbd3c7058d7ab91d49d18b996a4eed6415ffb2c66edba032d0a304de1ac48e51": 1
       },
@@ -744,10 +754,10 @@
           "url": "https://github.com/realdeanai/golden--trader/blob/cb1b89504a2bc6294da2ddcc600751de811635ef/development/wallet-monitor/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:31.045593+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:25.456588+00:00",
       "repo_id": 1356082615,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "verified_fingerprint": "5e05e3c551c4fcca49198c17c9185bd87e66d3774a4e908305dd8673fa62fdfe"
     },
     "repo:voxelithicag/mcp": {
@@ -781,8 +791,8 @@
           "url": "https://github.com/ReddAgentRH/redd/blob/938adaa0b90e22e8eaf1d4fab79ad32ab656f8cb/contract/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:32.280784+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:27.419836+00:00",
       "repo_id": 1356143612,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -847,8 +857,8 @@
           "url": "https://github.com/Rizkijack/gashood/blob/853edd0a271357936dfddcd2a858dfa5969c9dd7/docs/WORKFLOW.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:13.983364+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:18.349483+00:00",
       "repo_id": 1356167900,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -926,8 +936,8 @@
           "url": "https://github.com/travisiol/hedge/blob/3bd37a63234bcca0bb5bc56d50990857998fb187/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:15.671508+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:19.693548+00:00",
       "repo_id": 1356225163,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1054,8 +1064,8 @@
           "url": "https://github.com/snobistisch/stock-lp-radar/blob/590dc2bc4b8e98f3303c3ebece3fdea54a235f80/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:16.635085+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:20.938684+00:00",
       "repo_id": 1356269686,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1182,10 +1192,10 @@
           "url": "https://github.com/nirholas/loxley/blob/afd42677c3333bdbb7689852872e838d732e4e89/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:33.401744+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:28.717790+00:00",
       "repo_id": 1356333517,
-      "file_cursor": 13,
+      "file_cursor": 12,
       "failed_fingerprints": {
         "4cd72aa43fb1e32ca7340d6179028e9795aab4ce5cc71f4f5409a55a839983c2": 1
       },
@@ -1226,8 +1236,8 @@
           "url": "https://github.com/vern-sh/vernagent/blob/95d5ffff949efa04c76065d5d8241ccf3fdb4a86/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:34.489868+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:29.998011+00:00",
       "repo_id": 1356364734,
       "file_cursor": 0,
       "claims": [],
@@ -1291,10 +1301,10 @@
           "url": "https://github.com/Ali213112/Agentic-on-bot-chain-/blob/dc6f15d0a837849cd10e16db657132fdf912e57c/src/lib/deployed.ts"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:35.759943+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:31.332783+00:00",
       "repo_id": 1356397498,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "claims": [],
       "claims_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83",
       "verified_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83"
@@ -1319,8 +1329,8 @@
           "url": "https://github.com/QorbQuant/fomo-robinhood-copy/blob/c4ef852b5483af691df5411fc01c03a1899272b6/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:36.971443+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:32.704223+00:00",
       "repo_id": 1356394695,
       "file_cursor": 0,
       "claims": [],
@@ -1427,8 +1437,8 @@
           "url": "https://github.com/heirlabs/famcash-contracts/blob/6c0196611c2a1859903f05c038285d81e4c322e4/scripts/deploy.js"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:37.978947+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:33.953511+00:00",
       "repo_id": 1356497199,
       "file_cursor": 0,
       "claims": [
@@ -1519,10 +1529,10 @@
           "url": "https://github.com/JermWang/rh-incinerator/blob/be505c6e4869619496ae4a194bfe51d1e4a8b5d8/packages/contracts/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:39.138510+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:35.565071+00:00",
       "repo_id": 1356615492,
-      "file_cursor": 4,
+      "file_cursor": 6,
       "claims": [],
       "claims_fingerprint": "d4c1876a5960772f8691a4f2e438ad38e008b2e097ca338053c2a1fe7fa1942b",
       "verified_fingerprint": "d4c1876a5960772f8691a4f2e438ad38e008b2e097ca338053c2a1fe7fa1942b"
@@ -1586,8 +1596,8 @@
           "url": "https://github.com/ClankRace/clankrace-v4/blob/4615160fcf6ad4afa7109f1d7d216a54a05f1b14/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:40.365770+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:36.867647+00:00",
       "repo_id": 1356715579,
       "file_cursor": 0,
       "claims": [],
@@ -1689,10 +1699,10 @@
           "url": "https://github.com/MeiYanDong/robinhood-pair-grid/blob/f71e85d1bbea61c4a4946f0916d499ac36bf693f/docs/stories/0003-external-alert-delivery.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:41.498333+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:38.218713+00:00",
       "repo_id": 1356750466,
-      "file_cursor": 12,
+      "file_cursor": 14,
       "claims": [],
       "claims_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5",
       "verified_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5"
@@ -1813,8 +1823,8 @@
           "url": "https://github.com/nirholas/sherwood/blob/2dbd22d6a8e0f78ba2f83a589733a67ffbca5acd/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:42.740111+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:39.565268+00:00",
       "repo_id": 1356845105,
       "file_cursor": 0,
       "claims": [],
@@ -1851,8 +1861,8 @@
           "url": "https://github.com/kealabama/midcap-random-index/blob/8bc8400cd23c3f0907d8f07deccc39b230bf1728/docs/VERIFIER.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:43.912138+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:41.063947+00:00",
       "repo_id": 1356858272,
       "file_cursor": 0,
       "claims": [],
@@ -1884,8 +1894,8 @@
           "url": "https://github.com/MonkiiLabs/MonkiiLabsApp/blob/84d035308c0053798992b803a710ba528a4ca385/contracts/deployed_address.json"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:45.128827+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:42.413821+00:00",
       "repo_id": 1356847100,
       "file_cursor": 0,
       "claims": [],
@@ -1994,8 +2004,8 @@
           "url": "https://github.com/FLock-io/flock-v4-hook/blob/b8098bd9ad58b776c7c92839a0980a222a4c2a06/script/testing/00_DeployV4.s.sol"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:46.300394+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:43.811303+00:00",
       "repo_id": 1356947738,
       "file_cursor": 0,
       "claims": [],
@@ -2073,8 +2083,8 @@
           "url": "https://github.com/yafieae/morpho-toolkit/blob/0260e804d65da84d15bb13df88fd42e1216594da/tools/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:47.605402+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:45.069037+00:00",
       "repo_id": 1356964162,
       "file_cursor": 0,
       "claims": [],
@@ -2107,8 +2117,8 @@
           "url": "https://github.com/thesoloycoder/OmniLauncher/blob/7984ba04eb4451dae3205ddc15eda8ba0edd5a51/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:18.389288+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:09.966977+00:00",
       "repo_id": 1357020146,
       "file_cursor": 0,
       "claims": [],
@@ -2148,9 +2158,9 @@
           "url": "https://github.com/S4PAY/payhole/blob/2784d34ed2257d8f7b0cc4fea211864d3f4c5d0d/docs/website-brief.md"
         },
         "packages/app/README.md": {
-          "sha": "3aaf4235c6d75b68c66d85a173a50f8653bc12b6",
-          "text": "app. The PayHole token never pays anyone, here or anywhere else in the project.\n\nBundle id `org.payhole.app` on both stores. Built with Expo SDK 57 and React Native, TypeScript\nstrict, a local Expo module for the native pieces, and Vitest for the pure logic.\n\n| Home | One protection toggle with the vortex turning while the tunnel is up, 24-hour counters, a half-hour histogram of lookups and blocked answers, the last blocked names with their category, each expandable to the resolver's verdict and a report-a-mistake link. |\n| Check | Paste or share a link, a domain, or a message; the resolver's public verdict endpoint answers with blocked or not, the category, and who confirmed it. Verdicts share back out as text. Android's share sheet opens this tab with the shared text already checked. |\n| Resolver | The public PayHole resolver (`https://dns.payhole.org/dns-query`, `dns.payhole.org:853`) or a custom DoH URL and/or DoT host, with a one-query reachability check. |\n| Radar | What the network learned in the last 24 hours from the resolver's public radar: swarm confirmations with category and reporters, names pending confirmation, each list's growth with a sample of new names, new names by kind, and the brands they impersonate. Below it, the three lists on the public resolver, license, and when each was last updated upstream (GitHub API, fails quietly offline). |\n| About | How it works, what it does not do, what comes next, project links. |\nNot covered in 0.1: DNS over TCP/53, IPv6 transport for the queries themselves (the answers can\nstill carry AAAA records), and Android's own Private DNS setting, which should be off or set to\n`dns.payhole.org` while the tunnel is on.\n\n### iOS\n```\npnpm install                          # from the repo root\npnpm --filter @payhole/app typecheck\npnpm --filter @payhole/app lint       # repo-wide ESLint config\npnpm --filter @payhole/app test       # Vitest, pure logic only\npnpm --filter @payhole/app start      # Metro; needs a development build, not Expo Go\n```\n\n```\nmkdir -p ~/.local/jdk ~/.local/android-sdk/cmdline-tools\ncurl -L -o /tmp/jdk17.tgz \"https://api.adoptium.net/v3/binary/latest/17/ga/linux/x64/jdk/hotspot/normal/eclipse?project=jdk\"\ntar -xzf /tmp/jdk17.tgz -C ~/.local/jdk --strip-components=1\ncurl -L -o /tmp/cmdline-tools.zip https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip\nunzip -q /tmp/cmdline-tools.zip -d ~/.local/android-sdk/cmdline-tools\nmv ~/.local/android-sdk/cmdline-tools/cmdline-tools ~/.local/android-sdk/cmdline-tools/latest\n2. `npx eas-cli build --profile preview --platform android` gives an installable APK.\n3. iOS needs an Apple Developer membership. Add the Network Extensions capability with DNS Settings\n   to the `org.payhole.app` App ID, then `npx eas-cli build --profile production --platform ios`\n   and `npx eas-cli submit` for TestFlight.\n4. Android release builds go through `npx eas-cli build --profile production --platform android`\n   and a Google Play Console account for `org.payhole.app`.\n\nCredentials for the stores stay off this repository and off developer machines; the same rule as\n\n```\nadb shell \"nslookup payhole.org\"     # answers\n```\n\nOn the Home tab the query counter moves and blocked names appear as the lists catch them. The\nResolver tab's check sends a single A query for `payhole.org` over HTTPS and shows the answer time.",
-          "url": "https://github.com/S4PAY/payhole/blob/f126c8815d858da4526485782301b3457e5f44c8/packages/app/README.md"
+          "sha": "70c4b01e6b39ed371c5192bead310079df0873e5",
+          "text": "app. The PayHole token never pays anyone, here or anywhere else in the project.\n\nBundle id `org.payhole.app` on both stores. Built with Expo SDK 57 and React Native, TypeScript\nstrict, a local Expo module for the native pieces, and Vitest for the pure logic.\n\n| --- | --- |\n| Home | One protection toggle with the vortex turning while the tunnel is up, 24-hour counters, a half-hour histogram of lookups and blocked answers, the last blocked names with their category, each expandable to the resolver's verdict and a report-a-mistake link. |\n| Check | Paste or share a link, a domain, or a message; the resolver's public verdict endpoint answers with blocked or not, the category, and who confirmed it. Verdicts share back out as text. Android's share sheet opens this tab with the shared text already checked. A name the network does not block can be reported: anyone's report is a hint the nodes count and show to tier holders; a phone linked to a tier holder's wallet sends a signed flag that counts like a node's. The phone's reporter key (src/report) is a secp256k1 key in the device keystore that never holds funds; the holder links it by signing a membership proof on payhole.org/link and pasting it here. |\n| Resolver | The public PayHole resolver (`https://dns.payhole.org/dns-query`, `dns.payhole.org:853`) or a custom DoH URL and/or DoT host, with a one-query reachability check. |\n| Radar | What the network learned in the last 24 hours from the resolver's public radar: swarm confirmations with category and reporters, names pending confirmation, each list's growth with a sample of new names, new names by kind, and the brands they impersonate. Below it, the three lists on the public resolver, license, and when each was last updated upstream (GitHub API, fails quietly offline). |\n| About | How it works, what it does not do, what comes next, project links. |\nNot covered in 0.1: DNS over TCP/53, IPv6 transport for the queries themselves (the answers can\nstill carry AAAA records), and Android's own Private DNS setting, which should be off or set to\n`dns.payhole.org` while the tunnel is on.\n\n### iOS\n```\npnpm install                          # from the repo root\npnpm --filter @payhole/app typecheck\npnpm --filter @payhole/app lint       # repo-wide ESLint config\npnpm --filter @payhole/app test       # Vitest, pure logic only\npnpm --filter @payhole/app start      # Metro; needs a development build, not Expo Go\n```\n\n```\nmkdir -p ~/.local/jdk ~/.local/android-sdk/cmdline-tools\ncurl -L -o /tmp/jdk17.tgz \"https://api.adoptium.net/v3/binary/latest/17/ga/linux/x64/jdk/hotspot/normal/eclipse?project=jdk\"\ntar -xzf /tmp/jdk17.tgz -C ~/.local/jdk --strip-components=1\ncurl -L -o /tmp/cmdline-tools.zip https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip\nunzip -q /tmp/cmdline-tools.zip -d ~/.local/android-sdk/cmdline-tools\nmv ~/.local/android-sdk/cmdline-tools/cmdline-tools ~/.local/android-sdk/cmdline-tools/latest\n2. `npx eas-cli build --profile preview --platform android` gives an installable APK.\n3. iOS needs an Apple Developer membership. Add the Network Extensions capability with DNS Settings\n   to the `org.payhole.app` App ID, then `npx eas-cli build --profile production --platform ios`\n   and `npx eas-cli submit` for TestFlight.\n4. Android release builds go through `npx eas-cli build --profile production --platform android`\n   and a Google Play Console account for `org.payhole.app`.\n\nCredentials for the stores stay off this repository and off developer machines; the same rule as\n\n```\nadb shell \"nslookup payhole.org\"     # answers\n```\n\nOn the Home tab the query counter moves and blocked names appear as the lists catch them. The\nResolver tab's check sends a single A query for `payhole.org` over HTTPS and shows the answer time.",
+          "url": "https://github.com/S4PAY/payhole/blob/f33be062023017ff3ae76c474be3e1e5aee06cd8/packages/app/README.md"
         },
         "packages/contracts/README.md": {
           "sha": "e6bfbd669cde5976b6efb4b3055ff2f6721da388",
@@ -2228,9 +2238,9 @@
           "url": "https://github.com/S4PAY/payhole/blob/2784d34ed2257d8f7b0cc4fea211864d3f4c5d0d/packages/sdk/src/generated/deployments.ts"
         },
         "packages/sinkhole/README.md": {
-          "sha": "899d7ce4b47369cfb5707298851eb0ab032eba33",
-          "text": "# @payhole/sinkhole\n\nDNS-level blocker for PayHole users plus the sync agent that feeds it. One container runs two things:\n| Swarm flags | Flag messages from other nodes | Only after `FLAG_THRESHOLD` distinct reporters (default 5) with valid membership proofs have flagged the domain within `FLAG_TTL_DAYS` (default 30) |\n| Subscribed lists | `BLOCKLIST_URLS` plus `POST /api/subscriptions` on the admin page; hosts format or one name per line, refetched every `BLOCKLIST_REFRESH_HOURS` (default 24) with `ETag` and `If-Modified-Since` | Always, by exact name |\n| Allowlist | `ALLOWLIST_URLS` (default: the curated `lists/allow.txt` in this repository, fetched from GitHub) plus `MANUAL_ALLOWLIST_FILE`; `example.com` protects the exact name, `.example.com` the name and everything under it | Never: a protected name is removed from every source above, swarm verdicts included |\n\n### Categories\n### Verdicts\n\n`GET /verdict?name=<host>` on the DoH listener (public on `https://dns.payhole.org/verdict?name=...`) and\n`GET /api/verdict?name=<host>` on the admin API answer what a node knows about a name: `blocked`, `allowlisted`, `category`,\n`sources`, `reasons`, the live `reporters`, and whether the swarm `confirmed` it. The public route shares the encrypted DNS rate\n### Radar\n\n`GET /radar` on the DoH listener (public on `https://dns.payhole.org/radar`) and `GET /api/radar` on the admin API answer what\nthe network learned lately, built only from swarm confirmations and list refreshes, never from queries: how many names the\nswarm confirmed in the last 24 hours and 7 days and the newest twenty with their category and reporter count, how many are\nflagged and still waiting for confirmation, each subscribed list with the names it gained and lost in the window and a sample\nof the new ones, new names by category, the brands the new names impersonate (`metamask-verify.pages.dev` counts for\nMetaMask, `metamask.io` does not), and the total number of list names. Nodes keep the last 500 confirmations in `state.json`\nand the last twelve changing refreshes per list, with up to 5,000 gained names each, in `lists/history.json`; a refresh with no\nearlier copy of the list to compare against records nothing. The snapshot is rebuilt at most once a minute, is cacheable for\nFormats: hosts files (`0.0.0.0 name`, `127.0.0.1 name`, comments), one hostname per line, and JSON, either an array of\nhostnames or an object with a `domains` array. Three lists worth starting with: the ScamSniffer scam database for payment\ndrainers and web3 phishing (`https://raw.githubusercontent.com/scamsniffer/scam-database/refs/heads/main/blacklist/domains.json`,\nabout 350,000 names, GPL-3.0, updated daily), the Phishing.Database active domains for phishing at large\n(`https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/master/phishing-domains-ACTIVE.txt`, about\n390,000 names, MIT, rebuilt hourly), and the StevenBlack unified hosts file for ads and trackers\n(`https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`, about 80,000 names, MIT).\n\nPhishing lists are built from URLs, so when a phishing page sits on a shared platform the platform's own name lands on\nthe list: `sites.google.com`, Netflix's video CDN, Gravatar, IPFS gateways, link-in-bio services. The allowlist exists for\nthat. Every node fetches `lists/allow.txt` from this repository on the same refresh interval and removes those names from\nevery source, and a node can add its own rules with `MANUAL_ALLOWLIST_FILE` or replace the list with `ALLOWLIST_URLS`.\n\n- Android: Settings, Network and internet, Private DNS, \"Private DNS provider hostname\", enter the node's\n  hostname, for example `dns.payhole.org`. Applies to every app, on every network.\n- iPhone and iPad: DoH and DoT are configured through a profile. Install a profile that names either\n  `https://dns.payhole.org/dns-query` (DoH) or `dns.payhole.org` on port 853 (DoT); Apple's Configuration Profile\n  reference describes the `DNSSettings` payload, and open-source profile generators exist for both.\n\nHow the public node is wired on the PayHole VPS: Caddy already terminates TLS for the site, so it also serves\n`dns.payhole.org` and proxies `/dns-query` and `/healthz` to the container's DoH port on loopback; for DoT the\ncontainer gets Caddy's certificate directory mounted read-only and `DOT_CERT_FILE` and `DOT_KEY_FILE` point at the\nfiles inside it, and TCP 853 is opened in the firewall. Operators running their own node do the same with any\n2. `cp packages/sinkhole/.env.example packages/sinkhole/.env` and fill in at least `ADMIN_TOKEN` (`openssl rand -hex 32`) and, for the swarm, `SWARM_BOOTSTRAP`, `BURN_VAULT_ADDRESS` (until the SDK deployment record carries it) and `NODE_OPERATOR_KEY`. Set `SWARM_ENABLED=0` for a purely local blocker.\n3. `docker compose -f packages/sinkhole/docker-compose.yml up -d`\n4. Check `curl http://127.0.0.1:8053/healthz` and open `http://127.0.0.1:8053/` for the admin page (paste the token).\n5. Point clients at the host's IP as their DNS server, and configure the extension to push to `http://<host>:8053/api/blocklist` with the token.\n\n```sh\npnpm install\npnpm --filter @payhole/sdk build\npnpm --filter @payhole/sinkhole test        # vitest, no Docker or dnsmasq needed\npnpm --filter @payhole/sinkhole typecheck\npnpm --filter @payhole/sinkhole lint\npnpm --filter @payhole/sinkhole build\n```\n\n### Container test\n\n`scripts/container-test.sh` needs Docker, `dig` and `curl`. It builds the image, starts a container with a temporary data directory holding a manual blocklist with `blocked.example`, waits for `/healthz`, pushes a blocklist with `tracker.example`, then checks that `tracker.example`, `sub.tracker.example` and `blocked.example` resolve to `0.0.0.0` while `example.com` gets a real answer, that the export lists both domains, and that the API refuses requests without the token. Ports default to 5553 (DNS) and 18053 (admin) on localhost; `TEST_DNS_PORT`, `TEST_ADMIN_PORT`, `TEST_UPSTREAM_DNS`, `SKIP_BUILD=1` and `TEST_SWARM_ENABLED=1` adjust it. The swarm is off in the test by default because it needs no peers to prove the resolver path.\n\n## Known limitations\n   then `docker compose -f packages/sinkhole/docker-compose.home.yml up -d --no-build`. Verified on a Radxa Rock Pi\n   (64-bit ARM, Debian 12): the build takes about fifteen minutes and the running container uses about 120 MB.\n5. Check it answers and blocks: `dig @<box LAN address> example.com` returns an address, and a domain on the list\n   returns nothing. `curl -H \"Authorization: Bearer $ADMIN_TOKEN\" http://<box LAN address>:8053/healthz` shows the\n   resolver, list size, and peer count.",
-          "url": "https://github.com/S4PAY/payhole/blob/2811c24e51b067d3eec6fc210fc09a85f8e36f2d/packages/sinkhole/README.md"
+          "sha": "46c00cc515160f904afce22eb7cd39ca1496d78c",
+          "text": "# @payhole/sinkhole\n\nDNS-level blocker for PayHole users plus the sync agent that feeds it. One container runs two things:\n| Swarm flags | Flag messages from other nodes | Only after `FLAG_THRESHOLD` distinct reporters (default 5) with valid membership proofs have flagged the domain within `FLAG_TTL_DAYS` (default 30) |\n| Subscribed lists | `BLOCKLIST_URLS` plus `POST /api/subscriptions` on the admin page; hosts format or one name per line, refetched every `BLOCKLIST_REFRESH_HOURS` (default 24) with `ETag` and `If-Modified-Since` | Always, by exact name |\n| Allowlist | `ALLOWLIST_URLS` (default: the curated `lists/allow.txt` in this repository, fetched from GitHub) plus `MANUAL_ALLOWLIST_FILE`; `example.com` protects the exact name, `.example.com` the name and everything under it | Never: a protected name is removed from every source above, swarm verdicts included |\n\n### Categories\n### Verdicts\n\n`GET /verdict?name=<host>` on the DoH listener (public on `https://dns.payhole.org/verdict?name=...`) and\n`GET /api/verdict?name=<host>` on the admin API answer what a node knows about a name: `blocked`, `allowlisted`, `category`,\n`sources`, `reasons`, the live `reporters`, and whether the swarm `confirmed` it. The public route shares the encrypted DNS rate\n### Reports from phones and browsers\n\n`POST /report` on the DoH listener (public on `https://dns.payhole.org/report`, JSON body, cross-origin allowed, shares the\nencrypted DNS rate limit) takes reports from people who are not running a node.\n\n### The PayHole list\n\n`GET /lists/payhole.txt` and `GET /lists/payhole.hosts` on the DoH listener (public on `https://dns.payhole.org/lists/payhole.txt`)\nserve this node's curated names, the extension's, the operator's manual entries, and everything the swarm confirmed, in plain\nand hosts format with a five-minute cache. Any Pi-hole, AdGuard Home, or Sinkhole can subscribe to it; subscribed public lists\n### Radar\n\n`GET /radar` on the DoH listener (public on `https://dns.payhole.org/radar`) and `GET /api/radar` on the admin API answer what\nthe network learned lately, built only from swarm confirmations and list refreshes, never from queries: how many names the\nswarm confirmed in the last 24 hours and 7 days and the newest twenty with their category and reporter count, how many are\nflagged and still waiting for confirmation, each subscribed list with the names it gained and lost in the window and a sample\nof the new ones, new names by category, the brands the new names impersonate (`metamask-verify.pages.dev` counts for\nMetaMask, `metamask.io` does not), and the total number of list names. Nodes keep the last 500 confirmations in `state.json`\nand the last twelve changing refreshes per list, with up to 5,000 gained names each, in `lists/history.json`; a refresh with no\nearlier copy of the list to compare against records nothing. The snapshot is rebuilt at most once a minute, is cacheable for\nFormats: hosts files (`0.0.0.0 name`, `127.0.0.1 name`, comments), one hostname per line, and JSON, either an array of\nhostnames or an object with a `domains` array. Three lists worth starting with: the ScamSniffer scam database for payment\ndrainers and web3 phishing (`https://raw.githubusercontent.com/scamsniffer/scam-database/refs/heads/main/blacklist/domains.json`,\nabout 350,000 names, GPL-3.0, updated daily), the Phishing.Database active domains for phishing at large\n(`https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/master/phishing-domains-ACTIVE.txt`, about\n390,000 names, MIT, rebuilt hourly), and the StevenBlack unified hosts file for ads and trackers\n(`https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`, about 80,000 names, MIT).\n\nPhishing lists are built from URLs, so when a phishing page sits on a shared platform the platform's own name lands on\nthe list: `sites.google.com`, Netflix's video CDN, Gravatar, IPFS gateways, link-in-bio services. The allowlist exists for\nthat. Every node fetches `lists/allow.txt` from this repository on the same refresh interval and removes those names from\nevery source, and a node can add its own rules with `MANUAL_ALLOWLIST_FILE` or replace the list with `ALLOWLIST_URLS`.\n\n- Android: Settings, Network and internet, Private DNS, \"Private DNS provider hostname\", enter the node's\n  hostname, for example `dns.payhole.org`. Applies to every app, on every network.\n- iPhone and iPad: DoH and DoT are configured through a profile. Install a profile that names either\n  `https://dns.payhole.org/dns-query` (DoH) or `dns.payhole.org` on port 853 (DoT); Apple's Configuration Profile\n  reference describes the `DNSSettings` payload, and open-source profile generators exist for both.\n\nHow the public node is wired on the PayHole VPS: Caddy already terminates TLS for the site, so it also serves\n`dns.payhole.org` and proxies `/dns-query` and `/healthz` to the container's DoH port on loopback; for DoT the\ncontainer gets Caddy's certificate directory mounted read-only and `DOT_CERT_FILE` and `DOT_KEY_FILE` point at the\nfiles inside it, and TCP 853 is opened in the firewall. Operators running their own node do the same with any\n2. `cp packages/sinkhole/.env.example packages/sinkhole/.env` and fill in at least `ADMIN_TOKEN` (`openssl rand -hex 32`) and, for the swarm, `SWARM_BOOTSTRAP`, `BURN_VAULT_ADDRESS` (until the SDK deployment record carries it) and `NODE_OPERATOR_KEY`. Set `SWARM_ENABLED=0` for a purely local blocker.\n3. `docker compose -f packages/sinkhole/docker-compose.yml up -d`\n4. Check `curl http://127.0.0.1:8053/healthz` and open `http://127.0.0.1:8053/` for the admin page (paste the token).\n5. Point clients at the host's IP as their DNS server, and configure the extension to push to `http://<host>:8053/api/blocklist` with the token.\n\n```sh\npnpm install\npnpm --filter @payhole/sdk build\npnpm --filter @payhole/sinkhole test        # vitest, no Docker or dnsmasq needed\npnpm --filter @payhole/sinkhole typecheck\npnpm --filter @payhole/sinkhole lint\npnpm --filter @payhole/sinkhole build\n```\n\n### Container test\n\n`scripts/container-test.sh` needs Docker, `dig` and `curl`. It builds the image, starts a container with a temporary data directory holding a manual blocklist with `blocked.example`, waits for `/healthz`, pushes a blocklist with `tracker.example`, then checks that `tracker.example`, `sub.tracker.example` and `blocked.example` resolve to `0.0.0.0` while `example.com` gets a real answer, that the export lists both domains, and that the API refuses requests without the token. Ports default to 5553 (DNS) and 18053 (admin) on localhost; `TEST_DNS_PORT`, `TEST_ADMIN_PORT`, `TEST_UPSTREAM_DNS`, `SKIP_BUILD=1` and `TEST_SWARM_ENABLED=1` adjust it. The swarm is off in the test by default because it needs no peers to prove the resolver path.\n\n## Known limitations\n   then `docker compose -f packages/sinkhole/docker-compose.home.yml up -d --no-build`. Verified on a Radxa Rock Pi\n   (64-bit ARM, Debian 12): the build takes about fifteen minutes and the running container uses about 120 MB.\n5. Check it answers and blocks: `dig @<box LAN address> example.com` returns an address, and a domain on the list\n   returns nothing. `curl -H \"Authorization: Bearer $ADMIN_TOKEN\" http://<box LAN address>:8053/healthz` shows the\n   resolver, list size, and peer count.",
+          "url": "https://github.com/S4PAY/payhole/blob/f33be062023017ff3ae76c474be3e1e5aee06cd8/packages/sinkhole/README.md"
         },
         "packages/verifier/README.md": {
           "sha": "c478cb5fe2d5bce5799683aedac79ac48d1786a1",
@@ -2238,10 +2248,10 @@
           "url": "https://github.com/S4PAY/payhole/blob/2784d34ed2257d8f7b0cc4fea211864d3f4c5d0d/packages/verifier/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:48.831148+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:46.438763+00:00",
       "repo_id": 1357071581,
-      "file_cursor": 13,
+      "file_cursor": 12,
       "claims": [
         {
           "kind": "website",
@@ -2292,8 +2302,8 @@
           "url": "https://github.com/bruisedhacksa/pulse/blob/9ffb7047778ddb030c832826f95c309389c68cb6/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:49.978116+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:48.432632+00:00",
       "repo_id": 1357231201,
       "file_cursor": 0,
       "claims": [],
@@ -2315,8 +2325,8 @@
           "url": "https://github.com/florityswap/meridian-robinhood/blob/cb7d1b04ad8ed9456dcf25971592dc13f125cdda/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:51.169502+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:49.844156+00:00",
       "repo_id": 1357293588,
       "file_cursor": 0
     },
@@ -2340,8 +2350,8 @@
           "url": "https://github.com/florityswap/unicrit/blob/7eb691e95684bdcd10ba4b5b426ec32f0adf78f0/scripts/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:52.239835+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:51.220555+00:00",
       "repo_id": 1357293353,
       "file_cursor": 0,
       "claims": [],
@@ -2435,10 +2445,10 @@
           "url": "https://github.com/arcafi/arca/blob/2f6091f6e5ba25ae78c8933acdbed64b265d7755/web/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:53.414759+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:52.650800+00:00",
       "repo_id": 1357452361,
-      "file_cursor": 3,
+      "file_cursor": 0,
       "claims": [
         {
           "kind": "x",
@@ -2505,10 +2515,10 @@
           "url": "https://github.com/memeticstate/ms-v1/blob/7e8e071b0a52e6229ca6efa4ae480d3c7497bd2e/docs/mvp-architecture.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:54.436961+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:53.929440+00:00",
       "repo_id": 1357414038,
-      "file_cursor": 4
+      "file_cursor": 6
     },
     "repo:shellr-packs/shellr-web": {
       "source": "repo",
@@ -2557,8 +2567,8 @@
           "url": "https://github.com/JermWang/airtime/blob/f4ee5bf1637aa16ad06e9594fa61328018b005fb/scripts/deploy-local.ts"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:55.910685+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:55.434805+00:00",
       "repo_id": 1357489892,
       "file_cursor": 0,
       "claims": [
@@ -2592,8 +2602,8 @@
           "url": "https://github.com/Nar-123/lpbot-new/blob/bdf13f4e573ba6d1d4c700776bdf00a3ee5b3c60/scripts/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:57.088036+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:56.684218+00:00",
       "repo_id": 1357484187,
       "file_cursor": 0,
       "claims": [],
@@ -2680,8 +2690,8 @@
           "url": "https://github.com/galaxydestroyer0000/button/blob/b9c73bfcdd110dd88bee175a254a142cf3880181/docs/superpowers/specs/2026-09-03-frontend-rebuild-design.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:58.235886+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:58.422733+00:00",
       "repo_id": 1357556366,
       "file_cursor": 0,
       "claims": [
@@ -2712,8 +2722,8 @@
           "url": "https://github.com/TICKRMARKETS/tickr-markets/blob/2975a167061cc90a19ac92bb21d6e3a1f1864f57/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:59.406142+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:59.846938+00:00",
       "repo_id": 1357604173,
       "file_cursor": 0,
       "claims": [],
@@ -2770,10 +2780,10 @@
           "url": "https://github.com/novenrizkia856-ui/Roxy-contract/blob/f78052bf2dc56f335f4e9cd53880baab9eeebfc8/script/DeployTestnet.s.sol"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:00.642075+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:01.823343+00:00",
       "repo_id": 1357694785,
-      "file_cursor": 3
+      "file_cursor": 0
     },
     "repo:xlabsg/fomo-copy-bot": {
       "source": "repo",
@@ -2800,8 +2810,8 @@
           "url": "https://github.com/xlabsg/fomo-copy-bot/blob/837b5c8fe49395ac8348ecb8a60e39e4394f0e53/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:01.762373+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:03.260194+00:00",
       "repo_id": 1357743987,
       "file_cursor": 0
     },
@@ -2875,10 +2885,10 @@
           "url": "https://github.com/basisinvestments/basis/blob/f83e52be9d35b0cf0e11885fa90c79ee9df5f741/docs/use-cases.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:02.787418+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:04.644334+00:00",
       "repo_id": 1357917659,
-      "file_cursor": 9
+      "file_cursor": 5
     },
     "repo:cocainebit/float-docs": {
       "source": "repo",
@@ -2895,8 +2905,8 @@
           "url": "https://github.com/cocainebit/float-docs/blob/4717d162ad8d98bcb381e3e9df398d96d4e9fdee/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:03.920125+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:06.017929+00:00",
       "repo_id": 1357819964,
       "file_cursor": 0
     },
@@ -2970,8 +2980,8 @@
           "url": "https://github.com/cony-horizon/rhbot/blob/b5a6eebd17dd016a620ea17b5753bb3b171d7a33/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:04.942161+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:07.340367+00:00",
       "repo_id": 1358070563,
       "file_cursor": 0
     },
@@ -3033,8 +3043,8 @@
       "registered_at": "2026-09-06T10:22:46.608671+00:00",
       "first_report_sha256": "8fcc2582361e9d54505aa2746ea0af6480e2d422b38b44c57b674234b3e58207",
       "files": {},
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:06.074464+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:08.664383+00:00",
       "linked_repositories": {}
     },
     "repo:aomi-labs/hoodit-apps": {
@@ -3052,8 +3062,8 @@
           "url": "https://github.com/aomi-labs/hoodit-apps/blob/13bf24de4aa6a8301d6dba24bcdd4150996c9958/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:06.285878+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:09.029507+00:00",
       "repo_id": 1358230721,
       "file_cursor": 0
     },
@@ -3115,8 +3125,8 @@
           "url": "https://github.com/jincheng828/SmartRouter/blob/e15b31c021e6e3fa7aaaf8c2a89fc139d26a6fd5/rocketh/deploy.ts"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:07.264959+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:10.272552+00:00",
       "repo_id": 1358319164,
       "file_cursor": 0
     },
@@ -3150,8 +3160,8 @@
           "url": "https://github.com/milesdev888/guardian-scan/blob/3ea4cfe1aec409c4d530885c93ded9eabcdec467/app/api/scan/xrpl/[address]/route.ts"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:08.461152+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:11.752792+00:00",
       "repo_id": 1358324827,
       "file_cursor": 0
     },
@@ -3191,8 +3201,8 @@
           "url": "https://github.com/SpikeCalls/tocsin/blob/af7c069fc85f819af2e40e3169cc1cb206417651/docs/GUIDE.ru.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:09.605495+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:13.095134+00:00",
       "repo_id": 1358435897,
       "file_cursor": 0
     },
@@ -3238,8 +3248,8 @@
           "url": "https://github.com/efsanedizzy/wick5market/blob/51f7dffcd4b6de64a2df41f35e96121e90bdc97b/DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:10.656167+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:14.385539+00:00",
       "repo_id": 1358518390,
       "file_cursor": 0
     },
@@ -3359,8 +3369,8 @@
           "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/f49b9e1e492f3f090f16ae05539d45dd196bb2aa/examples/zingolib/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:19.650940+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:11.702109+00:00",
       "repo_id": 1358522089,
       "file_cursor": 0,
       "claims": [],
@@ -3438,8 +3448,8 @@
           "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/site/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:29:11.766380+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:54:15.658354+00:00",
       "repo_id": 1358614318,
       "file_cursor": 0,
       "claims": [],
@@ -3483,8 +3493,8 @@
           "url": "https://github.com/Auditchain/audt-supply/blob/1524d5877b67a34be93ed2af8ba1e3da21c89d77/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:28.624453+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:22.759505+00:00",
       "repo_id": 1358626962,
       "file_cursor": 0,
       "claims": [],
@@ -3663,10 +3673,10 @@
           "url": "https://github.com/boyfromcave/ycash-dd/blob/f7e7eaeaa9e6291b7153ae8f95404a7ddd7537ad/src/univalue/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:21.162735+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:13.310765+00:00",
       "repo_id": 1358682417,
-      "file_cursor": 20,
+      "file_cursor": 12,
       "claims": [],
       "claims_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69",
       "verified_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69"
@@ -3954,10 +3964,10 @@
           "url": "https://github.com/gc0rbs/hyperscale/blob/ed311e9aa6803fa25a6e01e1df40a9aec1d38de8/ops/src/deploy-mainnet.ts"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:29.703241+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:23.959767+00:00",
       "repo_id": 1358787003,
-      "file_cursor": 43,
+      "file_cursor": 14,
       "claims": [
         {
           "kind": "website",
@@ -4006,8 +4016,8 @@
           "url": "https://github.com/Harkor421/costco-back/blob/e718643f14e8daa323a584d32fa8df0c89a9ba27/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:22.400795+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:14.963846+00:00",
       "repo_id": 1358634709,
       "file_cursor": 0,
       "claims": [],
@@ -4034,8 +4044,8 @@
           "url": "https://github.com/kiattisakph/robinhood-wallet-alert-bot/blob/91dae85e2cd97fa67b12db1ef1177b96ce367ecb/docs/robinhood_realtime_telegram_bot_cursor_spec.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:24.339984+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:17.371126+00:00",
       "repo_id": 1358885217,
       "file_cursor": 0,
       "claims": [],
@@ -4062,8 +4072,8 @@
           "url": "https://github.com/rudo-onchain/robinhood-wallet-alert-bot/blob/8c0f34ab4626f273b037595f715174291b7086f7/docs/robinhood_realtime_telegram_bot_cursor_spec.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:25.497957+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:18.870852+00:00",
       "repo_id": 1358922518,
       "file_cursor": 0,
       "claims": [],
@@ -4085,8 +4095,8 @@
           "url": "https://github.com/33hodl/rh-chain-wallet-lens/blob/00fcbfd2a072ad4f7c0ac709912b68184ff8d0e9/README.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:26.558679+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:20.110960+00:00",
       "repo_id": 1358940529,
       "file_cursor": 0,
       "claims": [],
@@ -4135,8 +4145,8 @@
           "url": "https://github.com/seanbc618-tech/robinhood-meme-bot/blob/b1d2cd19347d4eadf1a5c900d7a22be46b69bf4a/tasks/VPS_FX_WATCH_DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:27.596971+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:21.367617+00:00",
       "repo_id": 1358970900,
       "file_cursor": 0,
       "claims": [],
@@ -4388,10 +4398,10 @@
           "url": "https://github.com/0xRadikal/pons-launchpad-forensics/blob/7dfb7d97c9e4409161308279599f6ed9893c8d23/docs/SERIAL_LAUNCHING.md"
         }
       },
-      "next_check_at": "2026-09-06T21:00:00+00:00",
-      "last_check_at": "2026-09-06T20:28:15.383886+00:00",
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:08.691755+00:00",
       "repo_id": 1359317759,
-      "file_cursor": 4,
+      "file_cursor": 1,
       "claims": [],
       "claims_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d",
       "verified_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d"
@@ -4417,9 +4427,54 @@
       "first_report_sha256": "3c507d9d55a88d59ecdd9787e432b9ebaec19bd2f024e8968318a5a74a481725",
       "files": {},
       "next_check_at": null
+    },
+    "repo:idotmy/idex-contracts": {
+      "source": "repo",
+      "repo": "idotmy/IDEX-Contracts",
+      "name": "idotmy/IDEX-Contracts",
+      "pr": 309,
+      "status": "tracking",
+      "registered_at": "2026-09-06T22:53:04.769311+00:00",
+      "first_report_sha256": "956c0f6963e3f20e99d08442c7b2cf2c72c5b0095957adbbda9974c8a050b868",
+      "files": {
+        "README.md": {
+          "sha": "02ff9453aeddb9af1d5921470943cab1ed73cbcb",
+          "text": "# IDEX Protocol — Smart Contracts & Architecture\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-blue.svg)](https://soliditylang.org/)\n[![Multi-Chain](https://img.shields.io/badge/Chains-Robinhood%20|%20Arbitrum%20|%20Ethereum%20|%20Optimism-green.svg)](#multi-chain-deployments)\n\n> **Autonomous Fair-Launch Token Factory, Dynamic Supply Engine & Native Constant-Product AMM DEX.**  \n> Creator deployment is exclusively gated to verified **`.i` domain NFT** holders ([doti.my](https://doti.my)), while presale participation, trading, and liquidity interaction remain **100% public and permissionless**.\n\n---\n| Network | Chain ID | Explorer | Factory Address |\n| :--- | :--- | :--- | :--- |\n| **Robinhood Chain** | `4663` | [Blockscout](https://robinhoodchain.blockscout.com) | `0xAB0AA29DFA77d5e47E50e00732554b5Ef8b6c14F` |\n| **Arbitrum One** | `42161` | [Arbiscan](https://arbiscan.io) | `0xAB0AA29DFA77d5e47E50e00732554b5Ef8b6c14F` |\n| **OP Mainnet** | `10` | [Optimistic Etherscan](https://optimistic.etherscan.io) | `0xAB0AA29DFA77d5e47E50e00732554b5Ef8b6c14F` |\n| **Ethereum Mainnet** | `1` | [Etherscan](https://etherscan.io) | `0xAB0AA29DFA77d5e47E50e00732554b5Ef8b6c14F` |\n\n*Official `.i` Domain Registry Contract:* `0xf853F8243F10a57CF5e43A49F156F132c05C21a6`\n\n---\n\n### Prerequisites\n- [Foundry](https://getfoundry.sh/) or [Hardhat](https://hardhat.org/)\n- Node.js `>= 18.0.0`\n- pnpm / npm / yarn",
+          "url": "https://github.com/idotmy/IDEX-Contracts/blob/ba7e0453b1c679418a8836d5598b10cd652dc5c6/README.md"
+        }
+      },
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:05.070455+00:00",
+      "repo_id": 1359388343,
+      "file_cursor": 0
+    },
+    "repo:pardotfamily/par-sdk": {
+      "source": "repo",
+      "repo": "pardotfamily/par-sdk",
+      "name": "pardotfamily/par-sdk",
+      "pr": 310,
+      "status": "tracking",
+      "registered_at": "2026-09-06T22:53:05.070101+00:00",
+      "first_report_sha256": "da229c78026c3b0aa10592a6c51d0edb8115d161d7a5787e2ffd0dd5b0621eb5",
+      "files": {
+        "README.md": {
+          "sha": "b5b6c0567f64f0bd5017103843a412ecc4d3aee6",
+          "text": "# par-sdk\n\nTypeScript SDK for [par](https://par.family), the token launchpad on Robinhood Chain. Built on [viem](https://viem.sh); works in Node 18+ and browsers.\n\nEvery par token is a plain Uniswap v4 pool (no hook) from its first block, so you can already trade it with any v4 router. This SDK covers the launchpad-specific parts: finding launches, resolving a token to its pool(s), paying in native ETH for pools quoted in another asset, splitting a trade across the markets of a multi-market token, and the public indexer API.\n\nFull integrator docs: [par.family/docs](https://par.family/docs).\n\n## Install\n\n// Is this a par token, and what does it trade against?\nconst t = await par.getTradable(\"0x7841a0a37834EEB13Ad5DBaD692049C84CD6A73C\");\nif (!t) throw new Error(\"not a par token\");\nconsole.log(t.kind, t.markets.map((m) => m.quoteSymbol)); // \"multi\" [ \"AAPL\", \"MSFT\", \"NVDA\", \"GOOGL\", \"TSLA\" ]\n```\n\nEvery par token is also in the token list at `https://par.family/tokenlist.json` (Uniswap token-list schema; multi-market tokens carry `extensions.markets[]`).\n\n## Trades\n## Indexer\n\nTyped client for `https://api.par.family` (public, no key). Amounts are decimal strings in raw units.\n\n```ts",
+          "url": "https://github.com/pardotfamily/par-sdk/blob/bcbeda5b177e0b764654a663bd9c55f2a40142ba/README.md"
+        },
+        "src/addresses.ts": {
+          "sha": "f4eac0e68b68168d3af4c26c9621eabc8f5fa8d5",
+          "text": "export const ADDRESSES = {\n  // Single-market stack (one pool per token).\n  factory: \"0x9d33Ba78389c8772bC114Cba47Dc1985E933e76F\" as Address,\n  router: \"0x73d84bdbB1983Fa7eD8FCBcE40bc308997cEd120\" as Address,\n  locker: \"0x8a6d37B2E6a2AC7970eF69d2932757F04be0A231\" as Address,\n  // Multi-market stack (one token, up to five pools).\n  multiFactory: \"0x3ea29975a79900179F3e1aEF93347Ba4210c29C1\" as Address,\n  multiRouter: \"0x458D2a59c2F3dd32775a64eE72004561440d64Df\" as Address,\n  multiLocker: \"0x5826FBB6201DaAcD924A3d292841DA9142952D59\" as Address,\n  // Shared.\n  feeEscrow: \"0x1C27e8F0c2a754DB23ab1608fA09c068D54d4386\" as Address,\n  quotePricer: \"0x9EfC6EFA4c5F31e2BEC6CC174Ba7bB8f0b57d563\" as Address,\n  // Fee routing. The splitter is the protocol fee recipient of launches since\n  // it was set (80% of protocol quote fees buy and burn $par); the holder vault\n  // is the creator fee recipient of \"fees to holders\" launches; Disperse emits\n  // the holder-rewards rounds.\n  feeSplitter: \"0x913A93cc2676F49454173323B85762b3e5906c43\" as Address,\n  holderVault: \"0x4B79B8298cd890A82dC9De1dE5dBb745Cf04353C\" as Address,\n  disperse: \"0xF09E4997Ca8aC5869de8B1C63acc4a3180c087EC\" as Address,\n  buybackWallet: \"0x5bA4a4A197111CE8B6a2C2776D7836A9E1868033\" as Address,\n  holdersWallet: \"0xB1a7a3A37F41e4dC9507F9B0F946B7F786c4AFb4\" as Address,\n  par: \"0x507B6F349a80114097A67B8b4677367acC15b220\" as Address,\n  // Uniswap v4 PoolManager: every par pool lives here and every trade is a Swap event on it.\n  poolManager: \"0x8366a39CC670B4001A1121B8F6A443A643e40951\" as Address,\n  weth: \"0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73\" as Address,\n  usdg: \"0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168\" as Address,\n} as const;\n\n\n/** Public indexer (no key). */\nexport const INDEXER_URL = \"https://api.par.family\";\n/** The interface; token pages are `${APP_URL}/token/<address>`. */\nexport const APP_URL = \"https://par.family\";",
+          "url": "https://github.com/pardotfamily/par-sdk/blob/bcbeda5b177e0b764654a663bd9c55f2a40142ba/src/addresses.ts"
+        }
+      },
+      "next_check_at": "2026-09-06T23:00:00+00:00",
+      "last_check_at": "2026-09-06T22:53:06.854737+00:00",
+      "repo_id": 1359407210,
+      "file_cursor": 0
     }
   },
-  "last_collect_at": "2026-09-06T20:29:17.723812+00:00",
+  "last_collect_at": "2026-09-06T22:54:22.351532+00:00",
   "last_errors": [],
   "last_verify_errors": []
 }
