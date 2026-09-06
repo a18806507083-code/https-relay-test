@@ -8,6 +8,7 @@ Regression-tested against a low-signal public RH candidate.
 from __future__ import annotations
 
 import re
+from radar_decision import decision as parse_decision
 
 import rh_fast_analyzer as analyzer
 
@@ -18,8 +19,7 @@ _ORIG_CLOSE = analyzer.close_pr
 
 
 def _decision(body: str) -> str | None:
-    matches = re.findall(r"(?m)^(PUSH|WATCH|SKIP)\s*$", body)
-    return matches[-1] if matches else None
+    return parse_decision(body)
 
 
 def _candidate_name(pr_number: int) -> str:
@@ -36,6 +36,8 @@ def _candidate_name(pr_number: int) -> str:
 def gated_comment(pr_number: int, body: str) -> None:
     decision = _decision(body) if analyzer.MARKER in body else None
     if decision is None:
+        if analyzer.MARKER in body:
+            raise RuntimeError("AI report missing final PUSH/WATCH/SKIP decision")
         # Analyzer errors are kept in the PR body instead of generating user noise.
         if analyzer.ERROR_MARKER in body:
             pr = analyzer.gh(f"/repos/{analyzer.SENSOR_REPO}/pulls/{pr_number}") or {}
