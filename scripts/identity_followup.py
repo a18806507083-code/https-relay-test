@@ -54,8 +54,13 @@ def gh(path, method='GET', data=None):
         data=None if data is None else json.dumps(data).encode(), method=method,
         headers={'Authorization': 'Bearer ' + TOKEN, 'Accept': 'application/vnd.github+json',
                  'Content-Type': 'application/json', 'User-Agent': 'radar-identity-followup'})
-    with urllib.request.urlopen(request, timeout=25) as response:
-        return json.loads(response.read() or b'null')
+    try:
+        with urllib.request.urlopen(request, timeout=25) as response:
+            return json.loads(response.read() or b'null')
+    except urllib.error.HTTPError as error:
+        # Retain the HTTPError type for permanent-repository detection.
+        error.reason = str(error.reason) + ': ' + error.read().decode('utf-8', 'replace')[:600]
+        raise
 
 
 def pages(path):
@@ -294,7 +299,8 @@ def collect():
     for key, item in items:
         if item['status'] != 'tracking':
             continue
-        if item.get('next_check_at') and now() < dt.datetime.fromisoformat(item['next_check_at']):
+        retry_after_fix = os.environ.get('GITHUB_EVENT_NAME') == 'push' and item.get('last_verify_error')
+        if item.get('next_check_at') and now() < dt.datetime.fromisoformat(item['next_check_at']) and not retry_after_fix:
             continue
         item['last_check_at'] = stamp()
         item['next_check_at'] = (now().replace(minute=0, second=0, microsecond=0) + dt.timedelta(hours=1)).isoformat()
@@ -302,27 +308,49 @@ def collect():
             docs = snippets(evidence(item))
             fingerprint = digest(docs)
             if docs and fingerprint != item.get('verified_fingerprint') and item.get('failed_fingerprints', {}).get(fingerprint, 0) < 3:
-                pending.append({'key': key, 'fingerprint': fingerprint, 'docs': docs})
+                pending.append({'key': key, 'fingerprint': fingerprint, 'docs': docs,
+                                'claims': item.get('claims') if item.get('claims_fingerprint') == fingerprint else None})
             item.pop('last_error', None)
         except Exception as error:
             item['last_error'] = str(error)[:500]
-            errors.append(key + ': ' + str(error))
+            if item['status'] != 'unavailable':
+                errors.append(key + ': ' + str(error))
     state['last_collect_at'] = stamp()
     state['last_errors'] = errors
     save_state(state, sha)
-    LOCAL.write_text(json.dumps(pending, ensure_ascii=False))
     quota_until = state.get('quota_next_probe_at')
     quota_paused = bool(quota_until and now() < dt.datetime.fromisoformat(quota_until))
     # Respect the five-minute analyzer's shared account pause too.
     import fast_ai_quota as quota
-    ready = bool(pending) and not quota_paused and not quota.paused()
+    ai_allowed = not quota_paused and not quota.paused()
+    pending = [work for work in pending if work['claims'] is not None or ai_allowed]
+    LOCAL.write_text(json.dumps(pending, ensure_ascii=False))
+    ready = bool(pending)
+    needs_ai = any(work['claims'] is None for work in pending)
     if os.environ.get('GITHUB_OUTPUT'):
         with open(os.environ['GITHUB_OUTPUT'], 'a') as stream:
             stream.write('has_pending=' + str(ready).lower() + '\n')
+            stream.write('needs_ai=' + str(needs_ai).lower() + '\n')
     print(json.dumps({'tracking': sum(p['status']=='tracking' for p in state['projects'].values()),
                       'excluded': sum(p['status']=='excluded' for p in state['projects'].values()),
                       'changed_candidates': len(pending), 'ai_ready': ready, 'errors': errors}, ensure_ascii=False))
     return 1 if errors else 0
+
+
+def parse_verification(text):
+    # CLI may print a short progress prelude before the requested JSON.
+    decoder = json.JSONDecoder()
+    found = []
+    for match in re.finditer(r'\{', text):
+        try:
+            obj, _ = decoder.raw_decode(text[match.start():])
+        except json.JSONDecodeError:
+            continue
+        if isinstance(obj, dict) and isinstance(obj.get('identities'), list):
+            found.append(obj)
+    if len(found) != 1:
+        raise ValueError('expected exactly one identity verification JSON object')
+    return found[0]['identities']
 
 
 def verify_report(name, docs):
@@ -347,13 +375,7 @@ No grades, project analysis or investment recommendations. Do not guess. Empty i
         if quota.is_quota_error(result.stderr + result.stdout):
             raise quota.QuotaExhausted('Copilot quota exhausted')
         raise RuntimeError((result.stderr or result.stdout)[-1000:])
-    text = result.stdout.strip()
-    if text.startswith('```'):
-        text = re.sub(r'^```(?:json)?\s*|\s*```$', '', text)
-    obj = json.loads(text)
-    if not isinstance(obj.get('identities'), list):
-        raise ValueError('invalid identity verification output')
-    return obj['identities']
+    return parse_verification(result.stdout.strip())
 
 
 def token_live(value, chain):
@@ -415,15 +437,22 @@ def verify():
     state, sha = load_state()
     errors = []
     try:
-        for work in json.loads(LOCAL.read_text())[:8]:
+        pending = json.loads(LOCAL.read_text())
+        checks = [w for w in pending if w.get('claims') is not None] + [w for w in pending if w.get('claims') is None][:8]
+        for work in checks:
             item = state['projects'][work['key']]
             if item['status'] != 'tracking':
                 continue
             try:
-                identities = verify_report(item['name'], work['docs'])
+                identities = work.get('claims')
+                if identities is None:
+                    identities = verify_report(item['name'], work['docs'])
+                    item['claims'] = identities
+                    item['claims_fingerprint'] = work['fingerprint']
                 valid = []
                 for identity in identities:
                     if validate(identity, work['docs']):
+                        identity = dict(identity)  # Preserve raw quoted claims for retry.
                         if identity['kind'] == 'x' and identity['value'].startswith('@'):
                             identity['value'] = 'https://x.com/' + identity['value'][1:]
                         if identity['kind'] == 'website' and DOMAIN.fullmatch(identity['value']):
@@ -435,11 +464,8 @@ def verify():
                     item.update(status='found', identities=valid, notified_at=stamp())
                     print('IDENTITY_FOUND ' + work['key'])
                 # A failed onchain verification must remain eligible for retry.
-                if not identities or valid:
+                if not identities or valid or not any(i.get('kind') == 'ca' for i in identities):
                     item['verified_fingerprint'] = work['fingerprint']
-                else:
-                    attempts = item.setdefault('failed_fingerprints', {})
-                    attempts[work['fingerprint']] = attempts.get(work['fingerprint'], 0) + 1
                 state.pop('quota_next_probe_at', None)
                 item.pop('last_verify_error', None)
             except quota.QuotaExhausted:
@@ -447,8 +473,9 @@ def verify():
                 print('IDENTITY_AI_QUOTA_PAUSED: tracking retained')
                 break
             except Exception as error:
-                attempts = item.setdefault('failed_fingerprints', {})
-                attempts[work['fingerprint']] = attempts.get(work['fingerprint'], 0) + 1
+                if item.get('claims_fingerprint') != work['fingerprint']:
+                    attempts = item.setdefault('failed_fingerprints', {})
+                    attempts[work['fingerprint']] = attempts.get(work['fingerprint'], 0) + 1
                 item['last_verify_error'] = str(error)[:500]
                 errors.append(work['key'] + ': ' + str(error))
     finally:
