@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T21:54:12Z",
+    "description": "An app for analyzing coin volatility on robinhood chain",
+    "detected_at": "2026-09-06T23:05:42Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "kabbalahmonster/Bonnet--token-hunter",
+    "homepage": null,
+    "html_url": "https://github.com/kabbalahmonster/Bonnet--token-hunter",
+    "pushed_at": "2026-09-06T22:49:26Z",
+    "repo_id": 1359536871,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
