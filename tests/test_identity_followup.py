@@ -95,6 +95,13 @@ class IdentityRules(unittest.TestCase):
             self.assertEqual(len(list(tracker.pages('/pulls?state=all'))), 101)
             self.assertIn('page=2', gh.call_args[0][0])
 
+    def test_cli_json_with_progress_prelude(self):
+        self.assertEqual(tracker.parse_verification('Reading local evidence.\n```json\n{"identities": []}\n```'), [])
+        with self.assertRaises(ValueError):
+            tracker.parse_verification('{"identities": []}\n{"identities": []}')
+        with self.assertRaises(ValueError):
+            tracker.parse_verification('No structured result')
+
 
 if __name__ == '__main__':
     unittest.main()
