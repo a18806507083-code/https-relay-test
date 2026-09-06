@@ -1297,7 +1297,7 @@
       "repo": "dancingcowboy/weald-protocol",
       "name": "dancingcowboy/weald-protocol",
       "pr": 50,
-      "status": "tracking",
+      "status": "found",
       "registered_at": "2026-09-06T10:22:29.566744+00:00",
       "first_report_sha256": "50f9b65a8c751c8eabe6235b00a2cf3571c046a6cfd1d69c4bc7f5f29b4ebd5f",
       "files": {
@@ -1320,7 +1320,33 @@
       "next_check_at": "2026-09-06T16:00:00+00:00",
       "last_check_at": "2026-09-06T15:27:53.728332+00:00",
       "repo_id": 1356419688,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://weald.my",
+          "source": "README.md",
+          "quote": "[WEALD](https://weald.my), the liquidity automation interface for Robinhood Chain.",
+          "chain_id": null,
+          "official_project": true,
+          "mainnet_token": null
+        }
+      ],
+      "claims_fingerprint": "f4fe49387442a5fd139f04364fceb2d6a36a7ecc5591a02b035a5efa9bbd7772",
+      "identities": [
+        {
+          "kind": "website",
+          "value": "https://weald.my",
+          "source": "README.md",
+          "quote": "[WEALD](https://weald.my), the liquidity automation interface for Robinhood Chain.",
+          "chain_id": null,
+          "official_project": true,
+          "mainnet_token": null,
+          "source_url": "https://github.com/dancingcowboy/weald-protocol/blob/823571cd9733959da2630072938ca909278d11e3/README.md"
+        }
+      ],
+      "notified_at": "2026-09-06T15:31:12.410715+00:00",
+      "verified_fingerprint": "f4fe49387442a5fd139f04364fceb2d6a36a7ecc5591a02b035a5efa9bbd7772"
     },
     "repo:stock-pack/stock-pack": {
       "source": "repo",
@@ -1369,7 +1395,17 @@
       "next_check_at": "2026-09-06T16:00:00+00:00",
       "last_check_at": "2026-09-06T15:27:56.226438+00:00",
       "repo_id": 1356497199,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://family.cash",
+          "source": "README.md",
+          "quote": "[Family.Cash](https://family.cash)"
+        }
+      ],
+      "claims_fingerprint": "68149cecc5bc73c9e68fea6310f34f960506b831cf21f0f76db1de32495e65b7",
+      "verified_fingerprint": "68149cecc5bc73c9e68fea6310f34f960506b831cf21f0f76db1de32495e65b7"
     },
     "repo:nirholas/quiver": {
       "source": "repo",
@@ -1451,7 +1487,10 @@
       "next_check_at": "2026-09-06T16:00:00+00:00",
       "last_check_at": "2026-09-06T15:27:57.879553+00:00",
       "repo_id": 1356615492,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "d4c1876a5960772f8691a4f2e438ad38e008b2e097ca338053c2a1fe7fa1942b",
+      "verified_fingerprint": "d4c1876a5960772f8691a4f2e438ad38e008b2e097ca338053c2a1fe7fa1942b"
     },
     "repo:gabrielfrneto/stockcity-mcp": {
       "source": "repo",
@@ -1515,7 +1554,10 @@
       "next_check_at": "2026-09-06T16:00:00+00:00",
       "last_check_at": "2026-09-06T15:27:59.430275+00:00",
       "repo_id": 1356715579,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "1525e95ad624ae88429b5c16947121bd2a6d9ea535b2d109adecb9e67e4597a1",
+      "verified_fingerprint": "1525e95ad624ae88429b5c16947121bd2a6d9ea535b2d109adecb9e67e4597a1"
     },
     "repo:meiyandong/robinhood-pair-grid": {
       "source": "repo",
@@ -1615,7 +1657,10 @@
       "next_check_at": "2026-09-06T16:00:00+00:00",
       "last_check_at": "2026-09-06T15:28:00.781631+00:00",
       "repo_id": 1356750466,
-      "file_cursor": 8
+      "file_cursor": 8,
+      "claims": [],
+      "claims_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5",
+      "verified_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5"
     },
     "repo:meiyandong/manga-chan-atomic-arbitrage": {
       "source": "repo",
@@ -3496,8 +3541,8 @@
       "repo_id": 1358682417,
       "file_cursor": 10,
       "claims": [],
-      "claims_fingerprint": "446bed9df1424439283450f1c1a6459a601817ed1b7404cfa099daab462def95",
-      "verified_fingerprint": "446bed9df1424439283450f1c1a6459a601817ed1b7404cfa099daab462def95"
+      "claims_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69",
+      "verified_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69"
     },
     "repo:nativ3ai/robinhood-terminal": {
       "source": "repo",
@@ -3786,9 +3831,16 @@
       "last_check_at": "2026-09-06T15:27:40.154387+00:00",
       "repo_id": 1358787003,
       "file_cursor": 7,
-      "claims": [],
-      "claims_fingerprint": "b99370f43ac7c3de12a6aebf515572954fd1158b7f5f23c14d436c0cc86c9663",
-      "verified_fingerprint": "b99370f43ac7c3de12a6aebf515572954fd1158b7f5f23c14d436c0cc86c9663"
+      "claims": [
+        {
+          "kind": "website",
+          "value": "stockminer.fi",
+          "source": "gitbook/README.md",
+          "quote": "The mine lives at [stockminer.fi](https://stockminer.fi)."
+        }
+      ],
+      "claims_fingerprint": "86a7895891239ae45479baaad12bfe5ed4c0c83271b688d7b02a56be21027107",
+      "verified_fingerprint": "86a7895891239ae45479baaad12bfe5ed4c0c83271b688d7b02a56be21027107"
     },
     "repo:xinchen37/primefi-app": {
       "source": "repo",
@@ -3964,7 +4016,7 @@
       "repo": "quantumcoinputer/quantum-cats",
       "name": "quantumcoinputer/quantum-cats",
       "pr": 274,
-      "status": "tracking",
+      "status": "found",
       "registered_at": "2026-09-06T14:04:40.514639+00:00",
       "first_report_sha256": "402a35d3c080d57a292a8908a9436b3a4c5eb2002d645c82a002653ef0a49b72",
       "files": {
@@ -3992,7 +4044,33 @@
       "next_check_at": "2026-09-06T16:00:00+00:00",
       "last_check_at": "2026-09-06T15:27:37.238766+00:00",
       "repo_id": 1359023114,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [
+        {
+          "kind": "ca",
+          "value": "0xd421a43172873811a8b9E6fFEe23acd263dB837a",
+          "source": "README.md",
+          "quote": "Mainnet (Robinhood Chain, 4663): QuantumCats\n`0xd421a43172873811a8b9E6fFEe23acd263dB837a`",
+          "chain_id": 4663,
+          "official_project": true,
+          "mainnet_token": true
+        }
+      ],
+      "claims_fingerprint": "f72f54815d05c11b0857e812a5478750843d4a34be6a7647d8a217a630aad62f",
+      "identities": [
+        {
+          "kind": "ca",
+          "value": "0xd421a43172873811a8b9E6fFEe23acd263dB837a",
+          "source": "README.md",
+          "quote": "Mainnet (Robinhood Chain, 4663): QuantumCats\n`0xd421a43172873811a8b9E6fFEe23acd263dB837a`",
+          "chain_id": 4663,
+          "official_project": true,
+          "mainnet_token": true,
+          "source_url": "https://github.com/quantumcoinputer/quantum-cats/blob/c9a0aa87c7229fe02f1b3e34b73e334868b8bf1c/README.md"
+        }
+      ],
+      "notified_at": "2026-09-06T15:29:21.708131+00:00",
+      "verified_fingerprint": "f72f54815d05c11b0857e812a5478750843d4a34be6a7647d8a217a630aad62f"
     },
     "repo:hoodsale/contracts": {
       "source": "repo",
