@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T12:09:30.536Z",
+    "detected_at": "2026-09-07T15:56:54Z",
+    "display": "57469 Grant Application - Zcash Integration in Coin Wallet (WebZjs + lightwalletd)",
+    "key": "forum:57469",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-integration-in-coin-wallet-webzjs-lightwalletd",
+      "title": "Grant Application - Zcash Integration in Coin Wallet (WebZjs + lightwalletd)",
+      "topic_id": 57469
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57469,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-integration-in-coin-wallet-webzjs-lightwalletd/57469"
+  },
+  "schema": "zcash-fast-event/1"
+}
