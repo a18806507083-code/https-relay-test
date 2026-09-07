@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T12:12:40.429Z",
+    "detected_at": "2026-09-07T15:56:54Z",
+    "display": "57470 Grant Application - zcashlib: A Pure-JavaScript Zcash Library",
+    "key": "forum:57470",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "grant-application-zcashlib-a-pure-javascript-zcash-library",
+      "title": "Grant Application - zcashlib: A Pure-JavaScript Zcash Library",
+      "topic_id": 57470
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57470,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcashlib-a-pure-javascript-zcash-library/57470"
+  },
+  "schema": "zcash-fast-event/1"
+}
