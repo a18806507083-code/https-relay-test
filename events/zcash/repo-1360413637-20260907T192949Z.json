@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T15:56:15Z",
+    "detected_at": "2026-09-07T19:29:49Z",
+    "display": "darrenrosbon/occlude",
+    "key": "repo:1360413637",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "darrenrosbon/occlude",
+      "homepage": null,
+      "pushed_at": "2026-09-07T18:33:09Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1360413637,
+    "url": "https://github.com/darrenrosbon/occlude"
+  },
+  "schema": "zcash-fast-event/1"
+}
