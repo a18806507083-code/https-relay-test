@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T14:50:14Z",
+    "description": "Autonomous trading agent on Robinhood Chain that publishes every decision it makes",
+    "detected_at": "2026-09-07T15:56:17Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "hoodard/hoodard-agent",
+    "homepage": "https://hoodard.fun",
+    "html_url": "https://github.com/hoodard/hoodard-agent",
+    "pushed_at": "2026-09-07T14:54:01Z",
+    "repo_id": 1360350317,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
