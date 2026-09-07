@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T01:58:40Z",
+    "detected_at": "2026-09-07T05:18:29Z",
+    "display": "ms6-foundation/fin6",
+    "key": "repo:1359651836",
+    "metadata": {
+      "description": "Private financial chain",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ms6-foundation/fin6",
+      "homepage": null,
+      "pushed_at": "2026-09-07T03:04:59Z",
+      "tech_signals": [
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1359651836,
+    "url": "https://github.com/ms6-foundation/fin6"
+  },
+  "schema": "zcash-fast-event/1"
+}
