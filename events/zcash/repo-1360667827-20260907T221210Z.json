@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T21:12:29Z",
+    "detected_at": "2026-09-07T22:12:10Z",
+    "display": "hoover2214/anonymous-network-research-644",
+    "key": "repo:1360667827",
+    "metadata": {
+      "description": "Analysis of anonymous network security and PGP verification methodologies",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "hoover2214/anonymous-network-research-644",
+      "homepage": null,
+      "pushed_at": "2026-09-07T21:12:35Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1360667827,
+    "url": "https://github.com/hoover2214/anonymous-network-research-644"
+  },
+  "schema": "zcash-fast-event/1"
+}
