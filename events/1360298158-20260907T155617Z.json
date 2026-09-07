@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T14:00:00Z",
+    "description": null,
+    "detected_at": "2026-09-07T15:56:17Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "dunik77/thread",
+    "homepage": null,
+    "html_url": "https://github.com/dunik77/thread",
+    "pushed_at": "2026-09-07T14:53:19Z",
+    "repo_id": 1360298158,
+    "score": 16,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
