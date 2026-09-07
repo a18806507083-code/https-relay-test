@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T02:06:10.635Z",
+    "detected_at": "2026-09-07T05:18:29Z",
+    "display": "57468 Proof of Work must never be abandoned",
+    "key": "forum:57468",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "proof-of-work-must-never-be-abandoned",
+      "title": "Proof of Work must never be abandoned",
+      "topic_id": 57468
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57468,
+    "url": "https://forum.zcashcommunity.com/t/proof-of-work-must-never-be-abandoned/57468"
+  },
+  "schema": "zcash-fast-event/1"
+}
