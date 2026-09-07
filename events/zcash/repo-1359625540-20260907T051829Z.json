@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T01:11:18Z",
+    "detected_at": "2026-09-07T05:18:29Z",
+    "display": "poliebotics/zeebeam",
+    "key": "repo:1359625540",
+    "metadata": {
+      "description": "ZeeBeam 1.0.0: for 259 frames of one projector-camera session, a 356-byte Groth16 proof per frame binds two drand rounds, a BLAKE3 feedback chain, two frozen networks' outputs and a Zcash receipt. Manuscript, proofs, source. Dark Lantern programme. Research and private use licence.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "poliebotics/zeebeam",
+      "homepage": null,
+      "pushed_at": "2026-09-07T01:11:26Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1359625540,
+    "url": "https://github.com/poliebotics/zeebeam"
+  },
+  "schema": "zcash-fast-event/1"
+}
