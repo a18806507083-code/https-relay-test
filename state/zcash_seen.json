@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-07T10:25:33Z",
+  "last_run_at": "2026-09-07T15:56:54Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-07T04:48:29Z",
+      "cutoff": "2026-09-07T09:55:33Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-07T04:48:29Z",
-      "matches": 0,
+      "cutoff": "2026-09-07T09:55:33Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-07T04:48:29Z",
-      "matches": 0,
+      "cutoff": "2026-09-07T09:55:33Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-07T04:48:29Z",
+      "cutoff": "2026-09-07T09:55:33Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -85,6 +85,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/338",
       "first_seen_at": "2026-09-07T05:18:29Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57469": {
+      "created_at": "2026-09-07T12:09:30.536Z",
+      "display": "57469 Grant Application - Zcash Integration in Coin Wallet (WebZjs + lightwalletd)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/355",
+      "first_seen_at": "2026-09-07T15:56:54Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57470": {
+      "created_at": "2026-09-07T12:12:40.429Z",
+      "display": "57470 Grant Application - zcashlib: A Pure-JavaScript Zcash Library",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/354",
+      "first_seen_at": "2026-09-07T15:56:54Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57471": {
+      "created_at": "2026-09-07T13:54:26.114Z",
+      "display": "57471 What Is Stopping Zcash From Reaching More People in the Real World?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/353",
+      "first_seen_at": "2026-09-07T15:56:54Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -255,6 +279,14 @@
       "first_seen_at": "2026-09-07T05:18:29Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1360110097": {
+      "created_at": "2026-09-07T10:52:43Z",
+      "display": "gmesc/StudIA-ZAINO",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/356",
+      "first_seen_at": "2026-09-07T15:56:54Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -275,9 +307,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-07T10:25:33Z",
-    "forum": "2026-09-07T10:25:33Z",
-    "github": "2026-09-07T10:25:33Z",
-    "zcg": "2026-09-07T10:25:33Z"
+    "fixed_orgs": "2026-09-07T15:56:54Z",
+    "forum": "2026-09-07T15:56:54Z",
+    "github": "2026-09-07T15:56:54Z",
+    "zcg": "2026-09-07T15:56:54Z"
   }
 }
