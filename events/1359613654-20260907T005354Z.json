@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T00:47:28Z",
+    "description": null,
+    "detected_at": "2026-09-07T00:53:54Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "andperez123/ball-robinhood",
+    "homepage": null,
+    "html_url": "https://github.com/andperez123/ball-robinhood",
+    "pushed_at": "2026-09-07T00:53:34Z",
+    "repo_id": 1359613654,
+    "score": 17,
+    "tech_signals": [
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
