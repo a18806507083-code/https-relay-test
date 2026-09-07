@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T17:39:51Z",
+    "description": "Self-hostable Hooked Ethereum interface: Buy, Sell, Claim and Miner refunds. MIT licensed.",
+    "detected_at": "2026-09-07T19:29:24Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "speshalxo69/heth-simple-interface",
+    "homepage": null,
+    "html_url": "https://github.com/speshalxo69/heth-simple-interface",
+    "pushed_at": "2026-09-07T17:50:51Z",
+    "repo_id": 1360507339,
+    "score": 12,
+    "tech_signals": [
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
