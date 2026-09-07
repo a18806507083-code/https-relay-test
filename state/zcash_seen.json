@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-07T00:54:24Z",
+  "last_run_at": "2026-09-07T05:18:29Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-06T22:36:00Z",
+      "cutoff": "2026-09-07T00:24:24Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-06T22:36:00Z",
-      "matches": 0,
+      "cutoff": "2026-09-07T00:24:24Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-06T22:36:00Z",
-      "matches": 0,
+      "cutoff": "2026-09-07T00:24:24Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-06T22:36:00Z",
+      "cutoff": "2026-09-07T00:24:24Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -77,6 +77,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/322",
       "first_seen_at": "2026-09-06T21:37:27Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57468": {
+      "created_at": "2026-09-07T02:06:10.635Z",
+      "display": "57468 Proof of Work must never be abandoned",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/338",
+      "first_seen_at": "2026-09-07T05:18:29Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -231,6 +239,22 @@
       "first_seen_at": "2026-09-06T21:37:27Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1359625540": {
+      "created_at": "2026-09-07T01:11:18Z",
+      "display": "poliebotics/zeebeam",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/340",
+      "first_seen_at": "2026-09-07T05:18:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1359651836": {
+      "created_at": "2026-09-07T01:58:40Z",
+      "display": "ms6-foundation/fin6",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/339",
+      "first_seen_at": "2026-09-07T05:18:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -251,9 +275,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-07T00:54:24Z",
-    "forum": "2026-09-07T00:54:24Z",
-    "github": "2026-09-07T00:54:24Z",
-    "zcg": "2026-09-07T00:54:24Z"
+    "fixed_orgs": "2026-09-07T05:18:29Z",
+    "forum": "2026-09-07T05:18:29Z",
+    "github": "2026-09-07T05:18:29Z",
+    "zcg": "2026-09-07T05:18:29Z"
   }
 }
