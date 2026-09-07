@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T14:19:10Z",
+    "description": "Just Send It! \ud83d\ude80",
+    "detected_at": "2026-09-07T15:56:17Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "JustSendIt/JustSendIt",
+    "homepage": null,
+    "html_url": "https://github.com/JustSendIt/JustSendIt",
+    "pushed_at": "2026-09-07T14:20:19Z",
+    "repo_id": 1360317327,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
