@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T21:20:55Z",
+    "description": "Cheaper fills on Robinhood Chain. Same Uniswap pool, 0.3% interface fee instead of 1%.",
+    "detected_at": "2026-09-07T22:11:49Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "steinat/Rapido",
+    "homepage": null,
+    "html_url": "https://github.com/steinat/Rapido",
+    "pushed_at": "2026-09-07T22:00:01Z",
+    "repo_id": 1360672956,
+    "score": 5,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
