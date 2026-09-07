@@ -1,1 +1,5 @@
-{}
+{
+  "reason": "copilot_quota_exhausted",
+  "paused_at": "2026-09-07T00:56:41.539007+00:00",
+  "next_probe_at": "2026-09-08T00:56:41.539007+00:00"
+}
