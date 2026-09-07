@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T08:40:25Z",
+    "description": "Meme intelligence for Robinhood Chain - early signals, wallet activity, risk, and explainable scoring.",
+    "detected_at": "2026-09-07T10:24:59Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "leopardracer/FLETCH",
+    "homepage": "",
+    "html_url": "https://github.com/leopardracer/FLETCH",
+    "pushed_at": "2026-09-07T10:18:59Z",
+    "repo_id": 1359977538,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
