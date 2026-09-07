@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-06T23:34:51Z",
+    "description": "Canonical TypeScript SDK for the Black Market protocol on Robinhood Chain",
+    "detected_at": "2026-09-07T00:53:54Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "abysshopper/black-market-node-sdk",
+    "homepage": null,
+    "html_url": "https://github.com/abysshopper/black-market-node-sdk",
+    "pushed_at": "2026-09-07T00:40:30Z",
+    "repo_id": 1359581654,
+    "score": 14,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
