@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T22:16:08Z",
+    "detected_at": "2026-09-08T00:23:25Z",
+    "display": "hoover2214/blockchain-privacy-tools-452",
+    "key": "repo:1360703550",
+    "metadata": {
+      "description": "Analysis of anonymous transaction systems and blockchain privacy",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "hoover2214/blockchain-privacy-tools-452",
+      "homepage": null,
+      "pushed_at": "2026-09-07T22:16:13Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1360703550,
+    "url": "https://github.com/hoover2214/blockchain-privacy-tools-452"
+  },
+  "schema": "zcash-fast-event/1"
+}
