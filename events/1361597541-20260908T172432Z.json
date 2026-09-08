@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T15:53:40Z",
+    "description": null,
+    "detected_at": "2026-09-08T17:24:32Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "rustyResearch1/paperhands",
+    "homepage": null,
+    "html_url": "https://github.com/rustyResearch1/paperhands",
+    "pushed_at": "2026-09-08T16:45:00Z",
+    "repo_id": 1361597541,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
