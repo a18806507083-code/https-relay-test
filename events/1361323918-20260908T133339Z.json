@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T11:56:59Z",
+    "description": "DAMES \u2014 mint with ETH, stake DAMES/ETH LP, earn ETH from minting rewards on Robinhood Chain.",
+    "detected_at": "2026-09-08T13:33:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "xqft1/DAMES",
+    "homepage": null,
+    "html_url": "https://github.com/xqft1/DAMES",
+    "pushed_at": "2026-09-08T11:57:37Z",
+    "repo_id": 1361323918,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
