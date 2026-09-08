@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T16:37:43Z",
+    "description": null,
+    "detected_at": "2026-09-08T17:24:32Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "panjivr/robinhood-terminal",
+    "homepage": "https://robinhood-terminal-cyan.vercel.app",
+    "html_url": "https://github.com/panjivr/robinhood-terminal",
+    "pushed_at": "2026-09-08T17:01:12Z",
+    "repo_id": 1361647911,
+    "score": 16,
+    "tech_signals": [
+      "Uniswap",
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
