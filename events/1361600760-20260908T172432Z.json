@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T15:56:19Z",
+    "description": "A persistent spatial market-war world on Robinhood Chain. Ten stock factions fight five simultaneous battles every ten minutes, driven by real market data, with SPY rewards settled on-chain every 24 hours.",
+    "detected_at": "2026-09-08T17:24:32Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "PonsWars/ponswars",
+    "homepage": null,
+    "html_url": "https://github.com/PonsWars/ponswars",
+    "pushed_at": "2026-09-08T17:06:44Z",
+    "repo_id": 1361600760,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
