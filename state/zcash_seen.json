@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-08T04:51:39Z",
+  "last_run_at": "2026-09-08T09:10:43Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-07T23:53:25Z",
+      "cutoff": "2026-09-08T04:21:39Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-07T23:53:25Z",
-      "matches": 0,
+      "cutoff": "2026-09-08T04:21:39Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-07T23:53:25Z",
+      "cutoff": "2026-09-08T04:21:39Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-07T23:53:25Z",
-      "matches": 0,
+      "cutoff": "2026-09-08T04:21:39Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -109,6 +109,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/353",
       "first_seen_at": "2026-09-07T15:56:54Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57479": {
+      "created_at": "2026-09-08T07:09:25.360Z",
+      "display": "57479 Grant Application — ZecScope (Zcash network upgrade / ZIP tracker)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/394",
+      "first_seen_at": "2026-09-08T09:10:43Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -335,6 +343,14 @@
       "first_seen_at": "2026-09-08T04:51:39Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1361100738": {
+      "created_at": "2026-09-08T08:11:09Z",
+      "display": "ShoebAntule/zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/392",
+      "first_seen_at": "2026-09-08T09:10:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -350,14 +366,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/146",
       "first_seen_at": "2026-09-04T22:43:06Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5383424193": {
+      "created_at": "2026-09-08T07:08:57Z",
+      "display": "#418 Grant Application - ZecScope (Zcash network upgrade / ZIP tracker)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/395",
+      "first_seen_at": "2026-09-08T09:10:43Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5384054406": {
+      "created_at": "2026-09-08T08:10:42Z",
+      "display": "#419 Grant Application - Zcash Flutter Wallet SDK",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/393",
+      "first_seen_at": "2026-09-08T09:10:43Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-08T04:51:39Z",
-    "forum": "2026-09-08T04:51:39Z",
-    "github": "2026-09-08T04:51:39Z",
-    "zcg": "2026-09-08T04:51:39Z"
+    "fixed_orgs": "2026-09-08T09:10:43Z",
+    "forum": "2026-09-08T09:10:43Z",
+    "github": "2026-09-08T09:10:43Z",
+    "zcg": "2026-09-08T09:10:43Z"
   }
 }
