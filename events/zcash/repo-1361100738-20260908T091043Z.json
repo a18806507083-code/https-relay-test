@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T08:11:09Z",
+    "detected_at": "2026-09-08T09:10:43Z",
+    "display": "ShoebAntule/zcash",
+    "key": "repo:1361100738",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "ShoebAntule/zcash",
+      "homepage": null,
+      "pushed_at": "2026-09-08T08:13:12Z",
+      "tech_signals": [
+        "wallet/payment",
+        "protocol/ZK",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1361100738,
+    "url": "https://github.com/ShoebAntule/zcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
