@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T15:31:44Z",
+    "description": "Solidity contracts for DarkRoute, a private non-custodial swap router on Robinhood Chain. A commitment escrow and a burn ledger for $DARK, both with no admin. Written and tested, deliberately not deployed until an external audit.",
+    "detected_at": "2026-09-08T17:24:32Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "darkrouteRH/contracts",
+    "homepage": null,
+    "html_url": "https://github.com/darkrouteRH/contracts",
+    "pushed_at": "2026-09-08T15:32:34Z",
+    "repo_id": 1361569446,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
