@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T18:18:54Z",
+    "description": null,
+    "detected_at": "2026-09-08T19:58:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "avzcrypto/outscope",
+    "homepage": "https://outscope-alpha.vercel.app",
+    "html_url": "https://github.com/avzcrypto/outscope",
+    "pushed_at": "2026-09-08T19:00:34Z",
+    "repo_id": 1361755054,
+    "score": 5,
+    "tech_signals": [
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
