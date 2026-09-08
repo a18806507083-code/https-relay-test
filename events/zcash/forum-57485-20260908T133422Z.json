@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T09:21:28.779Z",
+    "detected_at": "2026-09-08T13:34:22Z",
+    "display": "57485 Zcash Flutter Wallet SDK",
+    "key": "forum:57485",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "zcash-flutter-wallet-sdk",
+      "title": "Zcash Flutter Wallet SDK",
+      "topic_id": 57485
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57485,
+    "url": "https://forum.zcashcommunity.com/t/zcash-flutter-wallet-sdk/57485"
+  },
+  "schema": "zcash-fast-event/1"
+}
