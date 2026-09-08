@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T12:44:26Z",
+    "description": null,
+    "detected_at": "2026-09-08T13:33:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "idotmy/IFORM-Contract",
+    "homepage": null,
+    "html_url": "https://github.com/idotmy/IFORM-Contract",
+    "pushed_at": "2026-09-08T12:45:52Z",
+    "repo_id": 1361378566,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
