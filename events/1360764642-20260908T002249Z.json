@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T00:19:17Z",
+    "description": "Farmgun \u2014 a noncustodial token launchpad for Robinhood Chain and Base.",
+    "detected_at": "2026-09-08T00:22:49Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ethduke/farmgun-showcase",
+    "homepage": "https://farmgun.fun/",
+    "html_url": "https://github.com/ethduke/farmgun-showcase",
+    "pushed_at": "2026-09-08T00:19:21Z",
+    "repo_id": 1360764642,
+    "score": 7,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
