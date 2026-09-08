@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T07:09:25.360Z",
+    "detected_at": "2026-09-08T09:10:43Z",
+    "display": "57479 Grant Application — ZecScope (Zcash network upgrade / ZIP tracker)",
+    "key": "forum:57479",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zecscope-zcash-network-upgrade-zip-tracker",
+      "title": "Grant Application — ZecScope (Zcash network upgrade / ZIP tracker)",
+      "topic_id": 57479
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57479,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zecscope-zcash-network-upgrade-zip-tracker/57479"
+  },
+  "schema": "zcash-fast-event/1"
+}
