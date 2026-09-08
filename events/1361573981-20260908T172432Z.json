@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T15:35:22Z",
+    "description": null,
+    "detected_at": "2026-09-08T17:24:32Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "rohitchangediya/robinhood-bot",
+    "homepage": null,
+    "html_url": "https://github.com/rohitchangediya/robinhood-bot",
+    "pushed_at": "2026-09-08T15:37:38Z",
+    "repo_id": 1361573981,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
