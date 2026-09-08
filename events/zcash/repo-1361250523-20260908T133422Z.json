@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T10:43:01Z",
+    "detected_at": "2026-09-08T13:34:22Z",
+    "display": "k1h1a1n1u1m1a1n/obmen-sync",
+    "key": "repo:1361250523",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "k1h1a1n1u1m1a1n/obmen-sync",
+      "homepage": null,
+      "pushed_at": "2026-09-08T11:13:25Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1361250523,
+    "url": "https://github.com/k1h1a1n1u1m1a1n/obmen-sync"
+  },
+  "schema": "zcash-fast-event/1"
+}
