@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T12:27:25Z",
+    "description": null,
+    "detected_at": "2026-09-08T13:33:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "quantmemetrader/blackhole",
+    "homepage": null,
+    "html_url": "https://github.com/quantmemetrader/blackhole",
+    "pushed_at": "2026-09-08T13:02:34Z",
+    "repo_id": 1361359356,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
