@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T20:29:03Z",
+    "description": null,
+    "detected_at": "2026-09-08T22:19:13Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "travisiol/clout",
+    "homepage": null,
+    "html_url": "https://github.com/travisiol/clout",
+    "pushed_at": "2026-09-08T20:29:08Z",
+    "repo_id": 1361874821,
+    "score": 5,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
