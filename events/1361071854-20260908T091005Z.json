@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T07:39:36Z",
+    "description": "add README",
+    "detected_at": "2026-09-08T09:10:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "darkrouteRH/darkrouteRH",
+    "homepage": null,
+    "html_url": "https://github.com/darkrouteRH/darkrouteRH",
+    "pushed_at": "2026-09-08T07:57:02Z",
+    "repo_id": 1361071854,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
