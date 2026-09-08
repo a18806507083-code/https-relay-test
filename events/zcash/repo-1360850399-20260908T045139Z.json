@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T02:43:31Z",
+    "detected_at": "2026-09-08T04:51:39Z",
+    "display": "bawolf/trezor-ironwood",
+    "key": "repo:1360850399",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "librustzcash"
+      ],
+      "full_name": "bawolf/trezor-ironwood",
+      "homepage": null,
+      "pushed_at": "2026-09-08T04:43:21Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1360850399,
+    "url": "https://github.com/bawolf/trezor-ironwood"
+  },
+  "schema": "zcash-fast-event/1"
+}
