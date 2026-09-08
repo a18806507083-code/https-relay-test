@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T00:07:06Z",
+    "description": "Kerf smart contracts on Robinhood Chain: single-token Uniswap v3/v4 zaps, fee-earning range orders, permissionless keeper, ERC-4626 LP vaults (plain, hedged, structured) and a pre-market perp. Non-upgradeable, no admin over user positions.",
+    "detected_at": "2026-09-08T00:22:49Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "KerfFinance/kerf-contracts",
+    "homepage": "https://kerf.finance",
+    "html_url": "https://github.com/KerfFinance/kerf-contracts",
+    "pushed_at": "2026-09-08T00:07:10Z",
+    "repo_id": 1360758754,
+    "score": 20,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
