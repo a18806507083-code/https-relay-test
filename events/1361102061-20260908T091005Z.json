@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T08:12:30Z",
+    "description": "AEGIS \u2014 multi-chain scam filter + smart sniper \u0434\u043b\u044f Solana (Pump.fun) \u0456 Robinhood Chain (Pons V2)",
+    "detected_at": "2026-09-08T09:10:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "andreysuperiorgit/aegis",
+    "homepage": null,
+    "html_url": "https://github.com/andreysuperiorgit/aegis",
+    "pushed_at": "2026-09-08T08:13:12Z",
+    "repo_id": 1361102061,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
