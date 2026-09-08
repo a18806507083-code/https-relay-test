@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T22:26:02Z",
+    "description": "Open-source CREATE2 vanity address grinder: search salts in the browser, check the address is unclaimed on every EVM chain, and deploy the same address on Ethereum, Base, Arbitrum and Robinhood Chain.",
+    "detected_at": "2026-09-08T00:22:49Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "nirholas/create2-vanity",
+    "homepage": "https://create2-vanity.gold-cornucopia.workers.dev",
+    "html_url": "https://github.com/nirholas/create2-vanity",
+    "pushed_at": "2026-09-07T22:49:43Z",
+    "repo_id": 1360709100,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
