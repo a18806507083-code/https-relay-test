@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T04:10:47Z",
+    "description": "LP fee collector and dashboard for Uniswap v3/v4 on Robinhood Chain: multi-wallet collection, LOKOVault fee split, Telegram alerts, risk guardian, tax analytics",
+    "detected_at": "2026-09-08T04:51:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Lokoweb3/uniswap-collector",
+    "homepage": null,
+    "html_url": "https://github.com/Lokoweb3/uniswap-collector",
+    "pushed_at": "2026-09-08T04:51:22Z",
+    "repo_id": 1360907905,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
