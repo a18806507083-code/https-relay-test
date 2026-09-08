@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T14:06:10.419Z",
+    "detected_at": "2026-09-08T17:25:12Z",
+    "display": "57486 Bitcoin is Judiasm - Zcash is Christianity",
+    "key": "forum:57486",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "bitcoin-is-judiasm-zcash-is-christianity",
+      "title": "Bitcoin is Judiasm - Zcash is Christianity",
+      "topic_id": 57486
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57486,
+    "url": "https://forum.zcashcommunity.com/t/bitcoin-is-judiasm-zcash-is-christianity/57486"
+  },
+  "schema": "zcash-fast-event/1"
+}
