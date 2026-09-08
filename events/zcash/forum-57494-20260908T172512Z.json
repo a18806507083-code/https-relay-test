@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T17:06:52.009Z",
+    "detected_at": "2026-09-08T17:25:12Z",
+    "display": "57494 Grant Application - 24 Videos @zkMarketer",
+    "key": "forum:57494",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-24-videos-zkmarketer",
+      "title": "Grant Application - 24 Videos @zkMarketer",
+      "topic_id": 57494
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57494,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-24-videos-zkmarketer/57494"
+  },
+  "schema": "zcash-fast-event/1"
+}
