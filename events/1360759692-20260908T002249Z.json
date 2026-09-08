@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T00:09:04Z",
+    "description": "Kerf Finance profile",
+    "detected_at": "2026-09-08T00:22:49Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "KerfFinance/KerfFinance",
+    "homepage": null,
+    "html_url": "https://github.com/KerfFinance/KerfFinance",
+    "pushed_at": "2026-09-08T00:09:07Z",
+    "repo_id": 1360759692,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
