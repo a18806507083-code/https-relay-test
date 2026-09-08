@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T21:00:41Z",
+    "detected_at": "2026-09-08T22:19:48Z",
+    "display": "pranavharan02/zcsh-structure-visual",
+    "key": "repo:1361900558",
+    "metadata": {
+      "description": "Source-grounded SVG explainer of the Zcash ETF structure, prepared for the ZecHub visual bounty. Independent work; no acceptance or payment claimed.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "pranavharan02/zcsh-structure-visual",
+      "homepage": null,
+      "pushed_at": "2026-09-08T21:11:42Z",
+      "tech_signals": [
+        "wallet/payment",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1361900558,
+    "url": "https://github.com/pranavharan02/zcsh-structure-visual"
+  },
+  "schema": "zcash-fast-event/1"
+}
