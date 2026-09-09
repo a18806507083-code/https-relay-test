@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T10:47:00Z",
+    "detected_at": "2026-09-09T13:44:03Z",
+    "display": "MJ-RWA/ZeroWagea",
+    "key": "repo:1362551330",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "MJ-RWA/ZeroWagea",
+      "homepage": null,
+      "pushed_at": "2026-09-09T10:47:49Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1362551330,
+    "url": "https://github.com/MJ-RWA/ZeroWagea"
+  },
+  "schema": "zcash-fast-event/1"
+}
