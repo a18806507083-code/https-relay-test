@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T12:06:53Z",
+    "detected_at": "2026-09-09T13:44:03Z",
+    "display": "darkrouteRH/address-rules",
+    "key": "repo:1362628416",
+    "metadata": {
+      "description": "Per-chain crypto address validation with zero dependencies. EVM, Bitcoin, Solana, NEAR, Tron, Dogecoin, XRP, TON and Zcash. Shape validation only — no checksums, no network calls. Extracted from the DarkRoute swap router, where it runs before every order.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "darkrouteRH/address-rules",
+      "homepage": null,
+      "pushed_at": "2026-09-09T12:07:32Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1362628416,
+    "url": "https://github.com/darkrouteRH/address-rules"
+  },
+  "schema": "zcash-fast-event/1"
+}
