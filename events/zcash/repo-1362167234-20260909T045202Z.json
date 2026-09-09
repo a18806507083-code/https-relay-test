@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T03:49:52Z",
+    "detected_at": "2026-09-09T04:52:02Z",
+    "display": "dex-os-c/Ezio",
+    "key": "repo:1362167234",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "dex-os-c/Ezio",
+      "homepage": null,
+      "pushed_at": "2026-09-09T04:30:40Z",
+      "tech_signals": [
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1362167234,
+    "url": "https://github.com/dex-os-c/Ezio"
+  },
+  "schema": "zcash-fast-event/1"
+}
