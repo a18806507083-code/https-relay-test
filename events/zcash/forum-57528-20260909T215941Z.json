@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T20:59:44.976Z",
+    "detected_at": "2026-09-09T21:59:41Z",
+    "display": "57528 Grok can now trade and manage a portfolio on Coinbase :eyes:",
+    "key": "forum:57528",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grok-can-now-trade-and-manage-a-portfolio-on-coinbase",
+      "title": "Grok can now trade and manage a portfolio on Coinbase :eyes:",
+      "topic_id": 57528
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57528,
+    "url": "https://forum.zcashcommunity.com/t/grok-can-now-trade-and-manage-a-portfolio-on-coinbase/57528"
+  },
+  "schema": "zcash-fast-event/1"
+}
