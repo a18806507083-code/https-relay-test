@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T23:05:20Z",
+    "description": "Tern - Currents that lift & compound. On Robinhood Chain.",
+    "detected_at": "2026-09-09T00:20:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "nopzyyyy/Tern",
+    "homepage": null,
+    "html_url": "https://github.com/nopzyyyy/Tern",
+    "pushed_at": "2026-09-09T00:14:17Z",
+    "repo_id": 1361988030,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
