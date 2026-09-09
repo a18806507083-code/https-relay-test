@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T12:25:44Z",
+    "description": "TypeScript SDK for Frontier Markets: authenticated API access and local encrypted, unsigned trade preparation.",
+    "detected_at": "2026-09-09T13:43:27Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "FrontierMarketsAI/privacy-sdk",
+    "homepage": "https://priv.frontiermarkets.ai/docs",
+    "html_url": "https://github.com/FrontierMarketsAI/privacy-sdk",
+    "pushed_at": "2026-09-09T13:23:25Z",
+    "repo_id": 1362648784,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
