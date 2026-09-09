@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-09T09:15:13Z",
+  "last_run_at": "2026-09-09T13:44:03Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-09T04:22:02Z",
+      "cutoff": "2026-09-09T08:45:13Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-09T04:22:02Z",
-      "matches": 0,
+      "cutoff": "2026-09-09T08:45:13Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-09T04:22:02Z",
-      "matches": 0,
+      "cutoff": "2026-09-09T08:45:13Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-09T04:22:02Z",
+      "cutoff": "2026-09-09T08:45:13Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -157,6 +157,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/443",
       "first_seen_at": "2026-09-09T00:20:41Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57511": {
+      "created_at": "2026-09-09T09:51:54.024Z",
+      "display": "57511 ZF Engineering Update: 24 August - 6 September 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/466",
+      "first_seen_at": "2026-09-09T13:44:03Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -447,6 +455,30 @@
       "first_seen_at": "2026-09-09T04:52:02Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1362551330": {
+      "created_at": "2026-09-09T10:47:00Z",
+      "display": "MJ-RWA/ZeroWagea",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/465",
+      "first_seen_at": "2026-09-09T13:44:03Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1362628416": {
+      "created_at": "2026-09-09T12:06:53Z",
+      "display": "darkrouteRH/address-rules",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/464",
+      "first_seen_at": "2026-09-09T13:44:03Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1362705196": {
+      "created_at": "2026-09-09T13:17:29Z",
+      "display": "dendisuhubdy/zkp-circuits",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/463",
+      "first_seen_at": "2026-09-09T13:44:03Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -499,9 +531,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-09T09:15:13Z",
-    "forum": "2026-09-09T09:15:13Z",
-    "github": "2026-09-09T09:15:13Z",
-    "zcg": "2026-09-09T09:15:13Z"
+    "fixed_orgs": "2026-09-09T13:44:03Z",
+    "forum": "2026-09-09T13:44:03Z",
+    "github": "2026-09-09T13:44:03Z",
+    "zcg": "2026-09-09T13:44:03Z"
   }
 }
