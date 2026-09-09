@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T03:14:38Z",
+    "detected_at": "2026-09-09T04:52:02Z",
+    "display": "esegg1983/esegg1983",
+    "key": "repo:1362143167",
+    "metadata": {
+      "description": "esegg1983",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "esegg1983/esegg1983",
+      "homepage": null,
+      "pushed_at": "2026-09-09T03:15:00Z",
+      "tech_signals": [
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1362143167,
+    "url": "https://github.com/esegg1983/esegg1983"
+  },
+  "schema": "zcash-fast-event/1"
+}
