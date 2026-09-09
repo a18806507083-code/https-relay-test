@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T18:26:53Z",
+    "description": "WMR Desks V1 \u2014 multichain reward infrastructure for PONs launches. Route fees, reward holders, and redeem backed assets.",
+    "detected_at": "2026-09-09T19:48:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "wmrdesks/wmr-desks",
+    "homepage": "https://wmrdesks.app",
+    "html_url": "https://github.com/wmrdesks/wmr-desks",
+    "pushed_at": "2026-09-09T19:06:32Z",
+    "repo_id": 1363074804,
+    "score": 11,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
