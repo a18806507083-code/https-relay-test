@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T23:03:21.965Z",
+    "detected_at": "2026-09-09T00:20:41Z",
+    "display": "57503 Kestrel + ZecAuth: Open Zcash Wallet Connectivity with African Fiat On/Off-Ramps",
+    "key": "forum:57503",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "kestrel-zecauth-open-zcash-wallet-connectivity-with-african-fiat-on-off-ramps",
+      "title": "Kestrel + ZecAuth: Open Zcash Wallet Connectivity with African Fiat On/Off-Ramps",
+      "topic_id": 57503
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57503,
+    "url": "https://forum.zcashcommunity.com/t/kestrel-zecauth-open-zcash-wallet-connectivity-with-african-fiat-on-off-ramps/57503"
+  },
+  "schema": "zcash-fast-event/1"
+}
