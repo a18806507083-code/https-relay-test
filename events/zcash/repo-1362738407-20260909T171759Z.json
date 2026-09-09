@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T13:45:00Z",
+    "detected_at": "2026-09-09T17:17:59Z",
+    "display": "w-cash/pool",
+    "key": "repo:1362738407",
+    "metadata": {
+      "description": "Wcash/Zcash AuxPoW merged-mining pool with ZIP-301 ASIC support",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "w-cash/pool",
+      "homepage": null,
+      "pushed_at": "2026-09-09T17:12:03Z",
+      "tech_signals": [
+        "wallet/payment",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1362738407,
+    "url": "https://github.com/w-cash/pool"
+  },
+  "schema": "zcash-fast-event/1"
+}
