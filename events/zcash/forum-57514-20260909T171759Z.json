@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T13:53:07.514Z",
+    "detected_at": "2026-09-09T17:17:59Z",
+    "display": "57514 Contra the Zcash Dev Fund",
+    "key": "forum:57514",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster",
+        "Frequent Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "contra-the-zcash-dev-fund",
+      "title": "Contra the Zcash Dev Fund",
+      "topic_id": 57514
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57514,
+    "url": "https://forum.zcashcommunity.com/t/contra-the-zcash-dev-fund/57514"
+  },
+  "schema": "zcash-fast-event/1"
+}
