@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T22:25:49Z",
+    "detected_at": "2026-09-09T23:49:58Z",
+    "display": "usitaji218-blip/2352352326",
+    "key": "repo:1363272764",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "usitaji218-blip/2352352326",
+      "homepage": null,
+      "pushed_at": "2026-09-09T22:26:56Z",
+      "tech_signals": [
+        "SDK/library"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1363272764,
+    "url": "https://github.com/usitaji218-blip/2352352326"
+  },
+  "schema": "zcash-fast-event/1"
+}
