@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T09:51:54.024Z",
+    "detected_at": "2026-09-09T13:44:03Z",
+    "display": "57511 ZF Engineering Update: 24 August - 6 September 2026",
+    "key": "forum:57511",
+    "metadata": {
+      "category_id": 21,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zf-engineering-update-24-august-6-september-2026",
+      "title": "ZF Engineering Update: 24 August - 6 September 2026",
+      "topic_id": 57511
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57511,
+    "url": "https://forum.zcashcommunity.com/t/zf-engineering-update-24-august-6-september-2026/57511"
+  },
+  "schema": "zcash-fast-event/1"
+}
