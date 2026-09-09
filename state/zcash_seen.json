@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-09T19:48:53Z",
+  "last_run_at": "2026-09-09T21:59:41Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-09T16:47:59Z",
+      "cutoff": "2026-09-09T19:18:53Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-09T16:47:59Z",
-      "matches": 0,
+      "cutoff": "2026-09-09T19:18:53Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-09T16:47:59Z",
-      "matches": 1,
+      "cutoff": "2026-09-09T19:18:53Z",
+      "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-09T16:47:59Z",
+      "cutoff": "2026-09-09T19:18:53Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -173,6 +173,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/471",
       "first_seen_at": "2026-09-09T17:17:59Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57527": {
+      "created_at": "2026-09-09T20:01:55.155Z",
+      "display": "57527 Native offramp Zpay.cash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/493",
+      "first_seen_at": "2026-09-09T21:59:41Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57528": {
+      "created_at": "2026-09-09T20:59:44.976Z",
+      "display": "57528 Grok can now trade and manage a portfolio on Coinbase :eyes:",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/492",
+      "first_seen_at": "2026-09-09T21:59:41Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -555,9 +571,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-09T19:48:53Z",
-    "forum": "2026-09-09T19:48:53Z",
-    "github": "2026-09-09T19:48:53Z",
-    "zcg": "2026-09-09T19:48:53Z"
+    "fixed_orgs": "2026-09-09T21:59:41Z",
+    "forum": "2026-09-09T21:59:41Z",
+    "github": "2026-09-09T21:59:41Z",
+    "zcg": "2026-09-09T21:59:41Z"
   }
 }
