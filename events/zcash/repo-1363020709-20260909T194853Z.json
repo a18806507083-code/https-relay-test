@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T17:38:16Z",
+    "detected_at": "2026-09-09T19:48:53Z",
+    "display": "JDado02/FantaHacked-Android",
+    "key": "repo:1363020709",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "JDado02/FantaHacked-Android",
+      "homepage": null,
+      "pushed_at": "2026-09-09T18:27:07Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1363020709,
+    "url": "https://github.com/JDado02/FantaHacked-Android"
+  },
+  "schema": "zcash-fast-event/1"
+}
