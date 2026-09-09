@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T21:13:59Z",
+    "description": null,
+    "detected_at": "2026-09-09T21:58:59Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "Benjam1nCup/Robinhood-Pons-Sniper-Bot",
+    "homepage": null,
+    "html_url": "https://github.com/Benjam1nCup/Robinhood-Pons-Sniper-Bot",
+    "pushed_at": "2026-09-09T21:28:40Z",
+    "repo_id": 1363222273,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
