@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T07:28:44Z",
+    "description": null,
+    "detected_at": "2026-09-09T09:14:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "BitBanknz/bitbankrobinhood",
+    "homepage": null,
+    "html_url": "https://github.com/BitBanknz/bitbankrobinhood",
+    "pushed_at": "2026-09-09T08:17:24Z",
+    "repo_id": 1362351387,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
