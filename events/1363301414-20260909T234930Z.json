@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T23:05:46Z",
+    "description": "Read-only MCP server for Sandcastle leveraged liquidity positions",
+    "detected_at": "2026-09-09T23:49:30Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Gnome101/sandcastle-mcp",
+    "homepage": null,
+    "html_url": "https://github.com/Gnome101/sandcastle-mcp",
+    "pushed_at": "2026-09-09T23:06:46Z",
+    "repo_id": 1363301414,
+    "score": 12,
+    "tech_signals": [
+      "Morpho",
+      "Uniswap",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
