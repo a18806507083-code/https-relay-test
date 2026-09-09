@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T12:53:33Z",
+    "description": "Threshold VRF on BN254: BLS 5-of-9, permissionless fulfilment, one pairing per verification",
+    "detected_at": "2026-09-09T13:43:27Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "PegasusMalar/threshold-vrf-bn254",
+    "homepage": null,
+    "html_url": "https://github.com/PegasusMalar/threshold-vrf-bn254",
+    "pushed_at": "2026-09-09T13:09:15Z",
+    "repo_id": 1362678022,
+    "score": 11,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
