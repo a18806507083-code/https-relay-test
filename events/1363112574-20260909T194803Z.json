@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T19:05:01Z",
+    "description": null,
+    "detected_at": "2026-09-09T19:48:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "777huegos/swapwallet",
+    "homepage": null,
+    "html_url": "https://github.com/777huegos/swapwallet",
+    "pushed_at": "2026-09-09T19:20:10Z",
+    "repo_id": 1363112574,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
