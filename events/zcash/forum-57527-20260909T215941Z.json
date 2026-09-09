@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T20:01:55.155Z",
+    "detected_at": "2026-09-09T21:59:41Z",
+    "display": "57527 Native offramp Zpay.cash",
+    "key": "forum:57527",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "native-offramp-zpay-cash",
+      "title": "Native offramp Zpay.cash",
+      "topic_id": 57527
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57527,
+    "url": "https://forum.zcashcommunity.com/t/native-offramp-zpay-cash/57527"
+  },
+  "schema": "zcash-fast-event/1"
+}
