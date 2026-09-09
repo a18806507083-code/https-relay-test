@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-08T22:19:48Z",
+  "last_run_at": "2026-09-09T00:20:41Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-08T19:28:47Z",
+      "cutoff": "2026-09-08T21:49:48Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-08T19:28:47Z",
-      "matches": 0,
+      "cutoff": "2026-09-08T21:49:48Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-08T19:28:47Z",
-      "matches": 2,
+      "cutoff": "2026-09-08T21:49:48Z",
+      "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-08T19:28:47Z",
-      "matches": 0,
+      "cutoff": "2026-09-08T21:49:48Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -149,6 +149,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/426",
       "first_seen_at": "2026-09-08T19:58:47Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57503": {
+      "created_at": "2026-09-08T23:03:21.965Z",
+      "display": "57503 Kestrel + ZecAuth: Open Zcash Wallet Connectivity with African Fiat On/Off-Ramps",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/443",
+      "first_seen_at": "2026-09-09T00:20:41Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -462,14 +470,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/412",
       "first_seen_at": "2026-09-08T17:25:12Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5392553200": {
+      "created_at": "2026-09-08T22:26:36Z",
+      "display": "#421 Grant Application - Kestrel + ZecAuth: Open Zcash Wallet Connectivity with African Fiat On/Off-Ramps.",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/444",
+      "first_seen_at": "2026-09-09T00:20:41Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-08T22:19:48Z",
-    "forum": "2026-09-08T22:19:48Z",
-    "github": "2026-09-08T22:19:48Z",
-    "zcg": "2026-09-08T22:19:48Z"
+    "fixed_orgs": "2026-09-09T00:20:41Z",
+    "forum": "2026-09-09T00:20:41Z",
+    "github": "2026-09-09T00:20:41Z",
+    "zcg": "2026-09-09T00:20:41Z"
   }
 }
