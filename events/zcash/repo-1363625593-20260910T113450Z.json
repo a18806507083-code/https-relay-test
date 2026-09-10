@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T06:36:31Z",
+    "detected_at": "2026-09-10T11:34:50Z",
+    "display": "whatnotbot/zalkanes",
+    "key": "repo:1363625593",
+    "metadata": {
+      "description": "Zcash-native WASM smart contracts — Zalkanes v0",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "whatnotbot/zalkanes",
+      "homepage": null,
+      "pushed_at": "2026-09-10T11:05:39Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1363625593,
+    "url": "https://github.com/whatnotbot/zalkanes"
+  },
+  "schema": "zcash-fast-event/1"
+}
