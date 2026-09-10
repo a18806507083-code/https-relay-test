@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-10T15:08:08Z",
+  "last_run_at": "2026-09-10T18:22:07Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-10T11:04:50Z",
+      "cutoff": "2026-09-10T14:38:08Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-10T11:04:50Z",
-      "matches": 1,
+      "cutoff": "2026-09-10T14:38:08Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-10T11:04:50Z",
-      "matches": 0,
+      "cutoff": "2026-09-10T14:38:08Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-10T11:04:50Z",
+      "cutoff": "2026-09-10T14:38:08Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -197,6 +197,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/519",
       "first_seen_at": "2026-09-10T15:08:08Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57541": {
+      "created_at": "2026-09-10T17:12:17.790Z",
+      "display": "57541 Small milestone for Gleyo",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/528",
+      "first_seen_at": "2026-09-10T18:22:07Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -567,6 +575,22 @@
       "first_seen_at": "2026-09-10T11:34:50Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1364513502": {
+      "created_at": "2026-09-10T16:07:31Z",
+      "display": "nevmonsterblack4/Guarda-Wallet-Full-Version",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/529",
+      "first_seen_at": "2026-09-10T18:22:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1364691164": {
+      "created_at": "2026-09-10T18:00:59Z",
+      "display": "xyraopsec/binder-stealer-44ebea48",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/527",
+      "first_seen_at": "2026-09-10T18:22:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -619,9 +643,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-10T15:08:08Z",
-    "forum": "2026-09-10T15:08:08Z",
-    "github": "2026-09-10T15:08:08Z",
-    "zcg": "2026-09-10T15:08:08Z"
+    "fixed_orgs": "2026-09-10T18:22:07Z",
+    "forum": "2026-09-10T18:22:07Z",
+    "github": "2026-09-10T18:22:07Z",
+    "zcg": "2026-09-10T18:22:07Z"
   }
 }
