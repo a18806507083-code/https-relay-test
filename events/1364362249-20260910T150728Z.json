@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T14:41:12Z",
+    "description": null,
+    "detected_at": "2026-09-10T15:07:28Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Trixen-AI/anker",
+    "homepage": null,
+    "html_url": "https://github.com/Trixen-AI/anker",
+    "pushed_at": "2026-09-10T14:57:19Z",
+    "repo_id": 1364362249,
+    "score": 11,
+    "tech_signals": [
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
