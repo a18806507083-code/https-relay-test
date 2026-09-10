@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T20:04:59.917Z",
+    "detected_at": "2026-09-10T20:58:02Z",
+    "display": "57543 Ballast Desktop App: Seeking community feedback before open beta",
+    "key": "forum:57543",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "ballast-desktop-app-seeking-community-feedback-before-open-beta",
+      "title": "Ballast Desktop App: Seeking community feedback before open beta",
+      "topic_id": 57543
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57543,
+    "url": "https://forum.zcashcommunity.com/t/ballast-desktop-app-seeking-community-feedback-before-open-beta/57543"
+  },
+  "schema": "zcash-fast-event/1"
+}
