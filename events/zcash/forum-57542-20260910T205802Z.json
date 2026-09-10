@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T18:36:29.940Z",
+    "detected_at": "2026-09-10T20:58:02Z",
+    "display": "57542 The Zcon7 Program: Building What Comes Next",
+    "key": "forum:57542",
+    "metadata": {
+      "category_id": 21,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "the-zcon7-program-building-what-comes-next",
+      "title": "The Zcon7 Program: Building What Comes Next",
+      "topic_id": 57542
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57542,
+    "url": "https://forum.zcashcommunity.com/t/the-zcon7-program-building-what-comes-next/57542"
+  },
+  "schema": "zcash-fast-event/1"
+}
