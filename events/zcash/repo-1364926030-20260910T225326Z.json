@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T21:06:39Z",
+    "detected_at": "2026-09-10T22:53:26Z",
+    "display": "ShieldCubed/invariant",
+    "key": "repo:1364926030",
+    "metadata": {
+      "description": "Laptop wallet/miner/node: assay-gated INV prototype. Not an offering. Not mainnet.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ShieldCubed/invariant",
+      "homepage": null,
+      "pushed_at": "2026-09-10T21:48:42Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1364926030,
+    "url": "https://github.com/ShieldCubed/invariant"
+  },
+  "schema": "zcash-fast-event/1"
+}
