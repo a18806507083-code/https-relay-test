@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T22:07:10.716Z",
+    "detected_at": "2026-09-10T22:53:26Z",
+    "display": "57544 Ztrash trace",
+    "key": "forum:57544",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "ztrash-trace",
+      "title": "Ztrash trace",
+      "topic_id": 57544
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57544,
+    "url": "https://forum.zcashcommunity.com/t/ztrash-trace/57544"
+  },
+  "schema": "zcash-fast-event/1"
+}
