@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-10T06:26:15Z",
+  "last_run_at": "2026-09-10T11:34:50Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-10T01:00:35Z",
+      "cutoff": "2026-09-10T05:56:15Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-10T01:00:35Z",
+      "cutoff": "2026-09-10T05:56:15Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-10T01:00:35Z",
-      "matches": 0,
+      "cutoff": "2026-09-10T05:56:15Z",
+      "matches": 4,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-10T01:00:35Z",
+      "cutoff": "2026-09-10T05:56:15Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -527,6 +527,38 @@
       "first_seen_at": "2026-09-09T23:49:58Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1363625593": {
+      "created_at": "2026-09-10T06:36:31Z",
+      "display": "whatnotbot/zalkanes",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/510",
+      "first_seen_at": "2026-09-10T11:34:50Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1363671648": {
+      "created_at": "2026-09-10T07:21:21Z",
+      "display": "HalonaT/cryptowallet-cli",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/509",
+      "first_seen_at": "2026-09-10T11:34:50Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1363694194": {
+      "created_at": "2026-09-10T07:43:14Z",
+      "display": "fahmialfatah99-cmd/mining",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/508",
+      "first_seen_at": "2026-09-10T11:34:50Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1363839108": {
+      "created_at": "2026-09-10T09:35:31Z",
+      "display": "JakeAndersonWistCap/Crypto-Tracker",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/507",
+      "first_seen_at": "2026-09-10T11:34:50Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -579,9 +611,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-10T06:26:15Z",
-    "forum": "2026-09-10T06:26:15Z",
-    "github": "2026-09-10T06:26:15Z",
-    "zcg": "2026-09-10T06:26:15Z"
+    "fixed_orgs": "2026-09-10T11:34:50Z",
+    "forum": "2026-09-10T11:34:50Z",
+    "github": "2026-09-10T11:34:50Z",
+    "zcg": "2026-09-10T11:34:50Z"
   }
 }
