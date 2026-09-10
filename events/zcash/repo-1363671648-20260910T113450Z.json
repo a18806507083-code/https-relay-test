@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T07:21:21Z",
+    "detected_at": "2026-09-10T11:34:50Z",
+    "display": "HalonaT/cryptowallet-cli",
+    "key": "repo:1363671648",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "HalonaT/cryptowallet-cli",
+      "homepage": null,
+      "pushed_at": "2026-09-10T07:21:35Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1363671648,
+    "url": "https://github.com/HalonaT/cryptowallet-cli"
+  },
+  "schema": "zcash-fast-event/1"
+}
