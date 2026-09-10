@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T09:35:31Z",
+    "detected_at": "2026-09-10T11:34:50Z",
+    "display": "JakeAndersonWistCap/Crypto-Tracker",
+    "key": "repo:1363839108",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "JakeAndersonWistCap/Crypto-Tracker",
+      "homepage": null,
+      "pushed_at": "2026-09-10T10:25:23Z",
+      "tech_signals": [
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1363839108,
+    "url": "https://github.com/JakeAndersonWistCap/Crypto-Tracker"
+  },
+  "schema": "zcash-fast-event/1"
+}
