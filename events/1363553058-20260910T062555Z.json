@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T05:18:53Z",
+    "description": null,
+    "detected_at": "2026-09-10T06:25:55Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "equilattice-labs/v902",
+    "homepage": "https://v902-sigma.vercel.app",
+    "html_url": "https://github.com/equilattice-labs/v902",
+    "pushed_at": "2026-09-10T05:19:54Z",
+    "repo_id": 1363553058,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
