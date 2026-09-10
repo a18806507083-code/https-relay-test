@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T16:40:17Z",
+    "description": "Ordinal x402 MCP",
+    "detected_at": "2026-09-10T18:21:33Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "ordi402/ordinal-mcp",
+    "homepage": null,
+    "html_url": "https://github.com/ordi402/ordinal-mcp",
+    "pushed_at": "2026-09-10T18:01:13Z",
+    "repo_id": 1364563452,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
