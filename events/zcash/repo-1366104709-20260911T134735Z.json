@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T12:54:10Z",
+    "detected_at": "2026-09-11T13:47:35Z",
+    "display": "kub0-ai/zebra",
+    "key": "repo:1366104709",
+    "metadata": {
+      "description": "Zebra (zebrad) Zcash full node — multi-arch image, Sigstore-verified. Replaces end-of-life zcashd.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "kub0-ai/zebra",
+      "homepage": null,
+      "pushed_at": "2026-09-11T12:58:16Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1366104709,
+    "url": "https://github.com/kub0-ai/zebra"
+  },
+  "schema": "zcash-fast-event/1"
+}
