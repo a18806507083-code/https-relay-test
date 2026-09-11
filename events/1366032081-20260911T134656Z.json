@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T12:14:57Z",
+    "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
+    "detected_at": "2026-09-11T13:46:56Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "nhovongoc0-max/meme-radar",
+    "homepage": null,
+    "html_url": "https://github.com/nhovongoc0-max/meme-radar",
+    "pushed_at": "2026-09-11T12:19:58Z",
+    "repo_id": 1366032081,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
