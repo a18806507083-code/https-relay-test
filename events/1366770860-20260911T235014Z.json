@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T23:19:01Z",
+    "description": "Passive MSTR rewards and holder-governed reserve infrastructure for CAPITAL on Robinhood Chain",
+    "detected_at": "2026-09-11T23:50:14Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "CapitalFlywheel/flywheel-strategy",
+    "homepage": null,
+    "html_url": "https://github.com/CapitalFlywheel/flywheel-strategy",
+    "pushed_at": "2026-09-11T23:33:50Z",
+    "repo_id": 1366770860,
+    "score": 5,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
