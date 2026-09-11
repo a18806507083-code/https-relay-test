@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T19:16:27Z",
+    "description": "Hashcats WebGPU miner for Windows and macOS with local wallets and bounded automatic minting",
+    "detected_at": "2026-09-11T19:45:41Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "joymadhu49/hashcats-miner",
+    "homepage": null,
+    "html_url": "https://github.com/joymadhu49/hashcats-miner",
+    "pushed_at": "2026-09-11T19:16:32Z",
+    "repo_id": 1366605965,
+    "score": 13,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
