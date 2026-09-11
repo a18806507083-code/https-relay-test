@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T21:00:21Z",
+    "detected_at": "2026-09-11T21:58:54Z",
+    "display": "Skinny001/Zplorer",
+    "key": "repo:1366688077",
+    "metadata": {
+      "description": "A live Zcash block explorer that tracks shielded (private) vs transparent transaction activity, showing what percentage of recent network activity uses Zcash's privacy features.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Skinny001/Zplorer",
+      "homepage": null,
+      "pushed_at": "2026-09-11T21:40:23Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1366688077,
+    "url": "https://github.com/Skinny001/Zplorer"
+  },
+  "schema": "zcash-fast-event/1"
+}
