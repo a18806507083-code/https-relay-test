@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T08:07:17Z",
+    "description": "Solidity primitives for Peg: stock-token wrappers, constant-product liquidity pools, and PEG staking custody. Pinned builds and 30 staking tests.",
+    "detected_at": "2026-09-11T09:36:22Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "use-peg/peg-contracts",
+    "homepage": "https://usepeg.trade",
+    "html_url": "https://github.com/use-peg/peg-contracts",
+    "pushed_at": "2026-09-11T08:15:20Z",
+    "repo_id": 1365623229,
+    "score": 10,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
