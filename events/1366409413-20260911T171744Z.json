@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T16:07:30Z",
+    "description": "Bundlr on Solana \u2014 curated baskets of tokenized stocks, gold, crypto and Kalshi outcome tokens; the library, the settleability layer (Solana RPC + Jupiter) and the Zap quoter. Colosseum Crypto World's Fair 2026.",
+    "detected_at": "2026-09-11T17:17:44Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Bundlr-trade/Bundlr.SOL",
+    "homepage": null,
+    "html_url": "https://github.com/Bundlr-trade/Bundlr.SOL",
+    "pushed_at": "2026-09-11T17:04:07Z",
+    "repo_id": 1366409413,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
