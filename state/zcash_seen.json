@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-11T05:10:36Z",
+  "last_run_at": "2026-09-11T09:36:57Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-11T00:07:19Z",
+      "cutoff": "2026-09-11T04:40:36Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-11T00:07:19Z",
-      "matches": 1,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-09-11T00:07:19Z",
+      "cutoff": "2026-09-11T04:40:36Z",
       "matches": 0,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-09-11T04:40:36Z",
+      "matches": 2,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-09-11T00:07:19Z",
-      "matches": 1,
+      "cutoff": "2026-09-11T04:40:36Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -631,6 +631,22 @@
       "first_seen_at": "2026-09-10T22:53:26Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1365403126": {
+      "created_at": "2026-09-11T05:40:28Z",
+      "display": "PayCow/wallet-tools",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/563",
+      "first_seen_at": "2026-09-11T09:36:57Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1365502110": {
+      "created_at": "2026-09-11T06:51:24Z",
+      "display": "hoover2214/xmr-ring-signature-research-190",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/562",
+      "first_seen_at": "2026-09-11T09:36:57Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -691,9 +707,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-11T05:10:36Z",
-    "forum": "2026-09-11T05:10:36Z",
-    "github": "2026-09-11T05:10:36Z",
-    "zcg": "2026-09-11T05:10:36Z"
+    "fixed_orgs": "2026-09-11T09:36:57Z",
+    "forum": "2026-09-11T09:36:57Z",
+    "github": "2026-09-11T09:36:57Z",
+    "zcg": "2026-09-11T09:36:57Z"
   }
 }
