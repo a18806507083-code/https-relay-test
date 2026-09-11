@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T07:49:37Z",
+    "description": "Peg \u2014 tokenized-stock markets, community liquidity, and stock-paired launches on Robinhood Chain. Project overview, architecture, and execution proofs.",
+    "detected_at": "2026-09-11T09:36:22Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "use-peg/.github",
+    "homepage": "https://usepeg.trade",
+    "html_url": "https://github.com/use-peg/.github",
+    "pushed_at": "2026-09-11T09:09:52Z",
+    "repo_id": 1365594870,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
