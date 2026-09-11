@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T10:53:28Z",
+    "detected_at": "2026-09-11T13:47:35Z",
+    "display": "Afghanistan8/Fluff",
+    "key": "repo:1365899005",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Afghanistan8/Fluff",
+      "homepage": null,
+      "pushed_at": "2026-09-11T12:07:09Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1365899005,
+    "url": "https://github.com/Afghanistan8/Fluff"
+  },
+  "schema": "zcash-fast-event/1"
+}
