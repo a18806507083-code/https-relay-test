@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T21:12:14Z",
+    "description": "asdx",
+    "detected_at": "2026-09-11T21:58:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "MeG0302/hashcats",
+    "homepage": null,
+    "html_url": "https://github.com/MeG0302/hashcats",
+    "pushed_at": "2026-09-11T21:41:00Z",
+    "repo_id": 1366696141,
+    "score": 5,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
