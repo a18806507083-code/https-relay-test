@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T12:10:54Z",
+    "description": "Read-only exit-pressure engine for meme tokens on Robinhood Chain",
+    "detected_at": "2026-09-11T13:46:56Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Floopi10/slip",
+    "homepage": "https://slip-rh.mytodofloopi.workers.dev",
+    "html_url": "https://github.com/Floopi10/slip",
+    "pushed_at": "2026-09-11T12:16:10Z",
+    "repo_id": 1366024527,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
