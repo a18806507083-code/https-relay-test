@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T06:51:24Z",
+    "detected_at": "2026-09-11T09:36:57Z",
+    "display": "hoover2214/xmr-ring-signature-research-190",
+    "key": "repo:1365502110",
+    "metadata": {
+      "description": "Technical analysis of Monero privacy mechanisms and ring signatures",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "hoover2214/xmr-ring-signature-research-190",
+      "homepage": null,
+      "pushed_at": "2026-09-11T06:51:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1365502110,
+    "url": "https://github.com/hoover2214/xmr-ring-signature-research-190"
+  },
+  "schema": "zcash-fast-event/1"
+}
