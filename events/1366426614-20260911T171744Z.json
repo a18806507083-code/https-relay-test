@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T16:23:17Z",
+    "description": "Maze Labs \u2014 a crypto dungeon runner on Robinhood Chain",
+    "detected_at": "2026-09-11T17:17:44Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "MazeLabsS/maze-labs",
+    "homepage": null,
+    "html_url": "https://github.com/MazeLabsS/maze-labs",
+    "pushed_at": "2026-09-11T16:25:20Z",
+    "repo_id": 1366426614,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
