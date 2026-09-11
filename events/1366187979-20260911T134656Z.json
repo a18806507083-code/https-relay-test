@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T13:37:27Z",
+    "description": null,
+    "detected_at": "2026-09-11T13:46:56Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "falconx12x/welovecats",
+    "homepage": null,
+    "html_url": "https://github.com/falconx12x/welovecats",
+    "pushed_at": "2026-09-11T13:37:33Z",
+    "repo_id": 1366187979,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
