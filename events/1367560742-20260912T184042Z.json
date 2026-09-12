@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T17:57:38Z",
+    "description": "agent dashboard",
+    "detected_at": "2026-09-12T18:40:42Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "rayAritra/agent_arena",
+    "homepage": null,
+    "html_url": "https://github.com/rayAritra/agent_arena",
+    "pushed_at": "2026-09-12T17:59:22Z",
+    "repo_id": 1367560742,
+    "score": 13,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
