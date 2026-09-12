@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T03:15:08Z",
+    "detected_at": "2026-09-12T06:26:46Z",
+    "display": "netzo92/zclthesis",
+    "key": "repo:1366897422",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "netzo92/zclthesis",
+      "homepage": null,
+      "pushed_at": "2026-09-12T06:20:24Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1366897422,
+    "url": "https://github.com/netzo92/zclthesis"
+  },
+  "schema": "zcash-fast-event/1"
+}
