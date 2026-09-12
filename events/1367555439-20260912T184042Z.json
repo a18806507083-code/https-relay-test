@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T17:52:42Z",
+    "description": "Multi-chain x402 payment gateway (HTTP 402): Base, Arbitrum One, Robinhood Chain, Solana, Algorand. Public cut of whaletape.xyz for the Arbitrum Open House.",
+    "detected_at": "2026-09-12T18:40:42Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Elipacosta88/whaletape-x402-gateway",
+    "homepage": "https://whaletape.xyz",
+    "html_url": "https://github.com/Elipacosta88/whaletape-x402-gateway",
+    "pushed_at": "2026-09-12T18:06:09Z",
+    "repo_id": 1367555439,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
