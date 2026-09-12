@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T09:26:36Z",
+    "description": "GodzeraFi \u2014 on-chain market intelligence. See the market before it moves. Live at www.godzera.finance",
+    "detected_at": "2026-09-12T11:00:53Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "flow3514/godzerafi",
+    "homepage": null,
+    "html_url": "https://github.com/flow3514/godzerafi",
+    "pushed_at": "2026-09-12T09:29:27Z",
+    "repo_id": 1367147497,
+    "score": 6,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
