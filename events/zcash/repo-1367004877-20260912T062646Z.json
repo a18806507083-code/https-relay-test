@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T06:05:57Z",
+    "detected_at": "2026-09-12T06:26:46Z",
+    "display": "alberdioni8406/zecpay-V1",
+    "key": "repo:1367004877",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "alberdioni8406/zecpay-V1",
+      "homepage": null,
+      "pushed_at": "2026-09-12T06:21:35Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1367004877,
+    "url": "https://github.com/alberdioni8406/zecpay-V1"
+  },
+  "schema": "zcash-fast-event/1"
+}
