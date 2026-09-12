@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T10:59:27Z",
+    "description": "Automatic fly research office for Robinhood Chain and Pons launch proposals",
+    "detected_at": "2026-09-12T11:00:53Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "NachoLLMJS/flycorobinhood",
+    "homepage": null,
+    "html_url": "https://github.com/NachoLLMJS/flycorobinhood",
+    "pushed_at": "2026-09-12T10:59:33Z",
+    "repo_id": 1367214466,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
