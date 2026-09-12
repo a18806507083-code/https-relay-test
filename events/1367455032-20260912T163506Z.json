@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T16:05:09Z",
+    "description": "VAULTA \u2014 Autonomous AI-driven yield infrastructure on Robinhood Chain",
+    "detected_at": "2026-09-12T16:35:06Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "vaultarh/vaulta",
+    "homepage": null,
+    "html_url": "https://github.com/vaultarh/vaulta",
+    "pushed_at": "2026-09-12T16:08:16Z",
+    "repo_id": 1367455032,
+    "score": 16,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
