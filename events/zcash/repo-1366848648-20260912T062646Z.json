@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T01:49:55Z",
+    "detected_at": "2026-09-12T06:26:46Z",
+    "display": "zjdp9kpzdg-max/umbra-whitelist11",
+    "key": "repo:1366848648",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "zjdp9kpzdg-max/umbra-whitelist11",
+      "homepage": "https://temporary-brisk-redwood-h71v4qh.vercel.app",
+      "pushed_at": "2026-09-12T05:34:39Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1366848648,
+    "url": "https://github.com/zjdp9kpzdg-max/umbra-whitelist11"
+  },
+  "schema": "zcash-fast-event/1"
+}
