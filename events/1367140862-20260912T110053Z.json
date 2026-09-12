@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T09:17:03Z",
+    "description": "Chrome MV3 extension that turns any post on X into a one-tap trade. Hover a contract address or cashtag, buy from your own wallet through LI.FI, and the account that posted the call is credited on-chain via the referrer field. Tokenized stocks in the same panel. 53 KB, no remote code.",
+    "detected_at": "2026-09-12T11:00:53Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "callpaid/callpaid-extension",
+    "homepage": "",
+    "html_url": "https://github.com/callpaid/callpaid-extension",
+    "pushed_at": "2026-09-12T09:21:20Z",
+    "repo_id": 1367140862,
+    "score": 9,
+    "tech_signals": [
+      "RWA/stock",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
