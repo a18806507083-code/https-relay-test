@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T12:02:40Z",
+    "description": "king.fun \u2014 Solana meme coin launchpad",
+    "detected_at": "2026-09-12T13:55:13Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "faltusabhateam-max/king-fun",
+    "homepage": null,
+    "html_url": "https://github.com/faltusabhateam-max/king-fun",
+    "pushed_at": "2026-09-12T13:39:51Z",
+    "repo_id": 1367259215,
+    "score": 12,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
