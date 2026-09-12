@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T18:18:15Z",
+    "detected_at": "2026-09-12T18:41:23Z",
+    "display": "ManuelRix-11/Cluster-Releases",
+    "key": "repo:1367576152",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "ManuelRix-11/Cluster-Releases",
+      "homepage": null,
+      "pushed_at": "2026-09-12T18:34:10Z",
+      "tech_signals": [
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1367576152,
+    "url": "https://github.com/ManuelRix-11/Cluster-Releases"
+  },
+  "schema": "zcash-fast-event/1"
+}
