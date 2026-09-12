@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T14:27:00.050Z",
+    "detected_at": "2026-09-12T16:35:22Z",
+    "display": "57555 Grant Application - Research on a fully constant-time proving pipeline for open-source hardware wallet architectures, reusable for standard computers",
+    "key": "forum:57555",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-research-on-a-fully-constant-time-proving-pipeline-for-open-source-hardware-wallet-architectures-reusable-for-standard-computers",
+      "title": "Grant Application - Research on a fully constant-time proving pipeline for open-source hardware wallet architectures, reusable for standard computers",
+      "topic_id": 57555
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57555,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-research-on-a-fully-constant-time-proving-pipeline-for-open-source-hardware-wallet-architectures-reusable-for-standard-computers/57555"
+  },
+  "schema": "zcash-fast-event/1"
+}
