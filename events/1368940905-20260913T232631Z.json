@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T21:52:34Z",
+    "description": null,
+    "detected_at": "2026-09-13T23:26:31Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "serie77/sapphire",
+    "homepage": "https://sapphire-wheat.vercel.app",
+    "html_url": "https://github.com/serie77/sapphire",
+    "pushed_at": "2026-09-13T21:54:03Z",
+    "repo_id": 1368940905,
+    "score": 10,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
