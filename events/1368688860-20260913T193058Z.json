@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T17:48:20Z",
+    "description": "Which meta is printing on Pons v2 / Robinhood Chain right now, and is this token in it? Terminal-first, read-only, agent-friendly.",
+    "detected_at": "2026-09-13T19:30:58Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "Bonsaixbt/narra",
+    "homepage": null,
+    "html_url": "https://github.com/Bonsaixbt/narra",
+    "pushed_at": "2026-09-13T19:03:44Z",
+    "repo_id": 1368688860,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
