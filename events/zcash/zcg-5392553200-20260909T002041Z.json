@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T22:26:36Z",
+    "detected_at": "2026-09-09T00:20:41Z",
+    "display": "#421 Grant Application - Kestrel + ZecAuth: Open Zcash Wallet Connectivity with African Fiat On/Off-Ramps.",
+    "key": "zcg:5392553200",
+    "metadata": {
+      "author": "raycre8-g",
+      "issue_number": 421,
+      "labels": [],
+      "title": "Grant Application - Kestrel + ZecAuth: Open Zcash Wallet Connectivity with African Fiat On/Off-Ramps."
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5392553200,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/421"
+  },
+  "schema": "zcash-fast-event/1"
+}
