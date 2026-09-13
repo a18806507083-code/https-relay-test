@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T18:55:06Z",
+    "description": null,
+    "detected_at": "2026-09-13T19:30:58Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "MarginCalledG/RACKS-contracts",
+    "homepage": null,
+    "html_url": "https://github.com/MarginCalledG/RACKS-contracts",
+    "pushed_at": "2026-09-13T19:21:48Z",
+    "repo_id": 1368760725,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
