@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T22:00:46Z",
+    "description": "Penguin Swap on Robinhood chain - Burns 0.5% of every Transaction in PENGUIN",
+    "detected_at": "2026-09-13T23:26:31Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "PenguinSwapRobinhood/Penguin-Swap",
+    "homepage": null,
+    "html_url": "https://github.com/PenguinSwapRobinhood/Penguin-Swap",
+    "pushed_at": "2026-09-13T22:01:03Z",
+    "repo_id": 1368948291,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
