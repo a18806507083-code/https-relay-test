@@ -728,8 +728,8 @@
           "url": "https://github.com/runesleo/meme-cohort-observatory/blob/ad5444fd86010fd7a4ded2f4fae663aee719703e/docs/ROBICOP_SHADOW.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:41.807032+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:10.924288+00:00",
       "repo_id": 1356051016,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -779,10 +779,10 @@
           "url": "https://github.com/realdeanai/golden--trader/blob/cb1b89504a2bc6294da2ddcc600751de811635ef/development/wallet-monitor/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:58.424761+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:27.385367+00:00",
       "repo_id": 1356082615,
-      "file_cursor": 2,
+      "file_cursor": 0,
       "verified_fingerprint": "5e05e3c551c4fcca49198c17c9185bd87e66d3774a4e908305dd8673fa62fdfe"
     },
     "repo:voxelithicag/mcp": {
@@ -816,8 +816,8 @@
           "url": "https://github.com/ReddAgentRH/redd/blob/938adaa0b90e22e8eaf1d4fab79ad32ab656f8cb/contract/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:59.884030+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:28.800015+00:00",
       "repo_id": 1356143612,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -882,8 +882,8 @@
           "url": "https://github.com/Rizkijack/gashood/blob/853edd0a271357936dfddcd2a858dfa5969c9dd7/docs/WORKFLOW.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:43.166530+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:12.303066+00:00",
       "repo_id": 1356167900,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -961,8 +961,8 @@
           "url": "https://github.com/travisiol/hedge/blob/3bd37a63234bcca0bb5bc56d50990857998fb187/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:44.292539+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:13.398310+00:00",
       "repo_id": 1356225163,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1089,8 +1089,8 @@
           "url": "https://github.com/snobistisch/stock-lp-radar/blob/590dc2bc4b8e98f3303c3ebece3fdea54a235f80/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:45.436426+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:14.506364+00:00",
       "repo_id": 1356269686,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1217,10 +1217,10 @@
           "url": "https://github.com/nirholas/loxley/blob/afd42677c3333bdbb7689852872e838d732e4e89/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:01.127304+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:29.978293+00:00",
       "repo_id": 1356333517,
-      "file_cursor": 8,
+      "file_cursor": 7,
       "failed_fingerprints": {
         "4cd72aa43fb1e32ca7340d6179028e9795aab4ce5cc71f4f5409a55a839983c2": 1
       },
@@ -1261,8 +1261,8 @@
           "url": "https://github.com/vern-sh/vernagent/blob/95d5ffff949efa04c76065d5d8241ccf3fdb4a86/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:02.237574+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:31.047267+00:00",
       "repo_id": 1356364734,
       "file_cursor": 0,
       "claims": [],
@@ -1326,10 +1326,10 @@
           "url": "https://github.com/Ali213112/Agentic-on-bot-chain-/blob/dc6f15d0a837849cd10e16db657132fdf912e57c/src/lib/deployed.ts"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:03.663115+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:32.216318+00:00",
       "repo_id": 1356397498,
-      "file_cursor": 2,
+      "file_cursor": 0,
       "claims": [],
       "claims_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83",
       "verified_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83"
@@ -1354,8 +1354,8 @@
           "url": "https://github.com/QorbQuant/fomo-robinhood-copy/blob/c4ef852b5483af691df5411fc01c03a1899272b6/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:04.761486+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:33.423683+00:00",
       "repo_id": 1356394695,
       "file_cursor": 0,
       "claims": [],
@@ -1462,8 +1462,8 @@
           "url": "https://github.com/heirlabs/famcash-contracts/blob/6c0196611c2a1859903f05c038285d81e4c322e4/scripts/deploy.js"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:06.254230+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:34.630934+00:00",
       "repo_id": 1356497199,
       "file_cursor": 0,
       "claims": [
@@ -1554,10 +1554,10 @@
           "url": "https://github.com/JermWang/rh-incinerator/blob/be505c6e4869619496ae4a194bfe51d1e4a8b5d8/packages/contracts/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:07.449120+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:35.958246+00:00",
       "repo_id": 1356615492,
-      "file_cursor": 2,
+      "file_cursor": 4,
       "claims": [],
       "claims_fingerprint": "d4c1876a5960772f8691a4f2e438ad38e008b2e097ca338053c2a1fe7fa1942b",
       "verified_fingerprint": "d4c1876a5960772f8691a4f2e438ad38e008b2e097ca338053c2a1fe7fa1942b"
@@ -1621,8 +1621,8 @@
           "url": "https://github.com/ClankRace/clankrace-v4/blob/4615160fcf6ad4afa7109f1d7d216a54a05f1b14/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:08.607949+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:37.092362+00:00",
       "repo_id": 1356715579,
       "file_cursor": 0,
       "claims": [],
@@ -1754,10 +1754,10 @@
           "url": "https://github.com/MeiYanDong/robinhood-pair-grid/blob/73db09b73dcfc67b04b87033f2240104174df87c/docs/adr/0008-hard-floor-and-rpc-consensus.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:09.791936+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:38.288552+00:00",
       "repo_id": 1356750466,
-      "file_cursor": 14,
+      "file_cursor": 10,
       "claims": [],
       "claims_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5",
       "verified_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5"
@@ -1878,8 +1878,8 @@
           "url": "https://github.com/nirholas/sherwood/blob/2dbd22d6a8e0f78ba2f83a589733a67ffbca5acd/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:10.937635+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:39.472920+00:00",
       "repo_id": 1356845105,
       "file_cursor": 0,
       "claims": [],
@@ -1916,8 +1916,8 @@
           "url": "https://github.com/kealabama/midcap-random-index/blob/8bc8400cd23c3f0907d8f07deccc39b230bf1728/docs/VERIFIER.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:11.902297+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:40.528289+00:00",
       "repo_id": 1356858272,
       "file_cursor": 0,
       "claims": [],
@@ -1949,8 +1949,8 @@
           "url": "https://github.com/MonkiiLabs/MonkiiLabsApp/blob/84d035308c0053798992b803a710ba528a4ca385/contracts/deployed_address.json"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:12.999412+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:41.674686+00:00",
       "repo_id": 1356847100,
       "file_cursor": 0,
       "claims": [],
@@ -2059,8 +2059,8 @@
           "url": "https://github.com/FLock-io/flock-v4-hook/blob/b8098bd9ad58b776c7c92839a0980a222a4c2a06/script/testing/00_DeployV4.s.sol"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:14.506703+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:43.085391+00:00",
       "repo_id": 1356947738,
       "file_cursor": 0,
       "claims": [],
@@ -2138,8 +2138,8 @@
           "url": "https://github.com/yafieae/morpho-toolkit/blob/0260e804d65da84d15bb13df88fd42e1216594da/tools/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:15.768757+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:44.231498+00:00",
       "repo_id": 1356964162,
       "file_cursor": 0,
       "claims": [],
@@ -2172,8 +2172,8 @@
           "url": "https://github.com/thesoloycoder/OmniLauncher/blob/7984ba04eb4451dae3205ddc15eda8ba0edd5a51/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:46.015877+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:15.090257+00:00",
       "repo_id": 1357020146,
       "file_cursor": 0,
       "claims": [],
@@ -2308,10 +2308,10 @@
           "url": "https://github.com/S4PAY/payhole/blob/ff310af0bf4202bc0a41edb12ebd0d9a1f29db73/packages/sinkhole/src/addresses.ts"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:17.121081+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:45.268358+00:00",
       "repo_id": 1357071581,
-      "file_cursor": 10,
+      "file_cursor": 8,
       "claims": [
         {
           "kind": "website",
@@ -2362,8 +2362,8 @@
           "url": "https://github.com/bruisedhacksa/pulse/blob/9ffb7047778ddb030c832826f95c309389c68cb6/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:18.616333+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:46.690354+00:00",
       "repo_id": 1357231201,
       "file_cursor": 0,
       "claims": [],
@@ -2385,8 +2385,8 @@
           "url": "https://github.com/florityswap/meridian-robinhood/blob/cb7d1b04ad8ed9456dcf25971592dc13f125cdda/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:19.710816+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:47.816386+00:00",
       "repo_id": 1357293588,
       "file_cursor": 0
     },
@@ -2410,8 +2410,8 @@
           "url": "https://github.com/florityswap/unicrit/blob/7eb691e95684bdcd10ba4b5b426ec32f0adf78f0/scripts/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:20.799056+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:49.026522+00:00",
       "repo_id": 1357293353,
       "file_cursor": 0,
       "claims": [],
@@ -2505,10 +2505,10 @@
           "url": "https://github.com/arcafi/arca/blob/2f6091f6e5ba25ae78c8933acdbed64b265d7755/web/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:21.993259+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:50.244936+00:00",
       "repo_id": 1357452361,
-      "file_cursor": 0,
+      "file_cursor": 4,
       "claims": [
         {
           "kind": "x",
@@ -2575,10 +2575,10 @@
           "url": "https://github.com/memeticstate/ms-v1/blob/7e8e071b0a52e6229ca6efa4ae480d3c7497bd2e/docs/mvp-architecture.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:23.154169+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:51.415991+00:00",
       "repo_id": 1357414038,
-      "file_cursor": 2
+      "file_cursor": 4
     },
     "repo:shellr-packs/shellr-web": {
       "source": "repo",
@@ -2617,8 +2617,8 @@
           "url": "https://github.com/JermWang/airtime/blob/acf75727eca6609596671a4993515b905f21ca89/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:24.411662+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:52.949328+00:00",
       "repo_id": 1357489892,
       "file_cursor": 0,
       "claims": [
@@ -2652,8 +2652,8 @@
           "url": "https://github.com/Nar-123/lpbot-new/blob/bdf13f4e573ba6d1d4c700776bdf00a3ee5b3c60/scripts/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:25.677172+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:54.331240+00:00",
       "repo_id": 1357484187,
       "file_cursor": 0,
       "claims": [],
@@ -2740,8 +2740,8 @@
           "url": "https://github.com/galaxydestroyer0000/button/blob/b9c73bfcdd110dd88bee175a254a142cf3880181/docs/superpowers/specs/2026-09-03-frontend-rebuild-design.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:27.186285+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:55.702956+00:00",
       "repo_id": 1357556366,
       "file_cursor": 0,
       "claims": [
@@ -2772,8 +2772,8 @@
           "url": "https://github.com/TICKRMARKETS/tickr-markets/blob/2975a167061cc90a19ac92bb21d6e3a1f1864f57/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:28.448413+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:56.843046+00:00",
       "repo_id": 1357604173,
       "file_cursor": 0,
       "claims": [],
@@ -2830,10 +2830,10 @@
           "url": "https://github.com/novenrizkia856-ui/Roxy-contract/blob/f78052bf2dc56f335f4e9cd53880baab9eeebfc8/script/DeployTestnet.s.sol"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:29.835478+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:58.318538+00:00",
       "repo_id": 1357694785,
-      "file_cursor": 0,
+      "file_cursor": 4,
       "claims": [],
       "claims_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675",
       "verified_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675"
@@ -2863,8 +2863,8 @@
           "url": "https://github.com/xlabsg/fomo-copy-bot/blob/837b5c8fe49395ac8348ecb8a60e39e4394f0e53/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:30.854635+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:59.434767+00:00",
       "repo_id": 1357743987,
       "file_cursor": 0,
       "claims": [],
@@ -2941,10 +2941,10 @@
           "url": "https://github.com/basisinvestments/basis/blob/f83e52be9d35b0cf0e11885fa90c79ee9df5f741/docs/use-cases.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:32.016037+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:00.624301+00:00",
       "repo_id": 1357917659,
-      "file_cursor": 2,
+      "file_cursor": 9,
       "claims": [
         {
           "kind": "website",
@@ -2971,8 +2971,8 @@
           "url": "https://github.com/cocainebit/float-docs/blob/4717d162ad8d98bcb381e3e9df398d96d4e9fdee/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:33.145226+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:01.807407+00:00",
       "repo_id": 1357819964,
       "file_cursor": 0,
       "claims": [],
@@ -3049,8 +3049,8 @@
           "url": "https://github.com/cony-horizon/rhbot/blob/ec827ebc1598867b94b472a3af8b6a03070b60f8/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:34.292161+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:02.985661+00:00",
       "repo_id": 1358070563,
       "file_cursor": 0,
       "claims": [],
@@ -3115,8 +3115,8 @@
       "registered_at": "2026-09-06T10:22:46.608671+00:00",
       "first_report_sha256": "8fcc2582361e9d54505aa2746ea0af6480e2d422b38b44c57b674234b3e58207",
       "files": {},
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:35.511304+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:04.252947+00:00",
       "linked_repositories": {}
     },
     "repo:aomi-labs/hoodit-apps": {
@@ -3134,8 +3134,8 @@
           "url": "https://github.com/aomi-labs/hoodit-apps/blob/705e3bd9946edbe880661390530e4d63fad62fdc/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:35.738503+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:04.694310+00:00",
       "repo_id": 1358230721,
       "file_cursor": 0
     },
@@ -3238,10 +3238,10 @@
           "url": "https://github.com/milesdev888/guardian-scan/blob/93a33fef89f91f0dacc957322d24604e2ed707fc/docs/SCAN_SHARE_CARD_SPEC.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:37.016166+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:05.937646+00:00",
       "repo_id": 1358324827,
-      "file_cursor": 2
+      "file_cursor": 0
     },
     "repo:itsnex1s/fomopulse-robinhood-chain-tape": {
       "source": "repo",
@@ -3279,8 +3279,8 @@
           "url": "https://github.com/SpikeCalls/tocsin/blob/af7c069fc85f819af2e40e3169cc1cb206417651/docs/GUIDE.ru.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:38.171530+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:07.327242+00:00",
       "repo_id": 1358435897,
       "file_cursor": 0
     },
@@ -3326,8 +3326,8 @@
           "url": "https://github.com/efsanedizzy/wick5market/blob/51f7dffcd4b6de64a2df41f35e96121e90bdc97b/DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:39.302001+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:08.539732+00:00",
       "repo_id": 1358518390,
       "file_cursor": 0
     },
@@ -3477,10 +3477,10 @@
           "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/8f96593a6fcda9892f1f508cb8d854e7b4a47d3a/src/wallet_privacy_testkit/example/privacy-manifest.json"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:47.404402+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:16.312971+00:00",
       "repo_id": 1358522089,
-      "file_cursor": 0,
+      "file_cursor": 18,
       "claims": [],
       "claims_fingerprint": "4f856bc787ecea53788c3929d1fff21c856bceff903b07ad8ba9663fe38c36af",
       "verified_fingerprint": "4f856bc787ecea53788c3929d1fff21c856bceff903b07ad8ba9663fe38c36af"
@@ -3556,8 +3556,8 @@
           "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/site/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:49:40.614988+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:10:09.713509+00:00",
       "repo_id": 1358614318,
       "file_cursor": 0,
       "claims": [],
@@ -3601,8 +3601,8 @@
           "url": "https://github.com/Auditchain/audt-supply/blob/1524d5877b67a34be93ed2af8ba1e3da21c89d77/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:56.090446+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:24.962280+00:00",
       "repo_id": 1358626962,
       "file_cursor": 0,
       "claims": [],
@@ -3786,10 +3786,10 @@
           "url": "https://github.com/boyfromcave/ycash-dd/blob/e18fa04de15cae8f5db1b6b2fd45e4cb4b928b9c/contrib/yellowback/pool/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:48.877627+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:17.764666+00:00",
       "repo_id": 1358682417,
-      "file_cursor": 6,
+      "file_cursor": 24,
       "claims": [],
       "claims_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69",
       "verified_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69"
@@ -4082,10 +4082,10 @@
           "url": "https://github.com/gc0rbs/hyperscale/blob/06940b765a42fbb3da40f28a5a035eac06eea3df/contracts/deployments/4663-rounds.json"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:57.262522+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:26.174813+00:00",
       "repo_id": 1358787003,
-      "file_cursor": 11,
+      "file_cursor": 29,
       "claims": [
         {
           "kind": "website",
@@ -4134,8 +4134,8 @@
           "url": "https://github.com/Harkor421/costco-back/blob/e718643f14e8daa323a584d32fa8df0c89a9ba27/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:50.330257+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:19.133528+00:00",
       "repo_id": 1358634709,
       "file_cursor": 0,
       "claims": [],
@@ -4162,8 +4162,8 @@
           "url": "https://github.com/kiattisakph/robinhood-wallet-alert-bot/blob/91dae85e2cd97fa67b12db1ef1177b96ce367ecb/docs/robinhood_realtime_telegram_bot_cursor_spec.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:52.433791+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:21.026064+00:00",
       "repo_id": 1358885217,
       "file_cursor": 0,
       "claims": [],
@@ -4244,8 +4244,8 @@
           "url": "https://github.com/33hodl/rh-chain-wallet-lens/blob/00fcbfd2a072ad4f7c0ac709912b68184ff8d0e9/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:53.781589+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:22.432207+00:00",
       "repo_id": 1358940529,
       "file_cursor": 0,
       "claims": [],
@@ -4294,8 +4294,8 @@
           "url": "https://github.com/seanbc618-tech/robinhood-meme-bot/blob/b1d2cd19347d4eadf1a5c900d7a22be46b69bf4a/tasks/VPS_FX_WATCH_DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:55.008137+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:23.586903+00:00",
       "repo_id": 1358970900,
       "file_cursor": 0,
       "claims": [],
@@ -4547,10 +4547,10 @@
           "url": "https://github.com/0xRadikal/pons-launchpad-forensics/blob/7dfb7d97c9e4409161308279599f6ed9893c8d23/docs/SERIAL_LAUNCHING.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:44.929966+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:13.982128+00:00",
       "repo_id": 1359317759,
-      "file_cursor": 1,
+      "file_cursor": 5,
       "claims": [],
       "claims_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d",
       "verified_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d"
@@ -4592,8 +4592,8 @@
           "url": "https://github.com/idotmy/IDEX-Contracts/blob/ba7e0453b1c679418a8836d5598b10cd652dc5c6/README.md"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:43.483784+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:12.683281+00:00",
       "repo_id": 1359388343,
       "file_cursor": 0,
       "claims": [],
@@ -4708,9 +4708,9 @@
           "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/3700331c8821564dbce806cb3d12fe2057f430fb/docs/audit-2026-09-06-third-external.md"
         },
         "docs/for-reviewers.md": {
-          "sha": "7dc0b0dfdefda93203f9b92f398896838f6feeee",
+          "sha": "191b4069b642bd44eafa9ae5504d56ab2ae0f77b",
           "text": "\n`src/BulkSend.sol`, about 300 lines. It is deployed at\n[`0xf2eD6359F5deE0334d68cd21d306D9D3E7a49232`](https://explorer.testnet.chain.robinhood.com/address/0xf2eD6359F5deE0334d68cd21d306D9D3E7a49232)\non Robinhood Chain testnet, verified, and its runtime bytecode is byte-for-byte equal to what this repository\nbuilds. Check that yourself:\n\n    forge build\n    cast code 0xf2eD6359F5deE0334d68cd21d306D9D3E7a49232 --rpc-url https://rpc.testnet.chain.robinhood.com\n    # compare with out/BulkSend.sol/BulkSend.json -> deployedBytecode.object\n\nnot published while blockers were open; the integrity workflow checks this four times a day and is green):\n\n    curl -s https://rhairdrop.gmgnrepeat.com/ | cmp - web/index.html\n    curl -s https://rhcheck.gmgnrepeat.com/   | cmp - web/check.html\n\n## Running everything\nWorth checking rather than taking on trust, and all of it is observable from outside:\n\n    curl -sI http://rhairdrop.gmgnrepeat.com/     # 301 to https\n    curl -sI https://rhairdrop.gmgnrepeat.com/    # HSTS, and the full CSP as a header\n    curl -s  https://rhairdrop.gmgnrepeat.com/ | cmp - web/index.html\n    curl -s  https://rhairdrop.gmgnrepeat.com/wc.js | sha256sum   # matches web/wc-build/EXPECTED-SHA256\n\nThe page's own inline script is named in the policy by SHA-256 hash, so `unsafe-inline` is not granted and a",
-          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/4f7676591ecae13f7d02fad64d7e2d94ef42396b/docs/for-reviewers.md"
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/for-reviewers.md"
         },
         "lib/ERC721A/.github/workflows/deploy_npm.yml": {
           "sha": "ab13476d0f84d4e037e3557b3f0041c6054e3aac",
@@ -4838,9 +4838,9 @@
           "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/9426c2c6442ad9d5ca269053cfd21022d839eb80/docs/gas-and-batches.md"
         },
         "docs/status.md": {
-          "sha": "57b35828a5b0d5c03b1da3f742e7d4500791fa2c",
+          "sha": "2caf6c0c16e6cbd98be68caa36b1bd6dfcd76c32",
           "text": "\n**Live on testnet and on mainnet.** BulkSend v13 was deployed to Robinhood Chain (4663) on 12 September 2026 at\n`0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf` (tx `0xfde31639…`, block 61365130), from the release tree `bf4c61d`, on the\nmaintainer's explicit authorization. Its runtime read back from the mainnet RPC is byte-identical to what this\nsource builds and to testnet's v13 (keccak `0xc1a27e659b…`); `deployments.mainnet.json` is the record, and gate 14\n| a current real-wallet rehearsal on testnet | **met**, 11 September 2026 — four runs from the maintainer's own wallet against the published page and v13: ERC-721, ERC-1155 and ERC-20 from a browser wallet, and ERC-721 from a phone over WalletConnect with the tab backgrounded. Every hash read back from the explorer and the chain agrees with the page ([`real-wallet-run.md`](real-wallet-run.md); see also the proof table below and `plan.md`'s gate 10) |\n| explicit permission from the maintainer, given after that round | **given**, 12 September 2026, after round twenty-one, in writing: \"MAINNET DEPLOYMENT IS EXPLICITLY AUTHORIZED\", naming the release-mechanics commit `bf4c61d` |\n| gate 14: both workflows check the mainnet deployment as well | **met** (round twenty) — before mainnet is enabled, both `.github/workflows/tests.yml` and `integrity.yml` check the mainnet deployment as well, and `integrity.yml` asserts the page names the mainnet address it was reviewed against. Since 12 September 2026 the placeholder is gone, the page names the live mainnet address `0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf`, `LIVE_CHAINS` is `[46630, 4663]`, and the mainnet branch of that step runs on every push and four times a day against the live page, comparing the mainnet runtime to the build |\n\nNo one item alone was enough, and the deployment happened only when all four held. The deployer's mainnet\n| | | |\n| --- | --- | --- |\n| B-1 | `_mustNotBeNft` probed one id where its twin probed three; NFTs spent as ERC-20 amounts | closed in **v13**, and proven on chain: the same paste is refused with `IsAnNft` ([`0x5b46a00557…`](https://explorer.testnet.chain.robinhood.com/tx/0x5b46a00557302eb7ec212a655e10e0d77707ba1b2d115076a2559fb656aae851)) |\n| B-2 | nothing written down until the wallet answers; a batch lost with the tab is paid twice | closed |\n",
-          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/3cba293ed26229b2a29cff7e3a3d797e4c9d1647/docs/status.md"
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/status.md"
         },
         "docs/what-this-is-for.md": {
           "sha": "b23eccbe50334afb514797d695d3194ff87703f4",
@@ -4848,9 +4848,9 @@
           "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/ea3a40b11be6a1ade690a2cbe57ae57aec388299/docs/what-this-is-for.md"
         },
         "docs/plan.md": {
-          "sha": "f07212da3b2d665bf6313a2364928a451b70ad12",
-          "text": "> twenty-one found no release blocker; after twenty-one the product tree did not change (the one commit before\n> the deploy, `bf4c61d`, was release mechanics only). On the maintainer's explicit written authorization the\n> contract was deployed once to Robinhood Chain 4663 from `DeployBulkSendMainnet`: `0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf`,\n> tx `0xfde31639c69dcac7f7dbf7b48a4b06891664fe48a3675223bd39c3ae22881e7c`, block 61365130, 2,145,104 gas, about 0.00021 ETH. The runtime read back\n> from the mainnet RPC is byte-identical to this source's build and to testnet's v13; Sourcify reports an exact\n> Blockers by round: 15, 11, 5, 9, 9, 4, 6, 3, 4, 3, 5, 1, 2, 4, 5, 1, 0, 1, 1, 0, 0.\n>\n> - **BulkSend v13 is DEPLOYED on testnet** at `0xf2eD6359F5deE0334d68cd21d306D9D3E7a49232` (tx `0x5cb0037f…`), byte-identical\n>   at 9,752 bytes, fully verified. The on-chain B-1 reproduction against it reverts `IsAnNft`\n>   ([`0x5b46a00557…`](https://explorer.testnet.chain.robinhood.com/tx/0x5b46a00557302eb7ec212a655e10e0d77707ba1b2d115076a2559fb656aae851)). v12 at `0xc2e4…f481` is a tombstone.\n> - **Rounds twelve and thirteen are fully closed.** Every probe file in the repository is at its baseline,\n>   and round thirteen's six browser probes are at **0 of 6**.\n>     `{\"error\":\"upstream\"}` envelope for `/x/4663/`, which today it would.\n>      **Wired, 11 September 2026, inert until a key exists.** Blockscout is retiring per-instance API keys for a\n>      multichain PRO API (`api.blockscout.com/chains/4663/api/v2/…`, same REST shape, free tier 5 requests a\n>      second, 100K credits a day). The Worker now reads the mainnet explorer through it whenever a\n>      `BLOCKSCOUT_KEY` secret is bound, and behaves exactly as before when it is not; `deploy/publish.sh` binds\n\nB-1 is proven on chain against v12, not only in a test:\n[`0xc6b4cf63…`](https://explorer.testnet.chain.robinhood.com/tx/0xc6b4cf63b9e63eea42950973f0c8269ccfbe0f9eb6cb5d889359a1063dad9295)\nrecords two ERC-721 `Transfer` events and an `Airdrop20(sent 2, skipped 1)` in one transaction. The fix is\nchecked the same way: the same paste, against v13, must refuse.\n2. Re-run the on-chain B-1 reproduction against v13. Against v12 it produced two ERC-721 `Transfer` events and\n   an `Airdrop20(sent 2, skipped 1)` in one transaction\n   ([`0xc6b4cf63…`](https://explorer.testnet.chain.robinhood.com/tx/0xc6b4cf63b9e63eea42950973f0c8269ccfbe0f9eb6cb5d889359a1063dad9295)).\n   The same paste against v13 must be refused with `IsAnNft`.\n3. Update `deployments.testnet.json`, the page, the tests and the CHANGELOG together — preflight enforces that",
-          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/3cba293ed26229b2a29cff7e3a3d797e4c9d1647/docs/plan.md"
+          "sha": "8999297e18e1cce8589684f630794c99f64fcda0",
+          "text": "> twenty-one found no release blocker; after twenty-one the product tree did not change (the one commit before\n> the deploy, `bf4c61d`, was release mechanics only). On the maintainer's explicit written authorization the\n> contract was deployed once to Robinhood Chain 4663 from `DeployBulkSendMainnet`: `0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf`,\n> tx `0xfde31639c69dcac7f7dbf7b48a4b06891664fe48a3675223bd39c3ae22881e7c`, block 61365130, 2,145,104 gas, about 0.00021 ETH. The runtime read back\n> from the mainnet RPC is byte-identical to this source's build and to testnet's v13; Sourcify reports an exact\n> Blockers by round: 15, 11, 5, 9, 9, 4, 6, 3, 4, 3, 5, 1, 2, 4, 5, 1, 0, 1, 1, 0, 0, 0.\n>\n> - **BulkSend v13 is DEPLOYED on testnet** at `0xf2eD6359F5deE0334d68cd21d306D9D3E7a49232` (tx `0x5cb0037f…`), byte-identical\n>   at 9,752 bytes, fully verified. The on-chain B-1 reproduction against it reverts `IsAnNft`\n>   ([`0x5b46a00557…`](https://explorer.testnet.chain.robinhood.com/tx/0x5b46a00557302eb7ec212a655e10e0d77707ba1b2d115076a2559fb656aae851)). v12 at `0xc2e4…f481` is a tombstone.\n> - **Rounds twelve and thirteen are fully closed.** Every probe file in the repository is at its baseline,\n>   and round thirteen's six browser probes are at **0 of 6**.\n>     `{\"error\":\"upstream\"}` envelope for `/x/4663/`, which today it would.\n>      **Wired, 11 September 2026, inert until a key exists.** Blockscout is retiring per-instance API keys for a\n>      multichain PRO API (`api.blockscout.com/chains/4663/api/v2/…`, same REST shape, free tier 5 requests a\n>      second, 100K credits a day). The Worker now reads the mainnet explorer through it whenever a\n>      `BLOCKSCOUT_KEY` secret is bound, and behaves exactly as before when it is not; `deploy/publish.sh` binds\n\nB-1 is proven on chain against v12, not only in a test:\n[`0xc6b4cf63…`](https://explorer.testnet.chain.robinhood.com/tx/0xc6b4cf63b9e63eea42950973f0c8269ccfbe0f9eb6cb5d889359a1063dad9295)\nrecords two ERC-721 `Transfer` events and an `Airdrop20(sent 2, skipped 1)` in one transaction. The fix is\nchecked the same way: the same paste, against v13, must refuse.\n2. Re-run the on-chain B-1 reproduction against v13. Against v12 it produced two ERC-721 `Transfer` events and\n   an `Airdrop20(sent 2, skipped 1)` in one transaction\n   ([`0xc6b4cf63…`](https://explorer.testnet.chain.robinhood.com/tx/0xc6b4cf63b9e63eea42950973f0c8269ccfbe0f9eb6cb5d889359a1063dad9295)).\n   The same paste against v13 must be refused with `IsAnNft`.\n3. Update `deployments.testnet.json`, the page, the tests and the CHANGELOG together — preflight enforces that",
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/plan.md"
         },
         "docs/readers.md": {
           "sha": "e61ba7fb09aac5a8d1e314f30837013da42c92f3",
@@ -4888,9 +4888,9 @@
           "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/79d6446ba57521b4df0295da4a3cc645155c6014/docs/audit-2026-09-11-sixteenth-external.md"
         },
         "docs/gate-11-explorer.md": {
-          "sha": "9374fa34e7c3ba2aff7fd907787cde74c4c09d36",
+          "sha": "9cbea7b467c5f131309862120975522b44c526c7",
           "text": "## Why\n\nThe mainnet explorer (`robinhoodchain.blockscout.com`) answers browsers and challenges every other client with a\nCloudflare managed challenge. The Worker's `/x/4663/…` passthrough therefore returns `{\"error\":\"upstream\"}` for\neverything, and the airdrop page does not even go through the Worker on mainnet: `EXPLORER_API()` calls the\n## What was verified on 11 September 2026, with a free PRO API key\n\nBlockscout is retiring per-instance keys. The multichain PRO API (`https://api.blockscout.com/v2/api`, free\ntier 5 requests a second, 100K credits a day) serves chain 4663, but **only in the Etherscan-style module API**.\nThe REST shape the pages use (`/api/v2/…`) does not exist there for any chain (`{\"error\":\"Network not\n\n`EXPLORER_API()` in `web/index.html` must return `'/x/4663'` when the page is served from its Worker origin\n(`location.origin` ends with `gmgnrepeat.com`) and the chain is 4663, and the direct testnet URL otherwise. The\nCheck page already does this (`route === 'direct' ? api(path) : '/x/' + chainId() + path`); copy its rule. The\nCSP `connect-src` already allows `'self'`.",
-          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/34875632892a90888ed9763d9e2ea70418e597f0/docs/gate-11-explorer.md"
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/gate-11-explorer.md"
         },
         "docs/real-wallet-run.md": {
           "sha": "42f7e244d40a2fac9ac4694d5b47105194f72ab7",
@@ -4903,9 +4903,9 @@
           "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/11d52c6ebfac380fe8817535ce6327fc01e76a04/docs/audit-2026-09-11-eighteenth-external.md"
         },
         "docs/harness.md": {
-          "sha": "0b205ef2bb9a947d50214b9dc1d6822ced19411b",
-          "text": "",
-          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/3cba293ed26229b2a29cff7e3a3d797e4c9d1647/docs/harness.md"
+          "sha": "aa4286c44bee303ae4242a8ecf3ea7eb3a7a8c4a",
+          "text": "## The Trust Center\n\n`web/trust.html`, served at <https://rhairdrop.gmgnrepeat.com/trust>, is a static page carrying every figure\nthis project has measured about itself: the last review round's findings, the gas benchmark, the checks made\nagainst the live deployment, the suite results, and the whole round history. It has no script in it at all,",
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/harness.md"
         },
         "docs/audit-2026-09-12-twentieth-external.md": {
           "sha": "04d387c551c92609361f1f2676fef7e6f98bfd98",
@@ -4921,12 +4921,52 @@
           "sha": "eb9fdc9a26426f1e6b02917e94606b566825c400",
           "text": "{\n \"BulkSend\": \"0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf\",\n \"chain_id\": 4663,\n \"tx\": \"0xfde31639c69dcac7f7dbf7b48a4b06891664fe48a3675223bd39c3ae22881e7c\",\n \"block\": 61365130,\n \"gas_used\": 2145104,\n \"deployer\": \"0xcc6eb67bddb5ec3e8d3ecb18ea7c8c5668790322\",\n \"nonce\": 0,\n \"runtime_keccak256\": \"0xc1a27e659b9ec15895bed10e9917aa0f95c2a9ccb9f8e2db9d1fff1761adf178\",",
           "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/e6fb579111547fa4537ffee01bd9f4b999838dfc/deployments.mainnet.json"
+        },
+        "docs/audit-2026-09-13-twenty-second-external.md": {
+          "sha": "f32c2d5ceb219e828ae43f4efd72dd29d048cf69",
+          "text": "- **Frontend:** [`web/index.html`](../../web/index.html), human-readable embedded ABI, ethers integration, exact ERC-20 approvals, NFT operator approvals, receipt matching and post-transfer holdings checks. `deliveryPath()` routes ERC-20 through BulkSend even when the wallet supports batching; NFT paths may use atomic `wallet_sendCalls`. `orderForDelivery()` sorts whole NFT rows, preserving recipient/ID relationships. Wallet batching and contract leniency are different failure models. The separate Check page reads assets/contracts; WalletConnect is bundled from `web/wc-build`.\n- **ABI/build:** Foundry generates artifacts; the frontend ABI is maintained inline, not automatically generated. `preflight.sh` builds the current error ABI and checks both pages' error coverage. `web/sync.sh` synchronizes Check JavaScript and CSP hashes, not contract ABI functions.\n- **Deployment:** `script/Deploy.s.sol` separates testnet/mainnet chain guards; `script/Rehearsal.s.sol` supplies fixtures. Manifest mainnet chain 4663 address: `0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf`. Testnet chain 46630 address: `0xf2ed6359f5dee0334d68cd21d306d9d3e7a49232`. Current source SHA-256 and compiled runtime hash match `deployments.mainnet.json`; runtime is 9,752 bytes. This pass did **not** independently fetch live chain bytecode.\n- **Toolchain actually used:** Solidity `0.8.36` (source pragma `^0.8.24`), Cancun, optimizer 10,000 runs, legacy codegen, `via_ir=false`. Local Forge/Anvil 1.8.1, Node 24.14.1. CI pins Foundry 1.4.1 and Node 22.20.0, so local execution is not an exact CI tool-version reproduction. Vendored token package manifests identify OpenZeppelin 5.1.0 and ERC721A 4.3.0. Production imports neither library; benchmark fixtures do.\n- **Tests/CI:** `BulkSend.t.sol`, `BulkSendReal.t.sol`, `Invariants.t.sol`, `Reentrancy.t.sol`, `IdAmountProbe.t.sol`, historical `Audit*.t.sol`, and live-state `test/fork/MainnetGuards.t.sol`; browser/worker/readers and shell gates under `test/`. `.github/workflows/tests.yml` invokes `verify.sh`, compares deployed runtime and checks connector reproducibility; `integrity.yml` monitors served artifacts. Historical probes intentionally include failures and are fingerprinted against `test/findings-baseline.json`.\n**Authorization and approvals.** Every transfer uses the original call's `msg.sender` as `from`; a third party cannot spend someone else's allowance merely by knowing the router address. Tests cover stranger calls across all standards and revoked approvals. The router never approves another spender, delegatecalls token code, or accepts arbitrary call data. NFT single-ID approvals work on chain even though the frontend normally requests operator approval. Exact ERC-20 approval/reset behavior is in the frontend. Concurrent owner transactions can consume balances/allowance between simulation and execution; token enforcement and atomic rollback remain authoritative. There is no public pull function with a freely chosen victim source.\n\n**Reentrancy and external calls.** All six distribution entry points share the transient guard. A nested callback cannot inject router summary/skip events, steal another sender's assets, or bypass the lock through another standard. A receiver may catch the rejection and still accept its original transfer; otherwise the transfer reverts or is skipped. Back-to-back non-nested batches work. The three lock opcodes alone cost roughly 300 gas per successful batch, plus surrounding instructions: cheap fixed protection. Transient state rolls back with a revert and resets between transactions. See [EIP-1153](https://eips.ethereum.org/EIPS/eip-1153).\n\n**Return values and failure atomicity.** ERC-20 accepts exactly empty data or one 32-byte word equal to one. False, malformed or extra data after a successful call reverts the entire batch, including earlier transfers. This conservatively handles a token that pays then returns false. A reverted token call has already rolled back its own effects and is safe to skip. Strict ERC-20 retains full revert data; lenient copies at most 128 bytes. Truncation cannot turn an oversized answer into accepted ERC-20 success because 128 is still neither zero nor 32. NFT void-return validation rejects nonempty successful answers. Existing nested-call tests verify the checked `returndatasize` belongs to the transfer call. False is a valid ERC-20 failure signal; treating it as batch-fatal is deliberate, not full skip-on-false compatibility. See [ERC-20](https://eips.ethereum.org/EIPS/eip-20).\n\n**Callbacks.** ERC-721 safe transfers and ERC-1155 transfers delegate receiver acceptance to the token. Honest implementations revert wrong magic values or rejecting hooks; lenient execution then skips the reverted transfer. These claims depend on an honest token implementation. The standards require recipient handling for contract recipients; gas measured for EOAs below must not be extrapolated to arbitrary receiver hooks. See [ERC-721](https://eips.ethereum.org/EIPS/eip-721) and [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155).\n\n**Input and index safety.** Equal array lengths and nonempty batches are checked before indexing. Solidity's ABI decoder rejects malformed offsets/lengths. Arrays stay in calldata. Each index addresses the same recipient/ID/amount row. The only unchecked production arithmetic is bounded loop advancement; no achievable calldata length approaches uint256 overflow. Zero recipients revert in strict mode and are skipped in lenient mode; zero ERC-20/1155 amounts and router-self recipients revert in both modes, even late in a batch. The new late-self test proves earlier lenient successes roll back too.\nThe frontend already chooses wallet-native versus router execution and sorts complete NFT rows. Keep ERC-20 on the router: a generic wallet batch does not necessarily validate ERC-20 false returns. An off-chain shape detector would be cheap to run, but new selectors, deployment/version routing, receipt handling, simulation and recovery tests are the real cost. An on-chain detector still receives redundant arrays and pays to scan them. **Do not build a shape planner for the measured savings.**\n\nERC-1155 `safeBatchTransferFrom` moves multiple IDs to **one recipient**, not one ID to many recipients. It is not a replacement for the distribution loop. Grouping several IDs for the same recipient might help a different workload, but changes callback shape, event parsing and lenient failure granularity. No measured recommendation is made for that distinct product feature. See the [ERC-1155 batch signature](https://eips.ethereum.org/EIPS/eip-1155).\n\n## F. Do not touch",
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/audit-2026-09-13-twenty-second-external.md"
+        },
+        "docs/trust/data.json": {
+          "sha": "6a1d3a6c5983a90c10c6c37ba0c8ccf44b37a018",
+          "text": "  \"_why\": \"Every figure the Trust Center prints, with the file it came from. Generated by deploy/build-trust.py; do not edit by hand. It is committed so that a change to the page is a diff of numbers rather than a diff of markup.\",\n  \"page\": {\n    \"url\": \"https://rhairdrop.gmgnrepeat.com/trust\",\n    \"card\": \"https://rhairdrop.gmgnrepeat.com/trust-og.png\",\n    \"csp\": \"default-src 'none'; img-src 'self' data:; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'\",\n    \"generator\": \"deploy/build-trust.py\"\n        \"what\": \"live mainnet bytecode\",\n        \"result\": \"PASS\",\n        \"detail\": \"the runtime at 0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf read back at block 62,069,242 is byte for byte what this source builds, corroborated by a second RPC endpoint at the same block\"\n      },\n      {\n        \"what\": \"testnet twin\",\n        \"result\": \"PASS\",\n        \"detail\": \"the testnet deployment at 0xf2ed6359f5dee0334d68cd21d306d9d3e7a49232 runs the same runtime\"\n      }\n    ],\n      {\n        \"what\": \"address\",\n        \"value\": \"0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf\"\n      },\n      {\n      {\n        \"what\": \"testnet twin\",\n        \"value\": \"0xf2ed6359f5dee0334d68cd21d306d9d3e7a49232, same runtime\"\n      }\n    ]\n      {\n        \"q\": \"What is verified about the live deployment?\",\n        \"answer\": \"The runtime bytecode at 0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf on Robinhood Chain mainnet was read back from the chain and is byte for byte what this repository builds, 9,752 bytes, and a second RPC endpoint was asked the same question at the same block and gave the same answer. The creation input matches the canonical initcode, there are no constructor arguments and no immutables, and the four constants and ten function selectors read from the live contract match the source. The page served at the live URL was compared with the file in this repository, and a scheduled workflow repeats that comparison four times a day from outside the thing being watched.\"\n      },\n      {\n    },\n    \"mainnet\": {\n      \"BulkSend\": \"0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf\",\n      \"chain_id\": 4663,\n      \"tx\": \"0xfde31639c69dcac7f7dbf7b48a4b06891664fe48a3675223bd39c3ae22881e7c\",\n      \"block\": 61365130,\n      \"gas_used\": 2145104,\n      \"deployer\": \"0xcc6eb67bddb5ec3e8d3ecb18ea7c8c5668790322\",\n      \"nonce\": 0,\n      \"runtime_keccak256\": \"0xc1a27e659b9ec15895bed10e9917aa0f95c2a9ccb9f8e2db9d1fff1761adf178\",\n      {\n        \"what\": \"the round-twenty-two report\",\n        \"href\": \"https://github.com/SRHSoulja/robinhood-chain-tools/blob/main/docs/audit-2026-09-13-twenty-second-external.md\"\n      },\n      {\n        \"what\": \"the verification bundle\",\n        \"href\": \"https://github.com/SRHSoulja/robinhood-chain-tools/tree/main/docs/verification-2026-09-13\"\n      },\n      {\n        \"what\": \"benchmarks.csv\",\n        \"href\": \"https://github.com/SRHSoulja/robinhood-chain-tools/blob/main/audit/2026-09-13/benchmarks.csv\"\n      },\n      {\n        \"what\": \"results.json\",\n        \"href\": \"https://github.com/SRHSoulja/robinhood-chain-tools/blob/main/audit/2026-09-13/results.json\"\n      },\n      {\n        \"what\": \"provenance.json\",\n        \"href\": \"https://github.com/SRHSoulja/robinhood-chain-tools/blob/main/audit/2026-09-13/provenance.json\"\n      },\n      {\n        \"what\": \"deployments.mainnet.json\",\n        \"href\": \"https://github.com/SRHSoulja/robinhood-chain-tools/blob/main/deployments.mainnet.json\"\n      }\n    ]\n  },\n  \"figures\": {\n    \"mainnet_address\": \"0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf\",\n    \"testnet_address\": \"0xf2ed6359f5dee0334d68cd21d306d9d3e7a49232\",\n    \"runtime_bytes\": \"9,752\",\n    \"reviewed_commit\": \"3cba293\",",
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/trust/data.json"
+        },
+        "docs/trust/faq.json": {
+          "sha": "44e471f42cfc6b34a55cfcbc22c8ebb718896f2c",
+          "text": "",
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/trust/faq.json"
+        },
+        "docs/trust/findings.json": {
+          "sha": "fd0a7bcd3ae459f9d95c8d2d53776a93b8f7e152",
+          "text": "",
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/trust/findings.json"
+        },
+        "docs/trust/rounds.json": {
+          "sha": "45611c1576053cde5e2f07b17241634304aab388",
+          "text": "",
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/trust/rounds.json"
+        },
+        "docs/verification-2026-09-13/README.txt": {
+          "sha": "daeb16e1bfd8efe5e6458a1233a18d83ab188f99",
+          "text": "",
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/verification-2026-09-13/README.txt"
+        },
+        "docs/verification-2026-09-13/deployment-receipt.json": {
+          "sha": "f8cb6ef10b7c463bd2dde034a2f26fa20abeb594",
+          "text": "  \"blockHash\": \"0xdd7a00c0b3fa01f54893fe5b2aebcc93ba782e98bf71290221743f2a658f9a78\",\n  \"blockNumber\": \"0x3a85b8a\",\n  \"contractAddress\": \"0x904412cfe982f33385f486aaff8c8a4a6f4b5fbf\",\n  \"cumulativeGasUsed\": \"0x22243b\",\n  \"effectiveGasPrice\": \"0x5cd90b0\",\n  \"from\": \"0xcc6eb67bddb5ec3e8d3ecb18ea7c8c5668790322\",\n  \"gasUsed\": \"0x20bb50\",\n  \"gasUsedForL1\": \"0x0\",",
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/verification-2026-09-13/deployment-receipt.json"
+        },
+        "docs/verification-2026-09-13/deployment-transaction.json": {
+          "sha": "09b149e38c735b9adec58233340674110d1534f9",
+          "text": "  \"blockHash\": \"0xdd7a00c0b3fa01f54893fe5b2aebcc93ba782e98bf71290221743f2a658f9a78\",\n  \"blockNumber\": \"0x3a85b8a\",\n  \"from\": \"0xcc6eb67bddb5ec3e8d3ecb18ea7c8c5668790322\",\n  \"gas\": \"0x2ae97c\",\n  \"gasPrice\": \"0x5cd90b1\",",
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/verification-2026-09-13/deployment-transaction.json"
         }
       },
-      "next_check_at": "2026-09-13T21:00:00+00:00",
-      "last_check_at": "2026-09-13T20:48:41.879407+00:00",
+      "next_check_at": "2026-09-14T00:00:00+00:00",
+      "last_check_at": "2026-09-13T23:09:08.119067+00:00",
       "repo_id": 1359490952,
-      "file_cursor": 21
+      "file_cursor": 39
     },
     "repo:kili-lol/kili": {
       "source": "repo",
@@ -4951,7 +4991,7 @@
       "next_check_at": null
     }
   },
-  "last_collect_at": "2026-09-13T20:49:46.590196+00:00",
+  "last_collect_at": "2026-09-13T23:10:15.954357+00:00",
   "last_errors": [],
   "last_verify_errors": [],
   "quota_next_probe_at": "2026-09-11T09:44:09.607700+00:00"
