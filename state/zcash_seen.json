@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-13T21:35:33Z",
+  "last_run_at": "2026-09-13T23:26:59Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-13T19:01:26Z",
+      "cutoff": "2026-09-13T21:05:33Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-13T19:01:26Z",
-      "matches": 0,
+      "cutoff": "2026-09-13T21:05:33Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-13T19:01:26Z",
+      "cutoff": "2026-09-13T21:05:33Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-13T19:01:26Z",
+      "cutoff": "2026-09-13T21:05:33Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -261,6 +261,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/668",
       "first_seen_at": "2026-09-13T04:58:45Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57571": {
+      "created_at": "2026-09-13T23:08:27.260Z",
+      "display": "57571 LEONINE DAO: Our Zebrad and Lightwalletd in production",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/699",
+      "first_seen_at": "2026-09-13T23:26:59Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -891,9 +899,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-13T21:35:33Z",
-    "forum": "2026-09-13T21:35:33Z",
-    "github": "2026-09-13T21:35:33Z",
-    "zcg": "2026-09-13T21:35:33Z"
+    "fixed_orgs": "2026-09-13T23:26:59Z",
+    "forum": "2026-09-13T23:26:59Z",
+    "github": "2026-09-13T23:26:59Z",
+    "zcg": "2026-09-13T23:26:59Z"
   }
 }
