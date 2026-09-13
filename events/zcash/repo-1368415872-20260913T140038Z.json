@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T13:34:19Z",
+    "detected_at": "2026-09-13T14:00:38Z",
+    "display": "wygogogo19/robotbase-mcp",
+    "key": "repo:1368415872",
+    "metadata": {
+      "description": "Model Context Protocol (MCP) server for 5 classic non-EVM blockchains: Bitcoin, Monero, Zcash, Dogecoin, and Litecoin. Zero-auth, read-only & privacy-first.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "wygogogo19/robotbase-mcp",
+      "homepage": "https://robotbase.cc/mcp",
+      "pushed_at": "2026-09-13T13:49:15Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1368415872,
+    "url": "https://github.com/wygogogo19/robotbase-mcp"
+  },
+  "schema": "zcash-fast-event/1"
+}
