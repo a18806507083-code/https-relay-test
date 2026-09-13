@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T14:15:15Z",
+    "detected_at": "2026-09-12T16:35:22Z",
+    "display": "#423 Grant Application - Research on a fully CT proving pipeline for open-source hardware wallet architectures, reusable for standard computers",
+    "key": "zcg:5433805943",
+    "metadata": {
+      "author": "viabhinav",
+      "issue_number": 423,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Grant Application - Research on a fully CT proving pipeline for open-source hardware wallet architectures, reusable for standard computers"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5433805943,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/423"
+  },
+  "schema": "zcash-fast-event/1"
+}
