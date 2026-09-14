@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T12:31:13Z",
+    "description": "Hashcats PoW client, CUDA/Metal miners and Vast.ai cluster tools",
+    "detected_at": "2026-09-14T13:02:13Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "gfhfyjbr/hashcat-trahatel",
+    "homepage": null,
+    "html_url": "https://github.com/gfhfyjbr/hashcat-trahatel",
+    "pushed_at": "2026-09-14T12:45:05Z",
+    "repo_id": 1369887082,
+    "score": 11,
+    "tech_signals": [
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
