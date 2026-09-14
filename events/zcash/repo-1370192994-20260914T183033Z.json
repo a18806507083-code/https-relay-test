@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T16:08:59Z",
+    "detected_at": "2026-09-14T18:30:33Z",
+    "display": "S1nus/tachyscan",
+    "key": "repo:1370192994",
+    "metadata": {
+      "description": "Data viz and block explorer for ZCash Tachyon",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "S1nus/tachyscan",
+      "homepage": null,
+      "pushed_at": "2026-09-14T16:09:26Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1370192994,
+    "url": "https://github.com/S1nus/tachyscan"
+  },
+  "schema": "zcash-fast-event/1"
+}
