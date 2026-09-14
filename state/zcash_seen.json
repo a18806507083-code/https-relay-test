@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-14T13:03:04Z",
+  "last_run_at": "2026-09-14T18:30:33Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-14T05:52:36Z",
+      "cutoff": "2026-09-14T12:33:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-14T05:52:36Z",
-      "matches": 0,
+      "cutoff": "2026-09-14T12:33:04Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-14T05:52:36Z",
-      "matches": 5,
+      "cutoff": "2026-09-14T12:33:04Z",
+      "matches": 4,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-14T05:52:36Z",
-      "matches": 0,
+      "cutoff": "2026-09-14T12:33:04Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -269,6 +269,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/699",
       "first_seen_at": "2026-09-13T23:26:59Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57585": {
+      "created_at": "2026-09-14T14:30:18.339Z",
+      "display": "57585 Grant Application - GraphSense Zcash Shielded Accounting Repair",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/735",
+      "first_seen_at": "2026-09-14T18:30:33Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57588": {
+      "created_at": "2026-09-14T16:42:04.968Z",
+      "display": "57588 The no email found grant",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/732",
+      "first_seen_at": "2026-09-14T18:30:33Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57589": {
+      "created_at": "2026-09-14T17:37:36.516Z",
+      "display": "57589 Gleyo Update - 300+ Users and Growing Adoption",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/730",
+      "first_seen_at": "2026-09-14T18:30:33Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -871,6 +895,38 @@
       "first_seen_at": "2026-09-14T13:03:04Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1370192994": {
+      "created_at": "2026-09-14T16:08:59Z",
+      "display": "S1nus/tachyscan",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/734",
+      "first_seen_at": "2026-09-14T18:30:33Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1370212768": {
+      "created_at": "2026-09-14T16:22:33Z",
+      "display": "r-ishabh12/crypto-data-pipeline",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/733",
+      "first_seen_at": "2026-09-14T18:30:33Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1370275458": {
+      "created_at": "2026-09-14T17:05:31Z",
+      "display": "0xcWalter/awesome-crypto-mining",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/731",
+      "first_seen_at": "2026-09-14T18:30:33Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1370325788": {
+      "created_at": "2026-09-14T17:41:37Z",
+      "display": "lomiafrica/zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/729",
+      "first_seen_at": "2026-09-14T18:30:33Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -934,14 +990,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/638",
       "first_seen_at": "2026-09-12T16:35:22Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5450575387": {
+      "created_at": "2026-09-14T14:23:35Z",
+      "display": "#424 Grant Application - GraphSense Zcash Shielded Accounting Repair",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/736",
+      "first_seen_at": "2026-09-14T18:30:33Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5452815984": {
+      "created_at": "2026-09-14T18:00:15Z",
+      "display": "#425 Grant Application - lomi. UEMOA ZEC last mile",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/728",
+      "first_seen_at": "2026-09-14T18:30:33Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-14T13:03:04Z",
-    "forum": "2026-09-14T13:03:04Z",
-    "github": "2026-09-14T13:03:04Z",
-    "zcg": "2026-09-14T13:03:04Z"
+    "fixed_orgs": "2026-09-14T18:30:33Z",
+    "forum": "2026-09-14T18:30:33Z",
+    "github": "2026-09-14T18:30:33Z",
+    "zcg": "2026-09-14T18:30:33Z"
   }
 }
