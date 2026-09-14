@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T12:27:04Z",
+    "description": "Launch Grid frontend for coordinated token launches across Flap, Pons and pump.fun",
+    "detected_at": "2026-09-14T13:02:13Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "NachoLLMJS/launch-grid",
+    "homepage": "https://launch-grid-topaz.vercel.app",
+    "html_url": "https://github.com/NachoLLMJS/launch-grid",
+    "pushed_at": "2026-09-14T12:53:29Z",
+    "repo_id": 1369882129,
+    "score": 5,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
