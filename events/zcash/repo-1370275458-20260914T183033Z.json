@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T17:05:31Z",
+    "detected_at": "2026-09-14T18:30:33Z",
+    "display": "0xcWalter/awesome-crypto-mining",
+    "key": "repo:1370275458",
+    "metadata": {
+      "description": "A curated list of Proof of Work (PoW) crypto mining resources: hardware, pools, software, calculators, and tools to help miners and investors make better decisions.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "0xcWalter/awesome-crypto-mining",
+      "homepage": null,
+      "pushed_at": "2026-09-14T18:14:51Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1370275458,
+    "url": "https://github.com/0xcWalter/awesome-crypto-mining"
+  },
+  "schema": "zcash-fast-event/1"
+}
