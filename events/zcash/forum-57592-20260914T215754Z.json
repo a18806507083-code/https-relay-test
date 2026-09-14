@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T20:50:52.379Z",
+    "detected_at": "2026-09-14T21:57:54Z",
+    "display": "57592 Could CEX or ETF-held ZEC be used in coinholder voting?",
+    "key": "forum:57592",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "could-cex-or-etf-held-zec-be-used-in-coinholder-voting",
+      "title": "Could CEX or ETF-held ZEC be used in coinholder voting?",
+      "topic_id": 57592
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57592,
+    "url": "https://forum.zcashcommunity.com/t/could-cex-or-etf-held-zec-be-used-in-coinholder-voting/57592"
+  },
+  "schema": "zcash-fast-event/1"
+}
