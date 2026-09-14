@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T16:36:08Z",
+    "detected_at": "2026-09-08T17:25:12Z",
+    "display": "#420 Grant Application - 24 Videos @zkMarketer",
+    "key": "zcg:5389394890",
+    "metadata": {
+      "author": "ZKConnaugh",
+      "issue_number": 420,
+      "labels": [],
+      "title": "Grant Application - 24 Videos @zkMarketer"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5389394890,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/420"
+  },
+  "schema": "zcash-fast-event/1"
+}
