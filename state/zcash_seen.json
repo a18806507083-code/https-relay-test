@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-14T18:30:33Z",
+  "last_run_at": "2026-09-14T21:57:54Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-14T12:33:04Z",
+      "cutoff": "2026-09-14T18:00:33Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-14T12:33:04Z",
+      "cutoff": "2026-09-14T18:00:33Z",
       "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-14T12:33:04Z",
-      "matches": 4,
+      "cutoff": "2026-09-14T18:00:33Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-14T12:33:04Z",
-      "matches": 2,
+      "cutoff": "2026-09-14T18:00:33Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -293,6 +293,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/730",
       "first_seen_at": "2026-09-14T18:30:33Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57590": {
+      "created_at": "2026-09-14T20:08:43.673Z",
+      "display": "57590 NU7 Sentiment Poll Results",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/744",
+      "first_seen_at": "2026-09-14T21:57:54Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57592": {
+      "created_at": "2026-09-14T20:50:52.379Z",
+      "display": "57592 Could CEX or ETF-held ZEC be used in coinholder voting?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/742",
+      "first_seen_at": "2026-09-14T21:57:54Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57595": {
+      "created_at": "2026-09-14T20:52:27.000Z",
+      "display": "57595 Grant Application - Rill shielded ZIP-321 Accept",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/741",
+      "first_seen_at": "2026-09-14T21:57:54Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -927,6 +951,22 @@
       "first_seen_at": "2026-09-14T18:30:33Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1370435557": {
+      "created_at": "2026-09-14T19:10:00Z",
+      "display": "zcashbr/road_to_vice_city",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/745",
+      "first_seen_at": "2026-09-14T21:57:54Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1370536696": {
+      "created_at": "2026-09-14T20:34:43Z",
+      "display": "rillongit/zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/743",
+      "first_seen_at": "2026-09-14T21:57:54Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -1011,9 +1051,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-14T18:30:33Z",
-    "forum": "2026-09-14T18:30:33Z",
-    "github": "2026-09-14T18:30:33Z",
-    "zcg": "2026-09-14T18:30:33Z"
+    "fixed_orgs": "2026-09-14T21:57:54Z",
+    "forum": "2026-09-14T21:57:54Z",
+    "github": "2026-09-14T21:57:54Z",
+    "zcg": "2026-09-14T21:57:54Z"
   }
 }
