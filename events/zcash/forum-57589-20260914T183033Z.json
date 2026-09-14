@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T17:37:36.516Z",
+    "detected_at": "2026-09-14T18:30:33Z",
+    "display": "57589 Gleyo Update - 300+ Users and Growing Adoption",
+    "key": "forum:57589",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "gleyo-update-300-users-and-growing-adoption",
+      "title": "Gleyo Update - 300+ Users and Growing Adoption",
+      "topic_id": 57589
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57589,
+    "url": "https://forum.zcashcommunity.com/t/gleyo-update-300-users-and-growing-adoption/57589"
+  },
+  "schema": "zcash-fast-event/1"
+}
