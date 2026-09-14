@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T14:23:35Z",
+    "detected_at": "2026-09-14T18:30:33Z",
+    "display": "#424 Grant Application - GraphSense Zcash Shielded Accounting Repair",
+    "key": "zcg:5450575387",
+    "metadata": {
+      "author": "steven3002",
+      "issue_number": 424,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Grant Application - GraphSense Zcash Shielded Accounting Repair"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5450575387,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/424"
+  },
+  "schema": "zcash-fast-event/1"
+}
