@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T23:58:53Z",
+    "description": null,
+    "detected_at": "2026-09-15T00:09:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "gabrielsartori027/schmecklewars",
+    "homepage": null,
+    "html_url": "https://github.com/gabrielsartori027/schmecklewars",
+    "pushed_at": "2026-09-15T00:08:13Z",
+    "repo_id": 1370676859,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
