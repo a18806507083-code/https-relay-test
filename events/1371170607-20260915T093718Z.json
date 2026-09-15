@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T08:58:16Z",
+    "description": null,
+    "detected_at": "2026-09-15T09:37:18Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "clickSTOCKR/stockr-cli",
+    "homepage": null,
+    "html_url": "https://github.com/clickSTOCKR/stockr-cli",
+    "pushed_at": "2026-09-15T08:58:32Z",
+    "repo_id": 1371170607,
+    "score": 6,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
