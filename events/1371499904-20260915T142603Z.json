@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T13:13:32Z",
+    "description": "Mobius (mob.exchange): RWA Prime Terminal on Robinhood Chain. One Credit Account for onchain collateral, pooled lending, and cross-venue perps.",
+    "detected_at": "2026-09-15T14:26:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "casatrickdev/mobius-sdk",
+    "homepage": "https://mob.exchange",
+    "html_url": "https://github.com/casatrickdev/mobius-sdk",
+    "pushed_at": "2026-09-15T13:43:48Z",
+    "repo_id": 1371499904,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
