@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T22:23:21Z",
+    "detected_at": "2026-09-15T23:34:36Z",
+    "display": "mrrobotcrypto/zkgraffiti",
+    "key": "repo:1372207918",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "mrrobotcrypto/zkgraffiti",
+      "homepage": "https://zkgraffiti.vercel.app",
+      "pushed_at": "2026-09-15T22:25:52Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1372207918,
+    "url": "https://github.com/mrrobotcrypto/zkgraffiti"
+  },
+  "schema": "zcash-fast-event/1"
+}
