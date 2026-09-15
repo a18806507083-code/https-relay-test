@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T13:18:52.767Z",
+    "detected_at": "2026-09-15T14:26:40Z",
+    "display": "57606 PGPZ Public Policy and Regulatory Developments (Q&A Thread)",
+    "key": "forum:57606",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "pgpz-public-policy-and-regulatory-developments-q-a-thread",
+      "title": "PGPZ Public Policy and Regulatory Developments (Q&A Thread)",
+      "topic_id": 57606
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57606,
+    "url": "https://forum.zcashcommunity.com/t/pgpz-public-policy-and-regulatory-developments-q-a-thread/57606"
+  },
+  "schema": "zcash-fast-event/1"
+}
