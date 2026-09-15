@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-14T21:57:54Z",
+  "last_run_at": "2026-09-15T00:09:44Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-14T18:00:33Z",
+      "cutoff": "2026-09-14T21:27:54Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-14T18:00:33Z",
-      "matches": 3,
+      "cutoff": "2026-09-14T21:27:54Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-14T18:00:33Z",
-      "matches": 2,
+      "cutoff": "2026-09-14T21:27:54Z",
+      "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-14T18:00:33Z",
-      "matches": 0,
+      "cutoff": "2026-09-14T21:27:54Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -317,6 +317,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/741",
       "first_seen_at": "2026-09-14T21:57:54Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57597": {
+      "created_at": "2026-09-14T23:38:46.703Z",
+      "display": "57597 Grant Application - 1CAD Protocol: ZK-TLS Proof-of-Solvency Infrastructure",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/749",
+      "first_seen_at": "2026-09-15T00:09:44Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1046,14 +1054,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/728",
       "first_seen_at": "2026-09-14T18:30:33Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5455495924": {
+      "created_at": "2026-09-14T23:06:20Z",
+      "display": "#426 [Grant Application] 1CAD Protocol - ZK-TLS Proof-of-Solvency Infrastructure",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/750",
+      "first_seen_at": "2026-09-15T00:09:44Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-14T21:57:54Z",
-    "forum": "2026-09-14T21:57:54Z",
-    "github": "2026-09-14T21:57:54Z",
-    "zcg": "2026-09-14T21:57:54Z"
+    "fixed_orgs": "2026-09-15T00:09:44Z",
+    "forum": "2026-09-15T00:09:44Z",
+    "github": "2026-09-15T00:09:44Z",
+    "zcg": "2026-09-15T00:09:44Z"
   }
 }
