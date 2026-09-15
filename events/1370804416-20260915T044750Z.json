@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T03:07:55Z",
+    "description": null,
+    "detected_at": "2026-09-15T04:47:50Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "lanqi0518-ux/stonk-chain01",
+    "homepage": null,
+    "html_url": "https://github.com/lanqi0518-ux/stonk-chain01",
+    "pushed_at": "2026-09-15T03:30:59Z",
+    "repo_id": 1370804416,
+    "score": 12,
+    "tech_signals": [
+      "Morpho",
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Launchpad",
+      "Bridge",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
