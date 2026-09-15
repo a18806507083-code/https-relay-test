@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-15T18:19:29Z",
+  "last_run_at": "2026-09-15T21:27:24Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-15T13:56:40Z",
+      "cutoff": "2026-09-15T17:49:29Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-15T13:56:40Z",
+      "cutoff": "2026-09-15T17:49:29Z",
       "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-15T13:56:40Z",
+      "cutoff": "2026-09-15T17:49:29Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-15T13:56:40Z",
+      "cutoff": "2026-09-15T17:49:29Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -349,6 +349,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/781",
       "first_seen_at": "2026-09-15T18:19:29Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57618": {
+      "created_at": "2026-09-15T19:11:42.787Z",
+      "display": "57618 Draft ZIP to replace ECC with ZODL as a Key-Holder Organization",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/788",
+      "first_seen_at": "2026-09-15T21:27:24Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57621": {
+      "created_at": "2026-09-15T20:23:31.161Z",
+      "display": "57621 ZEC will become the private money of AI agents. We’re making it happen on AxiomAI",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/787",
+      "first_seen_at": "2026-09-15T21:27:24Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1115,9 +1131,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-15T18:19:29Z",
-    "forum": "2026-09-15T18:19:29Z",
-    "github": "2026-09-15T18:19:29Z",
-    "zcg": "2026-09-15T18:19:29Z"
+    "fixed_orgs": "2026-09-15T21:27:24Z",
+    "forum": "2026-09-15T21:27:24Z",
+    "github": "2026-09-15T21:27:24Z",
+    "zcg": "2026-09-15T21:27:24Z"
   }
 }
