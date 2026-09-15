@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T14:19:55Z",
+    "description": "Packs of tokenized stocks, ETFs and crypto on Robinhood Chain at a published 3.6% house edge, with a roll anyone can recompute. No pack sold yet.",
+    "detected_at": "2026-09-15T14:26:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "highgradeRH/highgradeRH",
+    "homepage": null,
+    "html_url": "https://github.com/highgradeRH/highgradeRH",
+    "pushed_at": "2026-09-15T14:20:58Z",
+    "repo_id": 1371603123,
+    "score": 14,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
