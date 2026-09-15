@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T19:11:42.787Z",
+    "detected_at": "2026-09-15T21:27:24Z",
+    "display": "57618 Draft ZIP to replace ECC with ZODL as a Key-Holder Organization",
+    "key": "forum:57618",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "draft-zip-to-replace-ecc-with-zodl-as-a-key-holder-organization",
+      "title": "Draft ZIP to replace ECC with ZODL as a Key-Holder Organization",
+      "topic_id": 57618
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57618,
+    "url": "https://forum.zcashcommunity.com/t/draft-zip-to-replace-ecc-with-zodl-as-a-key-holder-organization/57618"
+  },
+  "schema": "zcash-fast-event/1"
+}
