@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T03:19:21Z",
+    "description": null,
+    "detected_at": "2026-09-15T04:47:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "DeflLeoo/YOINK",
+    "homepage": null,
+    "html_url": "https://github.com/DeflLeoo/YOINK",
+    "pushed_at": "2026-09-15T03:20:15Z",
+    "repo_id": 1370816805,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
