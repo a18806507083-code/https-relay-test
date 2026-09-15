@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-15T21:27:24Z",
+  "last_run_at": "2026-09-15T23:34:36Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-15T17:49:29Z",
+      "cutoff": "2026-09-15T20:57:24Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-15T17:49:29Z",
-      "matches": 2,
+      "cutoff": "2026-09-15T20:57:24Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-15T17:49:29Z",
-      "matches": 0,
+      "cutoff": "2026-09-15T20:57:24Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-15T17:49:29Z",
+      "cutoff": "2026-09-15T20:57:24Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -365,6 +365,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/787",
       "first_seen_at": "2026-09-15T21:27:24Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57622": {
+      "created_at": "2026-09-15T22:34:42.760Z",
+      "display": "57622 The Experience of Struggling to Find Investors for the Platform",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/790",
+      "first_seen_at": "2026-09-15T23:34:36Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1039,6 +1047,14 @@
       "first_seen_at": "2026-09-15T14:26:40Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1372207918": {
+      "created_at": "2026-09-15T22:23:21Z",
+      "display": "mrrobotcrypto/zkgraffiti",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/791",
+      "first_seen_at": "2026-09-15T23:34:36Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -1131,9 +1147,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-15T21:27:24Z",
-    "forum": "2026-09-15T21:27:24Z",
-    "github": "2026-09-15T21:27:24Z",
-    "zcg": "2026-09-15T21:27:24Z"
+    "fixed_orgs": "2026-09-15T23:34:36Z",
+    "forum": "2026-09-15T23:34:36Z",
+    "github": "2026-09-15T23:34:36Z",
+    "zcg": "2026-09-15T23:34:36Z"
   }
 }
