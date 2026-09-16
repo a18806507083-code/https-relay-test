@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T05:59:01Z",
+    "detected_at": "2026-09-16T06:39:21Z",
+    "display": "zodl-inc/zcash-sapling-params",
+    "key": "repo:1372589260",
+    "metadata": {
+      "description": "Zcash Sapling zk-SNARK parameters (sapling-spend.params, sapling-output.params) mirrored for the ZODL wallets",
+      "fixed_owner": "zodl-inc",
+      "full_name": "zodl-inc/zcash-sapling-params",
+      "homepage": null,
+      "pushed_at": "2026-09-16T06:00:10Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1372589260,
+    "url": "https://github.com/zodl-inc/zcash-sapling-params"
+  },
+  "schema": "zcash-fast-event/1"
+}
