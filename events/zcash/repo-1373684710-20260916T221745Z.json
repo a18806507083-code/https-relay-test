@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T22:15:49Z",
+    "detected_at": "2026-09-16T22:17:45Z",
+    "display": "alvorado-lab/zec-wallet",
+    "key": "repo:1373684710",
+    "metadata": {
+      "description": "Shielded Zcash (ZEC) wallet SDK for Flutter: Rust core, keys never in Dart, swaps, drop-in UI, bring your own transport",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "alvorado-lab/zec-wallet",
+      "homepage": null,
+      "pushed_at": "2026-09-16T22:15:51Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1373684710,
+    "url": "https://github.com/alvorado-lab/zec-wallet"
+  },
+  "schema": "zcash-fast-event/1"
+}
