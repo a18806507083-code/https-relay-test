@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T17:37:20Z",
+    "detected_at": "2026-09-07T19:29:49Z",
+    "display": "Alihamza1234960/zaino-birthday",
+    "key": "repo:1360505156",
+    "metadata": {
+      "description": "Birthday proposal website for Zaino ❤️",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Alihamza1234960/zaino-birthday",
+      "homepage": null,
+      "pushed_at": "2026-09-07T17:52:06Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1360505156,
+    "url": "https://github.com/Alihamza1234960/zaino-birthday"
+  },
+  "schema": "zcash-fast-event/1"
+}
