@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-07T10:52:43Z",
+    "detected_at": "2026-09-07T15:56:54Z",
+    "display": "gmesc/StudIA-ZAINO",
+    "key": "repo:1360110097",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "gmesc/StudIA-ZAINO",
+      "homepage": null,
+      "pushed_at": "2026-09-07T14:28:26Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1360110097,
+    "url": "https://github.com/gmesc/StudIA-ZAINO"
+  },
+  "schema": "zcash-fast-event/1"
+}
