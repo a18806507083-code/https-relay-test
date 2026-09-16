@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T21:53:46.238Z",
+    "detected_at": "2026-09-16T22:17:45Z",
+    "display": "57639 Gleyo x ZecHub: Great conversation and some exciting feedback",
+    "key": "forum:57639",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "gleyo-x-zechub-great-conversation-and-some-exciting-feedback",
+      "title": "Gleyo x ZecHub: Great conversation and some exciting feedback",
+      "topic_id": 57639
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57639,
+    "url": "https://forum.zcashcommunity.com/t/gleyo-x-zechub-great-conversation-and-some-exciting-feedback/57639"
+  },
+  "schema": "zcash-fast-event/1"
+}
