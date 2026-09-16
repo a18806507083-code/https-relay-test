@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-16T16:20:04Z",
+  "last_run_at": "2026-09-16T19:35:57Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-16T11:30:31Z",
+      "cutoff": "2026-09-16T15:50:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-16T11:30:31Z",
-      "matches": 0,
+      "cutoff": "2026-09-16T15:50:04Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-16T11:30:31Z",
-      "matches": 0,
+      "cutoff": "2026-09-16T15:50:04Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-16T11:30:31Z",
-      "matches": 0,
+      "cutoff": "2026-09-16T15:50:04Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -389,6 +389,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/800",
       "first_seen_at": "2026-09-16T12:00:31Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57632": {
+      "created_at": "2026-09-16T16:45:52.435Z",
+      "display": "57632 Zcash Ghana (October 2026 - December 2026)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/812",
+      "first_seen_at": "2026-09-16T19:35:57Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57633": {
+      "created_at": "2026-09-16T18:03:48.022Z",
+      "display": "57633 Potential Shielded Zcash support for another hardware wallet (Passport Prime)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/811",
+      "first_seen_at": "2026-09-16T19:35:57Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1111,6 +1127,14 @@
       "first_seen_at": "2026-09-16T12:00:31Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1373514149": {
+      "created_at": "2026-09-16T18:52:55Z",
+      "display": "AsadMERN/markdown-badges",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/810",
+      "first_seen_at": "2026-09-16T19:35:57Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -1206,14 +1230,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/801",
       "first_seen_at": "2026-09-16T12:00:31Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5477287411": {
+      "created_at": "2026-09-16T16:39:09Z",
+      "display": "#428 Zcash Ghana (October 2026 - December 2026)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/813",
+      "first_seen_at": "2026-09-16T19:35:57Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-16T16:20:04Z",
-    "forum": "2026-09-16T16:20:04Z",
-    "github": "2026-09-16T16:20:04Z",
-    "zcg": "2026-09-16T16:20:04Z"
+    "fixed_orgs": "2026-09-16T19:35:57Z",
+    "forum": "2026-09-16T19:35:57Z",
+    "github": "2026-09-16T19:35:57Z",
+    "zcg": "2026-09-16T19:35:57Z"
   }
 }
