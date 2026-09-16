@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T05:54:22Z",
+    "detected_at": "2026-09-16T06:39:21Z",
+    "display": "z1ph1us/Funded-addresses-sets-BCH-DOGE-DASH-ZCASH-LITECOIN",
+    "key": "repo:1372585244",
+    "metadata": {
+      "description": "Datasets containing ever funded addresses for 5 blockchains that were collected via nodes",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "z1ph1us/Funded-addresses-sets-BCH-DOGE-DASH-ZCASH-LITECOIN",
+      "homepage": "",
+      "pushed_at": "2026-09-16T06:28:29Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1372585244,
+    "url": "https://github.com/z1ph1us/Funded-addresses-sets-BCH-DOGE-DASH-ZCASH-LITECOIN"
+  },
+  "schema": "zcash-fast-event/1"
+}
