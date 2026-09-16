@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T16:39:09Z",
+    "detected_at": "2026-09-16T19:35:57Z",
+    "display": "#428 Zcash Ghana (October 2026 - December 2026)",
+    "key": "zcg:5477287411",
+    "metadata": {
+      "author": "ogasky",
+      "issue_number": 428,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Zcash Ghana (October 2026 - December 2026)"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5477287411,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/428"
+  },
+  "schema": "zcash-fast-event/1"
+}
