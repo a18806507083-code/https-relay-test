@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T09:59:29Z",
+    "detected_at": "2026-09-16T12:00:31Z",
+    "display": "scytheradar/scythe-radar-datasets",
+    "key": "repo:1372841076",
+    "metadata": {
+      "description": "Machine-readable, re-verifiable datasets: US Treasury OFAC sanctioned crypto addresses (492) + documented dead tokens / rug pulls with full contract addresses (19). CC0.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "scytheradar/scythe-radar-datasets",
+      "homepage": null,
+      "pushed_at": "2026-09-16T10:18:24Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1372841076,
+    "url": "https://github.com/scytheradar/scythe-radar-datasets"
+  },
+  "schema": "zcash-fast-event/1"
+}
