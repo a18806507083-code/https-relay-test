@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T20:19:54Z",
+    "description": "HirePad \u2014 AI trading agents on Robinhood Chain ($HIREPAD)",
+    "detected_at": "2026-09-16T22:17:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Dovgalyuk1/hirepadai",
+    "homepage": "https://hirepadai.vercel.app",
+    "html_url": "https://github.com/Dovgalyuk1/hirepadai",
+    "pushed_at": "2026-09-16T22:13:40Z",
+    "repo_id": 1373600005,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
