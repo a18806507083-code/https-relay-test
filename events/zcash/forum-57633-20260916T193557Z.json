@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T18:03:48.022Z",
+    "detected_at": "2026-09-16T19:35:57Z",
+    "display": "57633 Potential Shielded Zcash support for another hardware wallet (Passport Prime)",
+    "key": "forum:57633",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "potential-shielded-zcash-support-for-another-hardware-wallet-passport-prime",
+      "title": "Potential Shielded Zcash support for another hardware wallet (Passport Prime)",
+      "topic_id": 57633
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57633,
+    "url": "https://forum.zcashcommunity.com/t/potential-shielded-zcash-support-for-another-hardware-wallet-passport-prime/57633"
+  },
+  "schema": "zcash-fast-event/1"
+}
