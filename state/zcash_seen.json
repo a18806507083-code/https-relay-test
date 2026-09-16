@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-16T19:35:57Z",
+  "last_run_at": "2026-09-16T22:17:45Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-16T15:50:04Z",
+      "cutoff": "2026-09-16T19:05:57Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-16T15:50:04Z",
-      "matches": 2,
+      "cutoff": "2026-09-16T19:05:57Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-16T15:50:04Z",
-      "matches": 1,
+      "cutoff": "2026-09-16T19:05:57Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-16T15:50:04Z",
-      "matches": 1,
+      "cutoff": "2026-09-16T19:05:57Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -405,6 +405,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/811",
       "first_seen_at": "2026-09-16T19:35:57Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57639": {
+      "created_at": "2026-09-16T21:53:46.238Z",
+      "display": "57639 Gleyo x ZecHub: Great conversation and some exciting feedback",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/822",
+      "first_seen_at": "2026-09-16T22:17:45Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1135,6 +1143,30 @@
       "first_seen_at": "2026-09-16T19:35:57Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1373588405": {
+      "created_at": "2026-09-16T20:06:34Z",
+      "display": "pkobi71/NY-Open-Crypto-Data-Analysis",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/824",
+      "first_seen_at": "2026-09-16T22:17:45Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1373658235": {
+      "created_at": "2026-09-16T21:34:55Z",
+      "display": "CesareFI/zclassic-node-development",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/823",
+      "first_seen_at": "2026-09-16T22:17:45Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1373684710": {
+      "created_at": "2026-09-16T22:15:49Z",
+      "display": "alvorado-lab/zec-wallet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/821",
+      "first_seen_at": "2026-09-16T22:17:45Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -1243,9 +1275,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-16T19:35:57Z",
-    "forum": "2026-09-16T19:35:57Z",
-    "github": "2026-09-16T19:35:57Z",
-    "zcg": "2026-09-16T19:35:57Z"
+    "fixed_orgs": "2026-09-16T22:17:45Z",
+    "forum": "2026-09-16T22:17:45Z",
+    "github": "2026-09-16T22:17:45Z",
+    "zcg": "2026-09-16T22:17:45Z"
   }
 }
