@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T21:34:55Z",
+    "detected_at": "2026-09-16T22:17:45Z",
+    "display": "CesareFI/zclassic-node-development",
+    "key": "repo:1373658235",
+    "metadata": {
+      "description": "Zclassic full-node, sync, reliability and mining engineering work",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "CesareFI/zclassic-node-development",
+      "homepage": null,
+      "pushed_at": "2026-09-16T21:53:08Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1373658235,
+    "url": "https://github.com/CesareFI/zclassic-node-development"
+  },
+  "schema": "zcash-fast-event/1"
+}
