@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T20:06:34Z",
+    "detected_at": "2026-09-16T22:17:45Z",
+    "display": "pkobi71/NY-Open-Crypto-Data-Analysis",
+    "key": "repo:1373588405",
+    "metadata": {
+      "description": "An analysis of 15 different Crypto currencies during the September 16, 2026 NY Market Open session.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "pkobi71/NY-Open-Crypto-Data-Analysis",
+      "homepage": null,
+      "pushed_at": "2026-09-16T20:47:20Z",
+      "tech_signals": [
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1373588405,
+    "url": "https://github.com/pkobi71/NY-Open-Crypto-Data-Analysis"
+  },
+  "schema": "zcash-fast-event/1"
+}
