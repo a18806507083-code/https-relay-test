@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T00:15:43.355Z",
+    "detected_at": "2026-09-16T01:35:50Z",
+    "display": "57623 I posted a UCP link in August and said nothing. Here's what I was thinking",
+    "key": "forum:57623",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "i-posted-a-ucp-link-in-august-and-said-nothing-heres-what-i-was-thinking",
+      "title": "I posted a UCP link in August and said nothing. Here's what I was thinking",
+      "topic_id": 57623
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57623,
+    "url": "https://forum.zcashcommunity.com/t/i-posted-a-ucp-link-in-august-and-said-nothing-heres-what-i-was-thinking/57623"
+  },
+  "schema": "zcash-fast-event/1"
+}
