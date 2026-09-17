@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T23:07:55Z",
+    "description": "Project Vegas V1.5 valueless testnet recovery research release; no mainnet approval",
+    "detected_at": "2026-09-17T00:34:45Z",
+    "direct_signals": [
+      "RH testnet 46630"
+    ],
+    "full_name": "SRHSoulja/project-vegas-recovery-v15",
+    "homepage": null,
+    "html_url": "https://github.com/SRHSoulja/project-vegas-recovery-v15",
+    "pushed_at": "2026-09-16T23:09:38Z",
+    "repo_id": 1373715604,
+    "score": 5,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
