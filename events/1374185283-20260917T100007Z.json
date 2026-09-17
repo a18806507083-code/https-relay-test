@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T09:05:05Z",
+    "description": "Autonomous 3D biophysical xenocortex simulation and Robinhood Chain telemetry suite ( 0x6e7c924b9150ddf1cdb73b58b4285d10cd65690b)",
+    "detected_at": "2026-09-17T10:00:07Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "amousemind/mousemind-onchain",
+    "homepage": "https://mousemind.tech/lobby",
+    "html_url": "https://github.com/amousemind/mousemind-onchain",
+    "pushed_at": "2026-09-17T09:05:11Z",
+    "repo_id": 1374185283,
+    "score": 11,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
