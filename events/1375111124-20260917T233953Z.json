@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T21:48:36Z",
+    "description": "investment protocol deployed on Robinhood Chain",
+    "detected_at": "2026-09-17T23:39:53Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "robinhood-invest/invest-protocol",
+    "homepage": null,
+    "html_url": "https://github.com/robinhood-invest/invest-protocol",
+    "pushed_at": "2026-09-17T21:59:54Z",
+    "repo_id": 1375111124,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
