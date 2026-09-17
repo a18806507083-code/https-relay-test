@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T14:10:00.153Z",
+    "detected_at": "2026-09-17T14:44:20Z",
+    "display": "57645 Pools - Not quite NFTs",
+    "key": "forum:57645",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "pools-not-quite-nfts",
+      "title": "Pools - Not quite NFTs",
+      "topic_id": 57645
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57645,
+    "url": "https://forum.zcashcommunity.com/t/pools-not-quite-nfts/57645"
+  },
+  "schema": "zcash-fast-event/1"
+}
