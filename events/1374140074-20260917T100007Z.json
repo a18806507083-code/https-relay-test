@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T08:19:48Z",
+    "description": "Unofficial, community-built research indexer for Vibe/Vibe on Robinhood Chain testnet.",
+    "detected_at": "2026-09-17T10:00:07Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "itstorvian/vibevibe-testnet-indexer",
+    "homepage": null,
+    "html_url": "https://github.com/itstorvian/vibevibe-testnet-indexer",
+    "pushed_at": "2026-09-17T08:29:54Z",
+    "repo_id": 1374140074,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
