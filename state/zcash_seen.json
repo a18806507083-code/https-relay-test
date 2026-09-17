@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-17T18:34:16Z",
+  "last_run_at": "2026-09-17T21:40:40Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-17T14:14:20Z",
+      "cutoff": "2026-09-17T18:04:16Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-17T14:14:20Z",
+      "cutoff": "2026-09-17T18:04:16Z",
       "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-17T14:14:20Z",
-      "matches": 3,
+      "cutoff": "2026-09-17T18:04:16Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-17T14:14:20Z",
+      "cutoff": "2026-09-17T18:04:16Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -437,6 +437,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/848",
       "first_seen_at": "2026-09-17T18:34:16Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57653": {
+      "created_at": "2026-09-17T19:45:43.471Z",
+      "display": "57653 Private Preconfs",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/857",
+      "first_seen_at": "2026-09-17T21:40:40Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1231,6 +1239,22 @@
       "first_seen_at": "2026-09-17T18:34:16Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1375029218": {
+      "created_at": "2026-09-17T20:07:02Z",
+      "display": "ZecZcashDev/ZecZcashTest",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/856",
+      "first_seen_at": "2026-09-17T21:40:40Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1375074447": {
+      "created_at": "2026-09-17T20:55:27Z",
+      "display": "dmarzzz/shielded-lane",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/855",
+      "first_seen_at": "2026-09-17T21:40:40Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -1339,9 +1363,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-17T18:34:16Z",
-    "forum": "2026-09-17T18:34:16Z",
-    "github": "2026-09-17T18:34:16Z",
-    "zcg": "2026-09-17T18:34:16Z"
+    "fixed_orgs": "2026-09-17T21:40:40Z",
+    "forum": "2026-09-17T21:40:40Z",
+    "github": "2026-09-17T21:40:40Z",
+    "zcg": "2026-09-17T21:40:40Z"
   }
 }
