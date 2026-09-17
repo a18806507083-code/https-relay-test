@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T20:55:27Z",
+    "detected_at": "2026-09-17T21:40:40Z",
+    "display": "dmarzzz/shielded-lane",
+    "key": "repo:1375074447",
+    "metadata": {
+      "description": "Research dossier: a committee-built private-transfer lane for Ethereum L1 (Zcash-style transfers, FOCIL inclusion, Tachyon-style prunable state)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "dmarzzz/shielded-lane",
+      "homepage": null,
+      "pushed_at": "2026-09-17T20:55:31Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1375074447,
+    "url": "https://github.com/dmarzzz/shielded-lane"
+  },
+  "schema": "zcash-fast-event/1"
+}
