@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T09:10:32Z",
+    "description": "HOOD Instinct \u2014 Robinhood Chain meme site",
+    "detected_at": "2026-09-17T10:00:07Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "laobideng928/robinhood2",
+    "homepage": null,
+    "html_url": "https://github.com/laobideng928/robinhood2",
+    "pushed_at": "2026-09-17T09:10:38Z",
+    "repo_id": 1374190723,
+    "score": 5,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
