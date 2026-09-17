@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-17T14:44:20Z",
+  "last_run_at": "2026-09-17T18:34:16Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-17T09:30:38Z",
+      "cutoff": "2026-09-17T14:14:20Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-17T09:30:38Z",
-      "matches": 1,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-09-17T09:30:38Z",
+      "cutoff": "2026-09-17T14:14:20Z",
       "matches": 2,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-09-17T14:14:20Z",
+      "matches": 3,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-09-17T09:30:38Z",
+      "cutoff": "2026-09-17T14:14:20Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -421,6 +421,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/842",
       "first_seen_at": "2026-09-17T14:44:20Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57650": {
+      "created_at": "2026-09-17T17:31:33.440Z",
+      "display": "57650 Q3 Coinholder-Directed Retroactive Grants Program Voting Now Open!",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/850",
+      "first_seen_at": "2026-09-17T18:34:16Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57652": {
+      "created_at": "2026-09-17T18:16:29.280Z",
+      "display": "57652 Starting a Zcash Community in Warsaw — Looking for Advice",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/848",
+      "first_seen_at": "2026-09-17T18:34:16Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1191,6 +1207,30 @@
       "first_seen_at": "2026-09-17T14:44:20Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1374676311": {
+      "created_at": "2026-09-17T15:47:50Z",
+      "display": "deltadevsde/zcash-preconfs",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/852",
+      "first_seen_at": "2026-09-17T18:34:16Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1374711315": {
+      "created_at": "2026-09-17T16:15:44Z",
+      "display": "thedarklord112/Badges_and_Icons-for-profile-README",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/851",
+      "first_seen_at": "2026-09-17T18:34:16Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1374835943": {
+      "created_at": "2026-09-17T17:50:34Z",
+      "display": "gustavemrich/privacy",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/849",
+      "first_seen_at": "2026-09-17T18:34:16Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -1299,9 +1339,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-17T14:44:20Z",
-    "forum": "2026-09-17T14:44:20Z",
-    "github": "2026-09-17T14:44:20Z",
-    "zcg": "2026-09-17T14:44:20Z"
+    "fixed_orgs": "2026-09-17T18:34:16Z",
+    "forum": "2026-09-17T18:34:16Z",
+    "github": "2026-09-17T18:34:16Z",
+    "zcg": "2026-09-17T18:34:16Z"
   }
 }
