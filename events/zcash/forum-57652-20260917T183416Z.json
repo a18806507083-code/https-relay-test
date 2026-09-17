@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T18:16:29.280Z",
+    "detected_at": "2026-09-17T18:34:16Z",
+    "display": "57652 Starting a Zcash Community in Warsaw — Looking for Advice",
+    "key": "forum:57652",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "starting-a-zcash-community-in-warsaw-looking-for-advice",
+      "title": "Starting a Zcash Community in Warsaw — Looking for Advice",
+      "topic_id": 57652
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57652,
+    "url": "https://forum.zcashcommunity.com/t/starting-a-zcash-community-in-warsaw-looking-for-advice/57652"
+  },
+  "schema": "zcash-fast-event/1"
+}
