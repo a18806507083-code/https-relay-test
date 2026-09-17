@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T00:00:09Z",
+    "description": null,
+    "detected_at": "2026-09-17T00:34:45Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "younglean2026/excaliburbackend",
+    "homepage": null,
+    "html_url": "https://github.com/younglean2026/excaliburbackend",
+    "pushed_at": "2026-09-17T00:13:25Z",
+    "repo_id": 1373744687,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
