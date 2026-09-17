@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T19:45:43.471Z",
+    "detected_at": "2026-09-17T21:40:40Z",
+    "display": "57653 Private Preconfs",
+    "key": "forum:57653",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "private-preconfs",
+      "title": "Private Preconfs",
+      "topic_id": 57653
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57653,
+    "url": "https://forum.zcashcommunity.com/t/private-preconfs/57653"
+  },
+  "schema": "zcash-fast-event/1"
+}
