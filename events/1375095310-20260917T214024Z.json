@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T21:24:33Z",
+    "description": "Condition report for Robinhood Chain tokens paste a contract, see what you are about to buy. Single file, no backend.",
+    "detected_at": "2026-09-17T21:40:24Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "borkys522/dented",
+    "homepage": null,
+    "html_url": "https://github.com/borkys522/dented",
+    "pushed_at": "2026-09-17T21:39:13Z",
+    "repo_id": 1375095310,
+    "score": 13,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
