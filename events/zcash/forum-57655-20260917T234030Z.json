@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T22:42:04.708Z",
+    "detected_at": "2026-09-17T23:40:30Z",
+    "display": "57655 NU7 Timeline",
+    "key": "forum:57655",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster",
+        "Frequent Poster",
+        "Frequent Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "nu7-timeline",
+      "title": "NU7 Timeline",
+      "topic_id": 57655
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57655,
+    "url": "https://forum.zcashcommunity.com/t/nu7-timeline/57655"
+  },
+  "schema": "zcash-fast-event/1"
+}
