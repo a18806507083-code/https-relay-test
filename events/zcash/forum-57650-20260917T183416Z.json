@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T17:31:33.440Z",
+    "detected_at": "2026-09-17T18:34:16Z",
+    "display": "57650 Q3 Coinholder-Directed Retroactive Grants Program Voting Now Open!",
+    "key": "forum:57650",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "q3-coinholder-directed-retroactive-grants-program-voting-now-open",
+      "title": "Q3 Coinholder-Directed Retroactive Grants Program Voting Now Open!",
+      "topic_id": 57650
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57650,
+    "url": "https://forum.zcashcommunity.com/t/q3-coinholder-directed-retroactive-grants-program-voting-now-open/57650"
+  },
+  "schema": "zcash-fast-event/1"
+}
