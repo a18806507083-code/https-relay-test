@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-18T14:57:28Z",
+  "last_run_at": "2026-09-18T17:59:20Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-18T10:39:09Z",
+      "cutoff": "2026-09-18T14:27:28Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-18T10:39:09Z",
-      "matches": 1,
+      "cutoff": "2026-09-18T14:27:28Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-18T10:39:09Z",
-      "matches": 4,
+      "cutoff": "2026-09-18T14:27:28Z",
+      "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-18T10:39:09Z",
+      "cutoff": "2026-09-18T14:27:28Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -1462,14 +1462,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/890",
       "first_seen_at": "2026-09-18T14:57:28Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5501890802": {
+      "created_at": "2026-09-18T16:19:32Z",
+      "display": "#431 Zcash Network School Kazakhstan",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/898",
+      "first_seen_at": "2026-09-18T17:59:20Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-18T14:57:28Z",
-    "forum": "2026-09-18T14:57:28Z",
-    "github": "2026-09-18T14:57:28Z",
-    "zcg": "2026-09-18T14:57:28Z"
+    "fixed_orgs": "2026-09-18T17:59:20Z",
+    "forum": "2026-09-18T17:59:20Z",
+    "github": "2026-09-18T17:59:20Z",
+    "zcg": "2026-09-18T17:59:20Z"
   }
 }
