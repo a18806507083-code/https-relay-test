@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T10:47:43Z",
+    "description": "Vigil is a fully open source contract monitor on Robinhood Chain. It reads deployed bytecode with no source and no ABI, works out what a contract can still do to you, and watches it on a loop. Connect a wallet and it finds what you hold and ranks it by what can be done to it.",
+    "detected_at": "2026-09-18T11:08:53Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "VigilHQ/vigil",
+    "homepage": null,
+    "html_url": "https://github.com/VigilHQ/vigil",
+    "pushed_at": "2026-09-18T11:08:48Z",
+    "repo_id": 1375726401,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
