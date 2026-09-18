@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T02:12:52.059Z",
+    "detected_at": "2026-09-18T06:11:42Z",
+    "display": "57656 Grant application - Zcash SeedSigner, a DIY open source air gapped signer for shielded ZEC (resubmission)",
+    "key": "forum:57656",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-seedsigner-a-diy-open-source-air-gapped-signer-for-shielded-zec-resubmission",
+      "title": "Grant application - Zcash SeedSigner, a DIY open source air gapped signer for shielded ZEC (resubmission)",
+      "topic_id": 57656
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57656,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-seedsigner-a-diy-open-source-air-gapped-signer-for-shielded-zec-resubmission/57656"
+  },
+  "schema": "zcash-fast-event/1"
+}
