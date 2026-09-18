@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T00:55:55Z",
+    "description": null,
+    "detected_at": "2026-09-18T01:27:10Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "aabxtract/programmable_kit",
+    "homepage": null,
+    "html_url": "https://github.com/aabxtract/programmable_kit",
+    "pushed_at": "2026-09-18T01:13:03Z",
+    "repo_id": 1375216830,
+    "score": 9,
+    "tech_signals": [
+      "Hook",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
