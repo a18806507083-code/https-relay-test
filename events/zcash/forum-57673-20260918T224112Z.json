@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T21:05:13.705Z",
+    "detected_at": "2026-09-18T22:41:12Z",
+    "display": "57673 Zcash Governance Is a Superpower",
+    "key": "forum:57673",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "zcash-governance-is-a-superpower",
+      "title": "Zcash Governance Is a Superpower",
+      "topic_id": 57673
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57673,
+    "url": "https://forum.zcashcommunity.com/t/zcash-governance-is-a-superpower/57673"
+  },
+  "schema": "zcash-fast-event/1"
+}
