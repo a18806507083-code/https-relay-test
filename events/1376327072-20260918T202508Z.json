@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T19:08:44Z",
+    "description": null,
+    "detected_at": "2026-09-18T20:25:08Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "armasol/testsss",
+    "homepage": "https://testsss-iota.vercel.app",
+    "html_url": "https://github.com/armasol/testsss",
+    "pushed_at": "2026-09-18T19:08:57Z",
+    "repo_id": 1376327072,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
