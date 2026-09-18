@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T19:09:08Z",
+    "detected_at": "2026-09-18T20:25:42Z",
+    "display": "jonwalch/zcash-pq-bench",
+    "key": "repo:1376327478",
+    "metadata": {
+      "description": "Rust benchmarks of post-quantum transparent Zcash authorization, with reproducible results and an ECDSA baseline",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "jonwalch/zcash-pq-bench",
+      "homepage": null,
+      "pushed_at": "2026-09-18T19:12:25Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1376327478,
+    "url": "https://github.com/jonwalch/zcash-pq-bench"
+  },
+  "schema": "zcash-fast-event/1"
+}
