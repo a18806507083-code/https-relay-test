@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T20:00:20Z",
+    "description": "ZIPLINE \u2014 the open-source Quantopian engine (zipline-reloaded), reconnected to real markets on Robinhood Chain. Ten deterministic strategies, one treasury, real Stock Token trades.",
+    "detected_at": "2026-09-18T20:25:08Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "RH-WALLET/zipline",
+    "homepage": null,
+    "html_url": "https://github.com/RH-WALLET/zipline",
+    "pushed_at": "2026-09-18T20:00:55Z",
+    "repo_id": 1376379449,
+    "score": 17,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
