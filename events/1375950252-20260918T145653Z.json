@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T13:58:31Z",
+    "description": "Typed onchain verdicts for EVM tokens: ape / watch /avoid with calibrated probabilities. CLI + library +MCP server. Robinhood Chain first.",
+    "detected_at": "2026-09-18T14:56:53Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "jevbook/jevscan",
+    "homepage": null,
+    "html_url": "https://github.com/jevbook/jevscan",
+    "pushed_at": "2026-09-18T13:58:42Z",
+    "repo_id": 1375950252,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
