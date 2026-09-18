@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T04:35:53Z",
+    "description": "Open-source quantum-measurement token launching. Worked example: genius.fun on BSC.",
+    "detected_at": "2026-09-18T06:11:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "qkey-observer/quantum-spore-launch",
+    "homepage": null,
+    "html_url": "https://github.com/qkey-observer/quantum-spore-launch",
+    "pushed_at": "2026-09-18T06:08:50Z",
+    "repo_id": 1375373001,
+    "score": 9,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
