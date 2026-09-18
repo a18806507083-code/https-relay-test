@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T17:27:34Z",
+    "description": null,
+    "detected_at": "2026-09-18T17:58:55Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "armasol/smsnew",
+    "homepage": "https://smsnew-ruddy.vercel.app",
+    "html_url": "https://github.com/armasol/smsnew",
+    "pushed_at": "2026-09-18T17:48:10Z",
+    "repo_id": 1376207709,
+    "score": 6,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
