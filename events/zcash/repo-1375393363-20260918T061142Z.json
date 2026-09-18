@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T04:59:31Z",
+    "detected_at": "2026-09-18T06:11:42Z",
+    "display": "FrustratedN00b/deceptive-data-companies",
+    "key": "repo:1375393363",
+    "metadata": {
+      "description": "DNS blocklist targeting companies whose business model is built on misleading people to collect their data - consumer VPN industry and corporate ownership",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "FrustratedN00b/deceptive-data-companies",
+      "homepage": null,
+      "pushed_at": "2026-09-18T05:00:50Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1375393363,
+    "url": "https://github.com/FrustratedN00b/deceptive-data-companies"
+  },
+  "schema": "zcash-fast-event/1"
+}
