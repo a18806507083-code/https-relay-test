@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T10:39:34Z",
+    "detected_at": "2026-09-18T14:57:28Z",
+    "display": "norenvelin/zepio",
+    "key": "repo:1375718913",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "norenvelin/zepio",
+      "homepage": null,
+      "pushed_at": "2026-09-18T11:26:00Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1375718913,
+    "url": "https://github.com/norenvelin/zepio"
+  },
+  "schema": "zcash-fast-event/1"
+}
