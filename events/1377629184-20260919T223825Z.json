@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T21:28:51Z",
+    "description": "Onchain Setwise token list",
+    "detected_at": "2026-09-19T22:38:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "setwisemarkets/onchain-token-list",
+    "homepage": null,
+    "html_url": "https://github.com/setwisemarkets/onchain-token-list",
+    "pushed_at": "2026-09-19T21:29:37Z",
+    "repo_id": 1377629184,
+    "score": 18,
+    "tech_signals": [
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
