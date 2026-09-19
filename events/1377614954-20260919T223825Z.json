@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T21:07:29Z",
+    "description": "Chrome-\u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435: \u0433\u0440\u0430\u0444\u0438\u043a GMGN \u043f\u043e\u0432\u0435\u0440\u0445 Liquidity Ladder, \u0441\u0442\u043e\u0440\u043e\u0436 \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0439, \u0440\u0430\u0437\u0431\u043e\u0440 LP-\u043f\u0443\u043b\u043e\u0432 \u0438 \u0441\u043a\u0440\u0438\u043d\u0435\u0440 \u0434\u043e\u0445\u043e\u0434\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 Robinhood Chain",
+    "detected_at": "2026-09-19T22:38:25Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "lokert31/gmgn-ladder",
+    "homepage": null,
+    "html_url": "https://github.com/lokert31/gmgn-ladder",
+    "pushed_at": "2026-09-19T21:58:39Z",
+    "repo_id": 1377614954,
+    "score": 5,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
