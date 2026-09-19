@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T12:50:35Z",
+    "description": "Hire a worker that clocks in while you sleep and files one page every evening. Digital staff on Robinhood Chain, paid in $INTERN.",
+    "detected_at": "2026-09-19T13:05:41Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "internsRH/internsRH",
+    "homepage": null,
+    "html_url": "https://github.com/internsRH/internsRH",
+    "pushed_at": "2026-09-19T12:51:09Z",
+    "repo_id": 1377151295,
+    "score": 10,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
