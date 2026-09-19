@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T17:39:31Z",
+    "detected_at": "2026-09-19T18:39:44Z",
+    "display": "zyn-io/zec-multisig",
+    "key": "repo:1377449135",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "zyn-io/zec-multisig",
+      "homepage": null,
+      "pushed_at": "2026-09-19T18:09:03Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1377449135,
+    "url": "https://github.com/zyn-io/zec-multisig"
+  },
+  "schema": "zcash-fast-event/1"
+}
