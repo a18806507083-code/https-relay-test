@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T12:40:56Z",
+    "description": null,
+    "detected_at": "2026-09-19T13:05:41Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "LIUFelix2004/Final-LP",
+    "homepage": null,
+    "html_url": "https://github.com/LIUFelix2004/Final-LP",
+    "pushed_at": "2026-09-19T12:57:17Z",
+    "repo_id": 1377141544,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
