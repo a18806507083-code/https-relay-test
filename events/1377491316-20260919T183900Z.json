@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T18:26:31Z",
+    "description": null,
+    "detected_at": "2026-09-19T18:39:00Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Zmilhakim/Lane-one",
+    "homepage": "https://lane-one-pi.vercel.app",
+    "html_url": "https://github.com/Zmilhakim/Lane-one",
+    "pushed_at": "2026-09-19T18:29:01Z",
+    "repo_id": 1377491316,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
