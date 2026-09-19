@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T20:15:31Z",
+    "detected_at": "2026-09-19T20:58:45Z",
+    "display": "mrrobotcrypto/zaddr",
+    "key": "repo:1377578702",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "mrrobotcrypto/zaddr",
+      "homepage": "https://zaddr-nu.vercel.app",
+      "pushed_at": "2026-09-19T20:20:33Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1377578702,
+    "url": "https://github.com/mrrobotcrypto/zaddr"
+  },
+  "schema": "zcash-fast-event/1"
+}
