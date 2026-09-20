@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T17:58:51.591Z",
+    "detected_at": "2026-09-20T19:14:00Z",
+    "display": "57722 Open sourcing a FROST threshold-custody library for shielded ZEC",
+    "key": "forum:57722",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "open-sourcing-a-frost-threshold-custody-library-for-shielded-zec",
+      "title": "Open sourcing a FROST threshold-custody library for shielded ZEC",
+      "topic_id": 57722
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57722,
+    "url": "https://forum.zcashcommunity.com/t/open-sourcing-a-frost-threshold-custody-library-for-shielded-zec/57722"
+  },
+  "schema": "zcash-fast-event/1"
+}
