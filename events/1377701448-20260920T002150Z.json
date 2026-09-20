@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T23:27:04Z",
+    "description": "Programmable trust vaults for tokenised stocks.",
+    "detected_at": "2026-09-20T00:21:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "HeirloomRH/Heirloom",
+    "homepage": null,
+    "html_url": "https://github.com/HeirloomRH/Heirloom",
+    "pushed_at": "2026-09-19T23:58:00Z",
+    "repo_id": 1377701448,
+    "score": 11,
+    "tech_signals": [
+      "Hook",
+      "RWA/stock",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
