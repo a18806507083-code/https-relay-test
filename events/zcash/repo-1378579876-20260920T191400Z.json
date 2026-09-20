@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T17:03:16Z",
+    "detected_at": "2026-09-20T19:14:00Z",
+    "display": "Zecbit-nft/nscv",
+    "key": "repo:1378579876",
+    "metadata": {
+      "description": "NFTs on Zcash without waiting for the asset layer: an item is an ordinary shielded note, provenance is verified against the chain rather than a registry, and ownership is never public. Byte formats, verification procedure and conformance vectors.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Zecbit-nft/nscv",
+      "homepage": null,
+      "pushed_at": "2026-09-20T17:48:40Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1378579876,
+    "url": "https://github.com/Zecbit-nft/nscv"
+  },
+  "schema": "zcash-fast-event/1"
+}
