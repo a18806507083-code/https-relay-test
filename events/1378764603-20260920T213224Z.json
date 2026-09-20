@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T20:49:58Z",
+    "description": "Budgeted, metered inference for a swarm of agents on one Orbio key \u2014 built for Orbio Build Week",
+    "detected_at": "2026-09-20T21:32:24Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "sammy-XXIV/orbio-mesh",
+    "homepage": null,
+    "html_url": "https://github.com/sammy-XXIV/orbio-mesh",
+    "pushed_at": "2026-09-20T21:11:47Z",
+    "repo_id": 1378764603,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
