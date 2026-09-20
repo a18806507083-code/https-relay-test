@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T23:13:28Z",
+    "description": "Automated, balance-weighted holder lottery on Robinhood Chain. The engine behind hoodball.net.",
+    "detected_at": "2026-09-20T00:21:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "HoodballGH/hoodball",
+    "homepage": "https://hoodball.net",
+    "html_url": "https://github.com/HoodballGH/hoodball",
+    "pushed_at": "2026-09-19T23:43:11Z",
+    "repo_id": 1377693638,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Lending/Vault",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
