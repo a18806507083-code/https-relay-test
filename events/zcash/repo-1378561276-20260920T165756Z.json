@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T16:42:57Z",
+    "detected_at": "2026-09-20T16:57:56Z",
+    "display": "Zecbit-nft/zmd1",
+    "key": "repo:1378561276",
+    "metadata": {
+      "description": "ZMD-1: a metadata standard for NFTs issued as Zcash Shielded Assets, with a reference implementation and conformance vectors",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Zecbit-nft/zmd1",
+      "homepage": null,
+      "pushed_at": "2026-09-20T16:49:03Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1378561276,
+    "url": "https://github.com/Zecbit-nft/zmd1"
+  },
+  "schema": "zcash-fast-event/1"
+}
