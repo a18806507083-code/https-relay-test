@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T15:46:17Z",
+    "description": "Onchain market-session and price-confidence oracle for Robinhood Chain. Stock Tokens trade 24/7; their feeds update 24/5.",
+    "detected_at": "2026-09-20T16:57:36Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "DannyTrillion/nightdesk",
+    "homepage": null,
+    "html_url": "https://github.com/DannyTrillion/nightdesk",
+    "pushed_at": "2026-09-20T16:57:19Z",
+    "repo_id": 1378502581,
+    "score": 22,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
