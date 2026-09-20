@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-20T13:41:09Z",
+  "last_run_at": "2026-09-20T16:57:56Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-20T09:10:48Z",
+      "cutoff": "2026-09-20T13:11:09Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-20T09:10:48Z",
-      "matches": 1,
+      "cutoff": "2026-09-20T13:11:09Z",
+      "matches": 5,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-20T09:10:48Z",
-      "matches": 1,
+      "cutoff": "2026-09-20T13:11:09Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-20T09:10:48Z",
-      "matches": 2,
+      "cutoff": "2026-09-20T13:11:09Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -493,6 +493,46 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/985",
       "first_seen_at": "2026-09-20T13:41:09Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57701": {
+      "created_at": "2026-09-20T13:59:58.487Z",
+      "display": "57701 Trade ZEC Options on Solana",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/999",
+      "first_seen_at": "2026-09-20T16:57:56Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57705": {
+      "created_at": "2026-09-20T14:11:05.657Z",
+      "display": "57705 Grant application: ZIPs For Nerds, one explainer per ZIP",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/998",
+      "first_seen_at": "2026-09-20T16:57:56Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57708": {
+      "created_at": "2026-09-20T14:48:15.110Z",
+      "display": "57708 Accepting responsibility",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/995",
+      "first_seen_at": "2026-09-20T16:57:56Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57712": {
+      "created_at": "2026-09-20T15:34:21.146Z",
+      "display": "57712 Grant Application: Verified Pasta Curve Operations, Poseidon R1CS Constraints, and Folding-Based Recursive Proof Architecture",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/994",
+      "first_seen_at": "2026-09-20T16:57:56Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57718": {
+      "created_at": "2026-09-20T15:53:25.845Z",
+      "display": "57718 Recover an Old Zcash Wallet Before the Sprout Freeze: wallet.dat, zc Addresses and Sprout Recovery",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/992",
+      "first_seen_at": "2026-09-20T16:57:56Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1503,6 +1543,30 @@
       "first_seen_at": "2026-09-20T13:41:09Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1378442380": {
+      "created_at": "2026-09-20T14:45:27Z",
+      "display": "Lexy0825/AI-bot-for-minecraft",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/997",
+      "first_seen_at": "2026-09-20T16:57:56Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1378498222": {
+      "created_at": "2026-09-20T15:41:42Z",
+      "display": "rafi332323/zecbunny",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/993",
+      "first_seen_at": "2026-09-20T16:57:56Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1378561276": {
+      "created_at": "2026-09-20T16:42:57Z",
+      "display": "Zecbit-nft/zmd1",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/991",
+      "first_seen_at": "2026-09-20T16:57:56Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -1662,14 +1726,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/987",
       "first_seen_at": "2026-09-20T13:41:09Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5518503781": {
+      "created_at": "2026-09-20T14:45:55Z",
+      "display": "#436 Grant Application - Verified Pasta Curve Operations, Poseidon R1CS Constraints, and Folding-Based Recursive Proof Architecture",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/996",
+      "first_seen_at": "2026-09-20T16:57:56Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-20T13:41:09Z",
-    "forum": "2026-09-20T13:41:09Z",
-    "github": "2026-09-20T13:41:09Z",
-    "zcg": "2026-09-20T13:41:09Z"
+    "fixed_orgs": "2026-09-20T16:57:56Z",
+    "forum": "2026-09-20T16:57:56Z",
+    "github": "2026-09-20T16:57:56Z",
+    "zcg": "2026-09-20T16:57:56Z"
   }
 }
