@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T19:46:49Z",
+    "description": "redeemable floor pots on robinhood chain. deposit ETH, GLD or NVDA, hold K. creator tax of tokens launched from the pot lands on the floor, floor per K only goes up.",
+    "detected_at": "2026-09-20T21:32:24Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "kickermarkets/kicker-contracts",
+    "homepage": "https://kicker.markets/",
+    "html_url": "https://github.com/kickermarkets/kicker-contracts",
+    "pushed_at": "2026-09-20T20:45:58Z",
+    "repo_id": 1378719360,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
