@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T12:29:36.472Z",
+    "detected_at": "2026-09-20T13:41:09Z",
+    "display": "57698 Grant Application: ZKP & Cryptography Course – 4th Edition",
+    "key": "forum:57698",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zkp-cryptography-course-4th-edition",
+      "title": "Grant Application: ZKP & Cryptography Course – 4th Edition",
+      "topic_id": 57698
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57698,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zkp-cryptography-course-4th-edition/57698"
+  },
+  "schema": "zcash-fast-event/1"
+}
