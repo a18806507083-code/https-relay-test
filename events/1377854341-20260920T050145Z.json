@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T03:20:57Z",
+    "description": null,
+    "detected_at": "2026-09-20T05:01:45Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "sherwoodagent/grokbot-fund-template",
+    "homepage": null,
+    "html_url": "https://github.com/sherwoodagent/grokbot-fund-template",
+    "pushed_at": "2026-09-20T04:45:01Z",
+    "repo_id": 1377854341,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
