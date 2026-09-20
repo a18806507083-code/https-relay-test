@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T14:11:05.657Z",
+    "detected_at": "2026-09-20T16:57:56Z",
+    "display": "57705 Grant application: ZIPs For Nerds, one explainer per ZIP",
+    "key": "forum:57705",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "grant-application-zips-for-nerds-one-explainer-per-zip",
+      "title": "Grant application: ZIPs For Nerds, one explainer per ZIP",
+      "topic_id": 57705
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57705,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zips-for-nerds-one-explainer-per-zip/57705"
+  },
+  "schema": "zcash-fast-event/1"
+}
