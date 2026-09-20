@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T23:35:16Z",
+    "description": "AegisClear \u2014 SLA-backed payment channels for x402/USDG on Robinhood Chain: proportional ZK (Groth16) settlement with private terms & metrics",
+    "detected_at": "2026-09-20T00:21:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "mdlog/AegisClear",
+    "homepage": null,
+    "html_url": "https://github.com/mdlog/AegisClear",
+    "pushed_at": "2026-09-20T00:03:43Z",
+    "repo_id": 1377706356,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
