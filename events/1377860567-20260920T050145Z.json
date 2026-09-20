@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T03:28:39Z",
+    "description": "source code smart contract dari paxel protocol",
+    "detected_at": "2026-09-20T05:01:45Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "novenrizkia856-ui/paxel-contract",
+    "homepage": null,
+    "html_url": "https://github.com/novenrizkia856-ui/paxel-contract",
+    "pushed_at": "2026-09-20T03:29:46Z",
+    "repo_id": 1377860567,
+    "score": 15,
+    "tech_signals": [
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
