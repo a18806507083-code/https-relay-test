@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T14:45:55Z",
+    "detected_at": "2026-09-20T16:57:56Z",
+    "display": "#436 Grant Application - Verified Pasta Curve Operations, Poseidon R1CS Constraints, and Folding-Based Recursive Proof Architecture",
+    "key": "zcg:5518503781",
+    "metadata": {
+      "author": "sarinsk629-blip",
+      "issue_number": 436,
+      "labels": [],
+      "title": "Grant Application - Verified Pasta Curve Operations, Poseidon R1CS Constraints, and Folding-Based Recursive Proof Architecture"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5518503781,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/436"
+  },
+  "schema": "zcash-fast-event/1"
+}
