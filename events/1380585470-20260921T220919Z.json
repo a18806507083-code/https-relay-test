@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T22:02:19Z",
+    "description": "A Unitree G1 humanoid learning to walk in public. Twenty-nine joints, twenty-nine seats, every generation published with its hashes.",
+    "detected_at": "2026-09-21T22:09:19Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "BasltionLabs/basltion",
+    "homepage": "https://basltion.com",
+    "html_url": "https://github.com/BasltionLabs/basltion",
+    "pushed_at": "2026-09-21T22:02:31Z",
+    "repo_id": 1380585470,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
