@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T18:04:30Z",
+    "description": null,
+    "detected_at": "2026-09-21T18:35:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "liakh10/syntrol",
+    "homepage": null,
+    "html_url": "https://github.com/liakh10/syntrol",
+    "pushed_at": "2026-09-21T18:04:35Z",
+    "repo_id": 1380282471,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
