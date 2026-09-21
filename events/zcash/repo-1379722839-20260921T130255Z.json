@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T12:46:01Z",
+    "detected_at": "2026-09-21T13:02:55Z",
+    "display": "yasarkar/BitFoots-The-Cryptid-Institute",
+    "key": "repo:1379722839",
+    "metadata": {
+      "description": "🌲 Retro-arcade cryptid recon game & verifiable on-chain telemetry platform built for the @BITFOOTS_ ecosystem. Powered by Next.js 14, Phaser 3, and Zcash Shielded ZK proofs.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "yasarkar/BitFoots-The-Cryptid-Institute",
+      "homepage": null,
+      "pushed_at": "2026-09-21T12:48:50Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1379722839,
+    "url": "https://github.com/yasarkar/BitFoots-The-Cryptid-Institute"
+  },
+  "schema": "zcash-fast-event/1"
+}
