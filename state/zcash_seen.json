@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-21T01:17:07Z",
+  "last_run_at": "2026-09-21T06:24:21Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-20T22:55:31Z",
+      "cutoff": "2026-09-21T00:47:07Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-20T22:55:31Z",
+      "cutoff": "2026-09-21T00:47:07Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-20T22:55:31Z",
-      "matches": 1,
+      "cutoff": "2026-09-21T00:47:07Z",
+      "matches": 5,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-20T22:55:31Z",
-      "matches": 0,
+      "cutoff": "2026-09-21T00:47:07Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -1639,6 +1639,46 @@
       "first_seen_at": "2026-09-21T01:17:07Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1378955448": {
+      "created_at": "2026-09-21T01:49:54Z",
+      "display": "gaylandresident/sigillaunch",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1032",
+      "first_seen_at": "2026-09-21T06:24:21Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1379005537": {
+      "created_at": "2026-09-21T02:56:50Z",
+      "display": "zkeycash/zkey",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1030",
+      "first_seen_at": "2026-09-21T06:24:21Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1379035813": {
+      "created_at": "2026-09-21T03:33:04Z",
+      "display": "cryptoresetlife/ZEC-Desk",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1029",
+      "first_seen_at": "2026-09-21T06:24:21Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1379132943": {
+      "created_at": "2026-09-21T05:22:47Z",
+      "display": "fobofamily/veil-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1028",
+      "first_seen_at": "2026-09-21T06:24:21Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1379154048": {
+      "created_at": "2026-09-21T05:43:57Z",
+      "display": "zNik0/zBridge",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1027",
+      "first_seen_at": "2026-09-21T06:24:21Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -1806,14 +1846,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/996",
       "first_seen_at": "2026-09-20T16:57:56Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5522049609": {
+      "created_at": "2026-09-21T02:25:26Z",
+      "display": "#437 Grant Application - Zcash Selected-Payment Receipts SDK",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1031",
+      "first_seen_at": "2026-09-21T06:24:21Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-21T01:17:07Z",
-    "forum": "2026-09-21T01:17:07Z",
-    "github": "2026-09-21T01:17:07Z",
-    "zcg": "2026-09-21T01:17:07Z"
+    "fixed_orgs": "2026-09-21T06:24:21Z",
+    "forum": "2026-09-21T06:24:21Z",
+    "github": "2026-09-21T06:24:21Z",
+    "zcg": "2026-09-21T06:24:21Z"
   }
 }
