@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T23:25:22Z",
+    "description": "Public engineering record for TogetherFi across Arbitrum, Robinhood Chain, AI, creator intelligence, and Web3 product systems.",
+    "detected_at": "2026-09-21T01:16:48Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "AGDAO/togetherfi-engineering-showcase",
+    "homepage": null,
+    "html_url": "https://github.com/AGDAO/togetherfi-engineering-showcase",
+    "pushed_at": "2026-09-20T23:33:38Z",
+    "repo_id": 1378861046,
+    "score": 5,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
