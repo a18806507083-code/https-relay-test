@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T11:27:43Z",
+    "detected_at": "2026-09-21T13:02:55Z",
+    "display": "cesschneider/colosseum-hackathon",
+    "key": "repo:1379598309",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "cesschneider/colosseum-hackathon",
+      "homepage": null,
+      "pushed_at": "2026-09-21T11:37:19Z",
+      "tech_signals": [
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1379598309,
+    "url": "https://github.com/cesschneider/colosseum-hackathon"
+  },
+  "schema": "zcash-fast-event/1"
+}
