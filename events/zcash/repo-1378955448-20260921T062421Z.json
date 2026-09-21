@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T01:49:54Z",
+    "detected_at": "2026-09-21T06:24:21Z",
+    "display": "gaylandresident/sigillaunch",
+    "key": "repo:1378955448",
+    "metadata": {
+      "description": "SIGIL — burn-to-certificate launchpad on Robinhood Chain with ZIP-227 ZSA migration path",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "gaylandresident/sigillaunch",
+      "homepage": null,
+      "pushed_at": "2026-09-21T05:41:49Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1378955448,
+    "url": "https://github.com/gaylandresident/sigillaunch"
+  },
+  "schema": "zcash-fast-event/1"
+}
