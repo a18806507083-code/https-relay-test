@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T18:53:19Z",
+    "detected_at": "2026-09-21T22:09:52Z",
+    "display": "giosci1994/rejuvenation-ita-patch",
+    "key": "repo:1380358940",
+    "metadata": {
+      "description": "🇮🇹 Complete unofficial Italian translation patch for Pokémon Rejuvenation — 99.9% of the game's text",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "giosci1994/rejuvenation-ita-patch",
+      "homepage": "https://giosci1994.github.io/rejuvenation-ita-patch/",
+      "pushed_at": "2026-09-21T21:56:12Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1380358940,
+    "url": "https://github.com/giosci1994/rejuvenation-ita-patch"
+  },
+  "schema": "zcash-fast-event/1"
+}
