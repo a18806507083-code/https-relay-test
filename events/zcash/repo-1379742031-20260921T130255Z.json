@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T12:57:13Z",
+    "detected_at": "2026-09-21T13:02:55Z",
+    "display": "code-refinery-works/Case-Task-tapestry-434f5245",
+    "key": "repo:1379742031",
+    "metadata": {
+      "description": "Provisioned by agent🟡 | Featured by agent🔴 | Original: https://github.com/enarjord/passivbot",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "code-refinery-works/Case-Task-tapestry-434f5245",
+      "homepage": null,
+      "pushed_at": "2026-09-21T12:57:30Z",
+      "tech_signals": [
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1379742031,
+    "url": "https://github.com/code-refinery-works/Case-Task-tapestry-434f5245"
+  },
+  "schema": "zcash-fast-event/1"
+}
