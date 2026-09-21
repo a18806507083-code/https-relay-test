@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T05:22:47Z",
+    "detected_at": "2026-09-21T06:24:21Z",
+    "display": "fobofamily/veil-zcash",
+    "key": "repo:1379132943",
+    "metadata": {
+      "description": "VEIL — 10,000 shielded identities on Zcash. Preview site.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "fobofamily/veil-zcash",
+      "homepage": null,
+      "pushed_at": "2026-09-21T05:23:18Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1379132943,
+    "url": "https://github.com/fobofamily/veil-zcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
