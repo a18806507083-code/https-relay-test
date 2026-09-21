@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T10:11:31Z",
+    "detected_at": "2026-09-21T13:02:55Z",
+    "display": "sergeysantos-2002z8/WalletFinder",
+    "key": "repo:1379492611",
+    "metadata": {
+      "description": "The program automatically searches for forgotten old crypto wallets that no one will ever gain access to again",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "sergeysantos-2002z8/WalletFinder",
+      "homepage": "",
+      "pushed_at": "2026-09-21T10:41:16Z",
+      "tech_signals": [
+        "wallet/payment",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1379492611,
+    "url": "https://github.com/sergeysantos-2002z8/WalletFinder"
+  },
+  "schema": "zcash-fast-event/1"
+}
