@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-21T18:35:59Z",
+  "last_run_at": "2026-09-21T22:09:52Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-21T12:32:55Z",
+      "cutoff": "2026-09-21T18:05:59Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-21T12:32:55Z",
-      "matches": 3,
+      "cutoff": "2026-09-21T18:05:59Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-21T12:32:55Z",
-      "matches": 4,
+      "cutoff": "2026-09-21T18:05:59Z",
+      "matches": 5,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-21T12:32:55Z",
-      "matches": 1,
+      "cutoff": "2026-09-21T18:05:59Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -1783,6 +1783,38 @@
       "first_seen_at": "2026-09-21T18:35:59Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1380358940": {
+      "created_at": "2026-09-21T18:53:19Z",
+      "display": "giosci1994/rejuvenation-ita-patch",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1069",
+      "first_seen_at": "2026-09-21T22:09:52Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1380433905": {
+      "created_at": "2026-09-21T19:44:03Z",
+      "display": "Tejanadh/underconstrained-killbox",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1068",
+      "first_seen_at": "2026-09-21T22:09:52Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1380459838": {
+      "created_at": "2026-09-21T20:03:30Z",
+      "display": "nikonovaleksandr443-dev/Zec-Fund",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1067",
+      "first_seen_at": "2026-09-21T22:09:52Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1380579730": {
+      "created_at": "2026-09-21T21:55:02Z",
+      "display": "youjiji0310/zecghost",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1066",
+      "first_seen_at": "2026-09-21T22:09:52Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -1971,9 +2003,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-21T18:35:59Z",
-    "forum": "2026-09-21T18:35:59Z",
-    "github": "2026-09-21T18:35:59Z",
-    "zcg": "2026-09-21T18:35:59Z"
+    "fixed_orgs": "2026-09-21T22:09:52Z",
+    "forum": "2026-09-21T22:09:52Z",
+    "github": "2026-09-21T22:09:52Z",
+    "zcg": "2026-09-21T22:09:52Z"
   }
 }
