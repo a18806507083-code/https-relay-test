@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-21T06:24:21Z",
+  "last_run_at": "2026-09-21T13:02:55Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-21T00:47:07Z",
+      "cutoff": "2026-09-21T05:54:21Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-21T00:47:07Z",
-      "matches": 0,
+      "cutoff": "2026-09-21T05:54:21Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-21T00:47:07Z",
-      "matches": 5,
+      "cutoff": "2026-09-21T05:54:21Z",
+      "matches": 7,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-21T00:47:07Z",
-      "matches": 1,
+      "cutoff": "2026-09-21T05:54:21Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -549,6 +549,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1004",
       "first_seen_at": "2026-09-20T19:14:00Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57724": {
+      "created_at": "2026-09-21T12:47:41.280Z",
+      "display": "57724 Grant Application - Zebra: auditing and closing the peer-supplied-count allocation class",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1040",
+      "first_seen_at": "2026-09-21T13:02:55Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1679,6 +1687,62 @@
       "first_seen_at": "2026-09-21T06:24:21Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1379360997": {
+      "created_at": "2026-09-21T08:29:48Z",
+      "display": "cran11x/zkduck",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1046",
+      "first_seen_at": "2026-09-21T13:02:55Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1379461290": {
+      "created_at": "2026-09-21T09:46:00Z",
+      "display": "Bhargav-2007/dw-tads",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1045",
+      "first_seen_at": "2026-09-21T13:02:55Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1379492611": {
+      "created_at": "2026-09-21T10:11:31Z",
+      "display": "sergeysantos-2002z8/WalletFinder",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1044",
+      "first_seen_at": "2026-09-21T13:02:55Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1379522471": {
+      "created_at": "2026-09-21T10:34:32Z",
+      "display": "daniel170999/zecat-site",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1043",
+      "first_seen_at": "2026-09-21T13:02:55Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1379598309": {
+      "created_at": "2026-09-21T11:27:43Z",
+      "display": "cesschneider/colosseum-hackathon",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1042",
+      "first_seen_at": "2026-09-21T13:02:55Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1379722839": {
+      "created_at": "2026-09-21T12:46:01Z",
+      "display": "yasarkar/BitFoots-The-Cryptid-Institute",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1041",
+      "first_seen_at": "2026-09-21T13:02:55Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1379742031": {
+      "created_at": "2026-09-21T12:57:13Z",
+      "display": "code-refinery-works/Case-Task-tapestry-434f5245",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1039",
+      "first_seen_at": "2026-09-21T13:02:55Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -1859,9 +1923,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-21T06:24:21Z",
-    "forum": "2026-09-21T06:24:21Z",
-    "github": "2026-09-21T06:24:21Z",
-    "zcg": "2026-09-21T06:24:21Z"
+    "fixed_orgs": "2026-09-21T13:02:55Z",
+    "forum": "2026-09-21T13:02:55Z",
+    "github": "2026-09-21T13:02:55Z",
+    "zcg": "2026-09-21T13:02:55Z"
   }
 }
