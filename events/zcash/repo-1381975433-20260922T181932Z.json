@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T16:53:34Z",
+    "detected_at": "2026-09-22T18:19:32Z",
+    "display": "Pranav-1116/ZWA-protocol",
+    "key": "repo:1381975433",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Pranav-1116/ZWA-protocol",
+      "homepage": null,
+      "pushed_at": "2026-09-22T16:54:35Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1381975433,
+    "url": "https://github.com/Pranav-1116/ZWA-protocol"
+  },
+  "schema": "zcash-fast-event/1"
+}
