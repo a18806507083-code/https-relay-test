@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T08:21:44.728Z",
+    "detected_at": "2026-09-22T10:08:38Z",
+    "display": "57741 Grant Application - P2P Cash-to-ZEC Onboarding via Bank CDMs",
+    "key": "forum:57741",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-p2p-cash-to-zec-onboarding-via-bank-cdms",
+      "title": "Grant Application - P2P Cash-to-ZEC Onboarding via Bank CDMs",
+      "topic_id": 57741
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57741,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-p2p-cash-to-zec-onboarding-via-bank-cdms/57741"
+  },
+  "schema": "zcash-fast-event/1"
+}
