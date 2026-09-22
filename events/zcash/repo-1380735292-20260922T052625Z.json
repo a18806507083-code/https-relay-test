@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T01:48:23Z",
+    "detected_at": "2026-09-22T05:26:25Z",
+    "display": "genio0091/zecminers",
+    "key": "repo:1380735292",
+    "metadata": {
+      "description": "yeah",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "genio0091/zecminers",
+      "homepage": null,
+      "pushed_at": "2026-09-22T03:31:28Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1380735292,
+    "url": "https://github.com/genio0091/zecminers"
+  },
+  "schema": "zcash-fast-event/1"
+}
