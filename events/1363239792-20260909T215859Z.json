@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T21:38:21Z",
+    "description": "NASDANK Uniswap v4 fee hooks (Robinhood Chain 4663): source + exact standard-JSON inputs, for the Uniswap routing-allowlist review",
+    "detected_at": "2026-09-09T21:58:59Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Gli2merArtisan/nasdank-v4-hooks",
+    "homepage": null,
+    "html_url": "https://github.com/Gli2merArtisan/nasdank-v4-hooks",
+    "pushed_at": "2026-09-09T21:38:25Z",
+    "repo_id": 1363239792,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
