@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-22T10:08:38Z",
+  "last_run_at": "2026-09-22T14:46:41Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-22T04:56:25Z",
+      "cutoff": "2026-09-22T09:38:38Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-22T04:56:25Z",
+      "cutoff": "2026-09-22T09:38:38Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-22T04:56:25Z",
-      "matches": 0,
+      "cutoff": "2026-09-22T09:38:38Z",
+      "matches": 6,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-22T04:56:25Z",
-      "matches": 0,
+      "cutoff": "2026-09-22T09:38:38Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -581,6 +581,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1094",
       "first_seen_at": "2026-09-22T10:08:38Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57749": {
+      "created_at": "2026-09-22T13:10:56.164Z",
+      "display": "57749 Grant Application - Zebra-Native Non-Custodial Mining Stack (RobotBase)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1104",
+      "first_seen_at": "2026-09-22T14:46:41Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1839,6 +1847,54 @@
       "first_seen_at": "2026-09-22T05:26:25Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1381267463": {
+      "created_at": "2026-09-22T10:20:28Z",
+      "display": "Sbri0110/atlante-no-mans-sky-save-editor",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1110",
+      "first_seen_at": "2026-09-22T14:46:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1381375596": {
+      "created_at": "2026-09-22T11:33:28Z",
+      "display": "Harshit5691/parametric-crop",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1109",
+      "first_seen_at": "2026-09-22T14:46:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1381437113": {
+      "created_at": "2026-09-22T12:09:16Z",
+      "display": "Swarm-Official/swarm-releases",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1108",
+      "first_seen_at": "2026-09-22T14:46:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1381515790": {
+      "created_at": "2026-09-22T12:48:43Z",
+      "display": "mellor28/cycle-potential",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1106",
+      "first_seen_at": "2026-09-22T14:46:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1381551361": {
+      "created_at": "2026-09-22T13:05:20Z",
+      "display": "zucchini-wallet/open-zcash-merchant-payments",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1105",
+      "first_seen_at": "2026-09-22T14:46:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1381576462": {
+      "created_at": "2026-09-22T13:17:54Z",
+      "display": "cran11x/ZcashSociety",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1103",
+      "first_seen_at": "2026-09-22T14:46:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -2022,14 +2078,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1059",
       "first_seen_at": "2026-09-21T18:35:59Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5539586466": {
+      "created_at": "2026-09-22T12:31:06Z",
+      "display": "#439 Grant Application - Zebra-Native Non-Custodial Mining Stack (RobotBase)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1107",
+      "first_seen_at": "2026-09-22T14:46:41Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5540825811": {
+      "created_at": "2026-09-22T14:14:19Z",
+      "display": "#441 Grant Application - Bitcointalk Signature Campaign & ZEC Community Engagement — 3 Months",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1102",
+      "first_seen_at": "2026-09-22T14:46:41Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-22T10:08:38Z",
-    "forum": "2026-09-22T10:08:38Z",
-    "github": "2026-09-22T10:08:38Z",
-    "zcg": "2026-09-22T10:08:38Z"
+    "fixed_orgs": "2026-09-22T14:46:41Z",
+    "forum": "2026-09-22T14:46:41Z",
+    "github": "2026-09-22T14:46:41Z",
+    "zcg": "2026-09-22T14:46:41Z"
   }
 }
