@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T23:17:41Z",
+    "description": null,
+    "detected_at": "2026-09-22T23:38:50Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "402Protocol/402",
+    "homepage": null,
+    "html_url": "https://github.com/402Protocol/402",
+    "pushed_at": "2026-09-22T23:24:23Z",
+    "repo_id": 1382457819,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
