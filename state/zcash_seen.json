@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-22T00:47:17Z",
+  "last_run_at": "2026-09-22T05:26:25Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-21T21:39:52Z",
+      "cutoff": "2026-09-22T00:17:17Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-21T21:39:52Z",
+      "cutoff": "2026-09-22T00:17:17Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-21T21:39:52Z",
+      "cutoff": "2026-09-22T00:17:17Z",
       "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-21T21:39:52Z",
+      "cutoff": "2026-09-22T00:17:17Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -1823,6 +1823,14 @@
       "first_seen_at": "2026-09-22T00:47:17Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1380735292": {
+      "created_at": "2026-09-22T01:48:23Z",
+      "display": "genio0091/zecminers",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1085",
+      "first_seen_at": "2026-09-22T05:26:25Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -2011,9 +2019,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-22T00:47:17Z",
-    "forum": "2026-09-22T00:47:17Z",
-    "github": "2026-09-22T00:47:17Z",
-    "zcg": "2026-09-22T00:47:17Z"
+    "fixed_orgs": "2026-09-22T05:26:25Z",
+    "forum": "2026-09-22T05:26:25Z",
+    "github": "2026-09-22T05:26:25Z",
+    "zcg": "2026-09-22T05:26:25Z"
   }
 }
