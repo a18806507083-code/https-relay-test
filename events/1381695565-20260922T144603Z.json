@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T14:20:35Z",
+    "description": null,
+    "detected_at": "2026-09-22T14:46:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "VoxLaunchpad/.github",
+    "homepage": null,
+    "html_url": "https://github.com/VoxLaunchpad/.github",
+    "pushed_at": "2026-09-22T14:21:05Z",
+    "repo_id": 1381695565,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
