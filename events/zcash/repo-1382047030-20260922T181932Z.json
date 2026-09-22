@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T17:32:34Z",
+    "detected_at": "2026-09-22T18:19:32Z",
+    "display": "serie77/elysian",
+    "key": "repo:1382047030",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "serie77/elysian",
+      "homepage": null,
+      "pushed_at": "2026-09-22T17:44:50Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1382047030,
+    "url": "https://github.com/serie77/elysian"
+  },
+  "schema": "zcash-fast-event/1"
+}
