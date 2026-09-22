@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T17:14:03Z",
+    "description": null,
+    "detected_at": "2026-09-22T18:18:49Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Judemonie/listpad-assets",
+    "homepage": null,
+    "html_url": "https://github.com/Judemonie/listpad-assets",
+    "pushed_at": "2026-09-22T17:28:22Z",
+    "repo_id": 1382011393,
+    "score": 5,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
