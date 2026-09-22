@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T19:57:22.546Z",
+    "detected_at": "2026-09-22T21:24:26Z",
+    "display": "57757 Zecd v0.8.0: Faster sync, and now a library",
+    "key": "forum:57757",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zecd-v0-8-0-faster-sync-and-now-a-library",
+      "title": "Zecd v0.8.0: Faster sync, and now a library",
+      "topic_id": 57757
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57757,
+    "url": "https://forum.zcashcommunity.com/t/zecd-v0-8-0-faster-sync-and-now-a-library/57757"
+  },
+  "schema": "zcash-fast-event/1"
+}
