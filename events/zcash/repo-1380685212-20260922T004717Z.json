@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T00:36:13Z",
+    "detected_at": "2026-09-22T00:47:17Z",
+    "display": "NachoLLMJS/unicash-bnb",
+    "key": "repo:1380685212",
+    "metadata": {
+      "description": "Unicash BNB — ZEC-settled NFT marketplace frontend with Uniswap v4 hook architecture",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "NachoLLMJS/unicash-bnb",
+      "homepage": "https://unicash-bnb.vercel.app",
+      "pushed_at": "2026-09-22T00:38:09Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1380685212,
+    "url": "https://github.com/NachoLLMJS/unicash-bnb"
+  },
+  "schema": "zcash-fast-event/1"
+}
