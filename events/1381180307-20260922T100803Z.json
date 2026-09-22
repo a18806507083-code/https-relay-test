@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T09:14:00Z",
+    "description": "Chrome MV3 extension that turns any public post in the timeline into a coin without leaving the feed. Hover, claim, confirm in your wallet. One post, one coin, forever, and the account that wrote the post is paid out of every trade. Built on Robinhood Chain.",
+    "detected_at": "2026-09-22T10:08:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "xclaimRH/xclaim-extension",
+    "homepage": null,
+    "html_url": "https://github.com/xclaimRH/xclaim-extension",
+    "pushed_at": "2026-09-22T09:17:47Z",
+    "repo_id": 1381180307,
+    "score": 8,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
