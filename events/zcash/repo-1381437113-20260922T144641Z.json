@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T12:09:16Z",
+    "detected_at": "2026-09-22T14:46:41Z",
+    "display": "Swarm-Official/swarm-releases",
+    "key": "repo:1381437113",
+    "metadata": {
+      "description": "SWARM testnet downloads: verified, unsigned test builds. Test coins, no value. Official channels: swarm.green",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "Swarm-Official/swarm-releases",
+      "homepage": null,
+      "pushed_at": "2026-09-22T14:25:12Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1381437113,
+    "url": "https://github.com/Swarm-Official/swarm-releases"
+  },
+  "schema": "zcash-fast-event/1"
+}
