@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T15:03:32.185Z",
+    "detected_at": "2026-09-22T18:19:32Z",
+    "display": "57752 Grant Application - Bitcointalk Signature Campaign & ZEC Community Engagement — 3 Months",
+    "key": "forum:57752",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-bitcointalk-signature-campaign-zec-community-engagement-3-months",
+      "title": "Grant Application - Bitcointalk Signature Campaign & ZEC Community Engagement — 3 Months",
+      "topic_id": 57752
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57752,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-bitcointalk-signature-campaign-zec-community-engagement-3-months/57752"
+  },
+  "schema": "zcash-fast-event/1"
+}
