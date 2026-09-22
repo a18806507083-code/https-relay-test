@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-22T18:19:32Z",
+  "last_run_at": "2026-09-22T21:24:26Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-22T14:16:41Z",
+      "cutoff": "2026-09-22T17:49:32Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-22T14:16:41Z",
-      "matches": 1,
+      "cutoff": "2026-09-22T17:49:32Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-22T14:16:41Z",
-      "matches": 3,
+      "cutoff": "2026-09-22T17:49:32Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-22T14:16:41Z",
+      "cutoff": "2026-09-22T17:49:32Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -597,6 +597,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1122",
       "first_seen_at": "2026-09-22T18:19:32Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57756": {
+      "created_at": "2026-09-22T18:40:58.156Z",
+      "display": "57756 ZF Engineering Update: 7 - 20 September 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1129",
+      "first_seen_at": "2026-09-22T21:24:26Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57757": {
+      "created_at": "2026-09-22T19:57:22.546Z",
+      "display": "57757 Zecd v0.8.0: Faster sync, and now a library",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1127",
+      "first_seen_at": "2026-09-22T21:24:26Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1927,6 +1943,14 @@
       "first_seen_at": "2026-09-22T18:19:32Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1382242323": {
+      "created_at": "2026-09-22T19:31:03Z",
+      "display": "cran11x/zcash-ape",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1128",
+      "first_seen_at": "2026-09-22T21:24:26Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -2131,9 +2155,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-22T18:19:32Z",
-    "forum": "2026-09-22T18:19:32Z",
-    "github": "2026-09-22T18:19:32Z",
-    "zcg": "2026-09-22T18:19:32Z"
+    "fixed_orgs": "2026-09-22T21:24:26Z",
+    "forum": "2026-09-22T21:24:26Z",
+    "github": "2026-09-22T21:24:26Z",
+    "zcg": "2026-09-22T21:24:26Z"
   }
 }
