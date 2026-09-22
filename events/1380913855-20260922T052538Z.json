@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T05:18:42Z",
+    "description": "Uniswap v4 hook that prices the hours the stock market is closed \u2014 for tokenized equities on Robinhood Chain.",
+    "detected_at": "2026-09-22T05:25:38Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "Bytethebuilder/gapguard",
+    "homepage": "https://gapguard-one.vercel.app",
+    "html_url": "https://github.com/Bytethebuilder/gapguard",
+    "pushed_at": "2026-09-22T05:20:22Z",
+    "repo_id": 1380913855,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
