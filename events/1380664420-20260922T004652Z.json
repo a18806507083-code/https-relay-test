@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T00:02:56Z",
+    "description": "Private credit layer for tokenized assets: contracts, keeper, monitor, indexer",
+    "detected_at": "2026-09-22T00:46:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "safixlabs/safix",
+    "homepage": null,
+    "html_url": "https://github.com/safixlabs/safix",
+    "pushed_at": "2026-09-22T00:03:05Z",
+    "repo_id": 1380664420,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
