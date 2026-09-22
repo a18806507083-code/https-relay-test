@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T16:46:51Z",
+    "description": null,
+    "detected_at": "2026-09-22T18:18:49Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "moassfund/moass-fund",
+    "homepage": null,
+    "html_url": "https://github.com/moassfund/moass-fund",
+    "pushed_at": "2026-09-22T16:56:19Z",
+    "repo_id": 1381964113,
+    "score": 12,
+    "tech_signals": [
+      "Morpho",
+      "Uniswap",
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
