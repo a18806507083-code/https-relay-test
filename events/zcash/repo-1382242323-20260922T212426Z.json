@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T19:31:03Z",
+    "detected_at": "2026-09-22T21:24:26Z",
+    "display": "cran11x/zcash-ape",
+    "key": "repo:1382242323",
+    "metadata": {
+      "description": "ZAPE -- Zcash Ape meme site. Shielded supply. 100% spin.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "cran11x/zcash-ape",
+      "homepage": null,
+      "pushed_at": "2026-09-22T19:31:08Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1382242323,
+    "url": "https://github.com/cran11x/zcash-ape"
+  },
+  "schema": "zcash-fast-event/1"
+}
