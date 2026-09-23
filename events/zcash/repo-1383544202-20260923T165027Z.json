@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-23T13:52:24Z",
+    "detected_at": "2026-09-23T16:50:27Z",
+    "display": "CodeMongerrr/mirror",
+    "key": "repo:1383544202",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "CodeMongerrr/mirror",
+      "homepage": null,
+      "pushed_at": "2026-09-23T13:52:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1383544202,
+    "url": "https://github.com/CodeMongerrr/mirror"
+  },
+  "schema": "zcash-fast-event/1"
+}
