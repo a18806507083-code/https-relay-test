@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-23T13:08:56.920Z",
+    "detected_at": "2026-09-23T16:50:27Z",
+    "display": "57767 Choosing a Zcash wallet: what should beginners check?",
+    "key": "forum:57767",
+    "metadata": {
+      "category_id": 17,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "choosing-a-zcash-wallet-what-should-beginners-check",
+      "title": "Choosing a Zcash wallet: what should beginners check?",
+      "topic_id": 57767
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57767,
+    "url": "https://forum.zcashcommunity.com/t/choosing-a-zcash-wallet-what-should-beginners-check/57767"
+  },
+  "schema": "zcash-fast-event/1"
+}
