@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-23T20:55:55Z",
+    "description": "Fund1 + Fund1Share \u2014 tokenized single-manager funds on Robinhood Chain, as a Uniswap v4 hook. Oracle-free NAV, no vault wrapper.",
+    "detected_at": "2026-09-23T22:29:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "merlo-team/fund1-contracts",
+    "homepage": "https://fund1.io",
+    "html_url": "https://github.com/merlo-team/fund1-contracts",
+    "pushed_at": "2026-09-23T20:56:58Z",
+    "repo_id": 1384190338,
+    "score": 25,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
