@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T13:58:33Z",
+    "detected_at": "2026-09-21T18:35:59Z",
+    "display": "#438 Grant Application - Human readable version of Ironwood formal verification, first steps - bulletproofs in the AGM",
+    "key": "zcg:5527975762",
+    "metadata": {
+      "author": "arielgabizon",
+      "issue_number": 438,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Grant Application - Human readable version of Ironwood formal verification, first steps - bulletproofs in the AGM"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5527975762,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/438"
+  },
+  "schema": "zcash-fast-event/1"
+}
