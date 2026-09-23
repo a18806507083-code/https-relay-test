@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-23T01:13:27Z",
+    "description": null,
+    "detected_at": "2026-09-23T01:44:53Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "agentwaresh/agentware-cursor",
+    "homepage": null,
+    "html_url": "https://github.com/agentwaresh/agentware-cursor",
+    "pushed_at": "2026-09-23T01:17:47Z",
+    "repo_id": 1382542120,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
