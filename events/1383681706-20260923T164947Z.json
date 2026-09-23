@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-23T15:08:10Z",
+    "description": null,
+    "detected_at": "2026-09-23T16:49:47Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "paulo16f/Disaster",
+    "homepage": null,
+    "html_url": "https://github.com/paulo16f/Disaster",
+    "pushed_at": "2026-09-23T15:28:37Z",
+    "repo_id": 1383681706,
+    "score": 5,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
