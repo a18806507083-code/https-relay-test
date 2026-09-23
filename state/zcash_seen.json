@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-23T12:08:10Z",
+  "last_run_at": "2026-09-23T16:50:27Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-23T06:11:32Z",
+      "cutoff": "2026-09-23T11:38:10Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-23T06:11:32Z",
-      "matches": 2,
+      "cutoff": "2026-09-23T11:38:10Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-23T06:11:32Z",
-      "matches": 0,
+      "cutoff": "2026-09-23T11:38:10Z",
+      "matches": 5,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-23T06:11:32Z",
+      "cutoff": "2026-09-23T11:38:10Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -629,6 +629,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1147",
       "first_seen_at": "2026-09-23T12:08:10Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57767": {
+      "created_at": "2026-09-23T13:08:56.920Z",
+      "display": "57767 Choosing a Zcash wallet: what should beginners check?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1163",
+      "first_seen_at": "2026-09-23T16:50:27Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -1975,6 +1983,46 @@
       "first_seen_at": "2026-09-23T06:41:32Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1383450045": {
+      "created_at": "2026-09-23T12:56:22Z",
+      "display": "afnansaid/zec-atlas",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1164",
+      "first_seen_at": "2026-09-23T16:50:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1383544202": {
+      "created_at": "2026-09-23T13:52:24Z",
+      "display": "CodeMongerrr/mirror",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1162",
+      "first_seen_at": "2026-09-23T16:50:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1383659781": {
+      "created_at": "2026-09-23T14:55:32Z",
+      "display": "erenyegit/zec-header-inspector",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1161",
+      "first_seen_at": "2026-09-23T16:50:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1383679214": {
+      "created_at": "2026-09-23T15:06:43Z",
+      "display": "w-cash/wizor",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1160",
+      "first_seen_at": "2026-09-23T16:50:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1383747030": {
+      "created_at": "2026-09-23T15:46:46Z",
+      "display": "sova-chain/sova",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1159",
+      "first_seen_at": "2026-09-23T16:50:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -2179,9 +2227,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-23T12:08:10Z",
-    "forum": "2026-09-23T12:08:10Z",
-    "github": "2026-09-23T12:08:10Z",
-    "zcg": "2026-09-23T12:08:10Z"
+    "fixed_orgs": "2026-09-23T16:50:27Z",
+    "forum": "2026-09-23T16:50:27Z",
+    "github": "2026-09-23T16:50:27Z",
+    "zcg": "2026-09-23T16:50:27Z"
   }
 }
