@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T11:32:27.532Z",
+    "detected_at": "2026-09-24T15:07:33Z",
+    "display": "57789 Zebra 6.4.0 and 6.4.1: Security Fixes, Light Client Serving, and NU7 Preparation",
+    "key": "forum:57789",
+    "metadata": {
+      "category_id": 21,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zebra-6-4-0-and-6-4-1-security-fixes-light-client-serving-and-nu7-preparation",
+      "title": "Zebra 6.4.0 and 6.4.1: Security Fixes, Light Client Serving, and NU7 Preparation",
+      "topic_id": 57789
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57789,
+    "url": "https://forum.zcashcommunity.com/t/zebra-6-4-0-and-6-4-1-security-fixes-light-client-serving-and-nu7-preparation/57789"
+  },
+  "schema": "zcash-fast-event/1"
+}
