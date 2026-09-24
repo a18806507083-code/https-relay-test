@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T21:28:14.854Z",
+    "detected_at": "2026-09-24T22:12:29Z",
+    "display": "57796 Grant Application - Zcash Africa Privacy Engineering Residency Pilot — Web3Bridge",
+    "key": "forum:57796",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-africa-privacy-engineering-residency-pilot-web3bridge",
+      "title": "Grant Application - Zcash Africa Privacy Engineering Residency Pilot — Web3Bridge",
+      "topic_id": 57796
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57796,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-africa-privacy-engineering-residency-pilot-web3bridge/57796"
+  },
+  "schema": "zcash-fast-event/1"
+}
