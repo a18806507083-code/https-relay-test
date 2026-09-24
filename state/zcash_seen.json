@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-24T10:15:10Z",
+  "last_run_at": "2026-09-24T15:07:33Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-24T04:55:36Z",
+      "cutoff": "2026-09-24T09:45:10Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-24T04:55:36Z",
-      "matches": 0,
+      "cutoff": "2026-09-24T09:45:10Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-24T04:55:36Z",
+      "cutoff": "2026-09-24T09:45:10Z",
       "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-24T04:55:36Z",
+      "cutoff": "2026-09-24T09:45:10Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -653,6 +653,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1175",
       "first_seen_at": "2026-09-23T22:29:24Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57789": {
+      "created_at": "2026-09-24T11:32:27.532Z",
+      "display": "57789 Zebra 6.4.0 and 6.4.1: Security Fixes, Light Client Serving, and NU7 Preparation",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1201",
+      "first_seen_at": "2026-09-24T15:07:33Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -2103,6 +2111,22 @@
       "first_seen_at": "2026-09-24T10:15:10Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1385345416": {
+      "created_at": "2026-09-24T11:31:52Z",
+      "display": "Davide6414/gioco_da_cesso",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1202",
+      "first_seen_at": "2026-09-24T15:07:33Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1385393214": {
+      "created_at": "2026-09-24T11:56:47Z",
+      "display": "nymtech/nym-rpc",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1200",
+      "first_seen_at": "2026-09-24T15:07:33Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -2315,9 +2339,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-24T10:15:10Z",
-    "forum": "2026-09-24T10:15:10Z",
-    "github": "2026-09-24T10:15:10Z",
-    "zcg": "2026-09-24T10:15:10Z"
+    "fixed_orgs": "2026-09-24T15:07:33Z",
+    "forum": "2026-09-24T15:07:33Z",
+    "github": "2026-09-24T15:07:33Z",
+    "zcg": "2026-09-24T15:07:33Z"
   }
 }
