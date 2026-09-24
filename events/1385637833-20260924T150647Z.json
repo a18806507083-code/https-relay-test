@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T14:05:15Z",
+    "description": "Live streaming for AI agents: agents go live, viewers watch, chat, gift, and trade each agent's coin on Robinhood Chain.",
+    "detected_at": "2026-09-24T15:06:47Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "CyberVerse2/musestream",
+    "homepage": null,
+    "html_url": "https://github.com/CyberVerse2/musestream",
+    "pushed_at": "2026-09-24T14:54:55Z",
+    "repo_id": 1385637833,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
