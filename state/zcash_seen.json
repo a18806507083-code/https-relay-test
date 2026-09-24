@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-24T15:07:33Z",
+  "last_run_at": "2026-09-24T19:03:27Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-24T09:45:10Z",
+      "cutoff": "2026-09-24T14:37:33Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-24T09:45:10Z",
+      "cutoff": "2026-09-24T14:37:33Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-24T09:45:10Z",
-      "matches": 2,
+      "cutoff": "2026-09-24T14:37:33Z",
+      "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-24T09:45:10Z",
+      "cutoff": "2026-09-24T14:37:33Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -661,6 +661,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1201",
       "first_seen_at": "2026-09-24T15:07:33Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57790": {
+      "created_at": "2026-09-24T15:20:15.037Z",
+      "display": "57790 In Spam? Contacted Official Email for Slipstream Licensing",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1206",
+      "first_seen_at": "2026-09-24T19:03:27Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -2339,9 +2347,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-24T15:07:33Z",
-    "forum": "2026-09-24T15:07:33Z",
-    "github": "2026-09-24T15:07:33Z",
-    "zcg": "2026-09-24T15:07:33Z"
+    "fixed_orgs": "2026-09-24T19:03:27Z",
+    "forum": "2026-09-24T19:03:27Z",
+    "github": "2026-09-24T19:03:27Z",
+    "zcg": "2026-09-24T19:03:27Z"
   }
 }
