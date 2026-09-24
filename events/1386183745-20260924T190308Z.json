@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T18:47:05Z",
+    "description": "Orion DEX \u2014 on-chain core contracts for the AI-driven trading layer on Robinhood Chain",
+    "detected_at": "2026-09-24T19:03:08Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "like96555-boop/orion-deploy",
+    "homepage": null,
+    "html_url": "https://github.com/like96555-boop/orion-deploy",
+    "pushed_at": "2026-09-24T18:51:18Z",
+    "repo_id": 1386183745,
+    "score": 20,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
