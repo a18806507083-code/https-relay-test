@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T14:41:23Z",
+    "description": null,
+    "detected_at": "2026-09-24T15:06:47Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "lulle444/tickerwave",
+    "homepage": "https://tickerwave.vercel.app",
+    "html_url": "https://github.com/lulle444/tickerwave",
+    "pushed_at": "2026-09-24T15:06:04Z",
+    "repo_id": 1385712699,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
