@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-24T00:42:36Z",
+  "last_run_at": "2026-09-24T05:25:36Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-23T21:59:24Z",
+      "cutoff": "2026-09-24T00:12:36Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-23T21:59:24Z",
-      "matches": 1,
+      "cutoff": "2026-09-24T00:12:36Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-23T21:59:24Z",
-      "matches": 1,
+      "cutoff": "2026-09-24T00:12:36Z",
+      "matches": 4,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-23T21:59:24Z",
-      "matches": 1,
+      "cutoff": "2026-09-24T00:12:36Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -2063,6 +2063,38 @@
       "first_seen_at": "2026-09-24T00:42:36Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1384485361": {
+      "created_at": "2026-09-24T02:36:54Z",
+      "display": "honeyvig/awesome-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1188",
+      "first_seen_at": "2026-09-24T05:25:36Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1384491179": {
+      "created_at": "2026-09-24T02:41:16Z",
+      "display": "jsquaresec/Demon-Vault-Wallet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1187",
+      "first_seen_at": "2026-09-24T05:25:36Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1384595144": {
+      "created_at": "2026-09-24T03:49:49Z",
+      "display": "Oro-Nullpoint/oro-protocol",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1186",
+      "first_seen_at": "2026-09-24T05:25:36Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1384733286": {
+      "created_at": "2026-09-24T05:19:14Z",
+      "display": "diamondhand-fun/zecbit-parser",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1185",
+      "first_seen_at": "2026-09-24T05:25:36Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -2275,9 +2307,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-24T00:42:36Z",
-    "forum": "2026-09-24T00:42:36Z",
-    "github": "2026-09-24T00:42:36Z",
-    "zcg": "2026-09-24T00:42:36Z"
+    "fixed_orgs": "2026-09-24T05:25:36Z",
+    "forum": "2026-09-24T05:25:36Z",
+    "github": "2026-09-24T05:25:36Z",
+    "zcg": "2026-09-24T05:25:36Z"
   }
 }
