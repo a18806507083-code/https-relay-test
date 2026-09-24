@@ -1,0 +1,35 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T02:36:54Z",
+    "detected_at": "2026-09-24T05:25:36Z",
+    "display": "honeyvig/awesome-zcash",
+    "key": "repo:1384485361",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash",
+        "node/indexer",
+        "mobile SDK"
+      ],
+      "full_name": "honeyvig/awesome-zcash",
+      "homepage": null,
+      "pushed_at": "2026-09-24T02:37:41Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1384485361,
+    "url": "https://github.com/honeyvig/awesome-zcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
