@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T07:00:11Z",
+    "detected_at": "2026-09-24T10:15:10Z",
+    "display": "honeyvig/grants",
+    "key": "repo:1384900838",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "honeyvig/grants",
+      "homepage": null,
+      "pushed_at": "2026-09-24T07:01:02Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1384900838,
+    "url": "https://github.com/honeyvig/grants"
+  },
+  "schema": "zcash-fast-event/1"
+}
