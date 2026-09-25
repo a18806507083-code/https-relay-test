@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-25T00:32:46Z",
+  "last_run_at": "2026-09-25T05:16:25Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-24T21:42:29Z",
+      "cutoff": "2026-09-25T00:02:46Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-24T21:42:29Z",
-      "matches": 1,
+      "cutoff": "2026-09-25T00:02:46Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-24T21:42:29Z",
+      "cutoff": "2026-09-25T00:02:46Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-24T21:42:29Z",
+      "cutoff": "2026-09-25T00:02:46Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -693,6 +693,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1215",
       "first_seen_at": "2026-09-25T00:32:46Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57799": {
+      "created_at": "2026-09-25T02:36:55.543Z",
+      "display": "57799 Grant Application - Independent Recomputation of the Zcash Supply Ledger, including the NU7 NSM Reserve",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1218",
+      "first_seen_at": "2026-09-25T05:16:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57800": {
+      "created_at": "2026-09-25T03:50:38.074Z",
+      "display": "57800 Threads - Part II",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1217",
+      "first_seen_at": "2026-09-25T05:16:25Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -2374,14 +2390,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1208",
       "first_seen_at": "2026-09-24T22:12:29Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5577254752": {
+      "created_at": "2026-09-25T02:31:40Z",
+      "display": "#444 Grant Application - Independent Recomputation of the Zcash Supply Ledger, including the NU7 NSM Reserve",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1219",
+      "first_seen_at": "2026-09-25T05:16:25Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-25T00:32:46Z",
-    "forum": "2026-09-25T00:32:46Z",
-    "github": "2026-09-25T00:32:46Z",
-    "zcg": "2026-09-25T00:32:46Z"
+    "fixed_orgs": "2026-09-25T05:16:25Z",
+    "forum": "2026-09-25T05:16:25Z",
+    "github": "2026-09-25T05:16:25Z",
+    "zcg": "2026-09-25T05:16:25Z"
   }
 }
