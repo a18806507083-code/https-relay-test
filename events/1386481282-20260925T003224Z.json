@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T23:28:18Z",
+    "description": "DOOM deployed and playable on Robinhood chain",
+    "detected_at": "2026-09-25T00:32:24Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "grape-finance/DOOM.exe",
+    "homepage": "https://doomexe.online/",
+    "html_url": "https://github.com/grape-finance/DOOM.exe",
+    "pushed_at": "2026-09-24T23:32:01Z",
+    "repo_id": 1386481282,
+    "score": 11,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
