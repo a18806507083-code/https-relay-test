@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T19:54:58.417Z",
+    "detected_at": "2026-09-25T22:21:23Z",
+    "display": "57826 Grant Application - Shielded x402: private machine payments for Zcash",
+    "key": "forum:57826",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-shielded-x402-private-machine-payments-for-zcash",
+      "title": "Grant Application - Shielded x402: private machine payments for Zcash",
+      "topic_id": 57826
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57826,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-shielded-x402-private-machine-payments-for-zcash/57826"
+  },
+  "schema": "zcash-fast-event/1"
+}
