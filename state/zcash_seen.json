@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-25T15:15:39Z",
+  "last_run_at": "2026-09-25T19:15:38Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-25T09:43:59Z",
+      "cutoff": "2026-09-25T14:45:39Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-25T09:43:59Z",
-      "matches": 2,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-09-25T09:43:59Z",
+      "cutoff": "2026-09-25T14:45:39Z",
       "matches": 1,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-09-25T14:45:39Z",
+      "matches": 6,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-09-25T09:43:59Z",
-      "matches": 0,
+      "cutoff": "2026-09-25T14:45:39Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -725,6 +725,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1241",
       "first_seen_at": "2026-09-25T15:15:39Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57817": {
+      "created_at": "2026-09-25T17:54:34.086Z",
+      "display": "57817 Radbro spins it up",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1248",
+      "first_seen_at": "2026-09-25T19:15:38Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -2215,6 +2223,54 @@
       "first_seen_at": "2026-09-25T10:13:59Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1387825578": {
+      "created_at": "2026-09-25T16:00:15Z",
+      "display": "zookrfamily/zookr",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1253",
+      "first_seen_at": "2026-09-25T19:15:38Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1387902503": {
+      "created_at": "2026-09-25T16:51:27Z",
+      "display": "honeyvig/awesome-zero-knowledge-proofs",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1252",
+      "first_seen_at": "2026-09-25T19:15:38Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1387906613": {
+      "created_at": "2026-09-25T16:54:12Z",
+      "display": "honeyvig/Badges4-README.md-Profile",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1251",
+      "first_seen_at": "2026-09-25T19:15:38Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1387908576": {
+      "created_at": "2026-09-25T16:55:30Z",
+      "display": "honeyvig/BattleZips-Halo2",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1250",
+      "first_seen_at": "2026-09-25T19:15:38Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1388046840": {
+      "created_at": "2026-09-25T18:37:15Z",
+      "display": "yeezyfinance/fucktober",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1247",
+      "first_seen_at": "2026-09-25T19:15:38Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1388053901": {
+      "created_at": "2026-09-25T18:43:26Z",
+      "display": "sova-chain/wz.cash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1246",
+      "first_seen_at": "2026-09-25T19:15:38Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -2438,14 +2494,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1219",
       "first_seen_at": "2026-09-25T05:16:25Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5586342244": {
+      "created_at": "2026-09-25T17:42:52Z",
+      "display": "#445 Grant Application - Shielded x402: private machine payments for Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1249",
+      "first_seen_at": "2026-09-25T19:15:38Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-25T15:15:39Z",
-    "forum": "2026-09-25T15:15:39Z",
-    "github": "2026-09-25T15:15:39Z",
-    "zcg": "2026-09-25T15:15:39Z"
+    "fixed_orgs": "2026-09-25T19:15:38Z",
+    "forum": "2026-09-25T19:15:38Z",
+    "github": "2026-09-25T19:15:38Z",
+    "zcg": "2026-09-25T19:15:38Z"
   }
 }
