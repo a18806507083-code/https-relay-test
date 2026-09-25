@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T09:40:27Z",
+    "description": "bidwallfi",
+    "detected_at": "2026-09-25T10:13:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "bidwallfi/bidwallfi",
+    "homepage": null,
+    "html_url": "https://github.com/bidwallfi/bidwallfi",
+    "pushed_at": "2026-09-25T09:40:57Z",
+    "repo_id": 1387205978,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
