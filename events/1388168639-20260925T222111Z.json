@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T20:42:21Z",
+    "description": "GitHub profile README",
+    "detected_at": "2026-09-25T22:21:11Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "aa2hr/aa2hr",
+    "homepage": null,
+    "html_url": "https://github.com/aa2hr/aa2hr",
+    "pushed_at": "2026-09-25T21:19:45Z",
+    "repo_id": 1388168639,
+    "score": 6,
+    "tech_signals": [
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
