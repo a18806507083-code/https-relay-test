@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T16:55:30Z",
+    "detected_at": "2026-09-25T19:15:38Z",
+    "display": "honeyvig/BattleZips-Halo2",
+    "key": "repo:1387908576",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "honeyvig/BattleZips-Halo2",
+      "homepage": null,
+      "pushed_at": "2026-09-25T16:55:37Z",
+      "tech_signals": [
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1387908576,
+    "url": "https://github.com/honeyvig/BattleZips-Halo2"
+  },
+  "schema": "zcash-fast-event/1"
+}
