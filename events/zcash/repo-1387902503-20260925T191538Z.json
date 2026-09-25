@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T16:51:27Z",
+    "detected_at": "2026-09-25T19:15:38Z",
+    "display": "honeyvig/awesome-zero-knowledge-proofs",
+    "key": "repo:1387902503",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "honeyvig/awesome-zero-knowledge-proofs",
+      "homepage": null,
+      "pushed_at": "2026-09-25T16:51:38Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1387902503,
+    "url": "https://github.com/honeyvig/awesome-zero-knowledge-proofs"
+  },
+  "schema": "zcash-fast-event/1"
+}
