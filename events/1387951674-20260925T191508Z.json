@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T17:26:07Z",
+    "description": "Describe it. AI builds it. \u26a1 Studio designs it \u00b7 TriumpCode codes it \u00b7 $TRIUMPAI on Robinhood Chain",
+    "detected_at": "2026-09-25T19:15:08Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "triumpaicode/triumpai",
+    "homepage": null,
+    "html_url": "https://github.com/triumpaicode/triumpai",
+    "pushed_at": "2026-09-25T17:36:44Z",
+    "repo_id": 1387951674,
+    "score": 7,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
