@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T09:48:03Z",
+    "description": "Whitepaper and threat model for Bidwallfi ($BID): an ownerless vault on Robinhood Chain that turns a fixed share of creator fees into bids under the price.",
+    "detected_at": "2026-09-25T10:13:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "bidwallfi/canon",
+    "homepage": null,
+    "html_url": "https://github.com/bidwallfi/canon",
+    "pushed_at": "2026-09-25T09:52:57Z",
+    "repo_id": 1387216969,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
