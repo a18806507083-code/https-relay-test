@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T16:00:15Z",
+    "detected_at": "2026-09-25T19:15:38Z",
+    "display": "zookrfamily/zookr",
+    "key": "repo:1387825578",
+    "metadata": {
+      "description": "Native ZEC rewards for token holders on Robinhood Chain. Hold in your own wallet, register a Zcash address, get paid shielded ZEC every ten minutes from a funded pool.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "zookrfamily/zookr",
+      "homepage": "https://zookr-pied.vercel.app",
+      "pushed_at": "2026-09-25T18:39:25Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1387825578,
+    "url": "https://github.com/zookrfamily/zookr"
+  },
+  "schema": "zcash-fast-event/1"
+}
