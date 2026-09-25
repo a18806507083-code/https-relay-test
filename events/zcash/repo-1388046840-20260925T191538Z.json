@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T18:37:15Z",
+    "detected_at": "2026-09-25T19:15:38Z",
+    "display": "yeezyfinance/fucktober",
+    "key": "repo:1388046840",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "yeezyfinance/fucktober",
+      "homepage": null,
+      "pushed_at": "2026-09-25T18:37:54Z",
+      "tech_signals": [
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1388046840,
+    "url": "https://github.com/yeezyfinance/fucktober"
+  },
+  "schema": "zcash-fast-event/1"
+}
