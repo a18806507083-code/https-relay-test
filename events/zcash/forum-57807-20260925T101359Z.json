@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T09:57:15.990Z",
+    "detected_at": "2026-09-25T10:13:59Z",
+    "display": "57807 Zk Av Club at Zcon7",
+    "key": "forum:57807",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zk-av-club-at-zcon7",
+      "title": "Zk Av Club at Zcon7",
+      "topic_id": 57807
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57807,
+    "url": "https://forum.zcashcommunity.com/t/zk-av-club-at-zcon7/57807"
+  },
+  "schema": "zcash-fast-event/1"
+}
