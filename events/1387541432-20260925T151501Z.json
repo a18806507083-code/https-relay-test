@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T13:22:02Z",
+    "description": "HyperIndex indexer for Uniswap v4 swaps, steakUSDG vault flows, Pons launches and Across bridge traffic on Robinhood Chain (4663).",
+    "detected_at": "2026-09-25T15:15:01Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "enviodev/robinhood-ecosystem-indexer",
+    "homepage": null,
+    "html_url": "https://github.com/enviodev/robinhood-ecosystem-indexer",
+    "pushed_at": "2026-09-25T13:27:53Z",
+    "repo_id": 1387541432,
+    "score": 12,
+    "tech_signals": [
+      "Morpho",
+      "Uniswap",
+      "Lending/Vault",
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
