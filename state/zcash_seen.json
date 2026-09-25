@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-25T05:16:25Z",
+  "last_run_at": "2026-09-25T10:13:59Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-25T00:02:46Z",
+      "cutoff": "2026-09-25T04:46:25Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-25T00:02:46Z",
-      "matches": 3,
+      "cutoff": "2026-09-25T04:46:25Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-25T00:02:46Z",
-      "matches": 0,
+      "cutoff": "2026-09-25T04:46:25Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-25T00:02:46Z",
-      "matches": 1,
+      "cutoff": "2026-09-25T04:46:25Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -709,6 +709,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1217",
       "first_seen_at": "2026-09-25T05:16:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57807": {
+      "created_at": "2026-09-25T09:57:15.990Z",
+      "display": "57807 Zk Av Club at Zcon7",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1230",
+      "first_seen_at": "2026-09-25T10:13:59Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -2175,6 +2183,30 @@
       "first_seen_at": "2026-09-24T15:07:33Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1386998870": {
+      "created_at": "2026-09-25T07:21:46Z",
+      "display": "imarkInfotech2020/edge-react-gui",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1233",
+      "first_seen_at": "2026-09-25T10:13:59Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1387115283": {
+      "created_at": "2026-09-25T08:36:02Z",
+      "display": "toalt23/toalt23-umbrel-store-apps",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1232",
+      "first_seen_at": "2026-09-25T10:13:59Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1387226942": {
+      "created_at": "2026-09-25T09:55:01Z",
+      "display": "maumcrez-svg/zecpop-dbc",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1231",
+      "first_seen_at": "2026-09-25T10:13:59Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -2403,9 +2435,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-25T05:16:25Z",
-    "forum": "2026-09-25T05:16:25Z",
-    "github": "2026-09-25T05:16:25Z",
-    "zcg": "2026-09-25T05:16:25Z"
+    "fixed_orgs": "2026-09-25T10:13:59Z",
+    "forum": "2026-09-25T10:13:59Z",
+    "github": "2026-09-25T10:13:59Z",
+    "zcg": "2026-09-25T10:13:59Z"
   }
 }
