@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T09:53:25Z",
+    "description": "Keeper, monitor and indexer for Bidwallfi vaults on Robinhood Chain: permissionless calls, simulated first, chain as truth, ops runbook.",
+    "detected_at": "2026-09-25T10:13:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "bidwallfi/keeper",
+    "homepage": null,
+    "html_url": "https://github.com/bidwallfi/keeper",
+    "pushed_at": "2026-09-25T09:54:55Z",
+    "repo_id": 1387224823,
+    "score": 12,
+    "tech_signals": [
+      "Hook",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
