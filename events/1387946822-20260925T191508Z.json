@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T17:22:26Z",
+    "description": "\u4e0a\u6e38 public-apis/public-apis \u7684\u955c\u50cf\uff08MIT\uff09\uff1b\u6309\u9700 sync \u62c9\u53d6\u4e0a\u6e38\u66f4\u65b0",
+    "detected_at": "2026-09-25T19:15:08Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "fcaker/public-apis",
+    "homepage": null,
+    "html_url": "https://github.com/fcaker/public-apis",
+    "pushed_at": "2026-09-25T17:22:55Z",
+    "repo_id": 1387946822,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Bridge",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
