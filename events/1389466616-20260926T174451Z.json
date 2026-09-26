@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-26T15:56:09Z",
+    "description": "Charon-style trench agent for Robinhood Chain (EVM L2 4663)",
+    "detected_at": "2026-09-26T17:44:51Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "Motdin/charon-rh",
+    "homepage": "",
+    "html_url": "https://github.com/Motdin/charon-rh",
+    "pushed_at": "2026-09-26T16:53:25Z",
+    "repo_id": 1389466616,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
