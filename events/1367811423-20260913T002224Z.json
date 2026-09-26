@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T23:34:38Z",
+    "description": "The runtime layer for Agentic AI. Persistent memory, autonomous agents, and workflows that survive every session. MCP server: @finchagentic/mcp",
+    "detected_at": "2026-09-13T00:22:24Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "finchagentic/mcp",
+    "homepage": null,
+    "html_url": "https://github.com/finchagentic/mcp",
+    "pushed_at": "2026-09-13T00:21:10Z",
+    "repo_id": 1367811423,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
