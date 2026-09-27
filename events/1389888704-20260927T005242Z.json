@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-26T23:54:14Z",
+    "description": "SI Exchange \u2014 Super Intelligence Exchange. Non-custodial multi-chain swap engine (live at siexchange.lol): ready-to-sign swap calldata on 5 chains; launch-set coins trade free, arbitrary pairs $0.02 via x402.",
+    "detected_at": "2026-09-27T00:52:42Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "shawnhvac/siexchange",
+    "homepage": "https://siexchange.lol",
+    "html_url": "https://github.com/shawnhvac/siexchange",
+    "pushed_at": "2026-09-26T23:54:57Z",
+    "repo_id": 1389888704,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
