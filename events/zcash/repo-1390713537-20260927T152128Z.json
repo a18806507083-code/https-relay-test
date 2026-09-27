@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T11:38:59Z",
+    "detected_at": "2026-09-27T15:21:28Z",
+    "display": "clayop/umbrel-apps",
+    "key": "repo:1390713537",
+    "metadata": {
+      "description": "umbrelOS community app store: Zebra (Zcash) full node, non-mining",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "clayop/umbrel-apps",
+      "homepage": null,
+      "pushed_at": "2026-09-27T11:56:45Z",
+      "tech_signals": [
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1390713537,
+    "url": "https://github.com/clayop/umbrel-apps"
+  },
+  "schema": "zcash-fast-event/1"
+}
