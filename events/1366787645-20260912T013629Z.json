@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T23:51:27Z",
+    "description": "Explainable launch intelligence for early Robinhood Chain token launches.",
+    "detected_at": "2026-09-12T01:36:29Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "BigLateef/LaunchLens",
+    "homepage": null,
+    "html_url": "https://github.com/BigLateef/LaunchLens",
+    "pushed_at": "2026-09-11T23:58:20Z",
+    "repo_id": 1366787645,
+    "score": 12,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
