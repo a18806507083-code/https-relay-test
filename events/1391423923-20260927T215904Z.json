@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T21:31:57Z",
+    "description": "X PrimeFlow Stock Token Verifier \u2014 Powered by Robinhood Chain. Open-source module of X PrimeFlow by BonyNode",
+    "detected_at": "2026-09-27T21:59:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "BonyNode/stock-token-verifier",
+    "homepage": "https://xprimeflow.trade/robinhood-chain",
+    "html_url": "https://github.com/BonyNode/stock-token-verifier",
+    "pushed_at": "2026-09-27T21:32:05Z",
+    "repo_id": 1391423923,
+    "score": 18,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
