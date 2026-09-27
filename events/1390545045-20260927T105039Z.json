@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T09:20:32Z",
+    "description": "Free rug-risk screener for Robinhood Chain meme coins: checks mint functions, admin control, holder concentration and serial deployers. Runs in the browser or as a Python CLI.",
+    "detected_at": "2026-09-27T10:50:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "MasterMetaverse/robinhood-token-scanner-new",
+    "homepage": "",
+    "html_url": "https://github.com/MasterMetaverse/robinhood-token-scanner-new",
+    "pushed_at": "2026-09-27T09:22:44Z",
+    "repo_id": 1390545045,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
