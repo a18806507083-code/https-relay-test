@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T18:06:50Z",
+    "detected_at": "2026-09-27T19:03:04Z",
+    "display": "BUILDPROJECT222/zearn",
+    "key": "repo:1391253118",
+    "metadata": {
+      "description": "Zearn: ZEC-backed pump.fun memecoin. Creator fees become ZEC via NEAR Intents; burn to redeem, hold to unlock.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "BUILDPROJECT222/zearn",
+      "homepage": null,
+      "pushed_at": "2026-09-27T18:45:02Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1391253118,
+    "url": "https://github.com/BUILDPROJECT222/zearn"
+  },
+  "schema": "zcash-fast-event/1"
+}
