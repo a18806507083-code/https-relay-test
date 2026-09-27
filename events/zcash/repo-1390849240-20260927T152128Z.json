@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T13:08:03Z",
+    "detected_at": "2026-09-27T15:21:28Z",
+    "display": "zebradotsol/zebra-labs",
+    "key": "repo:1390849240",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "zebradotsol/zebra-labs",
+      "homepage": null,
+      "pushed_at": "2026-09-27T13:09:43Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1390849240,
+    "url": "https://github.com/zebradotsol/zebra-labs"
+  },
+  "schema": "zcash-fast-event/1"
+}
