@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-27T10:50:51Z",
+  "last_run_at": "2026-09-27T15:21:28Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-27T05:22:55Z",
+      "cutoff": "2026-09-27T10:20:51Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-27T05:22:55Z",
-      "matches": 0,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-09-27T05:22:55Z",
+      "cutoff": "2026-09-27T10:20:51Z",
       "matches": 1,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-09-27T10:20:51Z",
+      "matches": 3,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-09-27T05:22:55Z",
-      "matches": 0,
+      "cutoff": "2026-09-27T10:20:51Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -789,6 +789,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1308",
       "first_seen_at": "2026-09-26T20:09:41Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57848": {
+      "created_at": "2026-09-27T11:34:12.695Z",
+      "display": "57848 Zcash Türkiye University Tour 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1337",
+      "first_seen_at": "2026-09-27T15:21:28Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -2439,6 +2447,30 @@
       "first_seen_at": "2026-09-27T10:50:51Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1390713537": {
+      "created_at": "2026-09-27T11:38:59Z",
+      "display": "clayop/umbrel-apps",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1336",
+      "first_seen_at": "2026-09-27T15:21:28Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1390849240": {
+      "created_at": "2026-09-27T13:08:03Z",
+      "display": "zebradotsol/zebra-labs",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1335",
+      "first_seen_at": "2026-09-27T15:21:28Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1390975943": {
+      "created_at": "2026-09-27T14:42:49Z",
+      "display": "PolyClawdDev/WallyWorld",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1334",
+      "first_seen_at": "2026-09-27T15:21:28Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -2686,14 +2718,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1295",
       "first_seen_at": "2026-09-26T17:45:13Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5602284975": {
+      "created_at": "2026-09-27T11:33:50Z",
+      "display": "#449 Zcash Türkiye University Tour 2026 — ZCG Grant Proposal",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1338",
+      "first_seen_at": "2026-09-27T15:21:28Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-27T10:50:51Z",
-    "forum": "2026-09-27T10:50:51Z",
-    "github": "2026-09-27T10:50:51Z",
-    "zcg": "2026-09-27T10:50:51Z"
+    "fixed_orgs": "2026-09-27T15:21:28Z",
+    "forum": "2026-09-27T15:21:28Z",
+    "github": "2026-09-27T15:21:28Z",
+    "zcg": "2026-09-27T15:21:28Z"
   }
 }
