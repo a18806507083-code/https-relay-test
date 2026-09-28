@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T17:45:05.973Z",
+    "detected_at": "2026-09-28T18:46:53Z",
+    "display": "57872 Zebra 6.4.2: Emergency Fix for a Remotely Triggerable Crash",
+    "key": "forum:57872",
+    "metadata": {
+      "category_id": 21,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zebra-6-4-2-emergency-fix-for-a-remotely-triggerable-crash",
+      "title": "Zebra 6.4.2: Emergency Fix for a Remotely Triggerable Crash",
+      "topic_id": 57872
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57872,
+    "url": "https://forum.zcashcommunity.com/t/zebra-6-4-2-emergency-fix-for-a-remotely-triggerable-crash/57872"
+  },
+  "schema": "zcash-fast-event/1"
+}
