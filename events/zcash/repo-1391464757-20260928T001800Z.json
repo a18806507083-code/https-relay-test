@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T22:37:41Z",
+    "detected_at": "2026-09-28T00:18:00Z",
+    "display": "evidex-cloud/droplet-labs-crypto-path",
+    "key": "repo:1391464757",
+    "metadata": {
+      "description": "Crypto Path - a bilingual (中文/English) course from your first wallet to building on Ethereum/EVM and launching your own token: consensus, L2s, DeFi, NFTs, DAOs, ZK, privacy, AI x crypto. Droplet Labs.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "evidex-cloud/droplet-labs-crypto-path",
+      "homepage": "https://evidex-cloud.github.io/droplet-labs-crypto-path/",
+      "pushed_at": "2026-09-27T22:37:51Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1391464757,
+    "url": "https://github.com/evidex-cloud/droplet-labs-crypto-path"
+  },
+  "schema": "zcash-fast-event/1"
+}
