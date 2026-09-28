@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T09:55:48Z",
+    "detected_at": "2026-09-28T11:53:44Z",
+    "display": "abby384/italiano",
+    "key": "repo:1392364723",
+    "metadata": {
+      "description": "Interactive Italian foundations cheat sheet — mobile-first, offline-capable",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "abby384/italiano",
+      "homepage": null,
+      "pushed_at": "2026-09-28T11:04:24Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1392364723,
+    "url": "https://github.com/abby384/italiano"
+  },
+  "schema": "zcash-fast-event/1"
+}
