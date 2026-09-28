@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-09-28T11:53:44Z",
+  "last_run_at": "2026-09-28T18:46:53Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-28T04:59:57Z",
+      "cutoff": "2026-09-28T11:23:44Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-28T04:59:57Z",
-      "matches": 3,
+      "cutoff": "2026-09-28T11:23:44Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-28T04:59:57Z",
-      "matches": 7,
+      "cutoff": "2026-09-28T11:23:44Z",
+      "matches": 12,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-28T04:59:57Z",
+      "cutoff": "2026-09-28T11:23:44Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -821,6 +821,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1376",
       "first_seen_at": "2026-09-28T11:53:44Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57872": {
+      "created_at": "2026-09-28T17:45:05.973Z",
+      "display": "57872 Zebra 6.4.2: Emergency Fix for a Remotely Triggerable Crash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1387",
+      "first_seen_at": "2026-09-28T18:46:53Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -2607,6 +2615,86 @@
       "first_seen_at": "2026-09-28T11:53:44Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1392659358": {
+      "created_at": "2026-09-28T12:30:57Z",
+      "display": "gaogaodadashangshang/hodlpay",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1398",
+      "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1392681578": {
+      "created_at": "2026-09-28T12:41:03Z",
+      "display": "honeyvig/ZK_in_Art",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1397",
+      "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1392717704": {
+      "created_at": "2026-09-28T12:57:26Z",
+      "display": "madii506/zcash-agent",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1396",
+      "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1392772385": {
+      "created_at": "2026-09-28T13:19:42Z",
+      "display": "bebro1337booking-bit/zubit",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1395",
+      "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1392819094": {
+      "created_at": "2026-09-28T13:40:10Z",
+      "display": "utkurock/lethea",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1394",
+      "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1392948643": {
+      "created_at": "2026-09-28T14:33:31Z",
+      "display": "bebro1337booking-bit/zubit-core",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1393",
+      "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1392996619": {
+      "created_at": "2026-09-28T14:53:46Z",
+      "display": "chrifilvpn/informatica-facile",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1392",
+      "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1393243928": {
+      "created_at": "2026-09-28T16:23:37Z",
+      "display": "bebro1337booking-bit/zubit-final",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1390",
+      "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1393376427": {
+      "created_at": "2026-09-28T17:11:52Z",
+      "display": "valargroup/valar-testnet-faucet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1389",
+      "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1393420830": {
+      "created_at": "2026-09-28T17:29:06Z",
+      "display": "aronlammer/zubit-protocol",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1388",
+      "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -2870,14 +2958,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1377",
       "first_seen_at": "2026-09-28T11:53:44Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5617721720": {
+      "created_at": "2026-09-28T16:16:18Z",
+      "display": "#451 Grant Application - OW Terminal — decentralized open-weight inference, uncensored choice, shielded ZEC metering",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1391",
+      "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-28T11:53:44Z",
-    "forum": "2026-09-28T11:53:44Z",
-    "github": "2026-09-28T11:53:44Z",
-    "zcg": "2026-09-28T11:53:44Z"
+    "fixed_orgs": "2026-09-28T18:46:53Z",
+    "forum": "2026-09-28T18:46:53Z",
+    "github": "2026-09-28T18:46:53Z",
+    "zcg": "2026-09-28T18:46:53Z"
   }
 }
