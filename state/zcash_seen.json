@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-28T05:29:57Z",
+  "last_run_at": "2026-09-28T11:53:44Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-27T23:48:00Z",
+      "cutoff": "2026-09-28T04:59:57Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-27T23:48:00Z",
-      "matches": 0,
+      "cutoff": "2026-09-28T04:59:57Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-27T23:48:00Z",
-      "matches": 2,
+      "cutoff": "2026-09-28T04:59:57Z",
+      "matches": 7,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-27T23:48:00Z",
-      "matches": 0,
+      "cutoff": "2026-09-28T04:59:57Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -797,6 +797,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1337",
       "first_seen_at": "2026-09-27T15:21:28Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57858": {
+      "created_at": "2026-09-28T05:35:28.436Z",
+      "display": "57858 Requesting testnet TAZ!",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1384",
+      "first_seen_at": "2026-09-28T11:53:44Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57859": {
+      "created_at": "2026-09-28T08:52:33.183Z",
+      "display": "57859 Zucchini Wallet 0.5.2 released: redesigned extension, website payments and developer SDKs",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1380",
+      "first_seen_at": "2026-09-28T11:53:44Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57860": {
+      "created_at": "2026-09-28T10:47:18.037Z",
+      "display": "57860 Grant Application: Zcash Global Community & Marketing Operations",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1376",
+      "first_seen_at": "2026-09-28T11:53:44Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -2535,6 +2559,54 @@
       "first_seen_at": "2026-09-28T05:29:57Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1391914433": {
+      "created_at": "2026-09-28T05:40:55Z",
+      "display": "0scan/zakura-grpc",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1383",
+      "first_seen_at": "2026-09-28T11:53:44Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1392148146": {
+      "created_at": "2026-09-28T07:44:45Z",
+      "display": "AlexSkidanov/vexa-finance",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1382",
+      "first_seen_at": "2026-09-28T11:53:44Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1392148660": {
+      "created_at": "2026-09-28T07:45:05Z",
+      "display": "filippocobelli/zaino",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1381",
+      "first_seen_at": "2026-09-28T11:53:44Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1392327163": {
+      "created_at": "2026-09-28T09:32:55Z",
+      "display": "vicsn/varuna-lean",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1379",
+      "first_seen_at": "2026-09-28T11:53:44Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1392364723": {
+      "created_at": "2026-09-28T09:55:48Z",
+      "display": "abby384/italiano",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1378",
+      "first_seen_at": "2026-09-28T11:53:44Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1392474346": {
+      "created_at": "2026-09-28T10:59:32Z",
+      "display": "sumerbraum-86/Guarda-Wallet-Full-Version-Unlocked",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1375",
+      "first_seen_at": "2026-09-28T11:53:44Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -2790,14 +2862,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1338",
       "first_seen_at": "2026-09-27T15:21:28Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5613090526": {
+      "created_at": "2026-09-28T10:28:57Z",
+      "display": "#450 Grant Application - Zcash Global Community & Marketing Operations",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1377",
+      "first_seen_at": "2026-09-28T11:53:44Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-28T05:29:57Z",
-    "forum": "2026-09-28T05:29:57Z",
-    "github": "2026-09-28T05:29:57Z",
-    "zcg": "2026-09-28T05:29:57Z"
+    "fixed_orgs": "2026-09-28T11:53:44Z",
+    "forum": "2026-09-28T11:53:44Z",
+    "github": "2026-09-28T11:53:44Z",
+    "zcg": "2026-09-28T11:53:44Z"
   }
 }
