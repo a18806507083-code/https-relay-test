@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T04:04:47Z",
+    "description": null,
+    "detected_at": "2026-09-28T05:29:24Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "irfanardians060595-crypto/Muse-Ozzy-OS",
+    "homepage": null,
+    "html_url": "https://github.com/irfanardians060595-crypto/Muse-Ozzy-OS",
+    "pushed_at": "2026-09-28T04:10:08Z",
+    "repo_id": 1391759520,
+    "score": 14,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
