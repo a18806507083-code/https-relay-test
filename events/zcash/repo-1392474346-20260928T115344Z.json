@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T10:59:32Z",
+    "detected_at": "2026-09-28T11:53:44Z",
+    "display": "sumerbraum-86/Guarda-Wallet-Full-Version-Unlocked",
+    "key": "repo:1392474346",
+    "metadata": {
+      "description": "Get Guarda Wallet — a cryptocurrency management tool for Windows with free download. This software supports over 40 blockchains, ensuring secure transactions without the need for an account. Download the latest release.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "sumerbraum-86/Guarda-Wallet-Full-Version-Unlocked",
+      "homepage": "",
+      "pushed_at": "2026-09-28T11:01:04Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1392474346,
+    "url": "https://github.com/sumerbraum-86/Guarda-Wallet-Full-Version-Unlocked"
+  },
+  "schema": "zcash-fast-event/1"
+}
