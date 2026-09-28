@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T13:40:10Z",
+    "detected_at": "2026-09-28T18:46:53Z",
+    "display": "utkurock/lethea",
+    "key": "repo:1392819094",
+    "metadata": {
+      "description": "One click, any chain: non-custodial swaps across EVM and Stellar via NEAR Intents.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "utkurock/lethea",
+      "homepage": "https://lethea.xyz",
+      "pushed_at": "2026-09-28T14:32:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1392819094,
+    "url": "https://github.com/utkurock/lethea"
+  },
+  "schema": "zcash-fast-event/1"
+}
