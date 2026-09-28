@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T10:47:18.037Z",
+    "detected_at": "2026-09-28T11:53:44Z",
+    "display": "57860 Grant Application: Zcash Global Community & Marketing Operations",
+    "key": "forum:57860",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-global-community-marketing-operations",
+      "title": "Grant Application: Zcash Global Community & Marketing Operations",
+      "topic_id": 57860
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57860,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-global-community-marketing-operations/57860"
+  },
+  "schema": "zcash-fast-event/1"
+}
