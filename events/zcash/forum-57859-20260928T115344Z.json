@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T08:52:33.183Z",
+    "detected_at": "2026-09-28T11:53:44Z",
+    "display": "57859 Zucchini Wallet 0.5.2 released: redesigned extension, website payments and developer SDKs",
+    "key": "forum:57859",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zucchini-wallet-0-5-2-released-redesigned-extension-website-payments-and-developer-sdks",
+      "title": "Zucchini Wallet 0.5.2 released: redesigned extension, website payments and developer SDKs",
+      "topic_id": 57859
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57859,
+    "url": "https://forum.zcashcommunity.com/t/zucchini-wallet-0-5-2-released-redesigned-extension-website-payments-and-developer-sdks/57859"
+  },
+  "schema": "zcash-fast-event/1"
+}
