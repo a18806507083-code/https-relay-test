@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T23:24:23Z",
+    "detected_at": "2026-09-28T23:32:25Z",
+    "display": "ebr4him68-rgb/Minerprivatekey",
+    "key": "repo:1393955245",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ebr4him68-rgb/Minerprivatekey",
+      "homepage": null,
+      "pushed_at": "2026-09-28T23:25:04Z",
+      "tech_signals": [
+        "wallet/payment",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1393955245,
+    "url": "https://github.com/ebr4him68-rgb/Minerprivatekey"
+  },
+  "schema": "zcash-fast-event/1"
+}
