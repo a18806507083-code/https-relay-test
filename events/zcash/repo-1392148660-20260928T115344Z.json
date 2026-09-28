@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T07:45:05Z",
+    "detected_at": "2026-09-28T11:53:44Z",
+    "display": "filippocobelli/zaino",
+    "key": "repo:1392148660",
+    "metadata": {
+      "description": "Dashboard scolastica su e-paper a 4 colori per ZECTRIX NOTE4C: programma della giornata, zaino, orario con i colori delle materie, mensa, meteo e calendari. Server Docker + firmware ESP32-S3.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "filippocobelli/zaino",
+      "homepage": null,
+      "pushed_at": "2026-09-28T10:09:37Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1392148660,
+    "url": "https://github.com/filippocobelli/zaino"
+  },
+  "schema": "zcash-fast-event/1"
+}
