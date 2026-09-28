@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T21:31:56Z",
+    "detected_at": "2026-09-28T23:32:25Z",
+    "display": "phend0/zec-qauntative",
+    "key": "repo:1393865039",
+    "metadata": {
+      "description": "ZCash Quantitative Trading Pipeline",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "phend0/zec-qauntative",
+      "homepage": null,
+      "pushed_at": "2026-09-28T23:11:23Z",
+      "tech_signals": [
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1393865039,
+    "url": "https://github.com/phend0/zec-qauntative"
+  },
+  "schema": "zcash-fast-event/1"
+}
