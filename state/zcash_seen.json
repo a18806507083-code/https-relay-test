@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-29T09:01:20Z",
+  "last_run_at": "2026-09-29T15:32:41Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-29T02:11:01Z",
+      "cutoff": "2026-09-29T08:31:20Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-29T02:11:01Z",
-      "matches": 2,
+      "cutoff": "2026-09-29T08:31:20Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
       "cutoff": "2026-09-29T02:11:01Z",
-      "error": "Remote end closed connection without response",
-      "status": "FAIL"
+      "matches": 11,
+      "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-29T02:11:01Z",
-      "matches": 2,
+      "cutoff": "2026-09-29T08:31:20Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -845,6 +845,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1417",
       "first_seen_at": "2026-09-29T09:01:20Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57884": {
+      "created_at": "2026-09-29T13:31:44.193Z",
+      "display": "57884 ZSwap: A Shielded Atomic Swap Specification for Zcash — Grant Application & Request for Review",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1432",
+      "first_seen_at": "2026-09-29T15:32:41Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57889": {
+      "created_at": "2026-09-29T14:55:05.038Z",
+      "display": "57889 Introducing Noir Protocol : A multi-token economy and DeFi for ZEC holders, while Zcash stays ZEC-only",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1428",
+      "first_seen_at": "2026-09-29T15:32:41Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -2823,6 +2839,86 @@
       "first_seen_at": "2026-09-29T02:41:01Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1394557187": {
+      "created_at": "2026-09-29T06:48:05Z",
+      "display": "gamebot001/Marketplace",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1439",
+      "first_seen_at": "2026-09-29T15:32:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1394652507": {
+      "created_at": "2026-09-29T07:46:26Z",
+      "display": "Jacksoxx/shieldbid",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1438",
+      "first_seen_at": "2026-09-29T15:32:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1394681386": {
+      "created_at": "2026-09-29T08:03:36Z",
+      "display": "filippocobelli/filippocobelli.github.io",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1437",
+      "first_seen_at": "2026-09-29T15:32:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1394728997": {
+      "created_at": "2026-09-29T08:31:55Z",
+      "display": "Rumblebuffen/rhea-dashboard",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1436",
+      "first_seen_at": "2026-09-29T15:32:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1394783175": {
+      "created_at": "2026-09-29T09:03:42Z",
+      "display": "micovi/nyctis-spec",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1435",
+      "first_seen_at": "2026-09-29T15:32:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1395191699": {
+      "created_at": "2026-09-29T12:20:14Z",
+      "display": "JayWebtech/petrapay",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1434",
+      "first_seen_at": "2026-09-29T15:32:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1395328563": {
+      "created_at": "2026-09-29T13:07:43Z",
+      "display": "chrifilvpn/test-18",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1433",
+      "first_seen_at": "2026-09-29T15:32:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1395468418": {
+      "created_at": "2026-09-29T13:50:29Z",
+      "display": "NoirWallet/NoirProtocol",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1431",
+      "first_seen_at": "2026-09-29T15:32:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1395481131": {
+      "created_at": "2026-09-29T13:54:22Z",
+      "display": "daodudestiny56-netizen/turnstile",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1430",
+      "first_seen_at": "2026-09-29T15:32:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1395651400": {
+      "created_at": "2026-09-29T14:54:44Z",
+      "display": "BA-BlockchainAnalysis/signet-verify",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1429",
+      "first_seen_at": "2026-09-29T15:32:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -3115,9 +3211,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-29T09:01:20Z",
-    "forum": "2026-09-29T09:01:20Z",
-    "github": "2026-09-29T02:41:01Z",
-    "zcg": "2026-09-29T09:01:20Z"
+    "fixed_orgs": "2026-09-29T15:32:41Z",
+    "forum": "2026-09-29T15:32:41Z",
+    "github": "2026-09-29T15:32:41Z",
+    "zcg": "2026-09-29T15:32:41Z"
   }
 }
