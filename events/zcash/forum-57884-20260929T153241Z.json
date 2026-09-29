@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T13:31:44.193Z",
+    "detected_at": "2026-09-29T15:32:41Z",
+    "display": "57884 ZSwap: A Shielded Atomic Swap Specification for Zcash — Grant Application & Request for Review",
+    "key": "forum:57884",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "zswap-a-shielded-atomic-swap-specification-for-zcash-grant-application-request-for-review",
+      "title": "ZSwap: A Shielded Atomic Swap Specification for Zcash — Grant Application & Request for Review",
+      "topic_id": 57884
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57884,
+    "url": "https://forum.zcashcommunity.com/t/zswap-a-shielded-atomic-swap-specification-for-zcash-grant-application-request-for-review/57884"
+  },
+  "schema": "zcash-fast-event/1"
+}
