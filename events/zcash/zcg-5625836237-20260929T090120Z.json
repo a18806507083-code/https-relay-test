@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T05:53:00Z",
+    "detected_at": "2026-09-29T09:01:20Z",
+    "display": "#453 Grant Application - zswap by stalllion labs",
+    "key": "zcg:5625836237",
+    "metadata": {
+      "author": "peejay-git",
+      "issue_number": 453,
+      "labels": [],
+      "title": "Grant Application - zswap by stalllion labs"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5625836237,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/453"
+  },
+  "schema": "zcash-fast-event/1"
+}
