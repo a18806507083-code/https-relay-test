@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-29T02:41:01Z",
+  "last_run_at": "2026-09-29T09:01:20Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-28T23:02:25Z",
+      "cutoff": "2026-09-29T02:11:01Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-28T23:02:25Z",
-      "matches": 0,
+      "cutoff": "2026-09-29T02:11:01Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-28T23:02:25Z",
-      "matches": 5,
-      "status": "PASS"
+      "cutoff": "2026-09-29T02:11:01Z",
+      "error": "Remote end closed connection without response",
+      "status": "FAIL"
     },
     "zcg": {
-      "cutoff": "2026-09-28T23:02:25Z",
-      "matches": 0,
+      "cutoff": "2026-09-29T02:11:01Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -829,6 +829,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1387",
       "first_seen_at": "2026-09-28T18:46:53Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57875": {
+      "created_at": "2026-09-29T03:45:50.043Z",
+      "display": "57875 [Grant Application] OpenWeights Terminal — open inference, independent compute, shielded ZEC",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1419",
+      "first_seen_at": "2026-09-29T09:01:20Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57879": {
+      "created_at": "2026-09-29T08:50:26.535Z",
+      "display": "57879 Private Onramp for Zcash: Who's the Right Contact?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1417",
+      "first_seen_at": "2026-09-29T09:01:20Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -3078,14 +3094,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1391",
       "first_seen_at": "2026-09-28T18:46:53Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5624599303": {
+      "created_at": "2026-09-29T03:26:06Z",
+      "display": "#452 Grant Application - zealz.fun: Bringing Real, Redeemable Zcash to the Masses",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1420",
+      "first_seen_at": "2026-09-29T09:01:20Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5625836237": {
+      "created_at": "2026-09-29T05:53:00Z",
+      "display": "#453 Grant Application - zswap by stalllion labs",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1418",
+      "first_seen_at": "2026-09-29T09:01:20Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-29T02:41:01Z",
-    "forum": "2026-09-29T02:41:01Z",
+    "fixed_orgs": "2026-09-29T09:01:20Z",
+    "forum": "2026-09-29T09:01:20Z",
     "github": "2026-09-29T02:41:01Z",
-    "zcg": "2026-09-29T02:41:01Z"
+    "zcg": "2026-09-29T09:01:20Z"
   }
 }
