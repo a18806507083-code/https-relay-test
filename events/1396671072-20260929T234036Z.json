@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T22:41:26Z",
+    "description": "Drip H \u2014 reserve-backed DRIPH staking faucet on Robinhood Chain",
+    "detected_at": "2026-09-29T23:40:36Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "rarcher5401-hue/drip-h",
+    "homepage": null,
+    "html_url": "https://github.com/rarcher5401-hue/drip-h",
+    "pushed_at": "2026-09-29T22:49:42Z",
+    "repo_id": 1396671072,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
