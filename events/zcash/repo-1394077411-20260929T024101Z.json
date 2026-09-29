@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T02:06:13Z",
+    "detected_at": "2026-09-29T02:41:01Z",
+    "display": "Udoka-AM/corridor",
+    "key": "repo:1394077411",
+    "metadata": {
+      "description": "Stablecoin settlement and treasury rails for payment companies moving money into Africa: Tempo settlement, Solana routing, Zcash shielded lane.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Udoka-AM/corridor",
+      "homepage": null,
+      "pushed_at": "2026-09-29T02:40:30Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1394077411,
+    "url": "https://github.com/Udoka-AM/corridor"
+  },
+  "schema": "zcash-fast-event/1"
+}
