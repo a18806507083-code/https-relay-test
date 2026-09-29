@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T14:54:44Z",
+    "detected_at": "2026-09-29T15:32:41Z",
+    "display": "BA-BlockchainAnalysis/signet-verify",
+    "key": "repo:1395651400",
+    "metadata": {
+      "description": "Trustless, open-source verifier for BA | Signet certificates of wallet control — checks the signature, the certificate hash and the Polygon anchor without trusting BA | Signet.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "BA-BlockchainAnalysis/signet-verify",
+      "homepage": null,
+      "pushed_at": "2026-09-29T14:54:58Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1395651400,
+    "url": "https://github.com/BA-BlockchainAnalysis/signet-verify"
+  },
+  "schema": "zcash-fast-event/1"
+}
