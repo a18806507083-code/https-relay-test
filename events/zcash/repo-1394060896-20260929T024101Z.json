@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T01:47:36Z",
+    "detected_at": "2026-09-29T02:41:01Z",
+    "display": "404snark/zkSEND",
+    "key": "repo:1394060896",
+    "metadata": {
+      "description": "Shielded payment links for Zcash. Get paid, take tips, or pay a whole team in one go.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "404snark/zkSEND",
+      "homepage": null,
+      "pushed_at": "2026-09-29T01:48:03Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1394060896,
+    "url": "https://github.com/404snark/zkSEND"
+  },
+  "schema": "zcash-fast-event/1"
+}
