@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T22:54:39.623Z",
+    "detected_at": "2026-09-29T23:40:59Z",
+    "display": "57896 Grant Application — Nozy Sync Engine: public CompactTxStreamer in front of Zebrad",
+    "key": "forum:57896",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-nozy-sync-engine-public-compacttxstreamer-in-front-of-zebrad",
+      "title": "Grant Application — Nozy Sync Engine: public CompactTxStreamer in front of Zebrad",
+      "topic_id": 57896
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57896,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-nozy-sync-engine-public-compacttxstreamer-in-front-of-zebrad/57896"
+  },
+  "schema": "zcash-fast-event/1"
+}
