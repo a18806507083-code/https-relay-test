@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T18:50:04Z",
+    "detected_at": "2026-09-29T20:10:57Z",
+    "display": "#454 Grant Application - 0xramp: ZEC payments and wallet integrations (revision of #408)",
+    "key": "zcg:5635402582",
+    "metadata": {
+      "author": "vinibarbosabr",
+      "issue_number": 454,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Grant Application - 0xramp: ZEC payments and wallet integrations (revision of #408)"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5635402582,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/454"
+  },
+  "schema": "zcash-fast-event/1"
+}
