@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T20:17:16Z",
+    "detected_at": "2026-09-29T23:40:59Z",
+    "display": "ceoghoxst/-zerostate",
+    "key": "repo:1396543584",
+    "metadata": {
+      "description": "    ZeroState — scarcity, execution, speed, privacy. Lightpaper, specifications, research, and future protocol development.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ceoghoxst/-zerostate",
+      "homepage": null,
+      "pushed_at": "2026-09-29T23:16:45Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "protocol/ZK"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1396543584,
+    "url": "https://github.com/ceoghoxst/-zerostate"
+  },
+  "schema": "zcash-fast-event/1"
+}
