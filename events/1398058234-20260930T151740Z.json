@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T13:30:55Z",
+    "description": "Good things come to the fam. famdotfun on Robinhood Chain.",
+    "detected_at": "2026-09-30T15:17:40Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "fam-fun/fam-fun",
+    "homepage": "https://famdotfun.com",
+    "html_url": "https://github.com/fam-fun/fam-fun",
+    "pushed_at": "2026-09-30T13:32:11Z",
+    "repo_id": 1398058234,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
