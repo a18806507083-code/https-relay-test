@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T10:46:15.232Z",
+    "detected_at": "2026-09-30T15:18:24Z",
+    "display": "57926 Documentary: Zcash, from Zidelined to Zillions",
+    "key": "forum:57926",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "documentary-zcash-from-zidelined-to-zillions",
+      "title": "Documentary: Zcash, from Zidelined to Zillions",
+      "topic_id": 57926
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57926,
+    "url": "https://forum.zcashcommunity.com/t/documentary-zcash-from-zidelined-to-zillions/57926"
+  },
+  "schema": "zcash-fast-event/1"
+}
