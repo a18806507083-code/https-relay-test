@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T07:51:24Z",
+    "detected_at": "2026-09-30T08:42:59Z",
+    "display": "Holedozer1229/frostgate",
+    "key": "repo:1397321336",
+    "metadata": {
+      "description": "Frostgate: 3-of-5 FROST threshold federation custody for cross-chain bridges (BTC testnet <-> ZEC testnet). Colosseum Crypto World's Fair entry.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "Holedozer1229/frostgate",
+      "homepage": null,
+      "pushed_at": "2026-09-30T08:32:08Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1397321336,
+    "url": "https://github.com/Holedozer1229/frostgate"
+  },
+  "schema": "zcash-fast-event/1"
+}
