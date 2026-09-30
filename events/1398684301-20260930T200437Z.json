@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T19:58:04Z",
+    "description": "Ecosystem knowledge base \u2014 raw ground-truth intel from live traces (vibe/vibe launchpad, Robinhood Chain testnet). Data only, no opinions.",
+    "detected_at": "2026-09-30T20:04:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "0o0r7/ecosystem-knowledge",
+    "homepage": null,
+    "html_url": "https://github.com/0o0r7/ecosystem-knowledge",
+    "pushed_at": "2026-09-30T19:58:36Z",
+    "repo_id": 1398684301,
+    "score": 10,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
