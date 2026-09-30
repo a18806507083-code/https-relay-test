@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T18:56:04Z",
+    "description": null,
+    "detected_at": "2026-09-30T20:04:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "ProjectHive-IMD/Hive",
+    "homepage": null,
+    "html_url": "https://github.com/ProjectHive-IMD/Hive",
+    "pushed_at": "2026-09-30T19:13:40Z",
+    "repo_id": 1398620090,
+    "score": 9,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
