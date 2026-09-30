@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T00:12:50.950Z",
+    "detected_at": "2026-09-30T02:22:34Z",
+    "display": "57910 The Hand of God: What Q3's Coinholder Retroactive Grants Vote Tells Us",
+    "key": "forum:57910",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "the-hand-of-god-what-q3s-coinholder-retroactive-grants-vote-tells-us",
+      "title": "The Hand of God: What Q3's Coinholder Retroactive Grants Vote Tells Us",
+      "topic_id": 57910
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57910,
+    "url": "https://forum.zcashcommunity.com/t/the-hand-of-god-what-q3s-coinholder-retroactive-grants-vote-tells-us/57910"
+  },
+  "schema": "zcash-fast-event/1"
+}
