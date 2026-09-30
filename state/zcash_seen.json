@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-30T08:42:59Z",
+  "last_run_at": "2026-09-30T15:18:24Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-09-30T01:52:34Z",
+      "cutoff": "2026-09-30T08:12:59Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-09-30T01:52:34Z",
-      "matches": 0,
+      "cutoff": "2026-09-30T08:12:59Z",
+      "matches": 6,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-09-30T01:52:34Z",
-      "matches": 8,
+      "cutoff": "2026-09-30T08:12:59Z",
+      "matches": 5,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-09-30T01:52:34Z",
-      "matches": 0,
+      "cutoff": "2026-09-30T08:12:59Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -893,6 +893,54 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1463",
       "first_seen_at": "2026-09-30T02:22:34Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57926": {
+      "created_at": "2026-09-30T10:46:15.232Z",
+      "display": "57926 Documentary: Zcash, from Zidelined to Zillions",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1494",
+      "first_seen_at": "2026-09-30T15:18:24Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57927": {
+      "created_at": "2026-09-30T12:53:02.213Z",
+      "display": "57927 The Forge Report #003: From Learning to Creating",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1492",
+      "first_seen_at": "2026-09-30T15:18:24Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57928": {
+      "created_at": "2026-09-30T13:11:16.066Z",
+      "display": "57928 Zcash Community Grants (ZCG) Meeting Minutes 9/28/2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1491",
+      "first_seen_at": "2026-09-30T15:18:24Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57929": {
+      "created_at": "2026-09-30T13:48:33.671Z",
+      "display": "57929 Shielded Wallet Performance on Entry-Level Android",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1489",
+      "first_seen_at": "2026-09-30T15:18:24Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57930": {
+      "created_at": "2026-09-30T13:56:24.184Z",
+      "display": "57930 Bringing Shielded Zcash to Everyday Payments",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1488",
+      "first_seen_at": "2026-09-30T15:18:24Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57931": {
+      "created_at": "2026-09-30T14:36:16.868Z",
+      "display": "57931 It's here: a beta, fully-automated sepETH->TAZ atomic shielded swap bridge",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1487",
+      "first_seen_at": "2026-09-30T15:18:24Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -3055,6 +3103,14 @@
       "first_seen_at": "2026-09-30T08:42:59Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1397740118": {
+      "created_at": "2026-09-30T11:35:18Z",
+      "display": "zcashlabs/zovereign",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1493",
+      "first_seen_at": "2026-09-30T15:18:24Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -3358,14 +3414,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1456",
       "first_seen_at": "2026-09-29T23:40:59Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5647443326": {
+      "created_at": "2026-09-30T13:44:02Z",
+      "display": "#456 Grant Application - Zcash Privacy Payment Rail & NFC Programmable Cards",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1490",
+      "first_seen_at": "2026-09-30T15:18:24Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-09-30T08:42:59Z",
-    "forum": "2026-09-30T08:42:59Z",
-    "github": "2026-09-30T08:42:59Z",
-    "zcg": "2026-09-30T08:42:59Z"
+    "fixed_orgs": "2026-09-30T15:18:24Z",
+    "forum": "2026-09-30T15:18:24Z",
+    "github": "2026-09-30T15:18:24Z",
+    "zcg": "2026-09-30T15:18:24Z"
   }
 }
