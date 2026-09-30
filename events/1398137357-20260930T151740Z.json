@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T13:54:55Z",
+    "description": null,
+    "detected_at": "2026-09-30T15:17:40Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "0xBlackshark/xanalyze",
+    "homepage": null,
+    "html_url": "https://github.com/0xBlackshark/xanalyze",
+    "pushed_at": "2026-09-30T14:18:34Z",
+    "repo_id": 1398137357,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
