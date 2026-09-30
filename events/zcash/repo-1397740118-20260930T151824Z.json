@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T11:35:18Z",
+    "detected_at": "2026-09-30T15:18:24Z",
+    "display": "zcashlabs/zovereign",
+    "key": "repo:1397740118",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "zcashlabs/zovereign",
+      "homepage": null,
+      "pushed_at": "2026-09-30T13:47:54Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1397740118,
+    "url": "https://github.com/zcashlabs/zovereign"
+  },
+  "schema": "zcash-fast-event/1"
+}
