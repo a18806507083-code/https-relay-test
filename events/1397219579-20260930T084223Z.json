@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T06:51:43Z",
+    "description": "A passport and an account for every AI agent \u2014 ENS names that resolve in real wallets, with verifiable records",
+    "detected_at": "2026-09-30T08:42:23Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "musepass/musepass",
+    "homepage": "https://musename.xyz",
+    "html_url": "https://github.com/musepass/musepass",
+    "pushed_at": "2026-09-30T08:35:39Z",
+    "repo_id": 1397219579,
+    "score": 6,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
