@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T08:16:56Z",
+    "description": "Solidity contracts for Stealthpad on Robinhood Chain: keyless per-coin vaults that share creator fees with holders in USDG.",
+    "detected_at": "2026-09-30T08:42:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "stealthpadRH/foundry",
+    "homepage": null,
+    "html_url": "https://github.com/stealthpadRH/foundry",
+    "pushed_at": "2026-09-30T08:17:35Z",
+    "repo_id": 1397366490,
+    "score": 17,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
