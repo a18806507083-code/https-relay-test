@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T12:53:02.213Z",
+    "detected_at": "2026-09-30T15:18:24Z",
+    "display": "57927 The Forge Report #003: From Learning to Creating",
+    "key": "forum:57927",
+    "metadata": {
+      "category_id": 17,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "the-forge-report-003-from-learning-to-creating",
+      "title": "The Forge Report #003: From Learning to Creating",
+      "topic_id": 57927
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57927,
+    "url": "https://forum.zcashcommunity.com/t/the-forge-report-003-from-learning-to-creating/57927"
+  },
+  "schema": "zcash-fast-event/1"
+}
