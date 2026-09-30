@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T20:52:11Z",
+    "detected_at": "2026-09-30T23:40:44Z",
+    "display": "web3jester/br4tedmintlookout",
+    "key": "repo:1398730312",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "web3jester/br4tedmintlookout",
+      "homepage": null,
+      "pushed_at": "2026-09-30T21:05:47Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1398730312,
+    "url": "https://github.com/web3jester/br4tedmintlookout"
+  },
+  "schema": "zcash-fast-event/1"
+}
