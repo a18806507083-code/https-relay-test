@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T14:36:16.868Z",
+    "detected_at": "2026-09-30T15:18:24Z",
+    "display": "57931 It's here: a beta, fully-automated sepETH->TAZ atomic shielded swap bridge",
+    "key": "forum:57931",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "its-here-a-beta-fully-automated-sepeth-taz-atomic-shielded-swap-bridge",
+      "title": "It's here: a beta, fully-automated sepETH->TAZ atomic shielded swap bridge",
+      "topic_id": 57931
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57931,
+    "url": "https://forum.zcashcommunity.com/t/its-here-a-beta-fully-automated-sepeth-taz-atomic-shielded-swap-bridge/57931"
+  },
+  "schema": "zcash-fast-event/1"
+}
