@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T14:52:24Z",
+    "description": null,
+    "detected_at": "2026-09-30T15:17:40Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "jevo-agent/jevo-agent",
+    "homepage": null,
+    "html_url": "https://github.com/jevo-agent/jevo-agent",
+    "pushed_at": "2026-09-30T14:53:56Z",
+    "repo_id": 1398322116,
+    "score": 17,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
