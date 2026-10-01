@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T07:22:26Z",
+    "detected_at": "2026-10-01T09:06:56Z",
+    "display": "amiabix/zcash-and-ths-skills",
+    "key": "repo:1399398825",
+    "metadata": {
+      "description": "Agent skills for Zcash development and Thus Spoke Zakura",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "amiabix/zcash-and-ths-skills",
+      "homepage": null,
+      "pushed_at": "2026-10-01T07:22:31Z",
+      "tech_signals": [
+        "wallet/payment",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1399398825,
+    "url": "https://github.com/amiabix/zcash-and-ths-skills"
+  },
+  "schema": "zcash-fast-event/1"
+}
