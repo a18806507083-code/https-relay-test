@@ -710,6 +710,16 @@
       "project": "repo:solonlend/leverage",
       "all_missing": true,
       "parser_version": 3
+    },
+    "343": {
+      "project": "repo:clubytech/cluby-mcp",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "347": {
+      "project": "repo:dunik77/thread",
+      "all_missing": false,
+      "parser_version": 3
     }
   },
   "projects": {
@@ -763,8 +773,8 @@
           "url": "https://github.com/runesleo/meme-cohort-observatory/blob/ad5444fd86010fd7a4ded2f4fae663aee719703e/docs/ROBICOP_SHADOW.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:56.181686+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:21.841881+00:00",
       "repo_id": 1356051016,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -814,10 +824,10 @@
           "url": "https://github.com/realdeanai/golden--trader/blob/cb1b89504a2bc6294da2ddcc600751de811635ef/development/wallet-monitor/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:14.692223+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:50.369089+00:00",
       "repo_id": 1356082615,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "verified_fingerprint": "5e05e3c551c4fcca49198c17c9185bd87e66d3774a4e908305dd8673fa62fdfe"
     },
     "repo:voxelithicag/mcp": {
@@ -851,8 +861,8 @@
           "url": "https://github.com/ReddAgentRH/redd/blob/938adaa0b90e22e8eaf1d4fab79ad32ab656f8cb/contract/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:16.144206+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:51.304583+00:00",
       "repo_id": 1356143612,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -917,8 +927,8 @@
           "url": "https://github.com/Rizkijack/gashood/blob/853edd0a271357936dfddcd2a858dfa5969c9dd7/docs/WORKFLOW.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:57.536143+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:22.826302+00:00",
       "repo_id": 1356167900,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -996,8 +1006,8 @@
           "url": "https://github.com/travisiol/hedge/blob/3bd37a63234bcca0bb5bc56d50990857998fb187/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:58.661629+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:23.581824+00:00",
       "repo_id": 1356225163,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1124,8 +1134,8 @@
           "url": "https://github.com/snobistisch/stock-lp-radar/blob/590dc2bc4b8e98f3303c3ebece3fdea54a235f80/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:59.888440+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:24.518634+00:00",
       "repo_id": 1356269686,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1252,10 +1262,10 @@
           "url": "https://github.com/nirholas/loxley/blob/afd42677c3333bdbb7689852872e838d732e4e89/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:17.394234+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:52.212164+00:00",
       "repo_id": 1356333517,
-      "file_cursor": 8,
+      "file_cursor": 7,
       "failed_fingerprints": {
         "4cd72aa43fb1e32ca7340d6179028e9795aab4ce5cc71f4f5409a55a839983c2": 1
       },
@@ -1296,8 +1306,8 @@
           "url": "https://github.com/vern-sh/vernagent/blob/95d5ffff949efa04c76065d5d8241ccf3fdb4a86/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:18.460476+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:53.073729+00:00",
       "repo_id": 1356364734,
       "file_cursor": 0,
       "claims": [],
@@ -1361,10 +1371,10 @@
           "url": "https://github.com/Ali213112/Agentic-on-bot-chain-/blob/dc6f15d0a837849cd10e16db657132fdf912e57c/src/lib/deployed.ts"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:19.658140+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:53.981633+00:00",
       "repo_id": 1356397498,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "claims": [],
       "claims_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83",
       "verified_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83"
@@ -1389,8 +1399,8 @@
           "url": "https://github.com/QorbQuant/fomo-robinhood-copy/blob/c4ef852b5483af691df5411fc01c03a1899272b6/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:20.803806+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:55.812218+00:00",
       "repo_id": 1356394695,
       "file_cursor": 0,
       "claims": [],
@@ -1512,10 +1522,10 @@
           "url": "https://github.com/heirlabs/famcash-contracts/blob/052b8c4ce6aa6f455d8ad155f4ae4fa1734c4427/scripts/deploy-mock-tokens.js"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:22.087557+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:56.776481+00:00",
       "repo_id": 1356497199,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "claims": [
         {
           "kind": "website",
@@ -1604,10 +1614,10 @@
           "url": "https://github.com/JermWang/rh-incinerator/blob/be505c6e4869619496ae4a194bfe51d1e4a8b5d8/packages/contracts/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:23.268972+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:57.798169+00:00",
       "repo_id": 1356615492,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "claims": [],
       "claims_fingerprint": "d4c1876a5960772f8691a4f2e438ad38e008b2e097ca338053c2a1fe7fa1942b",
       "verified_fingerprint": "d4c1876a5960772f8691a4f2e438ad38e008b2e097ca338053c2a1fe7fa1942b"
@@ -1671,8 +1681,8 @@
           "url": "https://github.com/ClankRace/clankrace-v4/blob/4615160fcf6ad4afa7109f1d7d216a54a05f1b14/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:24.484500+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:58.689507+00:00",
       "repo_id": 1356715579,
       "file_cursor": 0,
       "claims": [],
@@ -1804,10 +1814,10 @@
           "url": "https://github.com/MeiYanDong/robinhood-pair-grid/blob/73db09b73dcfc67b04b87033f2240104174df87c/docs/adr/0008-hard-floor-and-rpc-consensus.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:25.598269+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:59.534282+00:00",
       "repo_id": 1356750466,
-      "file_cursor": 8,
+      "file_cursor": 4,
       "claims": [],
       "claims_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5",
       "verified_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5"
@@ -1928,8 +1938,8 @@
           "url": "https://github.com/nirholas/sherwood/blob/2dbd22d6a8e0f78ba2f83a589733a67ffbca5acd/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:26.806003+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:00.501972+00:00",
       "repo_id": 1356845105,
       "file_cursor": 0,
       "claims": [],
@@ -1966,8 +1976,8 @@
           "url": "https://github.com/kealabama/midcap-random-index/blob/8bc8400cd23c3f0907d8f07deccc39b230bf1728/docs/VERIFIER.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:27.990106+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:01.255072+00:00",
       "repo_id": 1356858272,
       "file_cursor": 0,
       "claims": [],
@@ -1999,8 +2009,8 @@
           "url": "https://github.com/MonkiiLabs/MonkiiLabsApp/blob/84d035308c0053798992b803a710ba528a4ca385/contracts/deployed_address.json"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:29.218810+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:02.161017+00:00",
       "repo_id": 1356847100,
       "file_cursor": 0,
       "claims": [],
@@ -2109,8 +2119,8 @@
           "url": "https://github.com/FLock-io/flock-v4-hook/blob/b8098bd9ad58b776c7c92839a0980a222a4c2a06/script/testing/00_DeployV4.s.sol"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:30.350078+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:03.126753+00:00",
       "repo_id": 1356947738,
       "file_cursor": 0,
       "claims": [],
@@ -2188,8 +2198,8 @@
           "url": "https://github.com/yafieae/morpho-toolkit/blob/0260e804d65da84d15bb13df88fd42e1216594da/tools/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:32.476402+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:04.123137+00:00",
       "repo_id": 1356964162,
       "file_cursor": 0,
       "claims": [],
@@ -2222,8 +2232,8 @@
           "url": "https://github.com/thesoloycoder/OmniLauncher/blob/7984ba04eb4451dae3205ddc15eda8ba0edd5a51/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:03.283199+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:41.394269+00:00",
       "repo_id": 1357020146,
       "file_cursor": 0,
       "claims": [],
@@ -2413,8 +2423,8 @@
           "url": "https://github.com/bruisedhacksa/pulse/blob/9ffb7047778ddb030c832826f95c309389c68cb6/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:33.630911+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:04.975052+00:00",
       "repo_id": 1357231201,
       "file_cursor": 0,
       "claims": [],
@@ -2436,8 +2446,8 @@
           "url": "https://github.com/florityswap/meridian-robinhood/blob/cb7d1b04ad8ed9456dcf25971592dc13f125cdda/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:34.791056+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:05.977887+00:00",
       "repo_id": 1357293588,
       "file_cursor": 0
     },
@@ -2461,8 +2471,8 @@
           "url": "https://github.com/florityswap/unicrit/blob/7eb691e95684bdcd10ba4b5b426ec32f0adf78f0/scripts/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:35.926201+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:06.942785+00:00",
       "repo_id": 1357293353,
       "file_cursor": 0,
       "claims": [],
@@ -2556,10 +2566,10 @@
           "url": "https://github.com/arcafi/arca/blob/2f6091f6e5ba25ae78c8933acdbed64b265d7755/web/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:37.257037+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:07.826862+00:00",
       "repo_id": 1357452361,
-      "file_cursor": 2,
+      "file_cursor": 6,
       "claims": [
         {
           "kind": "x",
@@ -2626,10 +2636,10 @@
           "url": "https://github.com/memeticstate/ms-v1/blob/7e8e071b0a52e6229ca6efa4ae480d3c7497bd2e/docs/mvp-architecture.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:38.279878+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:08.717512+00:00",
       "repo_id": 1357414038,
-      "file_cursor": 0
+      "file_cursor": 2
     },
     "repo:shellr-packs/shellr-web": {
       "source": "repo",
@@ -2668,8 +2678,8 @@
           "url": "https://github.com/JermWang/airtime/blob/acf75727eca6609596671a4993515b905f21ca89/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:39.540801+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:09.720803+00:00",
       "repo_id": 1357489892,
       "file_cursor": 0,
       "claims": [
@@ -2703,8 +2713,8 @@
           "url": "https://github.com/Nar-123/lpbot-new/blob/bdf13f4e573ba6d1d4c700776bdf00a3ee5b3c60/scripts/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:40.841664+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:10.526415+00:00",
       "repo_id": 1357484187,
       "file_cursor": 0,
       "claims": [],
@@ -2791,8 +2801,8 @@
           "url": "https://github.com/galaxydestroyer0000/button/blob/b9c73bfcdd110dd88bee175a254a142cf3880181/docs/superpowers/specs/2026-09-03-frontend-rebuild-design.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:42.286395+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:11.599343+00:00",
       "repo_id": 1357556366,
       "file_cursor": 0,
       "claims": [
@@ -2823,8 +2833,8 @@
           "url": "https://github.com/TICKRMARKETS/tickr-markets/blob/2975a167061cc90a19ac92bb21d6e3a1f1864f57/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:43.539874+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:12.514745+00:00",
       "repo_id": 1357604173,
       "file_cursor": 0,
       "claims": [],
@@ -2881,10 +2891,10 @@
           "url": "https://github.com/novenrizkia856-ui/Roxy-contract/blob/f78052bf2dc56f335f4e9cd53880baab9eeebfc8/script/DeployTestnet.s.sol"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:45.141239+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:13.557347+00:00",
       "repo_id": 1357694785,
-      "file_cursor": 2,
+      "file_cursor": 6,
       "claims": [],
       "claims_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675",
       "verified_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675"
@@ -2914,8 +2924,8 @@
           "url": "https://github.com/xlabsg/fomo-copy-bot/blob/837b5c8fe49395ac8348ecb8a60e39e4394f0e53/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:46.287459+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:14.415030+00:00",
       "repo_id": 1357743987,
       "file_cursor": 0,
       "claims": [],
@@ -2992,10 +3002,10 @@
           "url": "https://github.com/basisinvestments/basis/blob/f83e52be9d35b0cf0e11885fa90c79ee9df5f741/docs/use-cases.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:47.451209+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:15.451659+00:00",
       "repo_id": 1357917659,
-      "file_cursor": 7,
+      "file_cursor": 3,
       "claims": [
         {
           "kind": "website",
@@ -3022,8 +3032,8 @@
           "url": "https://github.com/cocainebit/float-docs/blob/4717d162ad8d98bcb381e3e9df398d96d4e9fdee/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:49.264070+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:16.565186+00:00",
       "repo_id": 1357819964,
       "file_cursor": 0,
       "claims": [],
@@ -3100,8 +3110,8 @@
           "url": "https://github.com/cony-horizon/rhbot/blob/ec827ebc1598867b94b472a3af8b6a03070b60f8/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:50.319544+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:17.484484+00:00",
       "repo_id": 1358070563,
       "file_cursor": 0,
       "claims": [],
@@ -3166,8 +3176,8 @@
       "registered_at": "2026-09-06T10:22:46.608671+00:00",
       "first_report_sha256": "8fcc2582361e9d54505aa2746ea0af6480e2d422b38b44c57b674234b3e58207",
       "files": {},
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:51.794944+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:18.530405+00:00",
       "linked_repositories": {}
     },
     "repo:aomi-labs/hoodit-apps": {
@@ -3215,8 +3225,8 @@
           "url": "https://github.com/aomi-labs/hoodit-apps/blob/76a6a12a0fc0e76a8f19dc6c4926d53244bc64ea/docs/hoodit-v1-validation.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:52.345507+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:19.017676+00:00",
       "repo_id": 1358230721,
       "file_cursor": 0
     },
@@ -3409,8 +3419,8 @@
           "url": "https://github.com/efsanedizzy/wick5market/blob/51f7dffcd4b6de64a2df41f35e96121e90bdc97b/DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:53.670757+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:20.003561+00:00",
       "repo_id": 1358518390,
       "file_cursor": 0
     },
@@ -3560,10 +3570,10 @@
           "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/8f96593a6fcda9892f1f508cb8d854e7b4a47d3a/src/wallet_privacy_testkit/example/privacy-manifest.json"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:04.672601+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:42.467904+00:00",
       "repo_id": 1358522089,
-      "file_cursor": 6,
+      "file_cursor": 0,
       "claims": [],
       "claims_fingerprint": "4f856bc787ecea53788c3929d1fff21c856bceff903b07ad8ba9663fe38c36af",
       "verified_fingerprint": "4f856bc787ecea53788c3929d1fff21c856bceff903b07ad8ba9663fe38c36af"
@@ -3639,8 +3649,8 @@
           "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/site/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:54.914179+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:12:20.883801+00:00",
       "repo_id": 1358614318,
       "file_cursor": 0,
       "claims": [],
@@ -3684,8 +3694,8 @@
           "url": "https://github.com/Auditchain/audt-supply/blob/1524d5877b67a34be93ed2af8ba1e3da21c89d77/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:13.493491+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:49.438686+00:00",
       "repo_id": 1358626962,
       "file_cursor": 0,
       "claims": [],
@@ -3884,10 +3894,10 @@
           "url": "https://github.com/boyfromcave/ycash-dd/blob/f86bed6bde8ee4a36bfe62ec7f56a0d795c4610d/contrib/yellowback/devnet/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:06.235502+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:43.604248+00:00",
       "repo_id": 1358682417,
-      "file_cursor": 24,
+      "file_cursor": 12,
       "claims": [],
       "claims_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69",
       "verified_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69"
@@ -4233,8 +4243,8 @@
           "url": "https://github.com/Harkor421/costco-back/blob/e718643f14e8daa323a584d32fa8df0c89a9ba27/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:07.874850+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:44.706201+00:00",
       "repo_id": 1358634709,
       "file_cursor": 0,
       "claims": [],
@@ -4261,8 +4271,8 @@
           "url": "https://github.com/kiattisakph/robinhood-wallet-alert-bot/blob/91dae85e2cd97fa67b12db1ef1177b96ce367ecb/docs/robinhood_realtime_telegram_bot_cursor_spec.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:09.850501+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:46.323546+00:00",
       "repo_id": 1358885217,
       "file_cursor": 0,
       "claims": [],
@@ -4343,8 +4353,8 @@
           "url": "https://github.com/33hodl/rh-chain-wallet-lens/blob/00fcbfd2a072ad4f7c0ac709912b68184ff8d0e9/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:11.146413+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:47.360167+00:00",
       "repo_id": 1358940529,
       "file_cursor": 0,
       "claims": [],
@@ -4393,8 +4403,8 @@
           "url": "https://github.com/seanbc618-tech/robinhood-meme-bot/blob/b1d2cd19347d4eadf1a5c900d7a22be46b69bf4a/tasks/VPS_FX_WATCH_DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:12.234399+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:48.293311+00:00",
       "repo_id": 1358970900,
       "file_cursor": 0,
       "claims": [],
@@ -4646,10 +4656,10 @@
           "url": "https://github.com/0xRadikal/pons-launchpad-forensics/blob/7dfb7d97c9e4409161308279599f6ed9893c8d23/docs/SERIAL_LAUNCHING.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:02.168309+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:40.391856+00:00",
       "repo_id": 1359317759,
-      "file_cursor": 3,
+      "file_cursor": 0,
       "claims": [],
       "claims_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d",
       "verified_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d"
@@ -4691,8 +4701,8 @@
           "url": "https://github.com/idotmy/IDEX-Contracts/blob/ba7e0453b1c679418a8836d5598b10cd652dc5c6/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:53:00.747303+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:39.347529+00:00",
       "repo_id": 1359388343,
       "file_cursor": 0,
       "claims": [],
@@ -5077,10 +5087,10 @@
           "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/verification-2026-09-13/mainnet-chain.json"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:52:59.224241+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:38.339490+00:00",
       "repo_id": 1359490952,
-      "file_cursor": 20
+      "file_cursor": 38
     },
     "repo:kili-lol/kili": {
       "source": "repo",
@@ -5155,10 +5165,10 @@
           "url": "https://github.com/andperez123/ball-robinhood/blob/e37d7aa713b95530bdbb28a2a2a15d97c3b23ebc/docs/ORACLE.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:52:57.823527+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:36.349516+00:00",
       "repo_id": 1359613654,
-      "file_cursor": 4
+      "file_cursor": 2
     },
     "repo:abysshopper/black-market-node-sdk": {
       "source": "repo",
@@ -5190,8 +5200,8 @@
           "url": "https://github.com/abysshopper/black-market-node-sdk/blob/4476cfc789fa545c6a78e2ed18e7af4d808dd72b/src/deployer.ts"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:52:55.350063+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:34.214954+00:00",
       "repo_id": 1359686762,
       "file_cursor": 0
     },
@@ -5226,8 +5236,8 @@
           "url": "https://github.com/perfectingcodes/perfectingbot/blob/1b1d9454657762521556f2b1e8630a24395ffa10/public/assets/README.md"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:52:56.675432+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:35.309682+00:00",
       "repo_id": 1359590900,
       "file_cursor": 0
     },
@@ -5340,15 +5350,127 @@
           "sha": "f46f27334af19554680f00d12d6baf758d63f556",
           "text": "",
           "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/docs/flow-liquidate.json"
+        },
+        "docs/flow-open.json": {
+          "sha": "a5fb4f9f765190964b590e65ff171b549224bb2d",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/docs/flow-open.json"
+        },
+        "docs/plans/2026-09-06-dual-liquidation.md": {
+          "sha": "88ee7887d8f38c4a9f5a184d0d4e3ea601d0e2fd",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/docs/plans/2026-09-06-dual-liquidation.md"
+        },
+        "docs/plans/2026-09-06-low-risk-fixes.md": {
+          "sha": "0196222e82eaf2aa93b7ce9b0e75d085adcf7d1d",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/docs/plans/2026-09-06-low-risk-fixes.md"
+        },
+        "docs/plans/2026-09-06-single-liquidation.md": {
+          "sha": "eb578cc150358baa1da07a8bd1e6fa32d047a9c8",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/docs/plans/2026-09-06-single-liquidation.md"
+        },
+        "docs/plans/2026-09-06-soft-launch-keeper.md": {
+          "sha": "a5be00a36767d38af758a6c53d12d7aca578d10c",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/docs/plans/2026-09-06-soft-launch-keeper.md"
+        },
+        "docs/solon-architecture.json": {
+          "sha": "5b94cffd7fc687eeffb1ce2b620faa2f1c9adf51",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/docs/solon-architecture.json"
+        },
+        "keeper/README.md": {
+          "sha": "cd08ee3d55f5ba31b6bfd3239671bd40a0051da9",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/keeper/README.md"
+        },
+        "monitoring/README.md": {
+          "sha": "c7ec3d68e27cbaa05bb48c606cf6cc6f33daee06",
+          "text": "\nOn chainId 4663, the configured RPC is followed by these fallback endpoints:\n`https://rpc.mainnet.chain.robinhood.com/rpc`, `https://robinhood-rpc.publicnode.com`,\n`https://rpc.mainnet.chain.robinhood.com`. Other chains do not receive RH fallbacks.\nAll requests carry a browser User-Agent and share a serialized queue with at least\n1 second between requests. HTTP 403/429 and transient failures rotate endpoints\n\n```bash\nRPC_URL=https://rpc.mainnet.chain.robinhood.com/rpc VAULT=0x9Db7aDa64D1E8b856E15D916d886797501F28ce0 START_BLOCK=56546827 node leverage/monitoring/index.mjs --once --dry-run\n```\n",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/monitoring/README.md"
+        },
+        "points/README.md": {
+          "sha": "e8d759a2437c5422bd90613c2c82a7866d7e269b",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/points/README.md"
+        },
+        "script/DeployRangeClm.s.sol": {
+          "sha": "edac689aceb261676aa23bf3ce75c79f396489da",
+          "text": "\ncontract DeployRangeClm is Script {\n    address constant POOL = 0x52e65B17fB6E5BA00Ed806f37Afcd2DaA50271Ca; // WETH/USDG fee100\n    address constant WETH = 0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73;\n    address constant USDG = 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168;\n\n    function run() external {",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/script/DeployRangeClm.s.sol"
+        },
+        "script/DeployRhDual.s.sol": {
+          "sha": "85124251b08ec91817d318614ca75a93d194a472",
+          "text": "\ncontract DeployRhDual is DualDeploymentLimits {\n    address constant NFPM   = 0x73991a25C818Bf1f1128dEAaB1492D45638DE0D3;\n    address constant POOL   = 0x52e65B17fB6E5BA00Ed806f37Afcd2DaA50271Ca; // WETH/USDG fee100\n    address constant ROUTER = 0xCaf681a66D020601342297493863E78C959E5cb2;\n    address constant WETH   = 0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73;\n    address constant USDG   = 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168;\n    address constant ETH_FEED  = 0x78F3556b67E17Df817D51Ef5a990cDaF09E8d3A9;\n    address constant USDG_FEED = 0x61B7e5650328764B076A108EFF5fa7282a1B9aD2;\n\n    function run() external {",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/script/DeployRhDual.s.sol"
+        },
+        "script/DeployRhSingleOntoDual.s.sol": {
+          "sha": "f5101fd917b8cde3b73d2771613718b2fdd22a3f",
+          "text": "\ncontract DeployRhSingleOntoDual is DeploymentParameters {\n    address constant NFPM = 0x73991a25C818Bf1f1128dEAaB1492D45638DE0D3;\n    address constant POOL = 0x52e65B17fB6E5BA00Ed806f37Afcd2DaA50271Ca; // WETH/USDG fee100\n    address constant WETH = 0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73;\n    address constant USDG = 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168;\n\n    function run() external {",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/script/DeployRhSingleOntoDual.s.sol"
+        },
+        "script/DeployRhV3.s.sol": {
+          "sha": "9865fd5e698c15043f8ae212179f592c0011a7d7",
+          "text": "contract DeployRhV3 is DeploymentParameters {\n    // Robinhood Chain (4663) 实测地址 — 与 test/fork/RhV3Fork.t.sol 同源\n    address constant NFPM   = 0x73991a25C818Bf1f1128dEAaB1492D45638DE0D3;\n    address constant POOL   = 0x52e65B17fB6E5BA00Ed806f37Afcd2DaA50271Ca; // WETH/USDG fee100(最深)\n    address constant ROUTER = 0xCaf681a66D020601342297493863E78C959E5cb2;\n    address constant WETH   = 0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73;\n    address constant USDG   = 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168;\n    address constant ETH_FEED  = 0x78F3556b67E17Df817D51Ef5a990cDaF09E8d3A9;\n    address constant USDG_FEED = 0x61B7e5650328764B076A108EFF5fa7282a1B9aD2;\n\n    function run() external {",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/script/DeployRhV3.s.sol"
+        },
+        "script/DeploySepoliaClm.s.sol": {
+          "sha": "e09998817309b4fb857986a7d4fd1c740f44adb1",
+          "text": "\ncontract DeploySepoliaClm is Script {\n    address constant POOL = 0x81ffB0C7127e90212f85cc825e9ecA8056A28A02; // WETH/USDG mock fee100\n    address constant WETH = 0x5Fb4b5AA8f408389cA96E7e5B9cFF014A8176563; // token0\n    address constant USDG = 0xB89b8f4d12bDFf564FF475832DE683dAF0911cDb; // token1\n\n    function run() external {",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/script/DeploySepoliaClm.s.sol"
+        },
+        "script/DeploySepoliaDual.s.sol": {
+          "sha": "e0e5d25dee248e2c95dfc05071398858c8867054",
+          "text": "contract DeploySepoliaDual is DualDeploymentLimits {\n    // Sepolia 官方 Uniswap V3(链上已验码)\n    address constant NFPM   = 0x1238536071E1c677A632429e3655c799b22cDA52;\n    address constant ROUTER = 0x3bFA4769FB09eefC5a80d6E87c3B9C650f7Ae48E; // SwapRouter02\n    uint24 constant FEE = 100;\n",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/script/DeploySepoliaDual.s.sol"
+        },
+        "script/DeploySepoliaDualV4.s.sol": {
+          "sha": "8a87b49fe73dca3200fedd6adf63a08caa4fb137",
+          "text": "\ncontract DeploySepoliaDualV4 is Script {\n    address constant POOL_MANAGER = 0xE03A1074c86CFeDd5C142C4F04F1a1536e203543;\n    address constant POSM = 0x429ba70129df741B2Ca2a85BC3A2a3328e5c09b4;\n    address constant STATE_VIEW = 0xE1Dd9c3fA50EDB962E442f60DfBc432e24537E4C;\n    address constant PERMIT2 = 0x000000000022D473030F116dDEE9F6B43aC78BA3;\n    address constant V3_ROUTER = 0x3bFA4769FB09eefC5a80d6E87c3B9C650f7Ae48E; // 缺口结算走 V3(与 RH 生产一致)\n    uint24 constant FEE = 100;\n    int24 constant SPACING = 1;",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/script/DeploySepoliaDualV4.s.sol"
+        },
+        "script/DeploymentParameters.s.sol": {
+          "sha": "6e348320b47dd7d007dbe87d2222970f10a69f69",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/script/DeploymentParameters.s.sol"
+        },
+        "script/DualDeploymentLimits.s.sol": {
+          "sha": "eb19624a2103ddd2ce638fe85a62a5269ee6b609",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/script/DualDeploymentLimits.s.sol"
         }
       },
-      "next_check_at": "2026-10-01T19:00:00+00:00",
-      "last_check_at": "2026-10-01T18:52:50.129093+00:00",
+      "next_check_at": "2026-10-02T00:00:00+00:00",
+      "last_check_at": "2026-10-01T23:11:30.642485+00:00",
       "repo_id": 1359602220,
-      "file_cursor": 18
+      "file_cursor": 36
+    },
+    "repo:clubytech/cluby-mcp": {
+      "source": "repo",
+      "repo": "clubytech/cluby-mcp",
+      "name": "clubytech/cluby-mcp",
+      "pr": 343,
+      "status": "excluded",
+      "registered_at": "2026-10-01T23:11:24.621627+00:00",
+      "first_report_sha256": "4624faf04e067ecc31f104212dcd996a8b11d7ec2e669172be59ff977b099ca0",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:dunik77/thread": {
+      "source": "repo",
+      "repo": "dunik77/thread",
+      "name": "dunik77/thread",
+      "pr": 347,
+      "status": "excluded",
+      "registered_at": "2026-10-01T23:11:24.902403+00:00",
+      "first_report_sha256": "21d87f53839d23358d53d4d3ccadb72a548baca2d603d65e5c09ef3cce04d514",
+      "files": {},
+      "next_check_at": null
     }
   },
-  "last_collect_at": "2026-10-01T18:54:01.117922+00:00",
+  "last_collect_at": "2026-10-01T23:12:25.607346+00:00",
   "last_errors": [],
   "last_verify_errors": [],
   "quota_next_probe_at": "2026-10-01T23:49:02.692224+00:00"
