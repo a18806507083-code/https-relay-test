@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T13:46:21Z",
+    "detected_at": "2026-10-01T16:20:48Z",
+    "display": "vitalikgpt/gram-ecosystem",
+    "key": "repo:1400070023",
+    "metadata": {
+      "description": "A library of all Gram, TON, and core-Telegram projects in one place. Categorized by their functions, with links to the projects’ social media accounts, websites, repositories, and on-chain addresses.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "vitalikgpt/gram-ecosystem",
+      "homepage": null,
+      "pushed_at": "2026-10-01T15:02:20Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1400070023,
+    "url": "https://github.com/vitalikgpt/gram-ecosystem"
+  },
+  "schema": "zcash-fast-event/1"
+}
