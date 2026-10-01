@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T20:46:14Z",
+    "description": "TypeScript SDK for building market-watching agents: momentum, volatility, volume and whale-transfer strategies.",
+    "detected_at": "2026-10-01T21:04:58Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "snitchdesk/snitch-sdk",
+    "homepage": "https://snitchdesk.cc",
+    "html_url": "https://github.com/snitchdesk/snitch-sdk",
+    "pushed_at": "2026-10-01T21:01:39Z",
+    "repo_id": 1400702367,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
