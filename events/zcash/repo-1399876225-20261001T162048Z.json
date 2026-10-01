@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T11:53:35Z",
+    "detected_at": "2026-10-01T16:20:48Z",
+    "display": "qasimali-debug/blockchain-did-zkp-authentication",
+    "key": "repo:1399876225",
+    "metadata": {
+      "description": "Privacy-preserving decentralized authentication framework using Decentralized Identifiers (DIDs), Zero-Knowledge Proofs (ZKPs), and Ethereum smart contracts.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "qasimali-debug/blockchain-did-zkp-authentication",
+      "homepage": null,
+      "pushed_at": "2026-10-01T12:00:17Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1399876225,
+    "url": "https://github.com/qasimali-debug/blockchain-did-zkp-authentication"
+  },
+  "schema": "zcash-fast-event/1"
+}
