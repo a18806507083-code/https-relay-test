@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T16:00:21Z",
+    "description": null,
+    "detected_at": "2026-10-01T16:20:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "pedrodee/traix-invest-app",
+    "homepage": null,
+    "html_url": "https://github.com/pedrodee/traix-invest-app",
+    "pushed_at": "2026-10-01T16:19:18Z",
+    "repo_id": 1400308576,
+    "score": 10,
+    "tech_signals": [
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
