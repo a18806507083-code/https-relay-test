@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-01T09:06:56Z",
+  "last_run_at": "2026-10-01T16:20:48Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-01T01:53:49Z",
+      "cutoff": "2026-10-01T08:36:56Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-01T01:53:49Z",
-      "matches": 0,
+      "cutoff": "2026-10-01T08:36:56Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-01T01:53:49Z",
-      "matches": 5,
+      "cutoff": "2026-10-01T08:36:56Z",
+      "matches": 10,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-01T01:53:49Z",
-      "matches": 0,
+      "cutoff": "2026-10-01T08:36:56Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -941,6 +941,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1487",
       "first_seen_at": "2026-09-30T15:18:24Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57938": {
+      "created_at": "2026-10-01T13:37:20.614Z",
+      "display": "57938 CipherScan is now ZecBlock 🟨",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1535",
+      "first_seen_at": "2026-10-01T16:20:48Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57939": {
+      "created_at": "2026-10-01T13:59:23.419Z",
+      "display": "57939 Zcash Community Grants Application VaihtoFX: Shielded ZEC On/Off-Ramp via M-Pesa & Airtel Money in Kenya",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1533",
+      "first_seen_at": "2026-10-01T16:20:48Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -3215,6 +3231,70 @@
       "first_seen_at": "2026-10-01T09:06:56Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1399685488": {
+      "created_at": "2026-10-01T09:48:33Z",
+      "display": "carellice/spariaps-game",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1541",
+      "first_seen_at": "2026-10-01T16:20:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1399810527": {
+      "created_at": "2026-10-01T11:13:56Z",
+      "display": "taku0x88/zecpass",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1539",
+      "first_seen_at": "2026-10-01T16:20:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1399876225": {
+      "created_at": "2026-10-01T11:53:35Z",
+      "display": "qasimali-debug/blockchain-did-zkp-authentication",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1538",
+      "first_seen_at": "2026-10-01T16:20:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1400016760": {
+      "created_at": "2026-10-01T13:12:21Z",
+      "display": "AyuGrom/xuyasssorsa",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1537",
+      "first_seen_at": "2026-10-01T16:20:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1400070023": {
+      "created_at": "2026-10-01T13:46:21Z",
+      "display": "vitalikgpt/gram-ecosystem",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1534",
+      "first_seen_at": "2026-10-01T16:20:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1400189263": {
+      "created_at": "2026-10-01T14:53:13Z",
+      "display": "sunday77985/ZCode",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1532",
+      "first_seen_at": "2026-10-01T16:20:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1400206457": {
+      "created_at": "2026-10-01T15:02:26Z",
+      "display": "Webghost01-NG/nivyr",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1531",
+      "first_seen_at": "2026-10-01T16:20:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1400262793": {
+      "created_at": "2026-10-01T15:36:41Z",
+      "display": "Anekenonso/create-zcash-app",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1530",
+      "first_seen_at": "2026-10-01T16:20:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -3534,14 +3614,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1509",
       "first_seen_at": "2026-09-30T23:40:44Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5660342654": {
+      "created_at": "2026-10-01T09:57:11Z",
+      "display": "#458 Grant Application - VaihtoFX: Shielded ZEC On/Off-Ramp via M-Pesa & Airtel Money in Kenya",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1540",
+      "first_seen_at": "2026-10-01T16:20:48Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5663005632": {
+      "created_at": "2026-10-01T13:33:05Z",
+      "display": "#459 Grant Application - {Zcash Education Laboratory at Polytechnic University}",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1536",
+      "first_seen_at": "2026-10-01T16:20:48Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-01T09:06:56Z",
-    "forum": "2026-10-01T09:06:56Z",
-    "github": "2026-10-01T09:06:56Z",
-    "zcg": "2026-10-01T09:06:56Z"
+    "fixed_orgs": "2026-10-01T16:20:48Z",
+    "forum": "2026-10-01T16:20:48Z",
+    "github": "2026-10-01T16:20:48Z",
+    "zcg": "2026-10-01T16:20:48Z"
   }
 }
