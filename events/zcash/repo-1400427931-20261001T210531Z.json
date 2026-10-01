@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T17:07:09Z",
+    "detected_at": "2026-10-01T21:05:31Z",
+    "display": "Oldalevoid/AlgoritmiStruttureDati",
+    "key": "repo:1400427931",
+    "metadata": {
+      "description": "Algoritmi e Strutture Dati",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Oldalevoid/AlgoritmiStruttureDati",
+      "homepage": null,
+      "pushed_at": "2026-10-01T18:06:35Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1400427931,
+    "url": "https://github.com/Oldalevoid/AlgoritmiStruttureDati"
+  },
+  "schema": "zcash-fast-event/1"
+}
