@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T17:25:11Z",
+    "detected_at": "2026-10-01T21:05:31Z",
+    "display": "Santhoshkumar-SoftwareEngineer/Cryptocurrency",
+    "key": "repo:1400455756",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Santhoshkumar-SoftwareEngineer/Cryptocurrency",
+      "homepage": null,
+      "pushed_at": "2026-10-01T17:27:30Z",
+      "tech_signals": [
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1400455756,
+    "url": "https://github.com/Santhoshkumar-SoftwareEngineer/Cryptocurrency"
+  },
+  "schema": "zcash-fast-event/1"
+}
