@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T11:13:56Z",
+    "detected_at": "2026-10-01T16:20:48Z",
+    "display": "taku0x88/zecpass",
+    "key": "repo:1399810527",
+    "metadata": {
+      "description": "Fair-price event ticketing, native shielded admittance, and zero bot scalping",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "taku0x88/zecpass",
+      "homepage": "https://zecpass-delta.vercel.app",
+      "pushed_at": "2026-10-01T14:45:42Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1399810527,
+    "url": "https://github.com/taku0x88/zecpass"
+  },
+  "schema": "zcash-fast-event/1"
+}
