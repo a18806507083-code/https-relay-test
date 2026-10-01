@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T18:58:33Z",
+    "detected_at": "2026-10-01T21:05:31Z",
+    "display": "corpetty/logos-module-atlas",
+    "key": "repo:1400586778",
+    "metadata": {
+      "description": "AI-readable registry of the official Logos modules shipped with the latest Basecamp release — cards, canonical LIDL contracts, stack and integration guides. Also a Claude Code plugin.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "corpetty/logos-module-atlas",
+      "homepage": null,
+      "pushed_at": "2026-10-01T19:04:12Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1400586778,
+    "url": "https://github.com/corpetty/logos-module-atlas"
+  },
+  "schema": "zcash-fast-event/1"
+}
