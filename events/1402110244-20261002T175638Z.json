@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T17:08:08Z",
+    "description": null,
+    "detected_at": "2026-10-02T17:56:38Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "promisebebillion/kivo",
+    "homepage": "https://kivo-five-kappa.vercel.app",
+    "html_url": "https://github.com/promisebebillion/kivo",
+    "pushed_at": "2026-10-02T17:29:55Z",
+    "repo_id": 1402110244,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
