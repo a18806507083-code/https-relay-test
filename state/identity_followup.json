@@ -3960,8 +3960,8 @@
       "repo_id": 1358682417,
       "file_cursor": 24,
       "claims": [],
-      "claims_fingerprint": "c78f5267794efcc3dd2ef8c65949e36e7eecc5fa8ed549b669d2ef2af507332b",
-      "verified_fingerprint": "c78f5267794efcc3dd2ef8c65949e36e7eecc5fa8ed549b669d2ef2af507332b"
+      "claims_fingerprint": "15c94675a638f2a556d5db93c640a9bf67d31e5caa34be27b75edcac0e760d9f",
+      "verified_fingerprint": "15c94675a638f2a556d5db93c640a9bf67d31e5caa34be27b75edcac0e760d9f"
     },
     "repo:nativ3ai/robinhood-terminal": {
       "source": "repo",
@@ -5950,7 +5950,10 @@
       "next_check_at": "2026-10-02T21:00:00+00:00",
       "last_check_at": "2026-10-02T20:43:52.929821+00:00",
       "repo_id": 1363625593,
-      "file_cursor": 18
+      "file_cursor": 18,
+      "claims": [],
+      "claims_fingerprint": "8f5496ee837e4aecf803efef593a875f07e5ac2f29720f1b549eaa9e1990c592",
+      "verified_fingerprint": "8f5496ee837e4aecf803efef593a875f07e5ac2f29720f1b549eaa9e1990c592"
     }
   },
   "last_collect_at": "2026-10-02T20:45:29.549310+00:00",
