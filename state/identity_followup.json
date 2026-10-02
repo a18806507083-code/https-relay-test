@@ -821,8 +821,8 @@
         "fbd3c7058d7ab91d49d18b996a4eed6415ffb2c66edba032d0a304de1ac48e51": 1
       },
       "claims": [],
-      "claims_fingerprint": "fbd3c7058d7ab91d49d18b996a4eed6415ffb2c66edba032d0a304de1ac48e51",
-      "verified_fingerprint": "fbd3c7058d7ab91d49d18b996a4eed6415ffb2c66edba032d0a304de1ac48e51"
+      "claims_fingerprint": "c6cbf79c9ab1f5c35e0094c08cf99061f46e8206096c41ac84e7bf6a21c05c3b",
+      "verified_fingerprint": "c6cbf79c9ab1f5c35e0094c08cf99061f46e8206096c41ac84e7bf6a21c05c3b"
     },
     "repo:realdeanai/golden--trader": {
       "source": "repo",
@@ -979,11 +979,11 @@
           "kind": "website",
           "value": "https://gashood.vercel.app",
           "source": "repository_metadata",
-          "quote": "\"homepage\": \"https://gashood.vercel.app\""
+          "quote": "\"homepage\": \"https://gashood.vercel.app\", \"description\": \"3D Virtual Gas Fee Tracker for Robinhood Chain L2 Mainnet\""
         }
       ],
-      "claims_fingerprint": "7b71cf1f513ae590002fc59dd529ab0520a29d25236edd6879b3f9b7d0a38f44",
-      "verified_fingerprint": "7b71cf1f513ae590002fc59dd529ab0520a29d25236edd6879b3f9b7d0a38f44"
+      "claims_fingerprint": "909152174be6e40956d2a3ceef6425335e16542f85b3177741c48b7a362e47de",
+      "verified_fingerprint": "909152174be6e40956d2a3ceef6425335e16542f85b3177741c48b7a362e47de"
     },
     "repo:denomhq/denom": {
       "source": "repo",
@@ -3146,8 +3146,8 @@
       "repo_id": 1358070563,
       "file_cursor": 0,
       "claims": [],
-      "claims_fingerprint": "17b5e8b6ffdb8686529ea1b05940b8959a40a9044f327e1f67c3546e71bf1905",
-      "verified_fingerprint": "17b5e8b6ffdb8686529ea1b05940b8959a40a9044f327e1f67c3546e71bf1905"
+      "claims_fingerprint": "837c69ddb4345cedd3b2d5052e0182c88762914e3f5eb33637927a7f954b99eb",
+      "verified_fingerprint": "837c69ddb4345cedd3b2d5052e0182c88762914e3f5eb33637927a7f954b99eb"
     },
     "repo:trixen-ai/echohood": {
       "source": "repo",
@@ -3259,7 +3259,17 @@
       "next_check_at": "2026-10-02T16:00:00+00:00",
       "last_check_at": "2026-10-02T15:49:06.570509+00:00",
       "repo_id": 1358230721,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://hoodit-sepia.vercel.app",
+          "source": "repository_metadata",
+          "quote": "https://hoodit-sepia.vercel.app"
+        }
+      ],
+      "claims_fingerprint": "8d61ff9f77ff1969f20b0a0b7754653723c1e646c95e04d920488996d569f393",
+      "verified_fingerprint": "8d61ff9f77ff1969f20b0a0b7754653723c1e646c95e04d920488996d569f393"
     },
     "repo:trixen-ai/cat": {
       "source": "repo",
@@ -3453,7 +3463,17 @@
       "next_check_at": "2026-10-02T16:00:00+00:00",
       "last_check_at": "2026-10-02T15:49:08.073713+00:00",
       "repo_id": 1358518390,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://wick5market.vercel.app",
+          "source": "repository_metadata",
+          "quote": "\"homepage\": \"https://wick5market.vercel.app\""
+        }
+      ],
+      "claims_fingerprint": "15c745ee534c94a576ba67f7c9065c8f9048d61fcf8812b488b43057e3b46f50",
+      "verified_fingerprint": "15c745ee534c94a576ba67f7c9065c8f9048d61fcf8812b488b43057e3b46f50"
     },
     "repo:pumplandsol/divi": {
       "source": "repo",
