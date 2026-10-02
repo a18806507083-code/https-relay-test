@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T22:54:16.049Z",
+    "detected_at": "2026-10-02T00:41:14Z",
+    "display": "57965 Grant Application - Fixing & Updating of Zcash Documentation (https://zcash.readthedocs.io/en/master/index.html)",
+    "key": "forum:57965",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-fixing-updating-of-zcash-documentation-https-zcash-readthedocs-io-en-master-index-html",
+      "title": "Grant Application - Fixing & Updating of Zcash Documentation (https://zcash.readthedocs.io/en/master/index.html)",
+      "topic_id": 57965
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57965,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-fixing-updating-of-zcash-documentation-https-zcash-readthedocs-io-en-master-index-html/57965"
+  },
+  "schema": "zcash-fast-event/1"
+}
