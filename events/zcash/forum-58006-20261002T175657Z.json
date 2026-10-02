@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T17:17:59.342Z",
+    "detected_at": "2026-10-02T17:56:57Z",
+    "display": "58006 Zebra 7.0.0-rc.0: NU7 Arrives on Testnet",
+    "key": "forum:58006",
+    "metadata": {
+      "category_id": 21,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zebra-7-0-0-rc-0-nu7-arrives-on-testnet",
+      "title": "Zebra 7.0.0-rc.0: NU7 Arrives on Testnet",
+      "topic_id": 58006
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58006,
+    "url": "https://forum.zcashcommunity.com/t/zebra-7-0-0-rc-0-nu7-arrives-on-testnet/58006"
+  },
+  "schema": "zcash-fast-event/1"
+}
