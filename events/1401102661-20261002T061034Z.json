@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T04:59:22Z",
+    "description": null,
+    "detected_at": "2026-10-02T06:10:34Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "EmployerInk/employer-protocol",
+    "homepage": null,
+    "html_url": "https://github.com/EmployerInk/employer-protocol",
+    "pushed_at": "2026-10-02T05:35:18Z",
+    "repo_id": 1401102661,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
