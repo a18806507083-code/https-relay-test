@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-01T21:05:31Z",
+  "last_run_at": "2026-10-02T00:41:14Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-01T15:50:48Z",
+      "cutoff": "2026-10-01T20:35:31Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-01T15:50:48Z",
+      "cutoff": "2026-10-01T20:35:31Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-01T15:50:48Z",
-      "matches": 4,
+      "cutoff": "2026-10-01T20:35:31Z",
+      "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-01T15:50:48Z",
-      "matches": 0,
+      "cutoff": "2026-10-01T20:35:31Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -965,6 +965,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1551",
       "first_seen_at": "2026-10-01T21:05:31Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:57965": {
+      "created_at": "2026-10-01T22:54:16.049Z",
+      "display": "57965 Grant Application - Fixing & Updating of Zcash Documentation (https://zcash.readthedocs.io/en/master/index.html)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1555",
+      "first_seen_at": "2026-10-02T00:41:14Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -3670,14 +3678,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1536",
       "first_seen_at": "2026-10-01T16:20:48Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5670231073": {
+      "created_at": "2026-10-01T22:43:40Z",
+      "display": "#460 Grant Application - Fixing, Updating & Streamlining of Zcash Documentation (https://zcash.readthedocs.io/en/master/index.html)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1556",
+      "first_seen_at": "2026-10-02T00:41:14Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-01T21:05:31Z",
-    "forum": "2026-10-01T21:05:31Z",
-    "github": "2026-10-01T21:05:31Z",
-    "zcg": "2026-10-01T21:05:31Z"
+    "fixed_orgs": "2026-10-02T00:41:14Z",
+    "forum": "2026-10-02T00:41:14Z",
+    "github": "2026-10-02T00:41:14Z",
+    "zcg": "2026-10-02T00:41:14Z"
   }
 }
