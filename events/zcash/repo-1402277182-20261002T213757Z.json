@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T19:38:39Z",
+    "detected_at": "2026-10-02T21:37:57Z",
+    "display": "zodl-inc/zakura-common",
+    "key": "repo:1402277182",
+    "metadata": {
+      "description": "Zakura Common Libraries",
+      "fixed_owner": "zodl-inc",
+      "full_name": "zodl-inc/zakura-common",
+      "homepage": "https://zakura.com/",
+      "pushed_at": "2026-10-02T20:25:46Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1402277182,
+    "url": "https://github.com/zodl-inc/zakura-common"
+  },
+  "schema": "zcash-fast-event/1"
+}
