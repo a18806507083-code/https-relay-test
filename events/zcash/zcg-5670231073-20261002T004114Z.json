@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T22:43:40Z",
+    "detected_at": "2026-10-02T00:41:14Z",
+    "display": "#460 Grant Application - Fixing, Updating & Streamlining of Zcash Documentation (https://zcash.readthedocs.io/en/master/index.html)",
+    "key": "zcg:5670231073",
+    "metadata": {
+      "author": "DeBelg",
+      "issue_number": 460,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Grant Application - Fixing, Updating & Streamlining of Zcash Documentation (https://zcash.readthedocs.io/en/master/index.html)"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5670231073,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/460"
+  },
+  "schema": "zcash-fast-event/1"
+}
