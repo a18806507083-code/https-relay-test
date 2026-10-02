@@ -720,6 +720,16 @@
       "project": "repo:dunik77/thread",
       "all_missing": false,
       "parser_version": 3
+    },
+    "348": {
+      "project": "repo:gtanetwork0299/antary",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "351": {
+      "project": "repo:justsendit/justsendit",
+      "all_missing": false,
+      "parser_version": 3
     }
   },
   "projects": {
@@ -773,8 +783,8 @@
           "url": "https://github.com/runesleo/meme-cohort-observatory/blob/ad5444fd86010fd7a4ded2f4fae663aee719703e/docs/ROBICOP_SHADOW.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:21.841881+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:16:06.242852+00:00",
       "repo_id": 1356051016,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -824,10 +834,10 @@
           "url": "https://github.com/realdeanai/golden--trader/blob/cb1b89504a2bc6294da2ddcc600751de811635ef/development/wallet-monitor/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:50.369089+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:18.225392+00:00",
       "repo_id": 1356082615,
-      "file_cursor": 2,
+      "file_cursor": 0,
       "verified_fingerprint": "5e05e3c551c4fcca49198c17c9185bd87e66d3774a4e908305dd8673fa62fdfe"
     },
     "repo:voxelithicag/mcp": {
@@ -861,8 +871,8 @@
           "url": "https://github.com/ReddAgentRH/redd/blob/938adaa0b90e22e8eaf1d4fab79ad32ab656f8cb/contract/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:51.304583+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:20.098169+00:00",
       "repo_id": 1356143612,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -927,8 +937,8 @@
           "url": "https://github.com/Rizkijack/gashood/blob/853edd0a271357936dfddcd2a858dfa5969c9dd7/docs/WORKFLOW.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:22.826302+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:16:07.762200+00:00",
       "repo_id": 1356167900,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1006,8 +1016,8 @@
           "url": "https://github.com/travisiol/hedge/blob/3bd37a63234bcca0bb5bc56d50990857998fb187/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:23.581824+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:16:09.039894+00:00",
       "repo_id": 1356225163,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1134,8 +1144,8 @@
           "url": "https://github.com/snobistisch/stock-lp-radar/blob/590dc2bc4b8e98f3303c3ebece3fdea54a235f80/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:24.518634+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:16:10.534125+00:00",
       "repo_id": 1356269686,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1262,10 +1272,10 @@
           "url": "https://github.com/nirholas/loxley/blob/afd42677c3333bdbb7689852872e838d732e4e89/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:52.212164+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:21.454538+00:00",
       "repo_id": 1356333517,
-      "file_cursor": 7,
+      "file_cursor": 6,
       "failed_fingerprints": {
         "4cd72aa43fb1e32ca7340d6179028e9795aab4ce5cc71f4f5409a55a839983c2": 1
       },
@@ -1306,8 +1316,8 @@
           "url": "https://github.com/vern-sh/vernagent/blob/95d5ffff949efa04c76065d5d8241ccf3fdb4a86/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:53.073729+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:22.825030+00:00",
       "repo_id": 1356364734,
       "file_cursor": 0,
       "claims": [],
@@ -1371,10 +1381,10 @@
           "url": "https://github.com/Ali213112/Agentic-on-bot-chain-/blob/dc6f15d0a837849cd10e16db657132fdf912e57c/src/lib/deployed.ts"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:53.981633+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:24.356284+00:00",
       "repo_id": 1356397498,
-      "file_cursor": 2,
+      "file_cursor": 0,
       "claims": [],
       "claims_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83",
       "verified_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83"
@@ -1399,8 +1409,8 @@
           "url": "https://github.com/QorbQuant/fomo-robinhood-copy/blob/c4ef852b5483af691df5411fc01c03a1899272b6/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:55.812218+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:25.844802+00:00",
       "repo_id": 1356394695,
       "file_cursor": 0,
       "claims": [],
@@ -1522,10 +1532,10 @@
           "url": "https://github.com/heirlabs/famcash-contracts/blob/052b8c4ce6aa6f455d8ad155f4ae4fa1734c4427/scripts/deploy-mock-tokens.js"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:56.776481+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:27.283383+00:00",
       "repo_id": 1356497199,
-      "file_cursor": 2,
+      "file_cursor": 0,
       "claims": [
         {
           "kind": "website",
@@ -1614,10 +1624,10 @@
           "url": "https://github.com/JermWang/rh-incinerator/blob/be505c6e4869619496ae4a194bfe51d1e4a8b5d8/packages/contracts/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:57.798169+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:28.711014+00:00",
       "repo_id": 1356615492,
-      "file_cursor": 2,
+      "file_cursor": 4,
       "claims": [],
       "claims_fingerprint": "d4c1876a5960772f8691a4f2e438ad38e008b2e097ca338053c2a1fe7fa1942b",
       "verified_fingerprint": "d4c1876a5960772f8691a4f2e438ad38e008b2e097ca338053c2a1fe7fa1942b"
@@ -1681,8 +1691,8 @@
           "url": "https://github.com/ClankRace/clankrace-v4/blob/4615160fcf6ad4afa7109f1d7d216a54a05f1b14/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:58.689507+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:30.196036+00:00",
       "repo_id": 1356715579,
       "file_cursor": 0,
       "claims": [],
@@ -1814,10 +1824,10 @@
           "url": "https://github.com/MeiYanDong/robinhood-pair-grid/blob/73db09b73dcfc67b04b87033f2240104174df87c/docs/adr/0008-hard-floor-and-rpc-consensus.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:59.534282+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:31.545759+00:00",
       "repo_id": 1356750466,
-      "file_cursor": 4,
+      "file_cursor": 0,
       "claims": [],
       "claims_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5",
       "verified_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5"
@@ -1938,8 +1948,8 @@
           "url": "https://github.com/nirholas/sherwood/blob/2dbd22d6a8e0f78ba2f83a589733a67ffbca5acd/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:00.501972+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:33.123813+00:00",
       "repo_id": 1356845105,
       "file_cursor": 0,
       "claims": [],
@@ -1976,8 +1986,8 @@
           "url": "https://github.com/kealabama/midcap-random-index/blob/8bc8400cd23c3f0907d8f07deccc39b230bf1728/docs/VERIFIER.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:01.255072+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:34.522251+00:00",
       "repo_id": 1356858272,
       "file_cursor": 0,
       "claims": [],
@@ -2009,8 +2019,8 @@
           "url": "https://github.com/MonkiiLabs/MonkiiLabsApp/blob/84d035308c0053798992b803a710ba528a4ca385/contracts/deployed_address.json"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:02.161017+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:35.914255+00:00",
       "repo_id": 1356847100,
       "file_cursor": 0,
       "claims": [],
@@ -2119,8 +2129,8 @@
           "url": "https://github.com/FLock-io/flock-v4-hook/blob/b8098bd9ad58b776c7c92839a0980a222a4c2a06/script/testing/00_DeployV4.s.sol"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:03.126753+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:37.515926+00:00",
       "repo_id": 1356947738,
       "file_cursor": 0,
       "claims": [],
@@ -2198,8 +2208,8 @@
           "url": "https://github.com/yafieae/morpho-toolkit/blob/0260e804d65da84d15bb13df88fd42e1216594da/tools/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:04.123137+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:38.921082+00:00",
       "repo_id": 1356964162,
       "file_cursor": 0,
       "claims": [],
@@ -2232,8 +2242,8 @@
           "url": "https://github.com/thesoloycoder/OmniLauncher/blob/7984ba04eb4451dae3205ddc15eda8ba0edd5a51/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:41.394269+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:04.362927+00:00",
       "repo_id": 1357020146,
       "file_cursor": 0,
       "claims": [],
@@ -2423,8 +2433,8 @@
           "url": "https://github.com/bruisedhacksa/pulse/blob/9ffb7047778ddb030c832826f95c309389c68cb6/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:04.975052+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:40.223150+00:00",
       "repo_id": 1357231201,
       "file_cursor": 0,
       "claims": [],
@@ -2446,8 +2456,8 @@
           "url": "https://github.com/florityswap/meridian-robinhood/blob/cb7d1b04ad8ed9456dcf25971592dc13f125cdda/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:05.977887+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:41.690811+00:00",
       "repo_id": 1357293588,
       "file_cursor": 0
     },
@@ -2471,8 +2481,8 @@
           "url": "https://github.com/florityswap/unicrit/blob/7eb691e95684bdcd10ba4b5b426ec32f0adf78f0/scripts/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:06.942785+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:43.152956+00:00",
       "repo_id": 1357293353,
       "file_cursor": 0,
       "claims": [],
@@ -2566,10 +2576,10 @@
           "url": "https://github.com/arcafi/arca/blob/2f6091f6e5ba25ae78c8933acdbed64b265d7755/web/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:07.826862+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:44.567684+00:00",
       "repo_id": 1357452361,
-      "file_cursor": 6,
+      "file_cursor": 3,
       "claims": [
         {
           "kind": "x",
@@ -2636,10 +2646,10 @@
           "url": "https://github.com/memeticstate/ms-v1/blob/7e8e071b0a52e6229ca6efa4ae480d3c7497bd2e/docs/mvp-architecture.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:08.717512+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:45.907827+00:00",
       "repo_id": 1357414038,
-      "file_cursor": 2
+      "file_cursor": 4
     },
     "repo:shellr-packs/shellr-web": {
       "source": "repo",
@@ -2678,8 +2688,8 @@
           "url": "https://github.com/JermWang/airtime/blob/acf75727eca6609596671a4993515b905f21ca89/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:09.720803+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:47.516001+00:00",
       "repo_id": 1357489892,
       "file_cursor": 0,
       "claims": [
@@ -2713,8 +2723,8 @@
           "url": "https://github.com/Nar-123/lpbot-new/blob/bdf13f4e573ba6d1d4c700776bdf00a3ee5b3c60/scripts/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:10.526415+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:49.017867+00:00",
       "repo_id": 1357484187,
       "file_cursor": 0,
       "claims": [],
@@ -2801,8 +2811,8 @@
           "url": "https://github.com/galaxydestroyer0000/button/blob/b9c73bfcdd110dd88bee175a254a142cf3880181/docs/superpowers/specs/2026-09-03-frontend-rebuild-design.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:11.599343+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:50.795965+00:00",
       "repo_id": 1357556366,
       "file_cursor": 0,
       "claims": [
@@ -2833,8 +2843,8 @@
           "url": "https://github.com/TICKRMARKETS/tickr-markets/blob/2975a167061cc90a19ac92bb21d6e3a1f1864f57/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:12.514745+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:52.316791+00:00",
       "repo_id": 1357604173,
       "file_cursor": 0,
       "claims": [],
@@ -2891,10 +2901,10 @@
           "url": "https://github.com/novenrizkia856-ui/Roxy-contract/blob/f78052bf2dc56f335f4e9cd53880baab9eeebfc8/script/DeployTestnet.s.sol"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:13.557347+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:54.300233+00:00",
       "repo_id": 1357694785,
-      "file_cursor": 6,
+      "file_cursor": 3,
       "claims": [],
       "claims_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675",
       "verified_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675"
@@ -2924,8 +2934,8 @@
           "url": "https://github.com/xlabsg/fomo-copy-bot/blob/837b5c8fe49395ac8348ecb8a60e39e4394f0e53/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:14.415030+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:55.717456+00:00",
       "repo_id": 1357743987,
       "file_cursor": 0,
       "claims": [],
@@ -3002,10 +3012,10 @@
           "url": "https://github.com/basisinvestments/basis/blob/f83e52be9d35b0cf0e11885fa90c79ee9df5f741/docs/use-cases.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:15.451659+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:57.086182+00:00",
       "repo_id": 1357917659,
-      "file_cursor": 3,
+      "file_cursor": 10,
       "claims": [
         {
           "kind": "website",
@@ -3032,8 +3042,8 @@
           "url": "https://github.com/cocainebit/float-docs/blob/4717d162ad8d98bcb381e3e9df398d96d4e9fdee/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:16.565186+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:58.712310+00:00",
       "repo_id": 1357819964,
       "file_cursor": 0,
       "claims": [],
@@ -3110,8 +3120,8 @@
           "url": "https://github.com/cony-horizon/rhbot/blob/ec827ebc1598867b94b472a3af8b6a03070b60f8/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:17.484484+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:16:00.165405+00:00",
       "repo_id": 1358070563,
       "file_cursor": 0,
       "claims": [],
@@ -3176,8 +3186,8 @@
       "registered_at": "2026-09-06T10:22:46.608671+00:00",
       "first_report_sha256": "8fcc2582361e9d54505aa2746ea0af6480e2d422b38b44c57b674234b3e58207",
       "files": {},
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:18.530405+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:16:01.742820+00:00",
       "linked_repositories": {}
     },
     "repo:aomi-labs/hoodit-apps": {
@@ -3225,8 +3235,8 @@
           "url": "https://github.com/aomi-labs/hoodit-apps/blob/76a6a12a0fc0e76a8f19dc6c4926d53244bc64ea/docs/hoodit-v1-validation.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:19.017676+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:16:02.098515+00:00",
       "repo_id": 1358230721,
       "file_cursor": 0
     },
@@ -3419,8 +3429,8 @@
           "url": "https://github.com/efsanedizzy/wick5market/blob/51f7dffcd4b6de64a2df41f35e96121e90bdc97b/DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:20.003561+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:16:03.555568+00:00",
       "repo_id": 1358518390,
       "file_cursor": 0
     },
@@ -3570,10 +3580,10 @@
           "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/8f96593a6fcda9892f1f508cb8d854e7b4a47d3a/src/wallet_privacy_testkit/example/privacy-manifest.json"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:42.467904+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:06.171126+00:00",
       "repo_id": 1358522089,
-      "file_cursor": 0,
+      "file_cursor": 18,
       "claims": [],
       "claims_fingerprint": "4f856bc787ecea53788c3929d1fff21c856bceff903b07ad8ba9663fe38c36af",
       "verified_fingerprint": "4f856bc787ecea53788c3929d1fff21c856bceff903b07ad8ba9663fe38c36af"
@@ -3649,8 +3659,8 @@
           "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/site/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:12:20.883801+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:16:04.934289+00:00",
       "repo_id": 1358614318,
       "file_cursor": 0,
       "claims": [],
@@ -3694,8 +3704,8 @@
           "url": "https://github.com/Auditchain/audt-supply/blob/1524d5877b67a34be93ed2af8ba1e3da21c89d77/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:49.438686+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:16.767113+00:00",
       "repo_id": 1358626962,
       "file_cursor": 0,
       "claims": [],
@@ -3894,10 +3904,10 @@
           "url": "https://github.com/boyfromcave/ycash-dd/blob/f86bed6bde8ee4a36bfe62ec7f56a0d795c4610d/contrib/yellowback/devnet/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:43.604248+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:07.986155+00:00",
       "repo_id": 1358682417,
-      "file_cursor": 12,
+      "file_cursor": 0,
       "claims": [],
       "claims_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69",
       "verified_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69"
@@ -4243,8 +4253,8 @@
           "url": "https://github.com/Harkor421/costco-back/blob/e718643f14e8daa323a584d32fa8df0c89a9ba27/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:44.706201+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:09.689802+00:00",
       "repo_id": 1358634709,
       "file_cursor": 0,
       "claims": [],
@@ -4271,8 +4281,8 @@
           "url": "https://github.com/kiattisakph/robinhood-wallet-alert-bot/blob/91dae85e2cd97fa67b12db1ef1177b96ce367ecb/docs/robinhood_realtime_telegram_bot_cursor_spec.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:46.323546+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:12.051644+00:00",
       "repo_id": 1358885217,
       "file_cursor": 0,
       "claims": [],
@@ -4353,8 +4363,8 @@
           "url": "https://github.com/33hodl/rh-chain-wallet-lens/blob/00fcbfd2a072ad4f7c0ac709912b68184ff8d0e9/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:47.360167+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:13.784210+00:00",
       "repo_id": 1358940529,
       "file_cursor": 0,
       "claims": [],
@@ -4403,8 +4413,8 @@
           "url": "https://github.com/seanbc618-tech/robinhood-meme-bot/blob/b1d2cd19347d4eadf1a5c900d7a22be46b69bf4a/tasks/VPS_FX_WATCH_DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:48.293311+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:15.205089+00:00",
       "repo_id": 1358970900,
       "file_cursor": 0,
       "claims": [],
@@ -4656,10 +4666,10 @@
           "url": "https://github.com/0xRadikal/pons-launchpad-forensics/blob/7dfb7d97c9e4409161308279599f6ed9893c8d23/docs/SERIAL_LAUNCHING.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:40.391856+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:03.057107+00:00",
       "repo_id": 1359317759,
-      "file_cursor": 0,
+      "file_cursor": 4,
       "claims": [],
       "claims_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d",
       "verified_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d"
@@ -4701,8 +4711,8 @@
           "url": "https://github.com/idotmy/IDEX-Contracts/blob/ba7e0453b1c679418a8836d5598b10cd652dc5c6/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:39.347529+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:15:01.458816+00:00",
       "repo_id": 1359388343,
       "file_cursor": 0,
       "claims": [],
@@ -5087,10 +5097,10 @@
           "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/verification-2026-09-13/mainnet-chain.json"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:38.339490+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:14:59.597773+00:00",
       "repo_id": 1359490952,
-      "file_cursor": 38
+      "file_cursor": 56
     },
     "repo:kili-lol/kili": {
       "source": "repo",
@@ -5165,10 +5175,10 @@
           "url": "https://github.com/andperez123/ball-robinhood/blob/e37d7aa713b95530bdbb28a2a2a15d97c3b23ebc/docs/ORACLE.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:36.349516+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:14:58.101942+00:00",
       "repo_id": 1359613654,
-      "file_cursor": 2
+      "file_cursor": 0
     },
     "repo:abysshopper/black-market-node-sdk": {
       "source": "repo",
@@ -5200,8 +5210,8 @@
           "url": "https://github.com/abysshopper/black-market-node-sdk/blob/4476cfc789fa545c6a78e2ed18e7af4d808dd72b/src/deployer.ts"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:34.214954+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:14:55.162375+00:00",
       "repo_id": 1359686762,
       "file_cursor": 0
     },
@@ -5236,8 +5246,8 @@
           "url": "https://github.com/perfectingcodes/perfectingbot/blob/1b1d9454657762521556f2b1e8630a24395ffa10/public/assets/README.md"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:35.309682+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:14:56.637560+00:00",
       "repo_id": 1359590900,
       "file_cursor": 0
     },
@@ -5440,12 +5450,102 @@
           "sha": "eb19624a2103ddd2ce638fe85a62a5269ee6b609",
           "text": "",
           "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/script/DualDeploymentLimits.s.sol"
+        },
+        "script/VerifyDeployment.s.sol": {
+          "sha": "2d76c2ad7b21eb41555ab61198c12b1e5cac9187",
+          "text": "}\n\n/// @notice Read-only post-deployment verification. It deliberately has no broadcast or mutation path.\ncontract VerifyDeployment is Script {\n    uint256 internal constant EIP170_MAX_RUNTIME_SIZE = 24_576;\n    }\n\n    /// @dev Environment-only entrypoint used by `forge script`; every operation below is a read.\n    function run() external view {\n        Config memory config;",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/script/VerifyDeployment.s.sol"
+        },
+        "src/lending/address-registry/AddressRegistry.sol": {
+          "sha": "a9c0ee6a216c469044be5924221c7f442c580325",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/address-registry/AddressRegistry.sol"
+        },
+        "src/lending/external/openzeppelin/README.md": {
+          "sha": "9a321877ac15e36dc8a8b0422287115152a4ebed",
+          "text": "all files pulled from https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.2",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/external/openzeppelin/README.md"
+        },
+        "src/lending/external/openzeppelin/contracts-upgradeable/README.md": {
+          "sha": "a7df4f9765ded78af874ba045ccf1fea04012a48",
+          "text": "# <img src=\"logo.svg\" alt=\"OpenZeppelin\" height=\"40px\">\n\n[![NPM Package](https://img.shields.io/npm/v/@openzeppelin/contracts.svg)](https://www.npmjs.org/package/@openzeppelin/contracts)\n[![Coverage Status](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts/graph/badge.svg)](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts)\n[![GitPOAPs](https://public-api.gitpoap.io/v1/repo/OpenZeppelin/openzeppelin-contracts/badge)](https://www.gitpoap.io/gh/OpenZeppelin/openzeppelin-contracts)\n[![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-yellow)](https://docs.openzeppelin.com/contracts)\n[![Forum](https://img.shields.io/badge/forum-%F0%9F%92%AC-yellow)](https://docs.openzeppelin.com/contracts)\n\n**A library for secure smart contract development.** Build on a solid foundation of community-vetted code.\n\n-   Implementations of standards like [ERC20](https://docs.openzeppelin.com/contracts/erc20) and [ERC721](https://docs.openzeppelin.com/contracts/erc721).\n-   Flexible [role-based permissioning](https://docs.openzeppelin.com/contracts/access-control) scheme.\n-   Reusable [Solidity components](https://docs.openzeppelin.com/contracts/utilities) to build custom contracts and complex decentralized systems.\n\n:mage: **Not sure how to get started?** Check out [Contracts Wizard](https://wizard.openzeppelin.com/) — an interactive smart contract generator.\n\n:building_construction: **Want to scale your decentralized application?** Check out [OpenZeppelin Defender](https://openzeppelin.com/defender) — a secure platform for automating and monitoring your operations.\n\n> **Note**\n> You are looking at the upgradeable variant of OpenZeppelin Contracts. Be sure to review the documentation on [Using OpenZeppelin Contracts with Upgrades](https://docs.openzeppelin.com/contracts/4.x/upgradeable).\n\n## Overview\n\n```\n$ npm install @openzeppelin/contracts-upgradeable\n```\n\nOpenZeppelin Contracts features a [stable API](https://docs.openzeppelin.com/contracts/releases-stability#api-stability), which means that your contracts won't break unexpectedly when upgrading to a newer minor version.\n\nAn alternative to npm is to use the GitHub repository (`openzeppelin/openzeppelin-contracts-upgradeable`) to retrieve the contracts. When doing this, make sure to specify the tag for a release such as `v4.5.0`, instead of using the `master` branch.\npragma solidity ^0.8.0;\n\nimport \"@openzeppelin/contracts-upgradeable/token/ERC721/ERC721Upgradeable.sol\";\n\ncontract MyCollectible is ERC721Upgradeable {\n```\n\n_If you're new to smart contract development, head to [Developing Smart Contracts](https://docs.openzeppelin.com/learn/developing-smart-contracts) to learn about creating a new project and compiling your contracts._\n\nTo keep your system secure, you should **always** use the installed code as-is, and neither copy-paste it from online sources nor modify it yourself. The library is designed so that only the contracts and functions you use are deployed, so you don't need to worry about it needlessly increasing gas costs.\n## Learn More\n\nThe guides in the [documentation site](https://docs.openzeppelin.com/contracts) will teach about different concepts, and how to use the related contracts that OpenZeppelin Contracts provides:\n\n-   [Access Control](https://docs.openzeppelin.com/contracts/access-control): decide who can perform each of the actions on your system.\n-   [Tokens](https://docs.openzeppelin.com/contracts/tokens): create tradeable assets or collectives, and distribute them via [Crowdsales](https://docs.openzeppelin.com/contracts/crowdsales).\n-   [Utilities](https://docs.openzeppelin.com/contracts/utilities): generic useful tools including non-overflowing math, signature verification, and trustless paying systems.\n\nThe [full API](https://docs.openzeppelin.com/contracts/api/token/ERC20) is also thoroughly documented, and serves as a great reference when developing your smart contract application. You can also ask for help or follow Contracts's development in the [community forum](https://forum.openzeppelin.com).\n\nFinally, you may want to take a look at the [guides on our blog](https://blog.openzeppelin.com/guides), which cover several common use cases and good practices. The following articles provide great background reading, though please note that some of the referenced tools have changed, as the tooling in the ecosystem continues to rapidly evolve.\n\n-   [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.openzeppelin.com/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) will help you get an overview of the various tools available for smart contract development, and help you set up your environment.\n-   [A Gentle Introduction to Ethereum Programming, Part 1](https://blog.openzeppelin.com/a-gentle-introduction-to-ethereum-programming-part-1-783cc7796094) provides very useful information on an introductory level, including many basic concepts from the Ethereum platform.\n-   For a more in-depth dive, you may read the guide [Designing the Architecture for Your Ethereum Application](https://blog.openzeppelin.com/designing-the-architecture-for-your-ethereum-application-9cec086f8317), which discusses how to better structure your application and its relationship to the real world.\n\n## Security\n\nThis project is maintained by [OpenZeppelin](https://openzeppelin.com) with the goal of providing a secure and reliable library of smart contract components for the ecosystem. We address security through risk management in various areas such as engineering and open source best practices, scoping and API design, multi-layered review processes, and incident response preparedness.\n\nThe security policy is detailed in [`SECURITY.md`](./SECURITY.md), and specifies how you can report security vulnerabilities, which versions will receive security patches, and how to stay informed about them. We run a [bug bounty program on Immunefi](https://immunefi.com/bounty/openzeppelin) to reward the responsible disclosure of vulnerabilities.\n\nThe engineering guidelines we follow to promote project quality can be found in [`GUIDELINES.md`](./GUIDELINES.md).\n## Legal\n\nYour use of this Project is governed by the terms found at www.openzeppelin.com/tos (the \"Terms\").",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/external/openzeppelin/contracts-upgradeable/README.md"
+        },
+        "src/lending/external/openzeppelin/contracts-upgradeable/token/ERC1155/presets/README.md": {
+          "sha": "468200b72655457bec12b989c659e438ab280374",
+          "text": "Contract presets are now deprecated in favor of [Contracts Wizard](https://wizard.openzeppelin.com/) as a more powerful alternative.",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/external/openzeppelin/contracts-upgradeable/token/ERC1155/presets/README.md"
+        },
+        "src/lending/external/openzeppelin/contracts-upgradeable/token/ERC20/presets/README.md": {
+          "sha": "468200b72655457bec12b989c659e438ab280374",
+          "text": "Contract presets are now deprecated in favor of [Contracts Wizard](https://wizard.openzeppelin.com/) as a more powerful alternative.",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/external/openzeppelin/contracts-upgradeable/token/ERC20/presets/README.md"
+        },
+        "src/lending/external/openzeppelin/contracts-upgradeable/token/ERC721/presets/README.md": {
+          "sha": "468200b72655457bec12b989c659e438ab280374",
+          "text": "Contract presets are now deprecated in favor of [Contracts Wizard](https://wizard.openzeppelin.com/) as a more powerful alternative.",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/external/openzeppelin/contracts-upgradeable/token/ERC721/presets/README.md"
+        },
+        "src/lending/external/openzeppelin/contracts-upgradeable/utils/AddressUpgradeable.sol": {
+          "sha": "788a5f1f8346b9e5fe9141fcaffc6d9c2e6134ad",
+          "text": "\n/**\n * @dev Collection of functions related to the address type\n */\nlibrary AddressUpgradeable {\n    /**\n     * @dev Returns true if `account` is a contract.\n     *\n     * [IMPORTANT]\n\n    /**\n     * @dev Replacement for Solidity's `transfer`: sends `amount` wei to\n     * `recipient`, forwarding all available gas and reverting on errors.\n     *\n     * https://eips.ethereum.org/EIPS/eip-1884[EIP1884] increases the gas cost\n     * of certain opcodes, possibly making contracts go over the 2300 gas limit\n     * imposed by `transfer`, making them unable to receive funds via\n     * `transfer`. {sendValue} removes this limitation.\n     *\n     * https://consensys.net/diligence/blog/2019/09/stop-using-soliditys-transfer-now/[Learn more].\n     *\n     * IMPORTANT: because control is transferred to `recipient`, care must be\n     * taken to not create reentrancy vulnerabilities. Consider using\n     * {ReentrancyGuard} or the\n     * https://solidity.readthedocs.io/en/v0.8.0/security-considerations.html#use-the-checks-effects-interactions-pattern[checks-effects-interactions pattern].\n     */\n    function sendValue(address payable recipient, uint256 amount) internal {\n\n    /**\n     * @dev Performs a Solidity function call using a low level `call`. A\n     * plain `call` is an unsafe replacement for a function call: use this\n     * function instead.\n     *\n     * Returns the raw returned data. To convert to the expected return value,\n     * use https://solidity.readthedocs.io/en/latest/units-and-global-variables.html?highlight=abi.decode#abi-encoding-and-decoding-functions[`abi.decode`].\n     *\n     * Requirements:\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-}[`functionCall`], but with\n     * `errorMessage` as a fallback revert reason when `target` reverts.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-}[`functionCall`],\n     * but also transferring `value` wei to `target`.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCallWithValue-address-bytes-uint256-}[`functionCallWithValue`], but\n     * with `errorMessage` as a fallback revert reason when `target` reverts.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-}[`functionCall`],\n     * but performing a static call.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-string-}[`functionCall`],\n     * but performing a static call.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-}[`functionCall`],\n     * but performing a delegate call.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-string-}[`functionCall`],\n     * but performing a delegate call.\n     *\n\n    /**\n     * @dev Tool to verify that a low level call to smart-contract was successful, and revert (either by bubbling\n     * the revert reason or using the provided one) in case of unsuccessful call or if target was not a contract.\n     *\n\n    /**\n     * @dev Tool to verify that a low level call was successful, and revert if it wasn't, either by bubbling the\n     * revert reason or using the provided one.\n     *\n        if (returndata.length > 0) {\n            // The easiest way to bubble the revert reason is using memory via assembly\n            /// @solidity memory-safe-assembly\n            assembly {\n                let returndata_size := mload(returndata)",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/external/openzeppelin/contracts-upgradeable/utils/AddressUpgradeable.sol"
+        },
+        "src/lending/external/openzeppelin/contracts/mocks/AddressImpl.sol": {
+          "sha": "90602e5aa75cd2b6fbcc285f4d726c07f801ac17",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/external/openzeppelin/contracts/mocks/AddressImpl.sol"
+        },
+        "src/lending/external/openzeppelin/contracts/token/ERC1155/presets/README.md": {
+          "sha": "468200b72655457bec12b989c659e438ab280374",
+          "text": "Contract presets are now deprecated in favor of [Contracts Wizard](https://wizard.openzeppelin.com/) as a more powerful alternative.",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/external/openzeppelin/contracts/token/ERC1155/presets/README.md"
+        },
+        "src/lending/external/openzeppelin/contracts/token/ERC20/presets/README.md": {
+          "sha": "468200b72655457bec12b989c659e438ab280374",
+          "text": "Contract presets are now deprecated in favor of [Contracts Wizard](https://wizard.openzeppelin.com/) as a more powerful alternative.",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/external/openzeppelin/contracts/token/ERC20/presets/README.md"
+        },
+        "src/lending/external/openzeppelin/contracts/token/ERC721/presets/README.md": {
+          "sha": "468200b72655457bec12b989c659e438ab280374",
+          "text": "Contract presets are now deprecated in favor of [Contracts Wizard](https://wizard.openzeppelin.com/) as a more powerful alternative.",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/external/openzeppelin/contracts/token/ERC721/presets/README.md"
+        },
+        "src/lending/external/openzeppelin/contracts/utils/Address.sol": {
+          "sha": "1a830f6b61ff5103fc850a1c45d6614252e3ca92",
+          "text": "\n/**\n * @dev Collection of functions related to the address type\n */\nlibrary Address {\n    /**\n     * @dev Returns true if `account` is a contract.\n     *\n     * [IMPORTANT]\n\n    /**\n     * @dev Replacement for Solidity's `transfer`: sends `amount` wei to\n     * `recipient`, forwarding all available gas and reverting on errors.\n     *\n     * https://eips.ethereum.org/EIPS/eip-1884[EIP1884] increases the gas cost\n     * of certain opcodes, possibly making contracts go over the 2300 gas limit\n     * imposed by `transfer`, making them unable to receive funds via\n     * `transfer`. {sendValue} removes this limitation.\n     *\n     * https://diligence.consensys.net/posts/2019/09/stop-using-soliditys-transfer-now/[Learn more].\n     *\n     * IMPORTANT: because control is transferred to `recipient`, care must be\n     * taken to not create reentrancy vulnerabilities. Consider using\n     * {ReentrancyGuard} or the\n     * https://solidity.readthedocs.io/en/v0.5.11/security-considerations.html#use-the-checks-effects-interactions-pattern[checks-effects-interactions pattern].\n     */\n    function sendValue(address payable recipient, uint256 amount) internal {\n\n    /**\n     * @dev Performs a Solidity function call using a low level `call`. A\n     * plain `call` is an unsafe replacement for a function call: use this\n     * function instead.\n     *\n     * Returns the raw returned data. To convert to the expected return value,\n     * use https://solidity.readthedocs.io/en/latest/units-and-global-variables.html?highlight=abi.decode#abi-encoding-and-decoding-functions[`abi.decode`].\n     *\n     * Requirements:\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-}[`functionCall`], but with\n     * `errorMessage` as a fallback revert reason when `target` reverts.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-}[`functionCall`],\n     * but also transferring `value` wei to `target`.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCallWithValue-address-bytes-uint256-}[`functionCallWithValue`], but\n     * with `errorMessage` as a fallback revert reason when `target` reverts.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-}[`functionCall`],\n     * but performing a static call.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-string-}[`functionCall`],\n     * but performing a static call.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-}[`functionCall`],\n     * but performing a delegate call.\n     *\n\n    /**\n     * @dev Same as {xref-Address-functionCall-address-bytes-string-}[`functionCall`],\n     * but performing a delegate call.\n     *\n\n    /**\n     * @dev Tool to verify that a low level call to smart-contract was successful, and revert (either by bubbling\n     * the revert reason or using the provided one) in case of unsuccessful call or if target was not a contract.\n     *\n\n    /**\n     * @dev Tool to verify that a low level call was successful, and revert if it wasn't, either by bubbling the\n     * revert reason or using the provided one.\n     *\n        if (returndata.length > 0) {\n            // The easiest way to bubble the revert reason is using memory via assembly\n            /// @solidity memory-safe-assembly\n            assembly {\n                let returndata_size := mload(returndata)",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/external/openzeppelin/contracts/utils/Address.sol"
+        },
+        "src/lending/interfaces/IAddressRegistry.sol": {
+          "sha": "0caba5044cfa14eca77ca3ec464bee563d16ddbc",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/interfaces/IAddressRegistry.sol"
+        },
+        "src/lending/libraries/helpers/AddressId.sol": {
+          "sha": "5ece7675078b8d6a3c7b8356f6cd8002b8872457",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/libraries/helpers/AddressId.sol"
+        },
+        "src/lending/libraries/logic/ETokenDeployer.sol": {
+          "sha": "b89f30c86b768f5d48cf5a927f0005484d2027f9",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/libraries/logic/ETokenDeployer.sol"
+        },
+        "src/lending/libraries/logic/StakingRewardsDeployer.sol": {
+          "sha": "d7b5c7024483fc8a638c7955c2c8ed177ebc54b2",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/libraries/logic/StakingRewardsDeployer.sol"
+        },
+        "src/lending/libraries/logic/VaultDeployerSelector.sol": {
+          "sha": "78bdbe2504437ef405a5f725d15963a44f98afbd",
+          "text": "",
+          "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/lending/libraries/logic/VaultDeployerSelector.sol"
         }
       },
-      "next_check_at": "2026-10-02T00:00:00+00:00",
-      "last_check_at": "2026-10-01T23:11:30.642485+00:00",
+      "next_check_at": "2026-10-02T03:00:00+00:00",
+      "last_check_at": "2026-10-02T02:14:48.753142+00:00",
       "repo_id": 1359602220,
-      "file_cursor": 36
+      "file_cursor": 54
     },
     "repo:clubytech/cluby-mcp": {
       "source": "repo",
@@ -5468,9 +5568,31 @@
       "first_report_sha256": "21d87f53839d23358d53d4d3ccadb72a548baca2d603d65e5c09ef3cce04d514",
       "files": {},
       "next_check_at": null
+    },
+    "repo:gtanetwork0299/antary": {
+      "source": "repo",
+      "repo": "gtanetwork0299/antary",
+      "name": "gtanetwork0299/antary",
+      "pr": 348,
+      "status": "excluded",
+      "registered_at": "2026-10-02T02:14:36.517086+00:00",
+      "first_report_sha256": "8e450457e7e6f2ebf8af775501ae3f1fbbb3dacdedefe26835032dda7e00fcbc",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:justsendit/justsendit": {
+      "source": "repo",
+      "repo": "JustSendIt/JustSendIt",
+      "name": "JustSendIt/JustSendIt",
+      "pr": 351,
+      "status": "excluded",
+      "registered_at": "2026-10-02T02:14:36.856449+00:00",
+      "first_report_sha256": "dc99710dfa5e29728d5afc82098b47a1a21fb0fcd00d90ee5b43fd661d40527d",
+      "files": {},
+      "next_check_at": null
     }
   },
-  "last_collect_at": "2026-10-01T23:12:25.607346+00:00",
+  "last_collect_at": "2026-10-02T02:16:12.049043+00:00",
   "last_errors": [],
   "last_verify_errors": [],
   "quota_next_probe_at": "2026-10-01T23:49:02.692224+00:00"
