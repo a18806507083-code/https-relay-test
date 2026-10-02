@@ -1414,8 +1414,8 @@
       "repo_id": 1356394695,
       "file_cursor": 0,
       "claims": [],
-      "claims_fingerprint": "f9d136acd6ccb6923fb46b211c76aba50777a0aa445aa0e6d066cd00ae388b2f",
-      "verified_fingerprint": "f9d136acd6ccb6923fb46b211c76aba50777a0aa445aa0e6d066cd00ae388b2f"
+      "claims_fingerprint": "35a2078018903faf8cd4d7a6bc2167f9fa8e3b1836a23b518926e6b4de28d084",
+      "verified_fingerprint": "35a2078018903faf8cd4d7a6bc2167f9fa8e3b1836a23b518926e6b4de28d084"
     },
     "repo:dancingcowboy/weald-protocol": {
       "source": "repo",
@@ -3585,8 +3585,8 @@
       "repo_id": 1358522089,
       "file_cursor": 18,
       "claims": [],
-      "claims_fingerprint": "4f856bc787ecea53788c3929d1fff21c856bceff903b07ad8ba9663fe38c36af",
-      "verified_fingerprint": "4f856bc787ecea53788c3929d1fff21c856bceff903b07ad8ba9663fe38c36af"
+      "claims_fingerprint": "01fbc5310d0d249f85327f5735ff973cce60e3a089e43db3ae12c9e56552b20c",
+      "verified_fingerprint": "01fbc5310d0d249f85327f5735ff973cce60e3a089e43db3ae12c9e56552b20c"
     },
     "repo:merlo-team/fund1-contracts": {
       "source": "repo",
@@ -3909,8 +3909,8 @@
       "repo_id": 1358682417,
       "file_cursor": 0,
       "claims": [],
-      "claims_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69",
-      "verified_fingerprint": "edbee4c5205d4718ab7ec2f9e8bae51b6e0fba56817a503f67bdb9f43ad5aa69"
+      "claims_fingerprint": "16bd3f3b6765828c77bcea3df52adacd23a633336e7b434e0ce984dc71545356",
+      "verified_fingerprint": "16bd3f3b6765828c77bcea3df52adacd23a633336e7b434e0ce984dc71545356"
     },
     "repo:nativ3ai/robinhood-terminal": {
       "source": "repo",
@@ -5100,7 +5100,23 @@
       "next_check_at": "2026-10-02T03:00:00+00:00",
       "last_check_at": "2026-10-02T02:14:59.597773+00:00",
       "repo_id": 1359490952,
-      "file_cursor": 56
+      "file_cursor": 56,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://rhairdrop.gmgnrepeat.com/",
+          "source": "README.md",
+          "quote": "**BulkSend** | send an NFT or a token to hundreds of wallets in a few transactions | [rhairdrop.gmgnrepeat.com](https://rhairdrop.gmgnrepeat.com/)"
+        },
+        {
+          "kind": "website",
+          "value": "https://rhcheck.gmgnrepeat.com/",
+          "source": "README.md",
+          "quote": "**Check** | read a transaction or a contract in plain English before you sign it | [rhcheck.gmgnrepeat.com](https://rhcheck.gmgnrepeat.com/)"
+        }
+      ],
+      "claims_fingerprint": "e401641ff6e2eec1b63be30309ca3715f90c6092f05cf843efc519867e904c0e",
+      "verified_fingerprint": "e401641ff6e2eec1b63be30309ca3715f90c6092f05cf843efc519867e904c0e"
     },
     "repo:kili-lol/kili": {
       "source": "repo",
@@ -5178,7 +5194,10 @@
       "next_check_at": "2026-10-02T03:00:00+00:00",
       "last_check_at": "2026-10-02T02:14:58.101942+00:00",
       "repo_id": 1359613654,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "27397bf52428f27403422a03ee7e1d993854cb80cc38a351d394e639c86e15f0",
+      "verified_fingerprint": "27397bf52428f27403422a03ee7e1d993854cb80cc38a351d394e639c86e15f0"
     },
     "repo:abysshopper/black-market-node-sdk": {
       "source": "repo",
@@ -5213,7 +5232,10 @@
       "next_check_at": "2026-10-02T03:00:00+00:00",
       "last_check_at": "2026-10-02T02:14:55.162375+00:00",
       "repo_id": 1359686762,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "b24b5d7ec6fae578e20e7f51f164e0c896ef4b5f497b497472681b9137ea8f15",
+      "verified_fingerprint": "b24b5d7ec6fae578e20e7f51f164e0c896ef4b5f497b497472681b9137ea8f15"
     },
     "repo:abysshopper/black-market-python-sdk": {
       "source": "repo",
@@ -5249,7 +5271,10 @@
       "next_check_at": "2026-10-02T03:00:00+00:00",
       "last_check_at": "2026-10-02T02:14:56.637560+00:00",
       "repo_id": 1359590900,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "40b1c506fabf84097115256a609a3b83e24e24fbefb0b44c8e236c3d0aa72aba",
+      "verified_fingerprint": "40b1c506fabf84097115256a609a3b83e24e24fbefb0b44c8e236c3d0aa72aba"
     },
     "repo:zbank-protocol/contracts": {
       "source": "repo",
@@ -5545,7 +5570,23 @@
       "next_check_at": "2026-10-02T03:00:00+00:00",
       "last_check_at": "2026-10-02T02:14:48.753142+00:00",
       "repo_id": 1359602220,
-      "file_cursor": 54
+      "file_cursor": 54,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "solonlend.xyz",
+          "source": "deployments/POSTMORTEM-2026-09-07-launch.md",
+          "quote": "实际线上 solonlend.xyz(nginx 服务器 8.209.235.70)还是 9-3 旧构建"
+        },
+        {
+          "kind": "x",
+          "value": "@Solonlend",
+          "source": "deployments/rh-mainnet-2026-09-07.md",
+          "quote": "Announcement (house-standard card + @Solonlend tweet) — after ops are live."
+        }
+      ],
+      "claims_fingerprint": "c021f88f70116e38b7f45c30ffbbba07ce1da99e330f7270299ca43f588ee373",
+      "verified_fingerprint": "c021f88f70116e38b7f45c30ffbbba07ce1da99e330f7270299ca43f588ee373"
     },
     "repo:clubytech/cluby-mcp": {
       "source": "repo",
@@ -5594,6 +5635,5 @@
   },
   "last_collect_at": "2026-10-02T02:16:12.049043+00:00",
   "last_errors": [],
-  "last_verify_errors": [],
-  "quota_next_probe_at": "2026-10-01T23:49:02.692224+00:00"
+  "last_verify_errors": []
 }
