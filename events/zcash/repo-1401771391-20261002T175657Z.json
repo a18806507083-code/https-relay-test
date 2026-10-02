@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T13:21:39Z",
+    "detected_at": "2026-10-02T17:56:57Z",
+    "display": "zucchini-wallet/store",
+    "key": "repo:1401771391",
+    "metadata": {
+      "description": "Open-source Zcash gift-card storefront using Zucchini Wallet SDK and verified shielded receipts",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "zucchini-wallet/store",
+      "homepage": null,
+      "pushed_at": "2026-10-02T13:51:30Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1401771391,
+    "url": "https://github.com/zucchini-wallet/store"
+  },
+  "schema": "zcash-fast-event/1"
+}
