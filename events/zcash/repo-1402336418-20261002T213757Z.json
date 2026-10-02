@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T20:42:48Z",
+    "detected_at": "2026-10-02T21:37:57Z",
+    "display": "misspoly/noyonchain",
+    "key": "repo:1402336418",
+    "metadata": {
+      "description": "NoyonChain — a complete Bitcoin-like cryptocurrency blockchain with encrypted P2P, 100M-cap NoyonCoin (NYN), and a block explorer. Educational project.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "misspoly/noyonchain",
+      "homepage": null,
+      "pushed_at": "2026-10-02T20:42:55Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1402336418,
+    "url": "https://github.com/misspoly/noyonchain"
+  },
+  "schema": "zcash-fast-event/1"
+}
