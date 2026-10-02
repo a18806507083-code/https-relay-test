@@ -1561,11 +1561,11 @@
           "kind": "website",
           "value": "https://family.cash",
           "source": "README.md",
-          "quote": "[Family.Cash](https://family.cash)"
+          "quote": "Isolated Solidity for [Family.Cash](https://family.cash)"
         }
       ],
-      "claims_fingerprint": "68149cecc5bc73c9e68fea6310f34f960506b831cf21f0f76db1de32495e65b7",
-      "verified_fingerprint": "68149cecc5bc73c9e68fea6310f34f960506b831cf21f0f76db1de32495e65b7"
+      "claims_fingerprint": "950877e4d3ccaed739cbd14464d160020316d098e5203860294f620614f91561",
+      "verified_fingerprint": "950877e4d3ccaed739cbd14464d160020316d098e5203860294f620614f91561"
     },
     "repo:nirholas/quiver": {
       "source": "repo",
@@ -1849,8 +1849,8 @@
       "repo_id": 1356750466,
       "file_cursor": 18,
       "claims": [],
-      "claims_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5",
-      "verified_fingerprint": "43d3fffcdc9b487cc34e6b8c2c382349c2fec0339cb13113c5333477b18df2e5"
+      "claims_fingerprint": "6c4681884806c00a83adc613be54db3ebebc5141555aac80922c5fb8353b1641",
+      "verified_fingerprint": "6c4681884806c00a83adc613be54db3ebebc5141555aac80922c5fb8353b1641"
     },
     "repo:meiyandong/manga-chan-atomic-arbitrage": {
       "source": "repo",
@@ -2044,8 +2044,8 @@
       "repo_id": 1356847100,
       "file_cursor": 0,
       "claims": [],
-      "claims_fingerprint": "0dc2597d8c91847bd63e9cbb62fc94f9089cf92519bfa83976a1beaae41de4c1",
-      "verified_fingerprint": "0dc2597d8c91847bd63e9cbb62fc94f9089cf92519bfa83976a1beaae41de4c1"
+      "claims_fingerprint": "c212f2cbf4396b9dca8db6c6f71251be12329f918378c1ad568c7cfc0213e69d",
+      "verified_fingerprint": "c212f2cbf4396b9dca8db6c6f71251be12329f918378c1ad568c7cfc0213e69d"
     },
     "repo:leveradotfun/levera-dapp": {
       "source": "repo",
@@ -2720,8 +2720,8 @@
           "quote": "\"homepage\": \"https://airtime-gray.vercel.app\""
         }
       ],
-      "claims_fingerprint": "7a16693173c04e6896ac9e6eeaa7cb47cfc6ab040785db71c77d6f9ec82f3405",
-      "verified_fingerprint": "7a16693173c04e6896ac9e6eeaa7cb47cfc6ab040785db71c77d6f9ec82f3405"
+      "claims_fingerprint": "c34cf3e025f5cd2fea532434c9600f26e72174aa7e71133a6c8e5bf4cefe4e0d",
+      "verified_fingerprint": "c34cf3e025f5cd2fea532434c9600f26e72174aa7e71133a6c8e5bf4cefe4e0d"
     },
     "repo:nar-123/lpbot-new": {
       "source": "repo",
@@ -2835,18 +2835,9 @@
       "last_check_at": "2026-10-02T08:34:35.084857+00:00",
       "repo_id": 1357556366,
       "file_cursor": 0,
-      "claims": [
-        {
-          "kind": "website",
-          "value": "https://button-ivory.vercel.app",
-          "source": "repository_metadata",
-          "quote": "\"homepage\": \"https://button-ivory.vercel.app\"",
-          "chain_id": null,
-          "mainnet_token": null
-        }
-      ],
-      "claims_fingerprint": "634e91c01eb8f5dcfc7d0d0b048d0b042fe363bdc958f1af29f6091a532b9043",
-      "verified_fingerprint": "634e91c01eb8f5dcfc7d0d0b048d0b042fe363bdc958f1af29f6091a532b9043"
+      "claims": [],
+      "claims_fingerprint": "9884e7638a492a632a3e2fc17a5a6c053f646e72cfa130eb70e98094b7b40a24",
+      "verified_fingerprint": "9884e7638a492a632a3e2fc17a5a6c053f646e72cfa130eb70e98094b7b40a24"
     },
     "repo:tickrmarkets/tickr-markets": {
       "source": "repo",
@@ -3044,8 +3035,8 @@
           "quote": "\"homepage\": \"https://melodic-syrniki-2d566a.netlify.app\""
         }
       ],
-      "claims_fingerprint": "e517bd521c181ea74f5bb9ba8c40b4715c9252a03e9f005e3957a227e6cd57d5",
-      "verified_fingerprint": "e517bd521c181ea74f5bb9ba8c40b4715c9252a03e9f005e3957a227e6cd57d5"
+      "claims_fingerprint": "4587312475cc5ddbd81c57de66c5a07e15954435194ce3104a23799c0f886702",
+      "verified_fingerprint": "4587312475cc5ddbd81c57de66c5a07e15954435194ce3104a23799c0f886702"
     },
     "repo:cocainebit/float-docs": {
       "source": "repo",
@@ -3929,8 +3920,8 @@
       "repo_id": 1358682417,
       "file_cursor": 18,
       "claims": [],
-      "claims_fingerprint": "16bd3f3b6765828c77bcea3df52adacd23a633336e7b434e0ce984dc71545356",
-      "verified_fingerprint": "16bd3f3b6765828c77bcea3df52adacd23a633336e7b434e0ce984dc71545356"
+      "claims_fingerprint": "c78f5267794efcc3dd2ef8c65949e36e7eecc5fa8ed549b669d2ef2af507332b",
+      "verified_fingerprint": "c78f5267794efcc3dd2ef8c65949e36e7eecc5fa8ed549b669d2ef2af507332b"
     },
     "repo:nativ3ai/robinhood-terminal": {
       "source": "repo",
@@ -5751,7 +5742,10 @@
       "next_check_at": "2026-10-02T09:00:00+00:00",
       "last_check_at": "2026-10-02T08:33:51.509521+00:00",
       "repo_id": 1360686266,
-      "file_cursor": 5
+      "file_cursor": 5,
+      "claims": [],
+      "claims_fingerprint": "5f266d0f5ead425606175d050c5dcb7c61d1605e1a77adf9b53ef35244a25b76",
+      "verified_fingerprint": "5f266d0f5ead425606175d050c5dcb7c61d1605e1a77adf9b53ef35244a25b76"
     },
     "repo:trixen-ai/yield": {
       "source": "repo",
