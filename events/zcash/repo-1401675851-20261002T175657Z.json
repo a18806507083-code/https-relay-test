@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T12:26:56Z",
+    "detected_at": "2026-10-02T17:56:57Z",
+    "display": "FurtPay/LetsPay",
+    "key": "repo:1401675851",
+    "metadata": {
+      "description": "LetsPay is a confidential payroll protocol built on Stellar Soroban.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "FurtPay/LetsPay",
+      "homepage": null,
+      "pushed_at": "2026-10-02T15:28:53Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1401675851,
+    "url": "https://github.com/FurtPay/LetsPay"
+  },
+  "schema": "zcash-fast-event/1"
+}
