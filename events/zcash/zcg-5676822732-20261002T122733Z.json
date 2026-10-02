@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T11:36:20Z",
+    "detected_at": "2026-10-02T12:27:33Z",
+    "display": "#462 Grant Application - Tells: a privacy checkup for Zcash wallets",
+    "key": "zcg:5676822732",
+    "metadata": {
+      "author": "luoy16002-svg",
+      "issue_number": 462,
+      "labels": [],
+      "title": "Grant Application - Tells: a privacy checkup for Zcash wallets"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5676822732,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/462"
+  },
+  "schema": "zcash-fast-event/1"
+}
