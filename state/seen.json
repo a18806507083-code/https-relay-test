@@ -7728,6 +7728,76 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1558",
       "first_seen_at": "2026-10-02T06:10:34Z",
       "full_name": "Research-cmd-dev/new-launch-finder-public"
+    },
+    "1401521021": {
+      "created_at": "2026-10-02T10:44:51Z",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1566",
+      "first_seen_at": "2026-10-02T12:26:37Z",
+      "full_name": "JustSteez/night-shift"
+    },
+    "1401613350": {
+      "created_at": "2026-10-02T11:51:51Z",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1563",
+      "first_seen_at": "2026-10-02T12:26:37Z",
+      "full_name": "CoachNart/Hoodlauch"
+    },
+    "1401668021": {
+      "created_at": "2026-10-02T12:22:46Z",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1564",
+      "first_seen_at": "2026-10-02T12:26:37Z",
+      "full_name": "hey-research-lab/hey-project-manifest"
+    },
+    "1401668771": {
+      "created_at": "2026-10-02T12:23:10Z",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1570",
+      "first_seen_at": "2026-10-02T12:26:37Z",
+      "full_name": "hey-research-lab/hey-agent-contract"
+    },
+    "1401669214": {
+      "created_at": "2026-10-02T12:23:24Z",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1569",
+      "first_seen_at": "2026-10-02T12:26:37Z",
+      "full_name": "hey-research-lab/hey-research-receipts"
+    },
+    "1401669639": {
+      "created_at": "2026-10-02T12:23:36Z",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1565",
+      "first_seen_at": "2026-10-02T12:26:37Z",
+      "full_name": "hey-research-lab/hey-cli"
+    },
+    "1401670068": {
+      "created_at": "2026-10-02T12:23:49Z",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1562",
+      "first_seen_at": "2026-10-02T12:26:37Z",
+      "full_name": "hey-research-lab/rhchain-registry"
+    },
+    "1401670486": {
+      "created_at": "2026-10-02T12:24:02Z",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1561",
+      "first_seen_at": "2026-10-02T12:26:37Z",
+      "full_name": "hey-research-lab/chainprint"
+    },
+    "1401671217": {
+      "created_at": "2026-10-02T12:24:28Z",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1568",
+      "first_seen_at": "2026-10-02T12:26:37Z",
+      "full_name": "hey-research-lab/hey-telegram-bot"
+    },
+    "1401671609": {
+      "created_at": "2026-10-02T12:24:41Z",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1567",
+      "first_seen_at": "2026-10-02T12:26:37Z",
+      "full_name": "hey-research-lab/hey-data"
     }
   },
   "started_at": "2026-09-03T12:18:00Z",
