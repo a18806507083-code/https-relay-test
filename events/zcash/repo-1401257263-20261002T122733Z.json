@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T06:48:00Z",
+    "detected_at": "2026-10-02T12:27:33Z",
+    "display": "luoy16002-svg/tells",
+    "key": "repo:1401257263",
+    "metadata": {
+      "description": "A privacy checkup for Zcash wallets: finds the round trips, quick exits and fingerprint amounts that link shielded activity, and checks a withdrawal before you make it.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "luoy16002-svg/tells",
+      "homepage": "https://luoy16002-svg.github.io/tells/",
+      "pushed_at": "2026-10-02T10:41:17Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1401257263,
+    "url": "https://github.com/luoy16002-svg/tells"
+  },
+  "schema": "zcash-fast-event/1"
+}
