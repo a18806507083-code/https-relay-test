@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T12:23:10Z",
+    "description": "The public contract of HEY Research Lab agent answers (AgentIntelligenceResponse v1): Zod schemas, JSON Schemas, TypeScript types, capability and unknown vocabularies, recorded fixtures and test vectors.",
+    "detected_at": "2026-10-02T12:26:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "hey-research-lab/hey-agent-contract",
+    "homepage": "https://heyresearch.xyz/developers/agents",
+    "html_url": "https://github.com/hey-research-lab/hey-agent-contract",
+    "pushed_at": "2026-10-02T12:23:22Z",
+    "repo_id": 1401668771,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
