@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T18:10:51Z",
+    "description": "VeloxPad: the launchpad on Robinhood Chain where every coin pays its holders hourly in the pair it trades against. Contracts, engine, site, SDK and CLI.",
+    "detected_at": "2026-10-03T18:20:27Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "VeloxPad/velox",
+    "homepage": "https://veloxpad.fun",
+    "html_url": "https://github.com/VeloxPad/velox",
+    "pushed_at": "2026-10-03T18:13:38Z",
+    "repo_id": 1403505965,
+    "score": 10,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
