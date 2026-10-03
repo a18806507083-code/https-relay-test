@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T20:58:01Z",
+    "detected_at": "2026-10-03T21:26:50Z",
+    "display": "fozagtx/Zceipts",
+    "key": "repo:1403631474",
+    "metadata": {
+      "description": "Verifiable payments for private payments on ZCASH",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "fozagtx/Zceipts",
+      "homepage": null,
+      "pushed_at": "2026-10-03T21:24:18Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403631474,
+    "url": "https://github.com/fozagtx/Zceipts"
+  },
+  "schema": "zcash-fast-event/1"
+}
