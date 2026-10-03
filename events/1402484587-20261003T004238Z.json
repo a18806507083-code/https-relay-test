@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T00:24:46Z",
+    "description": "Keep the stock. Trade the dividends. Split Robinhood Stock Tokens into Principal and Yield Tokens on Robinhood Chain.",
+    "detected_at": "2026-10-03T00:42:38Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "UncleTom29/xero-protocol",
+    "homepage": "https://xero.kiwiprotocol.workers.dev",
+    "html_url": "https://github.com/UncleTom29/xero-protocol",
+    "pushed_at": "2026-10-03T00:29:23Z",
+    "repo_id": 1402484587,
+    "score": 19,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
