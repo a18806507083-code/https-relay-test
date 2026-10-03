@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T09:24:22Z",
+    "detected_at": "2026-10-03T10:38:20Z",
+    "display": "ArchLinuxAddict/windows-webview2-clipboard-hijacker",
+    "key": "repo:1402947990",
+    "metadata": {
+      "description": "Field report + detection toolkit for a Windows crypto clipboard hijacker that swaps BTC/ETH/LTC/XMR addresses and hides as msedgeview.dll (fake WebView2) via a WPDShServiceObj COM hijack in HKCU. Includes canary test, IOC checker and removal script.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ArchLinuxAddict/windows-webview2-clipboard-hijacker",
+      "homepage": "",
+      "pushed_at": "2026-10-03T09:57:25Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1402947990,
+    "url": "https://github.com/ArchLinuxAddict/windows-webview2-clipboard-hijacker"
+  },
+  "schema": "zcash-fast-event/1"
+}
