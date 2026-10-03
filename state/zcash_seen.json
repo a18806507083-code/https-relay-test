@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-03T14:53:26Z",
+  "last_run_at": "2026-10-03T18:20:47Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-03T10:08:20Z",
+      "cutoff": "2026-10-03T14:23:26Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-03T10:08:20Z",
-      "matches": 1,
+      "cutoff": "2026-10-03T14:23:26Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-03T10:08:20Z",
-      "matches": 1,
+      "cutoff": "2026-10-03T14:23:26Z",
+      "matches": 7,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-03T10:08:20Z",
-      "matches": 0,
+      "cutoff": "2026-10-03T14:23:26Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -3535,6 +3535,62 @@
       "first_seen_at": "2026-10-03T14:53:26Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1403312605": {
+      "created_at": "2026-10-03T14:55:24Z",
+      "display": "mrrishit909/bitcoin-market-share",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1627",
+      "first_seen_at": "2026-10-03T18:20:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1403359169": {
+      "created_at": "2026-10-03T15:42:36Z",
+      "display": "itzebe/blink-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1626",
+      "first_seen_at": "2026-10-03T18:20:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1403404124": {
+      "created_at": "2026-10-03T16:26:49Z",
+      "display": "neromtoobad/glasstown",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1625",
+      "first_seen_at": "2026-10-03T18:20:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1403429773": {
+      "created_at": "2026-10-03T16:51:16Z",
+      "display": "victorhez/shroud",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1624",
+      "first_seen_at": "2026-10-03T18:20:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1403434909": {
+      "created_at": "2026-10-03T16:56:41Z",
+      "display": "w-cash/EquihashCom",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1623",
+      "first_seen_at": "2026-10-03T18:20:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1403469650": {
+      "created_at": "2026-10-03T17:31:30Z",
+      "display": "Abdul-Azeez04/zcash-guide",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1622",
+      "first_seen_at": "2026-10-03T18:20:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1403478603": {
+      "created_at": "2026-10-03T17:41:37Z",
+      "display": "GreatSage-dev/re-doubt",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1621",
+      "first_seen_at": "2026-10-03T18:20:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -3894,14 +3950,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1608",
       "first_seen_at": "2026-10-03T10:38:20Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5692216520": {
+      "created_at": "2026-10-03T18:09:01Z",
+      "display": "#465 Grant Application - Zcash BuildPath India: Four-City Developer Onboarding Pilot",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1620",
+      "first_seen_at": "2026-10-03T18:20:47Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-03T14:53:26Z",
-    "forum": "2026-10-03T14:53:26Z",
-    "github": "2026-10-03T14:53:26Z",
-    "zcg": "2026-10-03T14:53:26Z"
+    "fixed_orgs": "2026-10-03T18:20:47Z",
+    "forum": "2026-10-03T18:20:47Z",
+    "github": "2026-10-03T18:20:47Z",
+    "zcg": "2026-10-03T18:20:47Z"
   }
 }
