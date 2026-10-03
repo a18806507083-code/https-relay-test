@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T14:55:24Z",
+    "detected_at": "2026-10-03T18:20:47Z",
+    "display": "mrrishit909/bitcoin-market-share",
+    "key": "repo:1403312605",
+    "metadata": {
+      "description": "How much of the tracked crypto market is Bitcoin? Month-end market values from the Coin Metrics community data, 2013 to 2026, cleaned of double counting; shares, concentration and a year of change, recomputed from the raw table",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "mrrishit909/bitcoin-market-share",
+      "homepage": null,
+      "pushed_at": "2026-10-03T14:55:30Z",
+      "tech_signals": [
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403312605,
+    "url": "https://github.com/mrrishit909/bitcoin-market-share"
+  },
+  "schema": "zcash-fast-event/1"
+}
