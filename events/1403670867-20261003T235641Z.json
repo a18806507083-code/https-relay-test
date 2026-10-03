@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T22:05:01Z",
+    "description": "PRISM: a stock basket you can hold. Forge tokenized stocks + ETH into a living 3D crystal that shows your diversification, heals its cracks in gold, and can be gifted or shared. Non-custodial, no admin keys. Built for vibe/vibe on Robinhood Chain Testnet.",
+    "detected_at": "2026-10-03T23:56:41Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ace-coderr/prism",
+    "homepage": null,
+    "html_url": "https://github.com/ace-coderr/prism",
+    "pushed_at": "2026-10-03T22:26:30Z",
+    "repo_id": 1403670867,
+    "score": 6,
+    "tech_signals": [
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
