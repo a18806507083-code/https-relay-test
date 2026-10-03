@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T04:07:02Z",
+    "description": "Auto-deleverage for stock-backed loans on Robinhood Chain: agent authority that decays unless a World ID-verified human renews it",
+    "detected_at": "2026-10-03T05:44:16Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "amrrobb/releash",
+    "homepage": null,
+    "html_url": "https://github.com/amrrobb/releash",
+    "pushed_at": "2026-10-03T05:04:41Z",
+    "repo_id": 1402640286,
+    "score": 12,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
