@@ -6058,8 +6058,8 @@
       "repo_id": 1363625593,
       "file_cursor": 36,
       "claims": [],
-      "claims_fingerprint": "8f5496ee837e4aecf803efef593a875f07e5ac2f29720f1b549eaa9e1990c592",
-      "verified_fingerprint": "8f5496ee837e4aecf803efef593a875f07e5ac2f29720f1b549eaa9e1990c592"
+      "claims_fingerprint": "ad57e14da17982514813d36d1567133d2ac7d88f1783980cf96f7eeaaf41edd0",
+      "verified_fingerprint": "ad57e14da17982514813d36d1567133d2ac7d88f1783980cf96f7eeaaf41edd0"
     },
     "repo:lokoweb3/uniswap-collector": {
       "source": "repo",
@@ -6105,7 +6105,10 @@
       "next_check_at": "2026-10-03T01:00:00+00:00",
       "last_check_at": "2026-10-03T00:29:17.906751+00:00",
       "repo_id": 1360905998,
-      "file_cursor": 2
+      "file_cursor": 2,
+      "claims": [],
+      "claims_fingerprint": "5d5c6abf21809c5e4635e6cd2e798e8af64861359f508a4845b308482ff0072c",
+      "verified_fingerprint": "5d5c6abf21809c5e4635e6cd2e798e8af64861359f508a4845b308482ff0072c"
     },
     "repo:jethro-frettingham/realestate-project": {
       "source": "repo",
