@@ -5335,8 +5335,8 @@
       "repo_id": 1359686762,
       "file_cursor": 2,
       "claims": [],
-      "claims_fingerprint": "b24b5d7ec6fae578e20e7f51f164e0c896ef4b5f497b497472681b9137ea8f15",
-      "verified_fingerprint": "b24b5d7ec6fae578e20e7f51f164e0c896ef4b5f497b497472681b9137ea8f15"
+      "claims_fingerprint": "bc79c83838d4f770dd2f0705b5968e7dbffd604f87dff3fc699e4d5e54b6fc82",
+      "verified_fingerprint": "bc79c83838d4f770dd2f0705b5968e7dbffd604f87dff3fc699e4d5e54b6fc82"
     },
     "repo:abysshopper/black-market-python-sdk": {
       "source": "repo",
@@ -6117,8 +6117,8 @@
       "repo_id": 1363625593,
       "file_cursor": 13,
       "claims": [],
-      "claims_fingerprint": "ad57e14da17982514813d36d1567133d2ac7d88f1783980cf96f7eeaaf41edd0",
-      "verified_fingerprint": "ad57e14da17982514813d36d1567133d2ac7d88f1783980cf96f7eeaaf41edd0"
+      "claims_fingerprint": "1321517eded0714e3b5b597f5edd70b8b409a1ea4f946e47282961bcc4e37ebb",
+      "verified_fingerprint": "1321517eded0714e3b5b597f5edd70b8b409a1ea4f946e47282961bcc4e37ebb"
     },
     "repo:lokoweb3/uniswap-collector": {
       "source": "repo",
