@@ -3030,8 +3030,8 @@
       "repo_id": 1357743987,
       "file_cursor": 0,
       "claims": [],
-      "claims_fingerprint": "62b28ad930bacade5f58376a606a113ec7df8ee311629d8d6a9cd0da0e7440cb",
-      "verified_fingerprint": "62b28ad930bacade5f58376a606a113ec7df8ee311629d8d6a9cd0da0e7440cb"
+      "claims_fingerprint": "4fb3609640a2362626f9840170fefdf6b3d2d3e099b1e3e6262f5fb8c36c4f7a",
+      "verified_fingerprint": "4fb3609640a2362626f9840170fefdf6b3d2d3e099b1e3e6262f5fb8c36c4f7a"
     },
     "repo:basisinvestments/basis": {
       "source": "repo",
