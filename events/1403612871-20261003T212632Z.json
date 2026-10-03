@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T20:30:49Z",
+    "description": null,
+    "detected_at": "2026-10-03T21:26:32Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "HUMEMARKETS/humemarkets",
+    "homepage": null,
+    "html_url": "https://github.com/HUMEMARKETS/humemarkets",
+    "pushed_at": "2026-10-03T21:21:32Z",
+    "repo_id": 1403612871,
+    "score": 9,
+    "tech_signals": [
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
