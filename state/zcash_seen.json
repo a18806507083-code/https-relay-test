@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-04T15:17:01Z",
+  "last_run_at": "2026-10-04T18:39:07Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-04T09:33:07Z",
+      "cutoff": "2026-10-04T14:47:01Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-04T09:33:07Z",
-      "matches": 4,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-10-04T09:33:07Z",
+      "cutoff": "2026-10-04T14:47:01Z",
       "matches": 0,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-10-04T14:47:01Z",
+      "matches": 6,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-10-04T09:33:07Z",
-      "matches": 1,
+      "cutoff": "2026-10-04T14:47:01Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -3751,6 +3751,54 @@
       "first_seen_at": "2026-10-04T10:03:07Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1404610272": {
+      "created_at": "2026-10-04T16:17:27Z",
+      "display": "Swarmcoin/swarm-node",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1684",
+      "first_seen_at": "2026-10-04T18:39:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1404610725": {
+      "created_at": "2026-10-04T16:17:55Z",
+      "display": "Swarmcoin/swarm-explorer",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1683",
+      "first_seen_at": "2026-10-04T18:39:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1404610947": {
+      "created_at": "2026-10-04T16:18:07Z",
+      "display": "Swarmcoin/swarm-mobile",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1682",
+      "first_seen_at": "2026-10-04T18:39:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1404614691": {
+      "created_at": "2026-10-04T16:22:15Z",
+      "display": "Swarmcoin/privacy-zaino",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1681",
+      "first_seen_at": "2026-10-04T18:39:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1404627319": {
+      "created_at": "2026-10-04T16:36:30Z",
+      "display": "Blocklechain/blockle",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1680",
+      "first_seen_at": "2026-10-04T18:39:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1404633773": {
+      "created_at": "2026-10-04T16:43:45Z",
+      "display": "Swarmcoin/swarm",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1679",
+      "first_seen_at": "2026-10-04T18:39:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -4139,9 +4187,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-04T15:17:01Z",
-    "forum": "2026-10-04T15:17:01Z",
-    "github": "2026-10-04T15:17:01Z",
-    "zcg": "2026-10-04T15:17:01Z"
+    "fixed_orgs": "2026-10-04T18:39:07Z",
+    "forum": "2026-10-04T18:39:07Z",
+    "github": "2026-10-04T18:39:07Z",
+    "zcg": "2026-10-04T18:39:07Z"
   }
 }
