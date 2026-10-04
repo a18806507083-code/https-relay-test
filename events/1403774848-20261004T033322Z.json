@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T01:37:18Z",
+    "description": "A one-hour video simulating different types of requests to the IMD swarm, as well as the outcomes of those requests, based on the options currently available at explorer.imd.fun/launch (such as launching a company, asking the Oracle, heartbeat, token, contracts, and others). The goal is to help people better understand how they can use all the a...",
+    "detected_at": "2026-10-04T03:33:22Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-686-one-hour-video-simulating-different",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-686-one-hour-video-simulating-different",
+    "pushed_at": "2026-10-04T01:55:46Z",
+    "repo_id": 1403774848,
+    "score": 8,
+    "tech_signals": [
+      "Hook",
+      "Oracle",
+      "Launchpad",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
