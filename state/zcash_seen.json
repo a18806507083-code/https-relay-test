@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-04T03:33:43Z",
+  "last_run_at": "2026-10-04T10:03:07Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-03T23:26:56Z",
+      "cutoff": "2026-10-04T03:03:43Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-03T23:26:56Z",
+      "cutoff": "2026-10-04T03:03:43Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-03T23:26:56Z",
-      "matches": 3,
+      "cutoff": "2026-10-04T03:03:43Z",
+      "matches": 4,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-03T23:26:56Z",
-      "matches": 0,
+      "cutoff": "2026-10-04T03:03:43Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -3695,6 +3695,30 @@
       "first_seen_at": "2026-10-04T03:33:43Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1403886905": {
+      "created_at": "2026-10-04T04:27:35Z",
+      "display": "sebayaki/BrainBIP",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1658",
+      "first_seen_at": "2026-10-04T10:03:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1404027953": {
+      "created_at": "2026-10-04T06:44:56Z",
+      "display": "hhanh00/mock-ledger-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1657",
+      "first_seen_at": "2026-10-04T10:03:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1404181688": {
+      "created_at": "2026-10-04T09:11:15Z",
+      "display": "RajeshRk18/zrehearse",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1655",
+      "first_seen_at": "2026-10-04T10:03:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -4062,14 +4086,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1620",
       "first_seen_at": "2026-10-03T18:20:47Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5697414203": {
+      "created_at": "2026-10-04T08:01:56Z",
+      "display": "#466 ZAgentPay: shielded Zcash payments for AI agents under human-defined mandates (MCP server)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1656",
+      "first_seen_at": "2026-10-04T10:03:07Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-04T03:33:43Z",
-    "forum": "2026-10-04T03:33:43Z",
-    "github": "2026-10-04T03:33:43Z",
-    "zcg": "2026-10-04T03:33:43Z"
+    "fixed_orgs": "2026-10-04T10:03:07Z",
+    "forum": "2026-10-04T10:03:07Z",
+    "github": "2026-10-04T10:03:07Z",
+    "zcg": "2026-10-04T10:03:07Z"
   }
 }
