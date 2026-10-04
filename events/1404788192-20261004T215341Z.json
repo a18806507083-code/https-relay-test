@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T19:54:51Z",
+    "description": "Planet Wars SI \u2014 a web3 territory war against a rogue superintelligence. Next.js + three.js + Foundry on Robinhood Chain testnet.",
+    "detected_at": "2026-10-04T21:53:41Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "gsas-bit23/planet-wars-si",
+    "homepage": null,
+    "html_url": "https://github.com/gsas-bit23/planet-wars-si",
+    "pushed_at": "2026-10-04T20:24:25Z",
+    "repo_id": 1404788192,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
