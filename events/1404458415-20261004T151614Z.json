@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T13:44:01Z",
+    "description": "paperdao: day one on papertrade, together. $PULP is a pro rata claim on the treasury, redeemable for PAPER.",
+    "detected_at": "2026-10-04T15:16:14Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "iam-rekt/paperdao-xyz",
+    "homepage": "https://paperdao.xyz",
+    "html_url": "https://github.com/iam-rekt/paperdao-xyz",
+    "pushed_at": "2026-10-04T13:48:55Z",
+    "repo_id": 1404458415,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
