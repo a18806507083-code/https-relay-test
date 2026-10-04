@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T08:33:14Z",
+    "description": null,
+    "detected_at": "2026-10-04T10:02:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Dhkrmynti/argila",
+    "homepage": null,
+    "html_url": "https://github.com/Dhkrmynti/argila",
+    "pushed_at": "2026-10-04T08:33:26Z",
+    "repo_id": 1404144532,
+    "score": 9,
+    "tech_signals": [
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
