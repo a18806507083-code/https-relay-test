@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T09:11:15Z",
+    "detected_at": "2026-10-04T10:03:07Z",
+    "display": "RajeshRk18/zrehearse",
+    "key": "repo:1404181688",
+    "metadata": {
+      "description": "Upgrade rehearsals for Zcash network upgrades.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "RajeshRk18/zrehearse",
+      "homepage": null,
+      "pushed_at": "2026-10-04T09:29:30Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1404181688,
+    "url": "https://github.com/RajeshRk18/zrehearse"
+  },
+  "schema": "zcash-fast-event/1"
+}
