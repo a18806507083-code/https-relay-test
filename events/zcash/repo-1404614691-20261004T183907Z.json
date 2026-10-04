@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T16:22:15Z",
+    "detected_at": "2026-10-04T18:39:07Z",
+    "display": "Swarmcoin/privacy-zaino",
+    "key": "repo:1404614691",
+    "metadata": {
+      "description": "SWARM (SWM) fork of Zaino, the indexer behind the SWARM light-wallet servers (lwd-main.swarm.green) and the explorer. Upstream: zingolabs/zaino.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "Swarmcoin/privacy-zaino",
+      "homepage": null,
+      "pushed_at": "2026-10-04T16:45:49Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1404614691,
+    "url": "https://github.com/Swarmcoin/privacy-zaino"
+  },
+  "schema": "zcash-fast-event/1"
+}
