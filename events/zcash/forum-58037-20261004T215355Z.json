@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T21:20:44.136Z",
+    "detected_at": "2026-10-04T21:53:55Z",
+    "display": "58037 ZSA questions",
+    "key": "forum:58037",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zsa-questions",
+      "title": "ZSA questions",
+      "topic_id": 58037
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58037,
+    "url": "https://forum.zcashcommunity.com/t/zsa-questions/58037"
+  },
+  "schema": "zcash-fast-event/1"
+}
