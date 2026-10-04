@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T12:12:51.449Z",
+    "detected_at": "2026-10-04T15:17:01Z",
+    "display": "58033 ZocialWorld — An Open-Source Social World for the Zcash Ecosystem",
+    "key": "forum:58033",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zocialworld-an-open-source-social-world-for-the-zcash-ecosystem",
+      "title": "ZocialWorld — An Open-Source Social World for the Zcash Ecosystem",
+      "topic_id": 58033
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58033,
+    "url": "https://forum.zcashcommunity.com/t/zocialworld-an-open-source-social-world-for-the-zcash-ecosystem/58033"
+  },
+  "schema": "zcash-fast-event/1"
+}
