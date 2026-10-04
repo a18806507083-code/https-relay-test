@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T16:17:55Z",
+    "detected_at": "2026-10-04T18:39:07Z",
+    "display": "Swarmcoin/swarm-explorer",
+    "key": "repo:1404610725",
+    "metadata": {
+      "description": "SWARM (SWM) block explorer behind explore.swarm.green (mainnet) and testnet.explore.swarm.green: every page names its network.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Swarmcoin/swarm-explorer",
+      "homepage": null,
+      "pushed_at": "2026-10-04T16:45:20Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1404610725,
+    "url": "https://github.com/Swarmcoin/swarm-explorer"
+  },
+  "schema": "zcash-fast-event/1"
+}
