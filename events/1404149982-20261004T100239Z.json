@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T08:38:54Z",
+    "description": "AINDEX Funds: on-chain Funds managed by AI or people, on Robinhood Chain",
+    "detected_at": "2026-10-04T10:02:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "aindex-capital/funds-contracts",
+    "homepage": null,
+    "html_url": "https://github.com/aindex-capital/funds-contracts",
+    "pushed_at": "2026-10-04T08:39:09Z",
+    "repo_id": 1404149982,
+    "score": 16,
+    "tech_signals": [
+      "Morpho",
+      "Uniswap",
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
