@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T13:37:49Z",
+    "description": null,
+    "detected_at": "2026-10-04T15:16:14Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "0xmmmikeee/Kalita",
+    "homepage": null,
+    "html_url": "https://github.com/0xmmmikeee/Kalita",
+    "pushed_at": "2026-10-04T15:14:57Z",
+    "repo_id": 1404452216,
+    "score": 9,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
