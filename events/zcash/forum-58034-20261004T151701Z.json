@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T14:45:29.254Z",
+    "detected_at": "2026-10-04T15:17:01Z",
+    "display": "58034 Introducing ZecWorld",
+    "key": "forum:58034",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "introducing-zecworld",
+      "title": "Introducing ZecWorld",
+      "topic_id": 58034
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58034,
+    "url": "https://forum.zcashcommunity.com/t/introducing-zecworld/58034"
+  },
+  "schema": "zcash-fast-event/1"
+}
