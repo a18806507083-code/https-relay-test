@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-03T23:56:56Z",
+  "last_run_at": "2026-10-04T03:33:43Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-03T20:56:50Z",
+      "cutoff": "2026-10-03T23:26:56Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-03T20:56:50Z",
+      "cutoff": "2026-10-03T23:26:56Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-03T20:56:50Z",
-      "matches": 5,
+      "cutoff": "2026-10-03T23:26:56Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-03T20:56:50Z",
+      "cutoff": "2026-10-03T23:26:56Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3671,6 +3671,30 @@
       "first_seen_at": "2026-10-03T23:56:56Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1403774725": {
+      "created_at": "2026-10-04T01:37:04Z",
+      "display": "Jack-Kane2468/zkas-easy-node-and-wallet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1649",
+      "first_seen_at": "2026-10-04T03:33:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1403781733": {
+      "created_at": "2026-10-04T01:51:14Z",
+      "display": "rochaandreasr/sprout-backend",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1648",
+      "first_seen_at": "2026-10-04T03:33:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1403836390": {
+      "created_at": "2026-10-04T03:16:44Z",
+      "display": "dwarner5522/umbrel-verus",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1647",
+      "first_seen_at": "2026-10-04T03:33:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -4043,9 +4067,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-03T23:56:56Z",
-    "forum": "2026-10-03T23:56:56Z",
-    "github": "2026-10-03T23:56:56Z",
-    "zcg": "2026-10-03T23:56:56Z"
+    "fixed_orgs": "2026-10-04T03:33:43Z",
+    "forum": "2026-10-04T03:33:43Z",
+    "github": "2026-10-04T03:33:43Z",
+    "zcg": "2026-10-04T03:33:43Z"
   }
 }
