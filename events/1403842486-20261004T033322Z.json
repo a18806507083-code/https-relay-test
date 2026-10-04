@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T03:26:08Z",
+    "description": "Dashboard for the launchpad on Robinhood Chain: launches, volume, snipes, snipers, copy-a-launch",
+    "detected_at": "2026-10-04T03:33:22Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "sixsechszes-666/ponssight",
+    "homepage": null,
+    "html_url": "https://github.com/sixsechszes-666/ponssight",
+    "pushed_at": "2026-10-04T03:26:15Z",
+    "repo_id": 1403842486,
+    "score": 11,
+    "tech_signals": [
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
