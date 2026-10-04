@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T16:43:45Z",
+    "detected_at": "2026-10-04T18:39:07Z",
+    "display": "Swarmcoin/swarm",
+    "key": "repo:1404633773",
+    "metadata": {
+      "description": "SWARM (SWM): private money. A proof-of-work privacy coin with shielded payments, a desktop and mobile wallet, a messenger that pays inside the chat and a browser with the wallet built in. Start here: what it is, the numbers, the software, how to build.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "Swarmcoin/swarm",
+      "homepage": "https://swarm.green/",
+      "pushed_at": "2026-10-04T17:17:22Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1404633773,
+    "url": "https://github.com/Swarmcoin/swarm"
+  },
+  "schema": "zcash-fast-event/1"
+}
