@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-04T10:03:07Z",
+  "last_run_at": "2026-10-04T15:17:01Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-04T03:03:43Z",
+      "cutoff": "2026-10-04T09:33:07Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-04T03:03:43Z",
-      "matches": 0,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-10-04T03:03:43Z",
+      "cutoff": "2026-10-04T09:33:07Z",
       "matches": 4,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-10-04T09:33:07Z",
+      "matches": 0,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-10-04T03:03:43Z",
+      "cutoff": "2026-10-04T09:33:07Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -1013,6 +1013,38 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1616",
       "first_seen_at": "2026-10-03T14:53:26Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58031": {
+      "created_at": "2026-10-04T10:22:33.869Z",
+      "display": "58031 Proof of Privacy Campaign Report",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1672",
+      "first_seen_at": "2026-10-04T15:17:01Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58032": {
+      "created_at": "2026-10-04T11:45:07.620Z",
+      "display": "58032 Global Ambassador Elzz September 2026 Report",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1671",
+      "first_seen_at": "2026-10-04T15:17:01Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58033": {
+      "created_at": "2026-10-04T12:12:51.449Z",
+      "display": "58033 ZocialWorld — An Open-Source Social World for the Zcash Ecosystem",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1670",
+      "first_seen_at": "2026-10-04T15:17:01Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58034": {
+      "created_at": "2026-10-04T14:45:29.254Z",
+      "display": "58034 Introducing ZecWorld",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1668",
+      "first_seen_at": "2026-10-04T15:17:01Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -4094,14 +4126,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1656",
       "first_seen_at": "2026-10-04T10:03:07Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5699404105": {
+      "created_at": "2026-10-04T12:45:09Z",
+      "display": "#467 Grant Application - Zcash Shielded Payments: An English/Korean Research Report",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1669",
+      "first_seen_at": "2026-10-04T15:17:01Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-04T10:03:07Z",
-    "forum": "2026-10-04T10:03:07Z",
-    "github": "2026-10-04T10:03:07Z",
-    "zcg": "2026-10-04T10:03:07Z"
+    "fixed_orgs": "2026-10-04T15:17:01Z",
+    "forum": "2026-10-04T15:17:01Z",
+    "github": "2026-10-04T15:17:01Z",
+    "zcg": "2026-10-04T15:17:01Z"
   }
 }
