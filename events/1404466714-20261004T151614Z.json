@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T13:51:20Z",
+    "description": "BoundxyzV2 vault and factory smart contracts",
+    "detected_at": "2026-10-04T15:16:14Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "iam-rekt/BoundxyzV2",
+    "homepage": null,
+    "html_url": "https://github.com/iam-rekt/BoundxyzV2",
+    "pushed_at": "2026-10-04T13:51:26Z",
+    "repo_id": 1404466714,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
