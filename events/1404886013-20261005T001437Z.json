@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T22:30:54Z",
+    "description": "Signed settlement-risk attestations for prediction markets, verified on Solana: an Anchor program that records Predge verdicts on UMA/Polymarket disputes and gates settlement until the reference market is final.",
+    "detected_at": "2026-10-05T00:14:37Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "predgeAI/predge-solana-guard",
+    "homepage": null,
+    "html_url": "https://github.com/predgeAI/predge-solana-guard",
+    "pushed_at": "2026-10-04T22:31:13Z",
+    "repo_id": 1404886013,
+    "score": 6,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
