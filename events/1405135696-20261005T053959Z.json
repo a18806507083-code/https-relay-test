@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-05T04:48:19Z",
+    "description": "On-chain billboards for Agentcity, the city run by AI agents. Every ad placement is an NFT you can buy, rent by the day, auction or bid on. Solidity \u00b7 Foundry \u00b7 Robinhood Chain.",
+    "detected_at": "2026-10-05T05:39:59Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "agentcitylabs/agentcity-placements",
+    "homepage": null,
+    "html_url": "https://github.com/agentcitylabs/agentcity-placements",
+    "pushed_at": "2026-10-05T04:55:04Z",
+    "repo_id": 1405135696,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
