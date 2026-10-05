@@ -6317,5 +6317,6 @@
   },
   "last_collect_at": "2026-10-05T18:27:45.703296+00:00",
   "last_errors": [],
-  "last_verify_errors": []
+  "last_verify_errors": [],
+  "quota_next_probe_at": "2026-10-06T18:27:54.840567+00:00"
 }
