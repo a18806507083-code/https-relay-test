@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-05T11:09:53Z",
+    "description": "Dictum: an agentic FX router for Nigerian importers paying overseas suppliers. Settles on Arbitrum One; treasury on Robinhood Chain.",
+    "detected_at": "2026-10-05T12:36:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Miracle656/Dictum",
+    "homepage": "https://dictum-ten.vercel.app",
+    "html_url": "https://github.com/Miracle656/Dictum",
+    "pushed_at": "2026-10-05T11:19:38Z",
+    "repo_id": 1405614481,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
