@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-05T02:30:30Z",
+    "detected_at": "2026-10-05T05:40:10Z",
+    "display": "bluishxD/zkscape",
+    "key": "repo:1405014660",
+    "metadata": {
+      "description": "ZKSCAPE is an interactive pixel-art adventure where your PFP becomes the main character and explores the world of Zcash. Travel through immersive mini-worlds, discover how privacy and zkSNARKs work, explore the Zcash ecosystem, and create your own personalized ZKSCAPE Explorer Card.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "bluishxD/zkscape",
+      "homepage": null,
+      "pushed_at": "2026-10-05T02:31:49Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1405014660,
+    "url": "https://github.com/bluishxD/zkscape"
+  },
+  "schema": "zcash-fast-event/1"
+}
