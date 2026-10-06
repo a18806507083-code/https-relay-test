@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T18:26:03Z",
+    "detected_at": "2026-10-06T19:43:48Z",
+    "display": "Annkkitaaa/hashsmash-proposal",
+    "key": "repo:1407762217",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Annkkitaaa/hashsmash-proposal",
+      "homepage": null,
+      "pushed_at": "2026-10-06T18:26:09Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1407762217,
+    "url": "https://github.com/Annkkitaaa/hashsmash-proposal"
+  },
+  "schema": "zcash-fast-event/1"
+}
