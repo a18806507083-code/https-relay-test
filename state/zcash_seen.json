@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-05T12:36:41Z",
+  "last_run_at": "2026-10-06T01:27:47Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-05T05:10:10Z",
-      "matches": 0,
-      "status": "PASS"
-    },
-    "forum": {
-      "cutoff": "2026-10-05T05:10:10Z",
+      "cutoff": "2026-10-05T12:06:41Z",
       "matches": 1,
       "status": "PASS"
     },
+    "forum": {
+      "cutoff": "2026-10-05T12:06:41Z",
+      "matches": 3,
+      "status": "PASS"
+    },
     "github": {
-      "cutoff": "2026-10-05T05:10:10Z",
-      "matches": 2,
+      "cutoff": "2026-10-05T12:06:41Z",
+      "matches": 6,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-05T05:10:10Z",
-      "matches": 0,
+      "cutoff": "2026-10-05T12:06:41Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -1061,6 +1061,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1702",
       "first_seen_at": "2026-10-05T12:36:41Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58050": {
+      "created_at": "2026-10-05T12:38:46.638Z",
+      "display": "58050 Introducing meetzec.com: a small toolkit for starting in-person Zcash meetups (work in progress)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1716",
+      "first_seen_at": "2026-10-06T01:27:47Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58051": {
+      "created_at": "2026-10-05T19:40:01.433Z",
+      "display": "58051 Hito Zcash: Stable Firmware, Internal Security Review, and Maintenance",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1710",
+      "first_seen_at": "2026-10-06T01:27:47Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58052": {
+      "created_at": "2026-10-05T23:36:52.740Z",
+      "display": "58052 Zcash in BTCTKVR: Forks!",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1708",
+      "first_seen_at": "2026-10-06T01:27:47Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -3887,6 +3911,62 @@
       "first_seen_at": "2026-10-05T12:36:41Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1405855777": {
+      "created_at": "2026-10-05T13:57:14Z",
+      "display": "dellarosamarco/Memes-The-game",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1715",
+      "first_seen_at": "2026-10-06T01:27:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1405970953": {
+      "created_at": "2026-10-05T15:19:01Z",
+      "display": "theeagle2407/veylo",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1714",
+      "first_seen_at": "2026-10-06T01:27:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1406052011": {
+      "created_at": "2026-10-05T16:15:16Z",
+      "display": "dr-winner/Ghostpass",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1713",
+      "first_seen_at": "2026-10-06T01:27:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1406187850": {
+      "created_at": "2026-10-05T17:59:22Z",
+      "display": "ZecDoor/zecdoor",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1712",
+      "first_seen_at": "2026-10-06T01:27:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1406393287": {
+      "created_at": "2026-10-05T21:21:58Z",
+      "display": "zodl-inc/actions",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1709",
+      "first_seen_at": "2026-10-06T01:27:47Z",
+      "source": "FIXED_ORG_NEW_REPO"
+    },
+    "repo:1406508111": {
+      "created_at": "2026-10-06T00:13:46Z",
+      "display": "0xaje/ShadeCheck-",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1707",
+      "first_seen_at": "2026-10-06T01:27:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1406534003": {
+      "created_at": "2026-10-06T00:55:42Z",
+      "display": "Webghost01-NG/webghost-portfolio",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1706",
+      "first_seen_at": "2026-10-06T01:27:47Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -4270,14 +4350,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1669",
       "first_seen_at": "2026-10-04T15:17:01Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5717821239": {
+      "created_at": "2026-10-05T19:27:49Z",
+      "display": "#468 Grant Application - Hito Zcash: Stable Firmware, Internal Security Review, and Maintenance",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1711",
+      "first_seen_at": "2026-10-06T01:27:47Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-05T12:36:41Z",
-    "forum": "2026-10-05T12:36:41Z",
-    "github": "2026-10-05T12:36:41Z",
-    "zcg": "2026-10-05T12:36:41Z"
+    "fixed_orgs": "2026-10-06T01:27:47Z",
+    "forum": "2026-10-06T01:27:47Z",
+    "github": "2026-10-06T01:27:47Z",
+    "zcg": "2026-10-06T01:27:47Z"
   }
 }
