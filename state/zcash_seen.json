@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-06T01:27:47Z",
+  "last_run_at": "2026-10-06T07:48:05Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-05T12:06:41Z",
-      "matches": 1,
+      "cutoff": "2026-10-06T00:57:47Z",
+      "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-05T12:06:41Z",
-      "matches": 3,
+      "cutoff": "2026-10-06T00:57:47Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-05T12:06:41Z",
-      "matches": 6,
+      "cutoff": "2026-10-06T00:57:47Z",
+      "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-05T12:06:41Z",
-      "matches": 1,
+      "cutoff": "2026-10-06T00:57:47Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -1085,6 +1085,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1708",
       "first_seen_at": "2026-10-06T01:27:47Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58053": {
+      "created_at": "2026-10-06T01:43:31.214Z",
+      "display": "58053 Zcash anniversary month",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1724",
+      "first_seen_at": "2026-10-06T07:48:05Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -4363,9 +4371,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-06T01:27:47Z",
-    "forum": "2026-10-06T01:27:47Z",
-    "github": "2026-10-06T01:27:47Z",
-    "zcg": "2026-10-06T01:27:47Z"
+    "fixed_orgs": "2026-10-06T07:48:05Z",
+    "forum": "2026-10-06T07:48:05Z",
+    "github": "2026-10-06T07:48:05Z",
+    "zcg": "2026-10-06T07:48:05Z"
   }
 }
