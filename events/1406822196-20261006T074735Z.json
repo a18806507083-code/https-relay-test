@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T06:36:58Z",
+    "description": null,
+    "detected_at": "2026-10-06T07:47:35Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "Iqbal2139/Robinhood-Chain",
+    "homepage": null,
+    "html_url": "https://github.com/Iqbal2139/Robinhood-Chain",
+    "pushed_at": "2026-10-06T06:45:29Z",
+    "repo_id": 1406822196,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
