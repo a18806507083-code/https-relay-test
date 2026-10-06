@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T13:59:25Z",
+    "detected_at": "2026-10-06T14:30:06Z",
+    "display": "nikkolasg/hayai",
+    "key": "repo:1407399912",
+    "metadata": {
+      "description": "A fast, independent Zcash node for miners",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "nikkolasg/hayai",
+      "homepage": null,
+      "pushed_at": "2026-10-06T14:23:31Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1407399912,
+    "url": "https://github.com/nikkolasg/hayai"
+  },
+  "schema": "zcash-fast-event/1"
+}
