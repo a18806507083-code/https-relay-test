@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T11:33:24Z",
+    "detected_at": "2026-10-06T14:30:06Z",
+    "display": "Urriki1502/wam-privacy",
+    "key": "repo:1407186811",
+    "metadata": {
+      "description": "Research, specifications, prototypes, and validation for privacy technologies in WAM.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Urriki1502/wam-privacy",
+      "homepage": null,
+      "pushed_at": "2026-10-06T14:25:03Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1407186811,
+    "url": "https://github.com/Urriki1502/wam-privacy"
+  },
+  "schema": "zcash-fast-event/1"
+}
