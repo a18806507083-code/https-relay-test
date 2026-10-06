@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-05T01:16:37Z",
+    "detected_at": "2026-10-05T05:40:10Z",
+    "display": "angelraph/aegis-gate",
+    "key": "repo:1404969624",
+    "metadata": {
+      "description": "Private 2-of-3 FROST escrow for strangers on shielded Zcash (Ironwood). ZECATHON Wildcard.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash"
+      ],
+      "full_name": "angelraph/aegis-gate",
+      "homepage": "https://aegis-gate-two.vercel.app",
+      "pushed_at": "2026-10-05T05:25:00Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1404969624,
+    "url": "https://github.com/angelraph/aegis-gate"
+  },
+  "schema": "zcash-fast-event/1"
+}
