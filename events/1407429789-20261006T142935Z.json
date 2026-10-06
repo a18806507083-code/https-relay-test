@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T14:20:33Z",
+    "description": "updated",
+    "detected_at": "2026-10-06T14:29:35Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "Sukidz/alpha-wallet-bot",
+    "homepage": null,
+    "html_url": "https://github.com/Sukidz/alpha-wallet-bot",
+    "pushed_at": "2026-10-06T14:24:38Z",
+    "repo_id": 1407429789,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
