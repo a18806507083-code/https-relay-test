@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T07:14:52Z",
+    "description": null,
+    "detected_at": "2026-10-06T07:47:35Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "wrvnnull/rh",
+    "homepage": "https://rh-eight-delta.vercel.app",
+    "html_url": "https://github.com/wrvnnull/rh",
+    "pushed_at": "2026-10-06T07:45:11Z",
+    "repo_id": 1406867123,
+    "score": 9,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
