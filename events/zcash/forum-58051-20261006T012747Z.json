@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-05T19:40:01.433Z",
+    "detected_at": "2026-10-06T01:27:47Z",
+    "display": "58051 Hito Zcash: Stable Firmware, Internal Security Review, and Maintenance",
+    "key": "forum:58051",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "hito-zcash-stable-firmware-internal-security-review-and-maintenance",
+      "title": "Hito Zcash: Stable Firmware, Internal Security Review, and Maintenance",
+      "topic_id": 58051
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58051,
+    "url": "https://forum.zcashcommunity.com/t/hito-zcash-stable-firmware-internal-security-review-and-maintenance/58051"
+  },
+  "schema": "zcash-fast-event/1"
+}
