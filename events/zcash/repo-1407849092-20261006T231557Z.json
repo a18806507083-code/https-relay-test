@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T19:49:49Z",
+    "detected_at": "2026-10-06T23:15:57Z",
+    "display": "DjuraX/galleria_vr",
+    "key": "repo:1407849092",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "DjuraX/galleria_vr",
+      "homepage": null,
+      "pushed_at": "2026-10-06T19:54:07Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1407849092,
+    "url": "https://github.com/DjuraX/galleria_vr"
+  },
+  "schema": "zcash-fast-event/1"
+}
