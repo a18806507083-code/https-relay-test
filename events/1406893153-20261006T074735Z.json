@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T07:33:56Z",
+    "description": null,
+    "detected_at": "2026-10-06T07:47:35Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "aryafian/robinhood-token-launchpad",
+    "homepage": null,
+    "html_url": "https://github.com/aryafian/robinhood-token-launchpad",
+    "pushed_at": "2026-10-06T07:42:40Z",
+    "repo_id": 1406893153,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
