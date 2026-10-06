@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-05T15:19:01Z",
+    "detected_at": "2026-10-06T01:27:47Z",
+    "display": "theeagle2407/veylo",
+    "key": "repo:1405970953",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "theeagle2407/veylo",
+      "homepage": null,
+      "pushed_at": "2026-10-05T15:20:03Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1405970953,
+    "url": "https://github.com/theeagle2407/veylo"
+  },
+  "schema": "zcash-fast-event/1"
+}
