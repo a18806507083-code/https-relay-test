@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T19:27:30Z",
+    "detected_at": "2026-10-06T19:43:48Z",
+    "display": "intelliDean/zcash-prb",
+    "key": "repo:1407828650",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "intelliDean/zcash-prb",
+      "homepage": null,
+      "pushed_at": "2026-10-06T19:30:38Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1407828650,
+    "url": "https://github.com/intelliDean/zcash-prb"
+  },
+  "schema": "zcash-fast-event/1"
+}
