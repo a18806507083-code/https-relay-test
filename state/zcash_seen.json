@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-06T19:43:48Z",
+  "last_run_at": "2026-10-06T23:15:57Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-06T14:00:06Z",
+      "cutoff": "2026-10-06T19:13:48Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-06T14:00:06Z",
-      "matches": 1,
+      "cutoff": "2026-10-06T19:13:48Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-06T14:00:06Z",
-      "matches": 6,
+      "cutoff": "2026-10-06T19:13:48Z",
+      "matches": 4,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-06T14:00:06Z",
+      "cutoff": "2026-10-06T19:13:48Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -4031,12 +4031,36 @@
       "first_seen_at": "2026-10-06T19:43:48Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1407828650": {
+      "created_at": "2026-10-06T19:27:30Z",
+      "display": "intelliDean/zcash-prb",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1748",
+      "first_seen_at": "2026-10-06T23:15:57Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "repo:1407838028": {
       "created_at": "2026-10-06T19:36:56Z",
       "display": "OluwapelumiAdebisi/veil",
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1739",
       "first_seen_at": "2026-10-06T19:43:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1407849092": {
+      "created_at": "2026-10-06T19:49:49Z",
+      "display": "DjuraX/galleria_vr",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1747",
+      "first_seen_at": "2026-10-06T23:15:57Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1407936985": {
+      "created_at": "2026-10-06T21:29:25Z",
+      "display": "Alike001/obliq",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1746",
+      "first_seen_at": "2026-10-06T23:15:57Z",
       "source": "GITHUB_NEW_REPO"
     },
     "zcg:5347395946": {
@@ -4435,9 +4459,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-06T19:43:48Z",
-    "forum": "2026-10-06T19:43:48Z",
-    "github": "2026-10-06T19:43:48Z",
-    "zcg": "2026-10-06T19:43:48Z"
+    "fixed_orgs": "2026-10-06T23:15:57Z",
+    "forum": "2026-10-06T23:15:57Z",
+    "github": "2026-10-06T23:15:57Z",
+    "zcg": "2026-10-06T23:15:57Z"
   }
 }
