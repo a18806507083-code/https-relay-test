@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-06T14:30:06Z",
+  "last_run_at": "2026-10-06T19:43:48Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-06T07:18:05Z",
+      "cutoff": "2026-10-06T14:00:06Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-06T07:18:05Z",
+      "cutoff": "2026-10-06T14:00:06Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-06T07:18:05Z",
-      "matches": 3,
+      "cutoff": "2026-10-06T14:00:06Z",
+      "matches": 6,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-06T07:18:05Z",
+      "cutoff": "2026-10-06T14:00:06Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -1101,6 +1101,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1733",
       "first_seen_at": "2026-10-06T14:30:06Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58061": {
+      "created_at": "2026-10-06T16:49:29.448Z",
+      "display": "58061 Grant Application: Solana StealthShield",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1741",
+      "first_seen_at": "2026-10-06T19:43:48Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -4007,6 +4015,30 @@
       "first_seen_at": "2026-10-06T14:30:06Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1407468664": {
+      "created_at": "2026-10-06T14:47:53Z",
+      "display": "USCMig/crosslink-tui",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1742",
+      "first_seen_at": "2026-10-06T19:43:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1407762217": {
+      "created_at": "2026-10-06T18:26:03Z",
+      "display": "Annkkitaaa/hashsmash-proposal",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1740",
+      "first_seen_at": "2026-10-06T19:43:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1407838028": {
+      "created_at": "2026-10-06T19:36:56Z",
+      "display": "OluwapelumiAdebisi/veil",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1739",
+      "first_seen_at": "2026-10-06T19:43:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -4403,9 +4435,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-06T14:30:06Z",
-    "forum": "2026-10-06T14:30:06Z",
-    "github": "2026-10-06T14:30:06Z",
-    "zcg": "2026-10-06T14:30:06Z"
+    "fixed_orgs": "2026-10-06T19:43:48Z",
+    "forum": "2026-10-06T19:43:48Z",
+    "github": "2026-10-06T19:43:48Z",
+    "zcg": "2026-10-06T19:43:48Z"
   }
 }
