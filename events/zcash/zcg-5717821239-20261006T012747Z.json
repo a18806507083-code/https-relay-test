@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-05T19:27:49Z",
+    "detected_at": "2026-10-06T01:27:47Z",
+    "display": "#468 Grant Application - Hito Zcash: Stable Firmware, Internal Security Review, and Maintenance",
+    "key": "zcg:5717821239",
+    "metadata": {
+      "author": "hito-dev",
+      "issue_number": 468,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Grant Application - Hito Zcash: Stable Firmware, Internal Security Review, and Maintenance"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5717821239,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/468"
+  },
+  "schema": "zcash-fast-event/1"
+}
