@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T00:55:42Z",
+    "detected_at": "2026-10-06T01:27:47Z",
+    "display": "Webghost01-NG/webghost-portfolio",
+    "key": "repo:1406534003",
+    "metadata": {
+      "description": "Protocol engineering, privacy infrastructure and autonomous systems portfolio",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Webghost01-NG/webghost-portfolio",
+      "homepage": "https://webghost-portfolio.vercel.app",
+      "pushed_at": "2026-10-06T01:20:13Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1406534003,
+    "url": "https://github.com/Webghost01-NG/webghost-portfolio"
+  },
+  "schema": "zcash-fast-event/1"
+}
