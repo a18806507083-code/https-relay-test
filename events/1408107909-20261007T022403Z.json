@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T01:41:24Z",
+    "description": "Drop-in dashboard panels on Canadian-dollar stablecoins, real stablecoin use, AI-agent payments and tokenized assets (Next.js, live DeFiLlama and CoinGecko data).",
+    "detected_at": "2026-10-07T02:24:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "cryptosingheth/onchain-money-panels",
+    "homepage": "https://cryptosingheth.github.io/onchain-money-panels/",
+    "html_url": "https://github.com/cryptosingheth/onchain-money-panels",
+    "pushed_at": "2026-10-07T01:45:06Z",
+    "repo_id": 1408107909,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
