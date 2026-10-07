@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T11:34:11Z",
+    "detected_at": "2026-10-07T15:50:37Z",
+    "display": "ABCharlieEth/sotto",
+    "key": "repo:1408688284",
+    "metadata": {
+      "description": "Get paid in shielded ZEC with a single link.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "ABCharlieEth/sotto",
+      "homepage": null,
+      "pushed_at": "2026-10-07T12:19:40Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1408688284,
+    "url": "https://github.com/ABCharlieEth/sotto"
+  },
+  "schema": "zcash-fast-event/1"
+}
