@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T08:01:56Z",
+    "detected_at": "2026-10-04T10:03:07Z",
+    "display": "#466 ZAgentPay: shielded Zcash payments for AI agents under human-defined mandates (MCP server)",
+    "key": "zcg:5697414203",
+    "metadata": {
+      "author": "yulliwasameur",
+      "issue_number": 466,
+      "labels": [],
+      "title": "ZAgentPay: shielded Zcash payments for AI agents under human-defined mandates (MCP server)"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5697414203,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/466"
+  },
+  "schema": "zcash-fast-event/1"
+}
