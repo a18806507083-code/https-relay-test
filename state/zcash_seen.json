@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-07T02:24:25Z",
+  "last_run_at": "2026-10-07T08:54:49Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-06T22:45:57Z",
+      "cutoff": "2026-10-07T01:54:25Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-06T22:45:57Z",
+      "cutoff": "2026-10-07T01:54:25Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-06T22:45:57Z",
-      "matches": 0,
+      "cutoff": "2026-10-07T01:54:25Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-06T22:45:57Z",
-      "matches": 0,
+      "cutoff": "2026-10-07T01:54:25Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -4063,6 +4063,22 @@
       "first_seen_at": "2026-10-06T23:15:57Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1408399281": {
+      "created_at": "2026-10-07T07:12:42Z",
+      "display": "EvanForty/cloakpay",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1757",
+      "first_seen_at": "2026-10-07T08:54:49Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1408400670": {
+      "created_at": "2026-10-07T07:13:52Z",
+      "display": "Ay-obami/zec-developer-verification",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1756",
+      "first_seen_at": "2026-10-07T08:54:49Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -4454,14 +4470,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1711",
       "first_seen_at": "2026-10-06T01:27:47Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5741556000": {
+      "created_at": "2026-10-07T08:03:19Z",
+      "display": "#471 V12 Credits Application - zkool",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1755",
+      "first_seen_at": "2026-10-07T08:54:49Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-07T02:24:25Z",
-    "forum": "2026-10-07T02:24:25Z",
-    "github": "2026-10-07T02:24:25Z",
-    "zcg": "2026-10-07T02:24:25Z"
+    "fixed_orgs": "2026-10-07T08:54:49Z",
+    "forum": "2026-10-07T08:54:49Z",
+    "github": "2026-10-07T08:54:49Z",
+    "zcg": "2026-10-07T08:54:49Z"
   }
 }
