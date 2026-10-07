@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T02:05:01Z",
+    "description": "Deploy SwarmDerby (src/SwarmDerby.sol) unchanged to Robinhood Chain. Deploy only SwarmDerby. Do not create or launch any token, distributor or pool. Constructor arguments in order: owner_ = $owner; imd_ = 0x5F7Bb59365ce557C26dbcAa4EE9d39A4b95B7127; singlePrice_ = 150000000000000000; packPrice_ = 500000000000000000. This commit already passed a f...",
+    "detected_at": "2026-10-07T02:24:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-867-src-swarmderby-sol",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-867-src-swarmderby-sol",
+    "pushed_at": "2026-10-07T02:05:05Z",
+    "repo_id": 1408123983,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
