@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T19:51:40Z",
+    "description": "Connection notes for Cubicle's hosted MCP server: trading tools for AI agents (AlgoTrada)",
+    "detected_at": "2026-10-07T20:49:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "yawningmonsoon/cubicle-mcp",
+    "homepage": "https://cubicle.algotrada.com",
+    "html_url": "https://github.com/yawningmonsoon/cubicle-mcp",
+    "pushed_at": "2026-10-07T19:51:45Z",
+    "repo_id": 1409305402,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
