@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T19:00:17Z",
+    "description": "A poker roguelike where every card is a live vibe/vibe launch. Robinhood Chain testnet \u00b7 PixiJS + WebGL",
+    "detected_at": "2026-10-07T20:49:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "sirkicker/kicker",
+    "homepage": "https://kickerhq.vercel.app",
+    "html_url": "https://github.com/sirkicker/kicker",
+    "pushed_at": "2026-10-07T19:12:05Z",
+    "repo_id": 1409248586,
+    "score": 9,
+    "tech_signals": [
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
