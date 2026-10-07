@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T17:23:18Z",
+    "detected_at": "2026-10-07T20:49:22Z",
+    "display": "tzarebczan/z-stack",
+    "key": "repo:1409140504",
+    "metadata": {
+      "description": "Zcash wallet engine and TypeScript SDK for web applications",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "tzarebczan/z-stack",
+      "homepage": null,
+      "pushed_at": "2026-10-07T20:32:44Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1409140504,
+    "url": "https://github.com/tzarebczan/z-stack"
+  },
+  "schema": "zcash-fast-event/1"
+}
