@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T13:13:08Z",
+    "detected_at": "2026-10-07T15:50:37Z",
+    "display": "RealSpap/authority-risk-oracle-showcase",
+    "key": "repo:1408809504",
+    "metadata": {
+      "description": "Independent on-chain authority risk scores for DeFi protocols: admin keys, multisigs, timelocks, read live by any contract",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "RealSpap/authority-risk-oracle-showcase",
+      "homepage": "https://realspap.github.io/oracle/",
+      "pushed_at": "2026-10-07T14:18:54Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1408809504,
+    "url": "https://github.com/RealSpap/authority-risk-oracle-showcase"
+  },
+  "schema": "zcash-fast-event/1"
+}
