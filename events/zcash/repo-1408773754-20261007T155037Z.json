@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T12:46:29Z",
+    "detected_at": "2026-10-07T15:50:37Z",
+    "display": "alexjjones27/Backtesting",
+    "key": "repo:1408773754",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "alexjjones27/Backtesting",
+      "homepage": null,
+      "pushed_at": "2026-10-07T14:42:24Z",
+      "tech_signals": [
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1408773754,
+    "url": "https://github.com/alexjjones27/Backtesting"
+  },
+  "schema": "zcash-fast-event/1"
+}
