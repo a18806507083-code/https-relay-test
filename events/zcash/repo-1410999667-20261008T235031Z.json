@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T22:04:15Z",
+    "detected_at": "2026-10-08T23:50:31Z",
+    "display": "Yonkoo11/snarks-pad",
+    "key": "repo:1410999667",
+    "metadata": {
+      "description": "ZEC-paired coins on Meteora DBC that pay holders in ZEC, shielded in their own Zcash wallet if they opt in",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Yonkoo11/snarks-pad",
+      "homepage": "https://snarks.fun",
+      "pushed_at": "2026-10-08T22:11:13Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1410999667,
+    "url": "https://github.com/Yonkoo11/snarks-pad"
+  },
+  "schema": "zcash-fast-event/1"
+}
