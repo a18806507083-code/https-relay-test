@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-08T00:27:30Z",
+  "last_run_at": "2026-10-08T06:24:31Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-07T20:19:22Z",
+      "cutoff": "2026-10-07T23:57:30Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-07T20:19:22Z",
+      "cutoff": "2026-10-07T23:57:30Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-07T20:19:22Z",
-      "matches": 2,
+      "cutoff": "2026-10-07T23:57:30Z",
+      "matches": 8,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-07T20:19:22Z",
+      "cutoff": "2026-10-07T23:57:30Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -4183,6 +4183,70 @@
       "first_seen_at": "2026-10-08T00:27:30Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1409538080": {
+      "created_at": "2026-10-08T00:53:50Z",
+      "display": "logos-co/logos-zcash-wallet-core-module",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1795",
+      "first_seen_at": "2026-10-08T06:24:31Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1409538155": {
+      "created_at": "2026-10-08T00:53:57Z",
+      "display": "logos-co/logos-zcash-node-module",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1794",
+      "first_seen_at": "2026-10-08T06:24:31Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1409538510": {
+      "created_at": "2026-10-08T00:54:35Z",
+      "display": "logos-co/logos-zcash-wallet-backend",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1793",
+      "first_seen_at": "2026-10-08T06:24:31Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1409538842": {
+      "created_at": "2026-10-08T00:55:05Z",
+      "display": "logos-co/logos-zcash-wallet-cli",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1792",
+      "first_seen_at": "2026-10-08T06:24:31Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1409538913": {
+      "created_at": "2026-10-08T00:55:11Z",
+      "display": "logos-co/logos-zcash-wallet-ui",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1791",
+      "first_seen_at": "2026-10-08T06:24:31Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1409550945": {
+      "created_at": "2026-10-08T01:13:54Z",
+      "display": "netzo92/math",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1790",
+      "first_seen_at": "2026-10-08T06:24:31Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1409596049": {
+      "created_at": "2026-10-08T02:13:26Z",
+      "display": "zuzuwallet/zcash-vanity",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1789",
+      "first_seen_at": "2026-10-08T06:24:31Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1409747389": {
+      "created_at": "2026-10-08T04:54:59Z",
+      "display": "luchoov/martin-fierro",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1788",
+      "first_seen_at": "2026-10-08T06:24:31Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -4603,9 +4667,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-08T00:27:30Z",
-    "forum": "2026-10-08T00:27:30Z",
-    "github": "2026-10-08T00:27:30Z",
-    "zcg": "2026-10-08T00:27:30Z"
+    "fixed_orgs": "2026-10-08T06:24:31Z",
+    "forum": "2026-10-08T06:24:31Z",
+    "github": "2026-10-08T06:24:31Z",
+    "zcg": "2026-10-08T06:24:31Z"
   }
 }
