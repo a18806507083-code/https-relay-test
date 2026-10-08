@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-08T13:45:46Z",
+  "last_run_at": "2026-10-08T19:27:59Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-08T05:54:31Z",
+      "cutoff": "2026-10-08T13:15:46Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-08T05:54:31Z",
-      "matches": 1,
+      "cutoff": "2026-10-08T13:15:46Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-08T05:54:31Z",
-      "matches": 6,
+      "cutoff": "2026-10-08T13:15:46Z",
+      "matches": 7,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-08T05:54:31Z",
-      "matches": 1,
+      "cutoff": "2026-10-08T13:15:46Z",
+      "matches": 4,
       "status": "PASS"
     }
   },
@@ -1133,6 +1133,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1801",
       "first_seen_at": "2026-10-08T13:45:46Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58090": {
+      "created_at": "2026-10-08T18:52:58.302Z",
+      "display": "58090 Grant Application — VKX Wallet: Native Shielded Zcash Integration & Open-Source React Native Module",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1815",
+      "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58092": {
+      "created_at": "2026-10-08T19:24:07.193Z",
+      "display": "58092 Minor Grant Application — Travel support for Devcon 8 Mumbai (speaker, curator, performer) ZKMusic",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1813",
+      "first_seen_at": "2026-10-08T19:27:59Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -4303,6 +4319,54 @@
       "first_seen_at": "2026-10-08T13:45:46Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1410448148": {
+      "created_at": "2026-10-08T14:07:30Z",
+      "display": "davebrian259-tech/Devoid",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1824",
+      "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1410697044": {
+      "created_at": "2026-10-08T17:08:03Z",
+      "display": "gilbertacosta2007-prog/CNCV-juego",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1821",
+      "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1410719988": {
+      "created_at": "2026-10-08T17:25:58Z",
+      "display": "Esoterics611/custody-lab",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1820",
+      "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1410733155": {
+      "created_at": "2026-10-08T17:36:21Z",
+      "display": "Nonco-Organization/multicoin-address-validator",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1818",
+      "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1410735791": {
+      "created_at": "2026-10-08T17:38:22Z",
+      "display": "Nonco-Organization/crypto-address-validator",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1817",
+      "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1410752840": {
+      "created_at": "2026-10-08T17:52:32Z",
+      "display": "kronexnetwork/kronex",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1816",
+      "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -4726,14 +4790,46 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1808",
       "first_seen_at": "2026-10-08T13:45:46Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5764784434": {
+      "created_at": "2026-10-08T15:47:21Z",
+      "display": "#475 V12 Credits Application - Konclave",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1823",
+      "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5764873941": {
+      "created_at": "2026-10-08T15:53:48Z",
+      "display": "#476 V12 Credits Application - Konclave",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1822",
+      "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5766213994": {
+      "created_at": "2026-10-08T17:32:55Z",
+      "display": "#477 Grant Application - VKX Wallet: Native Shielded Zcash Integration & Open-Source React Native Module",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1819",
+      "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5767521853": {
+      "created_at": "2026-10-08T19:13:56Z",
+      "display": "#478 Grant Application - {Application Name}",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1814",
+      "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-08T13:45:46Z",
-    "forum": "2026-10-08T13:45:46Z",
-    "github": "2026-10-08T13:45:46Z",
-    "zcg": "2026-10-08T13:45:46Z"
+    "fixed_orgs": "2026-10-08T19:27:59Z",
+    "forum": "2026-10-08T19:27:59Z",
+    "github": "2026-10-08T19:27:59Z",
+    "zcg": "2026-10-08T19:27:59Z"
   }
 }
