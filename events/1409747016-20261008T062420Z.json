@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T04:54:36Z",
+    "description": "PLANT ORGANISM \u2014 one contract on robinhood chain: the body of a digital plant that lives somewhere real; its location's weather decides how it grows, holders decide where it lives. no token here (token + pool + hook come in a second launch that pays into this contract). no admin, no upgrade, no pause; all numbers constant. constructor (static): ...",
+    "detected_at": "2026-10-08T06:24:20Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-1003-plant-organism-one",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1003-plant-organism-one",
+    "pushed_at": "2026-10-08T04:54:39Z",
+    "repo_id": 1409747016,
+    "score": 5,
+    "tech_signals": [
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
