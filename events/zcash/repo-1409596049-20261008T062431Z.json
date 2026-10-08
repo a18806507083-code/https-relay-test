@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T02:13:26Z",
+    "detected_at": "2026-10-08T06:24:31Z",
+    "display": "zuzuwallet/zcash-vanity",
+    "key": "repo:1409596049",
+    "metadata": {
+      "description": "ZuZuWallet ZEC Vanity Gen - Offline, security-focused Zcash mainnet t1 vanity address generator using secp256k1, encrypted wallet storage, independent verification, and no runtime network access.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash"
+      ],
+      "full_name": "zuzuwallet/zcash-vanity",
+      "homepage": "zuzuwallet.com",
+      "pushed_at": "2026-10-08T02:39:01Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1409596049,
+    "url": "https://github.com/zuzuwallet/zcash-vanity"
+  },
+  "schema": "zcash-fast-event/1"
+}
