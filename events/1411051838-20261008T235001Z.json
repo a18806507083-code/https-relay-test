@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T23:20:33Z",
+    "description": "PLANT ORGANISM, second attempt: the repository is launch 1003 (8 nodes accepted, 102 tests; admission parked on one finding in the birth logic). keep it as it is and change only this. deploy PlantOrganism alone on robinhood chain, constructor as in launch.json (IMD, Intake, action, signer, ORIGIN_CELL, deployer = $owner). 1. NO BIRTH. the plant ...",
+    "detected_at": "2026-10-08T23:50:01Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-1107-plant-organism-second-attempt",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1107-plant-organism-second-attempt",
+    "pushed_at": "2026-10-08T23:20:37Z",
+    "repo_id": 1411051838,
+    "score": 9,
+    "tech_signals": [
+      "Hook",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
