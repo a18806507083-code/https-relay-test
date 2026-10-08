@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T21:57:33Z",
+    "detected_at": "2026-10-08T00:27:30Z",
+    "display": "BisUmTo/fabbrica-automatica",
+    "key": "repo:1409420438",
+    "metadata": {
+      "description": "Laboratorio Blockly: dieci sfide di automazione e logica, una fabbrica infinita e report PDF locali",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "BisUmTo/fabbrica-automatica",
+      "homepage": "https://bisumto.github.io/fabbrica-automatica/",
+      "pushed_at": "2026-10-07T22:14:55Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1409420438,
+    "url": "https://github.com/BisUmTo/fabbrica-automatica"
+  },
+  "schema": "zcash-fast-event/1"
+}
