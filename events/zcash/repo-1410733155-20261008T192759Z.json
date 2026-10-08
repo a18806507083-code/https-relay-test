@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T17:36:21Z",
+    "detected_at": "2026-10-08T19:27:59Z",
+    "display": "Nonco-Organization/multicoin-address-validator",
+    "key": "repo:1410733155",
+    "metadata": {
+      "description": "Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Nonco-Organization/multicoin-address-validator",
+      "homepage": null,
+      "pushed_at": "2026-10-08T18:09:23Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1410733155,
+    "url": "https://github.com/Nonco-Organization/multicoin-address-validator"
+  },
+  "schema": "zcash-fast-event/1"
+}
