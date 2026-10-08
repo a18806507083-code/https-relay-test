@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-08T06:24:31Z",
+  "last_run_at": "2026-10-08T13:45:46Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-07T23:57:30Z",
+      "cutoff": "2026-10-08T05:54:31Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-07T23:57:30Z",
-      "matches": 0,
+      "cutoff": "2026-10-08T05:54:31Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-07T23:57:30Z",
-      "matches": 8,
+      "cutoff": "2026-10-08T05:54:31Z",
+      "matches": 6,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-07T23:57:30Z",
-      "matches": 0,
+      "cutoff": "2026-10-08T05:54:31Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -1125,6 +1125,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1765",
       "first_seen_at": "2026-10-07T15:50:37Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58085": {
+      "created_at": "2026-10-08T11:29:36.538Z",
+      "display": "58085 Zcash KE Building a Practical Privacy Community",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1801",
+      "first_seen_at": "2026-10-08T13:45:46Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -4247,6 +4255,54 @@
       "first_seen_at": "2026-10-08T06:24:31Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1410080095": {
+      "created_at": "2026-10-08T09:36:10Z",
+      "display": "vinu225/Decentralized_AI",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1807",
+      "first_seen_at": "2026-10-08T13:45:46Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1410087341": {
+      "created_at": "2026-10-08T09:41:48Z",
+      "display": "LisPig/CmdPal.Ext.CryptoMonitor",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1806",
+      "first_seen_at": "2026-10-08T13:45:46Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1410099718": {
+      "created_at": "2026-10-08T09:51:32Z",
+      "display": "wassiecapital/zecetftracker",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1805",
+      "first_seen_at": "2026-10-08T13:45:46Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1410167514": {
+      "created_at": "2026-10-08T10:51:18Z",
+      "display": "logos-co/logos-zebra-nix",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1804",
+      "first_seen_at": "2026-10-08T13:45:46Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1410168456": {
+      "created_at": "2026-10-08T10:52:07Z",
+      "display": "logos-co/logos-zebrad-module",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1803",
+      "first_seen_at": "2026-10-08T13:45:46Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1410170069": {
+      "created_at": "2026-10-08T10:53:30Z",
+      "display": "logos-co/logos-zebrad-ui",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1802",
+      "first_seen_at": "2026-10-08T13:45:46Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -4662,14 +4718,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1767",
       "first_seen_at": "2026-10-07T15:50:37Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5757733625": {
+      "created_at": "2026-10-08T07:23:08Z",
+      "display": "#474 Zcash Kenya — Privacy, Community & Economic Adoption Initiative",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1808",
+      "first_seen_at": "2026-10-08T13:45:46Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-08T06:24:31Z",
-    "forum": "2026-10-08T06:24:31Z",
-    "github": "2026-10-08T06:24:31Z",
-    "zcg": "2026-10-08T06:24:31Z"
+    "fixed_orgs": "2026-10-08T13:45:46Z",
+    "forum": "2026-10-08T13:45:46Z",
+    "github": "2026-10-08T13:45:46Z",
+    "zcg": "2026-10-08T13:45:46Z"
   }
 }
