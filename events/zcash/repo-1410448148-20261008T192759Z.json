@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T14:07:30Z",
+    "detected_at": "2026-10-08T19:27:59Z",
+    "display": "davebrian259-tech/Devoid",
+    "key": "repo:1410448148",
+    "metadata": {
+      "description": "Private batch payments on Zcash. Send ZEC to multiple recipients in one shielded transaction.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "davebrian259-tech/Devoid",
+      "homepage": null,
+      "pushed_at": "2026-10-08T14:07:32Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1410448148,
+    "url": "https://github.com/davebrian259-tech/Devoid"
+  },
+  "schema": "zcash-fast-event/1"
+}
