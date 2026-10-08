@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T09:41:48Z",
+    "detected_at": "2026-10-08T13:45:46Z",
+    "display": "LisPig/CmdPal.Ext.CryptoMonitor",
+    "key": "repo:1410087341",
+    "metadata": {
+      "description": "Crypto market prices for the PowerToys Command Palette: dock tickers, locally rendered charts, coin search and price alerts. 命令面板加密行情扩展。",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "LisPig/CmdPal.Ext.CryptoMonitor",
+      "homepage": null,
+      "pushed_at": "2026-10-08T09:44:14Z",
+      "tech_signals": [
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1410087341,
+    "url": "https://github.com/LisPig/CmdPal.Ext.CryptoMonitor"
+  },
+  "schema": "zcash-fast-event/1"
+}
