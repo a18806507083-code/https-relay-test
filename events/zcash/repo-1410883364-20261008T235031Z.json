@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T19:49:40Z",
+    "detected_at": "2026-10-08T23:50:31Z",
+    "display": "arveletza-lab/el-zaino",
+    "key": "repo:1410883364",
+    "metadata": {
+      "description": "Caballo zaino colorado en 3D, generado por código con three.js, que recorre un campo uruguayo sin fin.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "arveletza-lab/el-zaino",
+      "homepage": null,
+      "pushed_at": "2026-10-08T21:50:16Z",
+      "tech_signals": [
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1410883364,
+    "url": "https://github.com/arveletza-lab/el-zaino"
+  },
+  "schema": "zcash-fast-event/1"
+}
