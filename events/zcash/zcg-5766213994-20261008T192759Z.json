@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T17:32:55Z",
+    "detected_at": "2026-10-08T19:27:59Z",
+    "display": "#477 Grant Application - VKX Wallet: Native Shielded Zcash Integration & Open-Source React Native Module",
+    "key": "zcg:5766213994",
+    "metadata": {
+      "author": "VkxProtocol",
+      "issue_number": 477,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Grant Application - VKX Wallet: Native Shielded Zcash Integration & Open-Source React Native Module"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5766213994,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/477"
+  },
+  "schema": "zcash-fast-event/1"
+}
