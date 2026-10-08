@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T18:43:35Z",
+    "description": "A bounded web crawler with live reports, searchable source-linked datasets, and Robinhood Chain treasury integration.",
+    "detected_at": "2026-10-08T19:27:34Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "NetSniffNetwork/netsniff",
+    "homepage": null,
+    "html_url": "https://github.com/NetSniffNetwork/netsniff",
+    "pushed_at": "2026-10-08T19:16:07Z",
+    "repo_id": 1410811755,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
