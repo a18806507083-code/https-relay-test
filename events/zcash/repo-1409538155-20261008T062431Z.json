@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T00:53:57Z",
+    "detected_at": "2026-10-08T06:24:31Z",
+    "display": "logos-co/logos-zcash-node-module",
+    "key": "repo:1409538155",
+    "metadata": {
+      "description": "Zcash lightwalletd servers for Logos wallets: presets, the socks5h proxy, a route table per call class and health polled over Tor.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "logos-co/logos-zcash-node-module",
+      "homepage": null,
+      "pushed_at": "2026-10-08T02:34:28Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1409538155,
+    "url": "https://github.com/logos-co/logos-zcash-node-module"
+  },
+  "schema": "zcash-fast-event/1"
+}
