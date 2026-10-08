@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T00:24:17Z",
+    "description": "Igbo translation of the a2a.family documentation, making A2A, x402 payments, Agents, Pons MCP, and Robinhood Chain easier for Igbo-speaking developers and Web3 users to understand.",
+    "detected_at": "2026-10-08T00:27:02Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Baddydoy1/a2a.family-igbo-translation",
+    "homepage": null,
+    "html_url": "https://github.com/Baddydoy1/a2a.family-igbo-translation",
+    "pushed_at": "2026-10-08T00:24:18Z",
+    "repo_id": 1409519178,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
