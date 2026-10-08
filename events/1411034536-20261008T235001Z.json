@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T22:53:55Z",
+    "description": "Robinhood Chain desk. Uniswap v3 stock tokens, OpenSea NFT fills, and a live bag.",
+    "detected_at": "2026-10-08T23:50:01Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Laszlo23/dexxxx",
+    "homepage": null,
+    "html_url": "https://github.com/Laszlo23/dexxxx",
+    "pushed_at": "2026-10-08T22:54:01Z",
+    "repo_id": 1411034536,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
