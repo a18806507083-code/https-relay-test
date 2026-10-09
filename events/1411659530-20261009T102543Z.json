@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T10:21:59Z",
+    "description": "Per-second stablecoin payroll with tokenized-stock slices on Robinhood Chain",
+    "detected_at": "2026-10-09T10:25:43Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "lilkiddo-d/payslice",
+    "homepage": null,
+    "html_url": "https://github.com/lilkiddo-d/payslice",
+    "pushed_at": "2026-10-09T10:22:05Z",
+    "repo_id": 1411659530,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
