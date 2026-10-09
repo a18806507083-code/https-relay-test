@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-08T23:50:31Z",
+  "last_run_at": "2026-10-09T03:08:43Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-08T18:57:59Z",
+      "cutoff": "2026-10-08T23:20:31Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-08T18:57:59Z",
+      "cutoff": "2026-10-08T23:20:31Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-08T18:57:59Z",
-      "matches": 2,
+      "cutoff": "2026-10-08T23:20:31Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-08T18:57:59Z",
+      "cutoff": "2026-10-08T23:20:31Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -1149,6 +1149,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1813",
       "first_seen_at": "2026-10-08T19:27:59Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58093": {
+      "created_at": "2026-10-09T02:14:37.759Z",
+      "display": "58093 Gem Wallet now supports native ZEC swaps via THORChain",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1840",
+      "first_seen_at": "2026-10-09T03:08:43Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -4383,6 +4391,30 @@
       "first_seen_at": "2026-10-08T23:50:31Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1411095330": {
+      "created_at": "2026-10-09T00:28:38Z",
+      "display": "pearl-max468/zcash-indexer-bench",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1842",
+      "first_seen_at": "2026-10-09T03:08:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1411198067": {
+      "created_at": "2026-10-09T02:48:41Z",
+      "display": "kaikai-cao/zcash-sapling-engineering",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1839",
+      "first_seen_at": "2026-10-09T03:08:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1411201377": {
+      "created_at": "2026-10-09T02:52:55Z",
+      "display": "zephanw/zebrad-startos",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1838",
+      "first_seen_at": "2026-10-09T03:08:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -4838,14 +4870,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1814",
       "first_seen_at": "2026-10-08T19:27:59Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5771384370": {
+      "created_at": "2026-10-09T01:34:39Z",
+      "display": "#479 Grant Application - Zcash Private Receive Bridge",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1841",
+      "first_seen_at": "2026-10-09T03:08:43Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-08T23:50:31Z",
-    "forum": "2026-10-08T23:50:31Z",
-    "github": "2026-10-08T23:50:31Z",
-    "zcg": "2026-10-08T23:50:31Z"
+    "fixed_orgs": "2026-10-09T03:08:43Z",
+    "forum": "2026-10-09T03:08:43Z",
+    "github": "2026-10-09T03:08:43Z",
+    "zcg": "2026-10-09T03:08:43Z"
   }
 }
