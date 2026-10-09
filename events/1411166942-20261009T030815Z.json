@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T02:12:06Z",
+    "description": "Read-only Computers RH monitor: CRH PnL, mining income, economy history and top-100 leaderboards. English / Russian.",
+    "detected_at": "2026-10-09T03:08:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "enillyddjens/crh-monitor",
+    "homepage": null,
+    "html_url": "https://github.com/enillyddjens/crh-monitor",
+    "pushed_at": "2026-10-09T02:18:00Z",
+    "repo_id": 1411166942,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
