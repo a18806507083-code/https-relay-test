@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T17:21:48.176Z",
+    "detected_at": "2026-10-09T21:36:28Z",
+    "display": "58103 Grant Application - Zcash Private Receive Bridge  ",
+    "key": "forum:58103",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-private-receive-bridge",
+      "title": "Grant Application - Zcash Private Receive Bridge  ",
+      "topic_id": 58103
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58103,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-private-receive-bridge/58103"
+  },
+  "schema": "zcash-fast-event/1"
+}
