@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T10:50:45Z",
+    "detected_at": "2026-10-09T17:05:57Z",
+    "display": "encapsulate-xyz/zcash-crosslink-monitoring",
+    "key": "repo:1411690456",
+    "metadata": {
+      "description": "Grafana dashboards and alerting rules for running a Zcash Crosslink finalizer and node, by Encapsulate.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "encapsulate-xyz/zcash-crosslink-monitoring",
+      "homepage": null,
+      "pushed_at": "2026-10-09T10:50:47Z",
+      "tech_signals": [
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1411690456,
+    "url": "https://github.com/encapsulate-xyz/zcash-crosslink-monitoring"
+  },
+  "schema": "zcash-fast-event/1"
+}
