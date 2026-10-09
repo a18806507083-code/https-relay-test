@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T02:52:55Z",
+    "detected_at": "2026-10-09T03:08:43Z",
+    "display": "zephanw/zebrad-startos",
+    "key": "repo:1411201377",
+    "metadata": {
+      "description": "Zcash full node (Zebra) + lightwalletd for StartOS",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "zephanw/zebrad-startos",
+      "homepage": null,
+      "pushed_at": "2026-10-09T02:58:13Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1411201377,
+    "url": "https://github.com/zephanw/zebrad-startos"
+  },
+  "schema": "zcash-fast-event/1"
+}
