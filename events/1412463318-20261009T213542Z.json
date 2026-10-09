@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T21:21:56Z",
+    "description": "Deploy IMD6900's in-pool perps hook and its pool on Robinhood Chain, exactly as they are in the repository: one contract, IMD6900PerpsLaunch (src/IMD6900PerpsLaunch.sol), with four constructor arguments in this order: 0x8366a39CC670B4001A1121B8F6A443A643e40951 (Uniswap v4's PoolManager on Robinhood Chain), 10000 (the pool's static fee, hundredth...",
+    "detected_at": "2026-10-09T21:35:42Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-1209-imd6900perpslaunch",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1209-imd6900perpslaunch",
+    "pushed_at": "2026-10-09T21:21:59Z",
+    "repo_id": 1412463318,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
