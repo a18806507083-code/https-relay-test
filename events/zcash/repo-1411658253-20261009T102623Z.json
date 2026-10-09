@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T10:20:53Z",
+    "detected_at": "2026-10-09T10:26:23Z",
+    "display": "salitadambra-jpg/trasloco",
+    "key": "repo:1411658253",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "salitadambra-jpg/trasloco",
+      "homepage": null,
+      "pushed_at": "2026-10-09T10:23:31Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1411658253,
+    "url": "https://github.com/salitadambra-jpg/trasloco"
+  },
+  "schema": "zcash-fast-event/1"
+}
