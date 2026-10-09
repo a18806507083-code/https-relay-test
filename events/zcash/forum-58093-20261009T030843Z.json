@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T02:14:37.759Z",
+    "detected_at": "2026-10-09T03:08:43Z",
+    "display": "58093 Gem Wallet now supports native ZEC swaps via THORChain",
+    "key": "forum:58093",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "gem-wallet-now-supports-native-zec-swaps-via-thorchain",
+      "title": "Gem Wallet now supports native ZEC swaps via THORChain",
+      "topic_id": 58093
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58093,
+    "url": "https://forum.zcashcommunity.com/t/gem-wallet-now-supports-native-zec-swaps-via-thorchain/58093"
+  },
+  "schema": "zcash-fast-event/1"
+}
