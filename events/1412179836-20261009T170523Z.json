@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T16:58:25Z",
+    "description": "One transaction, many wallets, same block. EIP-7702 on Robinhood Chain. A sponsor pays the gas.",
+    "detected_at": "2026-10-09T17:05:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "OctoProtocol/Octo",
+    "homepage": null,
+    "html_url": "https://github.com/OctoProtocol/Octo",
+    "pushed_at": "2026-10-09T16:58:59Z",
+    "repo_id": 1412179836,
+    "score": 11,
+    "tech_signals": [
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
