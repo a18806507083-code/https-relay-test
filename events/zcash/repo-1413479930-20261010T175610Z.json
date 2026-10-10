@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-10T17:33:34Z",
+    "detected_at": "2026-10-10T17:56:10Z",
+    "display": "EndPx/ZeeSwap",
+    "key": "repo:1413479930",
+    "metadata": {
+      "description": "Cross-chain swaps, bridges, and intents. Keep your ZEC shielded. Starting with bidirectional Zcash and USDC on Base.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "EndPx/ZeeSwap",
+      "homepage": null,
+      "pushed_at": "2026-10-10T17:33:35Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1413479930,
+    "url": "https://github.com/EndPx/ZeeSwap"
+  },
+  "schema": "zcash-fast-event/1"
+}
