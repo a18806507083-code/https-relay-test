@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-10T17:56:10Z",
+  "last_run_at": "2026-10-10T20:50:15Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-10T12:58:27Z",
+      "cutoff": "2026-10-10T17:26:10Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-10T12:58:27Z",
+      "cutoff": "2026-10-10T17:26:10Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-10T12:58:27Z",
+      "cutoff": "2026-10-10T17:26:10Z",
       "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-10T12:58:27Z",
+      "cutoff": "2026-10-10T17:26:10Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -4551,6 +4551,14 @@
       "first_seen_at": "2026-10-10T17:56:10Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1413620983": {
+      "created_at": "2026-10-10T20:10:18Z",
+      "display": "ambscripts/Crypto-Address-Generation-and-Balance-Lookup-with-Python",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1895",
+      "first_seen_at": "2026-10-10T20:50:15Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5027,9 +5035,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-10T17:56:10Z",
-    "forum": "2026-10-10T17:56:10Z",
-    "github": "2026-10-10T17:56:10Z",
-    "zcg": "2026-10-10T17:56:10Z"
+    "fixed_orgs": "2026-10-10T20:50:15Z",
+    "forum": "2026-10-10T20:50:15Z",
+    "github": "2026-10-10T20:50:15Z",
+    "zcg": "2026-10-10T20:50:15Z"
   }
 }
