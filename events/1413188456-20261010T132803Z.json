@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-10T12:57:06Z",
+    "description": null,
+    "detected_at": "2026-10-10T13:28:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "atmsw24-tech/holds",
+    "homepage": null,
+    "html_url": "https://github.com/atmsw24-tech/holds",
+    "pushed_at": "2026-10-10T13:17:43Z",
+    "repo_id": 1413188456,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
