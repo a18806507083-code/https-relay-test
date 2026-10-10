@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-10T12:25:43Z",
+    "description": null,
+    "detected_at": "2026-10-10T13:28:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "atmsw24-tech/fku1",
+    "homepage": null,
+    "html_url": "https://github.com/atmsw24-tech/fku1",
+    "pushed_at": "2026-10-10T12:50:35Z",
+    "repo_id": 1413161373,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
