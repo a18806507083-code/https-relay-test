@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-10T20:10:18Z",
+    "detected_at": "2026-10-10T20:50:15Z",
+    "display": "ambscripts/Crypto-Address-Generation-and-Balance-Lookup-with-Python",
+    "key": "repo:1413620983",
+    "metadata": {
+      "description": "Crypto Address Generation and Balance Lookup",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ambscripts/Crypto-Address-Generation-and-Balance-Lookup-with-Python",
+      "homepage": null,
+      "pushed_at": "2026-10-10T20:11:10Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1413620983,
+    "url": "https://github.com/ambscripts/Crypto-Address-Generation-and-Balance-Lookup-with-Python"
+  },
+  "schema": "zcash-fast-event/1"
+}
