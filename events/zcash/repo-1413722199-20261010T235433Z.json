@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-10T22:29:28Z",
+    "detected_at": "2026-10-10T23:54:33Z",
+    "display": "nachog00/beazt",
+    "key": "repo:1413722199",
+    "metadata": {
+      "description": "Dogfood block explorer (web + TUI) over zaino's node-rpc surface",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "nachog00/beazt",
+      "homepage": null,
+      "pushed_at": "2026-10-10T22:38:21Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1413722199,
+    "url": "https://github.com/nachog00/beazt"
+  },
+  "schema": "zcash-fast-event/1"
+}
