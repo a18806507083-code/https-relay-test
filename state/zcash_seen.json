@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-10T13:28:27Z",
+  "last_run_at": "2026-10-10T17:56:10Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-10T06:31:47Z",
+      "cutoff": "2026-10-10T12:58:27Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-10T06:31:47Z",
+      "cutoff": "2026-10-10T12:58:27Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-10T06:31:47Z",
-      "matches": 1,
+      "cutoff": "2026-10-10T12:58:27Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-10T06:31:47Z",
+      "cutoff": "2026-10-10T12:58:27Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -4535,6 +4535,22 @@
       "first_seen_at": "2026-10-10T13:28:27Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1413398995": {
+      "created_at": "2026-10-10T16:14:07Z",
+      "display": "HATWHY4041/zec-checkout",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1892",
+      "first_seen_at": "2026-10-10T17:56:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1413479930": {
+      "created_at": "2026-10-10T17:33:34Z",
+      "display": "EndPx/ZeeSwap",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1891",
+      "first_seen_at": "2026-10-10T17:56:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5011,9 +5027,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-10T13:28:27Z",
-    "forum": "2026-10-10T13:28:27Z",
-    "github": "2026-10-10T13:28:27Z",
-    "zcg": "2026-10-10T13:28:27Z"
+    "fixed_orgs": "2026-10-10T17:56:10Z",
+    "forum": "2026-10-10T17:56:10Z",
+    "github": "2026-10-10T17:56:10Z",
+    "zcg": "2026-10-10T17:56:10Z"
   }
 }
