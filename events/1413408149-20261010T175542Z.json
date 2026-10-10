@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-10T16:22:21Z",
+    "description": "BlazePhoenix \u2014 compute, don't trust. Profile and llms.txt index of every project repository.",
+    "detected_at": "2026-10-10T17:55:42Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "blazephoenixxyz-crypto/blazephoenixxyz-crypto",
+    "homepage": "https://blazephoenix.xyz",
+    "html_url": "https://github.com/blazephoenixxyz-crypto/blazephoenixxyz-crypto",
+    "pushed_at": "2026-10-10T16:22:27Z",
+    "repo_id": 1413408149,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
