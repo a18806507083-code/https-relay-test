@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T21:09:05Z",
+    "detected_at": "2026-10-11T23:06:23Z",
+    "display": "fabiofurini/ottimizzazione-combinatoria",
+    "key": "repo:1414773512",
+    "metadata": {
+      "description": "Ottimizzazione combinatoria: dispense con esempi svolti ed esercizi (Fabio Furini)",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "fabiofurini/ottimizzazione-combinatoria",
+      "homepage": null,
+      "pushed_at": "2026-10-11T21:09:10Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1414773512,
+    "url": "https://github.com/fabiofurini/ottimizzazione-combinatoria"
+  },
+  "schema": "zcash-fast-event/1"
+}
