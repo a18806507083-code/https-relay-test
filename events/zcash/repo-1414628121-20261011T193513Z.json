@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T18:02:23Z",
+    "detected_at": "2026-10-11T19:35:13Z",
+    "display": "SpaceZ-Projects/zwallet-tools",
+    "key": "repo:1414628121",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "SpaceZ-Projects/zwallet-tools",
+      "homepage": null,
+      "pushed_at": "2026-10-11T18:05:26Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1414628121,
+    "url": "https://github.com/SpaceZ-Projects/zwallet-tools"
+  },
+  "schema": "zcash-fast-event/1"
+}
