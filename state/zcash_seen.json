@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-11T08:58:13Z",
+  "last_run_at": "2026-10-11T15:17:45Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-11T01:47:22Z",
+      "cutoff": "2026-10-11T08:28:13Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-11T01:47:22Z",
+      "cutoff": "2026-10-11T08:28:13Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-11T01:47:22Z",
-      "matches": 4,
+      "cutoff": "2026-10-11T08:28:13Z",
+      "matches": 8,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-11T01:47:22Z",
+      "cutoff": "2026-10-11T08:28:13Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -4631,6 +4631,62 @@
       "first_seen_at": "2026-10-11T08:58:13Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1414166601": {
+      "created_at": "2026-10-11T09:28:18Z",
+      "display": "apeirs/zecmix",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1921",
+      "first_seen_at": "2026-10-11T15:17:45Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1414194301": {
+      "created_at": "2026-10-11T10:03:37Z",
+      "display": "ichigo86x/familywall",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1920",
+      "first_seen_at": "2026-10-11T15:17:45Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1414235965": {
+      "created_at": "2026-10-11T10:57:38Z",
+      "display": "ChainRoster/chainroster",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1919",
+      "first_seen_at": "2026-10-11T15:17:45Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1414334791": {
+      "created_at": "2026-10-11T12:51:22Z",
+      "display": "andreaecristina2023/InCamminoconLaCri",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1918",
+      "first_seen_at": "2026-10-11T15:17:45Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1414336724": {
+      "created_at": "2026-10-11T12:53:20Z",
+      "display": "ZolaceCash/app",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1917",
+      "first_seen_at": "2026-10-11T15:17:45Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1414355500": {
+      "created_at": "2026-10-11T13:13:19Z",
+      "display": "samizdatproject/zeccheckout",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1916",
+      "first_seen_at": "2026-10-11T15:17:45Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1414370963": {
+      "created_at": "2026-10-11T13:30:01Z",
+      "display": "Prasannaverse13/ghosttab",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1915",
+      "first_seen_at": "2026-10-11T15:17:45Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5115,9 +5171,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-11T08:58:13Z",
-    "forum": "2026-10-11T08:58:13Z",
-    "github": "2026-10-11T08:58:13Z",
-    "zcg": "2026-10-11T08:58:13Z"
+    "fixed_orgs": "2026-10-11T15:17:45Z",
+    "forum": "2026-10-11T15:17:45Z",
+    "github": "2026-10-11T15:17:45Z",
+    "zcg": "2026-10-11T15:17:45Z"
   }
 }
