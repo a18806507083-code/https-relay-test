@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T14:25:03Z",
+    "description": "Launch IMD Money Back ($MONEYBACK) on Robinhood Chain, paired with IMD, from this repository exactly as it is at the pinned commit. The four contracts were written, tested and reviewed by the swarm (jobs 57052175 and cb7160d0); this repository adds only foundry.toml and launch.json. Do not change fee parameters: hook fee 4.25% of the IMD leg on ...",
+    "detected_at": "2026-10-11T15:17:23Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-1313-src-moneybacktoken-sol-src-moneybackhook",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1313-src-moneybacktoken-sol-src-moneybackhook",
+    "pushed_at": "2026-10-11T14:25:06Z",
+    "repo_id": 1414423072,
+    "score": 6,
+    "tech_signals": [
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
