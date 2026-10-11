@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T07:59:52Z",
+    "description": "Asymmetric Terminal: read-only multi-chain token dashboard, scanner, research, macro (heuristics, not advice)",
+    "detected_at": "2026-10-11T08:57:52Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "mnr5074/asymmetric-terminal",
+    "homepage": null,
+    "html_url": "https://github.com/mnr5074/asymmetric-terminal",
+    "pushed_at": "2026-10-11T08:47:53Z",
+    "repo_id": 1414092979,
+    "score": 12,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
