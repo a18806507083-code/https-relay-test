@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-11T02:17:22Z",
+  "last_run_at": "2026-10-11T08:58:13Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-10T23:24:33Z",
+      "cutoff": "2026-10-11T01:47:22Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-10T23:24:33Z",
-      "matches": 1,
+      "cutoff": "2026-10-11T01:47:22Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-10T23:24:33Z",
-      "matches": 3,
+      "cutoff": "2026-10-11T01:47:22Z",
+      "matches": 4,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-10T23:24:33Z",
+      "cutoff": "2026-10-11T01:47:22Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -4599,6 +4599,38 @@
       "first_seen_at": "2026-10-11T02:17:22Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1413974198": {
+      "created_at": "2026-10-11T05:41:30Z",
+      "display": "ikeago/zebra-custom-testnet-lab",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1910",
+      "first_seen_at": "2026-10-11T08:58:13Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1413985086": {
+      "created_at": "2026-10-11T05:57:52Z",
+      "display": "XDGram/Zecrow",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1909",
+      "first_seen_at": "2026-10-11T08:58:13Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1414112919": {
+      "created_at": "2026-10-11T08:24:12Z",
+      "display": "Esoterics611/custody-lab",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1908",
+      "first_seen_at": "2026-10-11T08:58:13Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1414125674": {
+      "created_at": "2026-10-11T08:40:32Z",
+      "display": "encapsulate-xyz/crosslink-profiles",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1907",
+      "first_seen_at": "2026-10-11T08:58:13Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5083,9 +5115,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-11T02:17:22Z",
-    "forum": "2026-10-11T02:17:22Z",
-    "github": "2026-10-11T02:17:22Z",
-    "zcg": "2026-10-11T02:17:22Z"
+    "fixed_orgs": "2026-10-11T08:58:13Z",
+    "forum": "2026-10-11T08:58:13Z",
+    "github": "2026-10-11T08:58:13Z",
+    "zcg": "2026-10-11T08:58:13Z"
   }
 }
