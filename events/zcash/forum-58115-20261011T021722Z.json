@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T00:31:05.775Z",
+    "detected_at": "2026-10-11T02:17:22Z",
+    "display": "58115 Free Society Hack, Mumbai, 4–5 Nov: partners, mentors and judges wanted",
+    "key": "forum:58115",
+    "metadata": {
+      "category_id": 31,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "free-society-hack-mumbai-4-5-nov-partners-mentors-and-judges-wanted",
+      "title": "Free Society Hack, Mumbai, 4–5 Nov: partners, mentors and judges wanted",
+      "topic_id": 58115
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58115,
+    "url": "https://forum.zcashcommunity.com/t/free-society-hack-mumbai-4-5-nov-partners-mentors-and-judges-wanted/58115"
+  },
+  "schema": "zcash-fast-event/1"
+}
