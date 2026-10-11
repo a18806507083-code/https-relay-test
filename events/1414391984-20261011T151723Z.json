@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T13:52:14Z",
+    "description": "Sign a transaction with a promise about what you must own when it ends. If the promise breaks, the chain reverts everything. EIP-7702 guard for Robinhood Chain.",
+    "detected_at": "2026-10-11T15:17:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "PangoProtocol/Pango",
+    "homepage": null,
+    "html_url": "https://github.com/PangoProtocol/Pango",
+    "pushed_at": "2026-10-11T13:53:00Z",
+    "repo_id": 1414391984,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
