@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T07:53:47Z",
+    "description": null,
+    "detected_at": "2026-10-12T09:17:58Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "TuffG0at/hood-terminus",
+    "homepage": null,
+    "html_url": "https://github.com/TuffG0at/hood-terminus",
+    "pushed_at": "2026-10-12T08:29:57Z",
+    "repo_id": 1415265120,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Launchpad",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
