@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T18:53:38Z",
+    "description": "Launch imd/acc's Sepolia test run 6 from this repository (the launch-sepolia branch, which is the sepolia branch without .github/workflows; do not add any workflow file): deploy only the ProjectRegistry, exactly as launch.json lists it, wired to test run 2's live Stacker and to IdentityMD's Intake v2. This registry is the code the mainnet regist...",
+    "detected_at": "2026-10-12T19:06:29Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-1463-launch-imd-acc-s-sepolia-test",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1463-launch-imd-acc-s-sepolia-test",
+    "pushed_at": "2026-10-12T18:53:42Z",
+    "repo_id": 1416010884,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
