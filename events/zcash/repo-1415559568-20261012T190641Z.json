@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T12:18:55Z",
+    "detected_at": "2026-10-12T19:06:41Z",
+    "display": "dannywillems/ragu-ai-prompt-folding",
+    "key": "repo:1415559568",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "dannywillems/ragu-ai-prompt-folding",
+      "homepage": null,
+      "pushed_at": "2026-10-12T12:25:42Z",
+      "tech_signals": [
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1415559568,
+    "url": "https://github.com/dannywillems/ragu-ai-prompt-folding"
+  },
+  "schema": "zcash-fast-event/1"
+}
