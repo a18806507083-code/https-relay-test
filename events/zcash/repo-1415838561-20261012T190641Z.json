@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T16:12:13Z",
+    "detected_at": "2026-10-12T19:06:41Z",
+    "display": "AdityaWisnuu/leakscope",
+    "key": "repo:1415838561",
+    "metadata": {
+      "description": "Finds where Zcash transactions leak — before and after you send them. ZECATHON 2026.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "AdityaWisnuu/leakscope",
+      "homepage": "https://leakscope-cyan.vercel.app",
+      "pushed_at": "2026-10-12T16:50:30Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1415838561,
+    "url": "https://github.com/AdityaWisnuu/leakscope"
+  },
+  "schema": "zcash-fast-event/1"
+}
