@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T14:58:44Z",
+    "detected_at": "2026-10-12T19:06:41Z",
+    "display": "Akhil-2310/zebfin",
+    "key": "repo:1415752581",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "Akhil-2310/zebfin",
+      "homepage": "https://zebfin.vercel.app",
+      "pushed_at": "2026-10-12T19:06:37Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1415752581,
+    "url": "https://github.com/Akhil-2310/zebfin"
+  },
+  "schema": "zcash-fast-event/1"
+}
