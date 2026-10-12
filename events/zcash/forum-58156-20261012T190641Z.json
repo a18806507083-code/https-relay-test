@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T16:57:59.307Z",
+    "detected_at": "2026-10-12T19:06:41Z",
+    "display": "58156 CENTIREINGS Zcash Market Segmentation & Comparative Intelligence",
+    "key": "forum:58156",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "centireings-zcash-market-segmentation-comparative-intelligence",
+      "title": "CENTIREINGS Zcash Market Segmentation & Comparative Intelligence",
+      "topic_id": 58156
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58156,
+    "url": "https://forum.zcashcommunity.com/t/centireings-zcash-market-segmentation-comparative-intelligence/58156"
+  },
+  "schema": "zcash-fast-event/1"
+}
