@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-12T09:18:29Z",
+  "last_run_at": "2026-10-12T19:06:41Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-12T01:47:52Z",
+      "cutoff": "2026-10-12T08:48:29Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-12T01:47:52Z",
-      "matches": 0,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-10-12T01:47:52Z",
+      "cutoff": "2026-10-12T08:48:29Z",
       "matches": 1,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-10-12T08:48:29Z",
+      "matches": 7,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-10-12T01:47:52Z",
-      "matches": 0,
+      "cutoff": "2026-10-12T08:48:29Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -1189,6 +1189,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1928",
       "first_seen_at": "2026-10-11T19:35:13Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58156": {
+      "created_at": "2026-10-12T16:57:59.307Z",
+      "display": "58156 CENTIREINGS Zcash Market Segmentation & Comparative Intelligence",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1949",
+      "first_seen_at": "2026-10-12T19:06:41Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -4743,6 +4751,62 @@
       "first_seen_at": "2026-10-12T09:18:29Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1415559568": {
+      "created_at": "2026-10-12T12:18:55Z",
+      "display": "dannywillems/ragu-ai-prompt-folding",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1956",
+      "first_seen_at": "2026-10-12T19:06:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1415752581": {
+      "created_at": "2026-10-12T14:58:44Z",
+      "display": "Akhil-2310/zebfin",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1954",
+      "first_seen_at": "2026-10-12T19:06:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1415760011": {
+      "created_at": "2026-10-12T15:05:09Z",
+      "display": "4less4ndr0/viaggi-libri-auto",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1953",
+      "first_seen_at": "2026-10-12T19:06:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1415829986": {
+      "created_at": "2026-10-12T16:04:57Z",
+      "display": "Sharky69420/anon-poker",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1951",
+      "first_seen_at": "2026-10-12T19:06:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1415838561": {
+      "created_at": "2026-10-12T16:12:13Z",
+      "display": "AdityaWisnuu/leakscope",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1950",
+      "first_seen_at": "2026-10-12T19:06:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1415897132": {
+      "created_at": "2026-10-12T17:04:27Z",
+      "display": "billi-x4/Shade",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1948",
+      "first_seen_at": "2026-10-12T19:06:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1415966795": {
+      "created_at": "2026-10-12T18:10:01Z",
+      "display": "RaYYeR220/holdfast",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1947",
+      "first_seen_at": "2026-10-12T19:06:41Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5222,14 +5286,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1898",
       "first_seen_at": "2026-10-10T23:54:33Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5815131016": {
+      "created_at": "2026-10-12T14:07:22Z",
+      "display": "#482 V12 Credits Application - zshield-mcp",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1955",
+      "first_seen_at": "2026-10-12T19:06:41Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5816442658": {
+      "created_at": "2026-10-12T15:41:18Z",
+      "display": "#483 Grant Application - CENTIREINGS Zcash Market Segmentation & Comparative Intelligence",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1952",
+      "first_seen_at": "2026-10-12T19:06:41Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-12T09:18:29Z",
-    "forum": "2026-10-12T09:18:29Z",
-    "github": "2026-10-12T09:18:29Z",
-    "zcg": "2026-10-12T09:18:29Z"
+    "fixed_orgs": "2026-10-12T19:06:41Z",
+    "forum": "2026-10-12T19:06:41Z",
+    "github": "2026-10-12T19:06:41Z",
+    "zcg": "2026-10-12T19:06:41Z"
   }
 }
