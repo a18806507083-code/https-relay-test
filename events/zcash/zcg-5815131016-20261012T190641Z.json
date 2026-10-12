@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T14:07:22Z",
+    "detected_at": "2026-10-12T19:06:41Z",
+    "display": "#482 V12 Credits Application - zshield-mcp",
+    "key": "zcg:5815131016",
+    "metadata": {
+      "author": "Steeve-Crypto",
+      "issue_number": 482,
+      "labels": [],
+      "title": "V12 Credits Application - zshield-mcp"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5815131016,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/482"
+  },
+  "schema": "zcash-fast-event/1"
+}
