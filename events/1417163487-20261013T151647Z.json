@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T13:51:52Z",
+    "description": null,
+    "detected_at": "2026-10-13T15:16:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "MarginCalledG/TestTokenFrontend",
+    "homepage": null,
+    "html_url": "https://github.com/MarginCalledG/TestTokenFrontend",
+    "pushed_at": "2026-10-13T13:54:34Z",
+    "repo_id": 1417163487,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
