@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T19:42:39.209Z",
+    "detected_at": "2026-10-13T01:16:21Z",
+    "display": "58163 HashSmash proposal: a collision frontier for Orchard's Poseidon instance",
+    "key": "forum:58163",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "hashsmash-proposal-a-collision-frontier-for-orchards-poseidon-instance",
+      "title": "HashSmash proposal: a collision frontier for Orchard's Poseidon instance",
+      "topic_id": 58163
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58163,
+    "url": "https://forum.zcashcommunity.com/t/hashsmash-proposal-a-collision-frontier-for-orchards-poseidon-instance/58163"
+  },
+  "schema": "zcash-fast-event/1"
+}
