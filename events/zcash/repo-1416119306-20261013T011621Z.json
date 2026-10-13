@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T20:52:36Z",
+    "detected_at": "2026-10-13T01:16:21Z",
+    "display": "MicheleGiacomini/dnd_item_manager",
+    "key": "repo:1416119306",
+    "metadata": {
+      "description": "local first dnd inventory manager PWA - !fully vibe coded!",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "MicheleGiacomini/dnd_item_manager",
+      "homepage": "",
+      "pushed_at": "2026-10-12T20:53:45Z",
+      "tech_signals": [
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416119306,
+    "url": "https://github.com/MicheleGiacomini/dnd_item_manager"
+  },
+  "schema": "zcash-fast-event/1"
+}
