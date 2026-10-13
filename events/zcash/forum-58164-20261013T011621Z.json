@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T21:19:09.685Z",
+    "detected_at": "2026-10-13T01:16:21Z",
+    "display": "58164 FROST 2-of-3 between a user's own devices for shielded ZEC (Ironwood)",
+    "key": "forum:58164",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "frost-2-of-3-between-a-users-own-devices-for-shielded-zec-ironwood",
+      "title": "FROST 2-of-3 between a user's own devices for shielded ZEC (Ironwood)",
+      "topic_id": 58164
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58164,
+    "url": "https://forum.zcashcommunity.com/t/frost-2-of-3-between-a-users-own-devices-for-shielded-zec-ironwood/58164"
+  },
+  "schema": "zcash-fast-event/1"
+}
