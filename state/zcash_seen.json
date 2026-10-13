@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-13T15:17:22Z",
+  "last_run_at": "2026-10-13T20:42:37Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-13T07:14:48Z",
+      "cutoff": "2026-10-13T14:47:22Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-13T07:14:48Z",
-      "matches": 4,
+      "cutoff": "2026-10-13T14:47:22Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-13T07:14:48Z",
-      "matches": 3,
+      "cutoff": "2026-10-13T14:47:22Z",
+      "matches": 5,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-13T07:14:48Z",
-      "matches": 3,
+      "cutoff": "2026-10-13T14:47:22Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -1253,6 +1253,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1987",
       "first_seen_at": "2026-10-13T15:17:22Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58172": {
+      "created_at": "2026-10-13T17:02:58.462Z",
+      "display": "58172 Interoperable FROST co-signing for shielded ZEC: open specs and a reference implementation",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2009",
+      "first_seen_at": "2026-10-13T20:42:37Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -4999,6 +5007,46 @@
       "first_seen_at": "2026-10-13T15:17:22Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1417371644": {
+      "created_at": "2026-10-13T15:38:21Z",
+      "display": "logos-co/logos-bitcoin-node-module",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2013",
+      "first_seen_at": "2026-10-13T20:42:37Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1417376309": {
+      "created_at": "2026-10-13T15:40:34Z",
+      "display": "logos-co/logos-bitcoind-ui",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2012",
+      "first_seen_at": "2026-10-13T20:42:37Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1417528691": {
+      "created_at": "2026-10-13T16:52:38Z",
+      "display": "zeckyapp/rock-it",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2011",
+      "first_seen_at": "2026-10-13T20:42:37Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1417630173": {
+      "created_at": "2026-10-13T17:43:01Z",
+      "display": "elemental-zcash/merchant-wiki",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2008",
+      "first_seen_at": "2026-10-13T20:42:37Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1417840552": {
+      "created_at": "2026-10-13T19:34:08Z",
+      "display": "Solforio/dnd_app",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2006",
+      "first_seen_at": "2026-10-13T20:42:37Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5542,14 +5590,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1989",
       "first_seen_at": "2026-10-13T15:17:22Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5834399338": {
+      "created_at": "2026-10-13T17:01:05Z",
+      "display": "#490 Grant Application - Interoperable FROST co-signing for shielded ZEC: open specs and a reference implementation",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2010",
+      "first_seen_at": "2026-10-13T20:42:37Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5836281775": {
+      "created_at": "2026-10-13T19:17:41Z",
+      "display": "#491 Grant Application - Zocial World — Privacy-First Social, Learning and Collaboration Platform for Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2007",
+      "first_seen_at": "2026-10-13T20:42:37Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-13T15:17:22Z",
-    "forum": "2026-10-13T15:17:22Z",
-    "github": "2026-10-13T15:17:22Z",
-    "zcg": "2026-10-13T15:17:22Z"
+    "fixed_orgs": "2026-10-13T20:42:37Z",
+    "forum": "2026-10-13T20:42:37Z",
+    "github": "2026-10-13T20:42:37Z",
+    "zcg": "2026-10-13T20:42:37Z"
   }
 }
