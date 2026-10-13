@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T20:17:37Z",
+    "description": "Arethel market-data client for Hyperliquid and Lighter.",
+    "detected_at": "2026-10-13T20:41:56Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Tornadosky/arethel-sdk",
+    "homepage": null,
+    "html_url": "https://github.com/Tornadosky/arethel-sdk",
+    "pushed_at": "2026-10-13T20:22:04Z",
+    "repo_id": 1417916369,
+    "score": 7,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
