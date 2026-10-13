@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-13T01:16:21Z",
+  "last_run_at": "2026-10-13T07:44:48Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-12T18:36:41Z",
+      "cutoff": "2026-10-13T00:46:21Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-12T18:36:41Z",
-      "matches": 2,
+      "cutoff": "2026-10-13T00:46:21Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-12T18:36:41Z",
-      "matches": 7,
+      "cutoff": "2026-10-13T00:46:21Z",
+      "matches": 8,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-12T18:36:41Z",
-      "matches": 1,
+      "cutoff": "2026-10-13T00:46:21Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -1213,6 +1213,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1962",
       "first_seen_at": "2026-10-13T01:16:21Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58165": {
+      "created_at": "2026-10-13T02:45:07.460Z",
+      "display": "58165 Grant Application: Konclave (taking the viewing key off the coordinator)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1979",
+      "first_seen_at": "2026-10-13T07:44:48Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -4879,6 +4887,62 @@
       "first_seen_at": "2026-10-13T01:16:21Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1416422171": {
+      "created_at": "2026-10-13T03:53:42Z",
+      "display": "VincenSanjaya/sovra",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1978",
+      "first_seen_at": "2026-10-13T07:44:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1416431856": {
+      "created_at": "2026-10-13T04:06:04Z",
+      "display": "soularius/Presentation-Tayrona",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1977",
+      "first_seen_at": "2026-10-13T07:44:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1416491616": {
+      "created_at": "2026-10-13T05:08:10Z",
+      "display": "yinscode/pairkey",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1976",
+      "first_seen_at": "2026-10-13T07:44:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1416536535": {
+      "created_at": "2026-10-13T05:58:38Z",
+      "display": "EndPx/zeer",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1975",
+      "first_seen_at": "2026-10-13T07:44:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1416538842": {
+      "created_at": "2026-10-13T06:00:59Z",
+      "display": "skazistp-cpu/ztab",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1974",
+      "first_seen_at": "2026-10-13T07:44:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1416573213": {
+      "created_at": "2026-10-13T06:33:45Z",
+      "display": "zecboat/zecboat",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1973",
+      "first_seen_at": "2026-10-13T07:44:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1416575345": {
+      "created_at": "2026-10-13T06:35:34Z",
+      "display": "zecboat/zmap-wake",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1972",
+      "first_seen_at": "2026-10-13T07:44:48Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5382,14 +5446,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1966",
       "first_seen_at": "2026-10-13T01:16:21Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5823503719": {
+      "created_at": "2026-10-13T02:33:04Z",
+      "display": "#485 V12 Credits Application - zshield-mcp",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1981",
+      "first_seen_at": "2026-10-13T07:44:48Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5823563854": {
+      "created_at": "2026-10-13T02:40:05Z",
+      "display": "#486 Grant Application - Konclave: taking the viewing key off the coordinator",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/1980",
+      "first_seen_at": "2026-10-13T07:44:48Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-13T01:16:21Z",
-    "forum": "2026-10-13T01:16:21Z",
-    "github": "2026-10-13T01:16:21Z",
-    "zcg": "2026-10-13T01:16:21Z"
+    "fixed_orgs": "2026-10-13T07:44:48Z",
+    "forum": "2026-10-13T07:44:48Z",
+    "github": "2026-10-13T07:44:48Z",
+    "zcg": "2026-10-13T07:44:48Z"
   }
 }
