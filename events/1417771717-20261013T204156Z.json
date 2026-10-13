@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T18:56:49Z",
+    "description": "clim \u00d7 Fables: a verifiable volatility desk (Chainlink CRE) for Fables' dynamic fees on Robinhood Chain. Showcase, not affiliated with Fables.",
+    "detected_at": "2026-10-13T20:41:56Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "gamween/clim-fables",
+    "homepage": null,
+    "html_url": "https://github.com/gamween/clim-fables",
+    "pushed_at": "2026-10-13T20:32:04Z",
+    "repo_id": 1417771717,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Bridge",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
