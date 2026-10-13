@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T17:02:58.462Z",
+    "detected_at": "2026-10-13T20:42:37Z",
+    "display": "58172 Interoperable FROST co-signing for shielded ZEC: open specs and a reference implementation",
+    "key": "forum:58172",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "interoperable-frost-co-signing-for-shielded-zec-open-specs-and-a-reference-implementation",
+      "title": "Interoperable FROST co-signing for shielded ZEC: open specs and a reference implementation",
+      "topic_id": 58172
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58172,
+    "url": "https://forum.zcashcommunity.com/t/interoperable-frost-co-signing-for-shielded-zec-open-specs-and-a-reference-implementation/58172"
+  },
+  "schema": "zcash-fast-event/1"
+}
