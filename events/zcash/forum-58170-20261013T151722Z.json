@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T14:19:36.189Z",
+    "detected_at": "2026-10-13T15:17:22Z",
+    "display": "58170 NoirWallet: FROST Multi-Device Signing Design",
+    "key": "forum:58170",
+    "metadata": {
+      "category_id": 30,
+      "posters": [
+        "Original Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "noirwallet-frost-multi-device-signing-design",
+      "title": "NoirWallet: FROST Multi-Device Signing Design",
+      "topic_id": 58170
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58170,
+    "url": "https://forum.zcashcommunity.com/t/noirwallet-frost-multi-device-signing-design/58170"
+  },
+  "schema": "zcash-fast-event/1"
+}
