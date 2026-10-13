@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T19:40:02Z",
+    "detected_at": "2026-10-13T01:16:21Z",
+    "display": "vincenzominchella/statistics-crypto-homeworks",
+    "key": "repo:1416055500",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "vincenzominchella/statistics-crypto-homeworks",
+      "homepage": null,
+      "pushed_at": "2026-10-12T19:44:26Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416055500,
+    "url": "https://github.com/vincenzominchella/statistics-crypto-homeworks"
+  },
+  "schema": "zcash-fast-event/1"
+}
