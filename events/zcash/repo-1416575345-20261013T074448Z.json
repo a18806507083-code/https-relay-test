@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T06:35:34Z",
+    "detected_at": "2026-10-13T07:44:48Z",
+    "display": "zecboat/zmap-wake",
+    "key": "repo:1416575345",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "zecboat/zmap-wake",
+      "homepage": null,
+      "pushed_at": "2026-10-13T06:35:55Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416575345,
+    "url": "https://github.com/zecboat/zmap-wake"
+  },
+  "schema": "zcash-fast-event/1"
+}
