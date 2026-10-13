@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T17:01:05Z",
+    "detected_at": "2026-10-13T20:42:37Z",
+    "display": "#490 Grant Application - Interoperable FROST co-signing for shielded ZEC: open specs and a reference implementation",
+    "key": "zcg:5834399338",
+    "metadata": {
+      "author": "KHADEVS",
+      "issue_number": 490,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Grant Application - Interoperable FROST co-signing for shielded ZEC: open specs and a reference implementation"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5834399338,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/490"
+  },
+  "schema": "zcash-fast-event/1"
+}
