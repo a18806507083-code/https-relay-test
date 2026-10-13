@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T21:42:42Z",
+    "detected_at": "2026-10-13T01:16:21Z",
+    "display": "paygate-to/prestashop-crypto-payment-gateway",
+    "key": "repo:1416159539",
+    "metadata": {
+      "description": "PrestaShop crypto payment gateway with instant payouts.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "paygate-to/prestashop-crypto-payment-gateway",
+      "homepage": null,
+      "pushed_at": "2026-10-13T00:06:55Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416159539,
+    "url": "https://github.com/paygate-to/prestashop-crypto-payment-gateway"
+  },
+  "schema": "zcash-fast-event/1"
+}
