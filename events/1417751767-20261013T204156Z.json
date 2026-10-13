@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T18:46:43Z",
+    "description": "BLACKOUT v3.17 L1 on Robinhood Chain (4663). NO SOURCE CHANGES. Source: commit e17f0ef7bd7d188949eb4dc91e3eb0540c94cbf3 of identity-md-launches/launch-1544-blackout-swarmdesk-bootstrap-robinhood. Build with the unchanged repo foundry.toml: solc 0.8.26, optimizer 200, cancun, viaIR false, bytecode_hash none. Deploy SwarmDesk at index 0 then Endow...",
+    "detected_at": "2026-10-13T20:41:56Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-1628-blackout-v3-17-l1-robinhood",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1628-blackout-v3-17-l1-robinhood",
+    "pushed_at": "2026-10-13T19:46:50Z",
+    "repo_id": 1417751767,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Launchpad",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
