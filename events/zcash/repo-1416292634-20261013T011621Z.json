@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T01:07:30Z",
+    "detected_at": "2026-10-13T01:16:21Z",
+    "display": "starlabman/PrivateBill",
+    "key": "repo:1416292634",
+    "metadata": {
+      "description": "Private Bill is a privacy-first payment and off-ramp application built around Zcash.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "starlabman/PrivateBill",
+      "homepage": null,
+      "pushed_at": "2026-10-13T01:07:32Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416292634,
+    "url": "https://github.com/starlabman/PrivateBill"
+  },
+  "schema": "zcash-fast-event/1"
+}
