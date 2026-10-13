@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T21:43:47Z",
+    "detected_at": "2026-10-13T01:16:21Z",
+    "display": "paygate-to/opencart-crypto-payment-gateway",
+    "key": "repo:1416160351",
+    "metadata": {
+      "description": "OpenCart Crypto Payment Gateway Instant Payouts.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "paygate-to/opencart-crypto-payment-gateway",
+      "homepage": null,
+      "pushed_at": "2026-10-13T00:07:11Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416160351,
+    "url": "https://github.com/paygate-to/opencart-crypto-payment-gateway"
+  },
+  "schema": "zcash-fast-event/1"
+}
