@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T10:39:37.308Z",
+    "detected_at": "2026-10-13T15:17:22Z",
+    "display": "58166 Zecboat.com Wake-v1, custom Halo 2 circuit for note lineage",
+    "key": "forum:58166",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zecboat-com-wake-v1-custom-halo-2-circuit-for-note-lineage",
+      "title": "Zecboat.com Wake-v1, custom Halo 2 circuit for note lineage",
+      "topic_id": 58166
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58166,
+    "url": "https://forum.zcashcommunity.com/t/zecboat-com-wake-v1-custom-halo-2-circuit-for-note-lineage/58166"
+  },
+  "schema": "zcash-fast-event/1"
+}
