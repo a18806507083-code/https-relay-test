@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-13T20:42:37Z",
+  "last_run_at": "2026-10-13T23:53:03Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-13T14:47:22Z",
+      "cutoff": "2026-10-13T20:12:37Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-13T14:47:22Z",
-      "matches": 1,
+      "cutoff": "2026-10-13T20:12:37Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-13T14:47:22Z",
-      "matches": 5,
+      "cutoff": "2026-10-13T20:12:37Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-13T14:47:22Z",
-      "matches": 2,
+      "cutoff": "2026-10-13T20:12:37Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -5047,6 +5047,22 @@
       "first_seen_at": "2026-10-13T20:42:37Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1417986060": {
+      "created_at": "2026-10-13T20:59:42Z",
+      "display": "sniperchief/hushush",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2017",
+      "first_seen_at": "2026-10-13T23:53:03Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418003355": {
+      "created_at": "2026-10-13T21:11:12Z",
+      "display": "ryssroad/zecret-dms-demo",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2016",
+      "first_seen_at": "2026-10-13T23:53:03Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5606,14 +5622,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2007",
       "first_seen_at": "2026-10-13T20:42:37Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5837617390": {
+      "created_at": "2026-10-13T20:57:34Z",
+      "display": "#492 Grant Application - Canadian Zcash Community and red·bridge public testnet launch",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2018",
+      "first_seen_at": "2026-10-13T23:53:03Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-13T20:42:37Z",
-    "forum": "2026-10-13T20:42:37Z",
-    "github": "2026-10-13T20:42:37Z",
-    "zcg": "2026-10-13T20:42:37Z"
+    "fixed_orgs": "2026-10-13T23:53:03Z",
+    "forum": "2026-10-13T23:53:03Z",
+    "github": "2026-10-13T23:53:03Z",
+    "zcg": "2026-10-13T23:53:03Z"
   }
 }
