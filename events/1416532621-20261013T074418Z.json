@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T05:54:28Z",
+    "description": null,
+    "detected_at": "2026-10-13T07:44:18Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "askspecter/Derive",
+    "homepage": null,
+    "html_url": "https://github.com/askspecter/Derive",
+    "pushed_at": "2026-10-13T06:02:59Z",
+    "repo_id": 1416532621,
+    "score": 20,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
