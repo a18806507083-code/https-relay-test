@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T21:46:57Z",
+    "detected_at": "2026-10-14T23:53:27Z",
+    "display": "paygate-to/Paymenter-Crypto-Payment-Gateway",
+    "key": "repo:1419884146",
+    "metadata": {
+      "description": "Paymneter Crypto Payment Gateway with Instant Payouts",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "paygate-to/Paymenter-Crypto-Payment-Gateway",
+      "homepage": null,
+      "pushed_at": "2026-10-14T21:47:03Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1419884146,
+    "url": "https://github.com/paygate-to/Paymenter-Crypto-Payment-Gateway"
+  },
+  "schema": "zcash-fast-event/1"
+}
