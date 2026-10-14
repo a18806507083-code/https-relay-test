@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T23:20:59.099Z",
+    "detected_at": "2026-10-14T23:53:27Z",
+    "display": "58212 If you control people's spending, you control their lives",
+    "key": "forum:58212",
+    "metadata": {
+      "category_id": 41,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "if-you-control-peoples-spending-you-control-their-lives",
+      "title": "If you control people's spending, you control their lives",
+      "topic_id": 58212
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58212,
+    "url": "https://forum.zcashcommunity.com/t/if-you-control-peoples-spending-you-control-their-lives/58212"
+  },
+  "schema": "zcash-fast-event/1"
+}
