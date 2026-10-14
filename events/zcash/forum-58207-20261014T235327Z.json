@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T22:09:38.938Z",
+    "detected_at": "2026-10-14T23:53:27Z",
+    "display": "58207 Zcash Education and Adoption in two Universities of Bolivia",
+    "key": "forum:58207",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-education-and-adoption-in-two-universities-of-bolivia",
+      "title": "Zcash Education and Adoption in two Universities of Bolivia",
+      "topic_id": 58207
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58207,
+    "url": "https://forum.zcashcommunity.com/t/zcash-education-and-adoption-in-two-universities-of-bolivia/58207"
+  },
+  "schema": "zcash-fast-event/1"
+}
