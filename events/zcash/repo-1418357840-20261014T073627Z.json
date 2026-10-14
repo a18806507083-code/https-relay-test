@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T04:25:27Z",
+    "detected_at": "2026-10-14T07:36:27Z",
+    "display": "agnetic-ai/zmine-bot",
+    "key": "repo:1418357840",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "agnetic-ai/zmine-bot",
+      "homepage": null,
+      "pushed_at": "2026-10-14T04:32:37Z",
+      "tech_signals": [
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1418357840,
+    "url": "https://github.com/agnetic-ai/zmine-bot"
+  },
+  "schema": "zcash-fast-event/1"
+}
