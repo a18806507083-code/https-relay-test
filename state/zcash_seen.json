@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-14T21:07:07Z",
+  "last_run_at": "2026-10-14T23:53:27Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-14T17:26:32Z",
+      "cutoff": "2026-10-14T20:37:07Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-14T17:26:32Z",
-      "matches": 2,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-10-14T17:26:32Z",
+      "cutoff": "2026-10-14T20:37:07Z",
       "matches": 3,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-10-14T20:37:07Z",
+      "matches": 9,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-10-14T17:26:32Z",
-      "matches": 2,
+      "cutoff": "2026-10-14T20:37:07Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -1293,6 +1293,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2054",
       "first_seen_at": "2026-10-14T21:07:07Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58207": {
+      "created_at": "2026-10-14T22:09:38.938Z",
+      "display": "58207 Zcash Education and Adoption in two Universities of Bolivia",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2066",
+      "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58210": {
+      "created_at": "2026-10-14T22:49:40.102Z",
+      "display": "58210 Grant Application - Zcash BuildPath India + Mumbai First-Build Day",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2065",
+      "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58212": {
+      "created_at": "2026-10-14T23:20:59.099Z",
+      "display": "58212 If you control people's spending, you control their lives",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2062",
+      "first_seen_at": "2026-10-14T23:53:27Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -5255,6 +5279,78 @@
       "first_seen_at": "2026-10-14T21:07:07Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1419870071": {
+      "created_at": "2026-10-14T21:28:16Z",
+      "display": "paygate-to/FOSSBilling-Crypto-Payment-Gateway",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2073",
+      "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419871533": {
+      "created_at": "2026-10-14T21:30:22Z",
+      "display": "paygate-to/FOSSBilling-Instant-Payment-Gateway",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2072",
+      "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419873397": {
+      "created_at": "2026-10-14T21:32:53Z",
+      "display": "paygate-to/paygate-php",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2071",
+      "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419884146": {
+      "created_at": "2026-10-14T21:46:57Z",
+      "display": "paygate-to/Paymenter-Crypto-Payment-Gateway",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2070",
+      "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419885439": {
+      "created_at": "2026-10-14T21:48:39Z",
+      "display": "paygate-to/paygate-laravel",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2069",
+      "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419896842": {
+      "created_at": "2026-10-14T22:04:02Z",
+      "display": "paygate-to/paygate-node",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2068",
+      "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419897520": {
+      "created_at": "2026-10-14T22:05:07Z",
+      "display": "paygate-to/Paymenter-Instant-Payment-Gateway",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2067",
+      "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419927660": {
+      "created_at": "2026-10-14T22:49:41Z",
+      "display": "paygate-to/EDD-Crypto-Payment-Gateway",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2064",
+      "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419928178": {
+      "created_at": "2026-10-14T22:50:28Z",
+      "display": "paygate-to/EDD-Instant-Payment-Gateway",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2063",
+      "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5843,9 +5939,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-14T21:07:07Z",
-    "forum": "2026-10-14T21:07:07Z",
-    "github": "2026-10-14T21:07:07Z",
-    "zcg": "2026-10-14T21:07:07Z"
+    "fixed_orgs": "2026-10-14T23:53:27Z",
+    "forum": "2026-10-14T23:53:27Z",
+    "github": "2026-10-14T23:53:27Z",
+    "zcg": "2026-10-14T23:53:27Z"
   }
 }
