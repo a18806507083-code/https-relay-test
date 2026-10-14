@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-14T13:03:25Z",
+  "last_run_at": "2026-10-14T17:56:32Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-14T07:06:27Z",
+      "cutoff": "2026-10-14T12:33:25Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-14T07:06:27Z",
-      "matches": 1,
+      "cutoff": "2026-10-14T12:33:25Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-14T07:06:27Z",
+      "cutoff": "2026-10-14T12:33:25Z",
       "matches": 4,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-14T07:06:27Z",
+      "cutoff": "2026-10-14T12:33:25Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -1269,6 +1269,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2036",
       "first_seen_at": "2026-10-14T13:03:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58188": {
+      "created_at": "2026-10-14T15:54:20.828Z",
+      "display": "58188 What's one tool that changed how you work this year?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2045",
+      "first_seen_at": "2026-10-14T17:56:32Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58192": {
+      "created_at": "2026-10-14T17:26:57.550Z",
+      "display": "58192 Pay OpenRouter and Venice.ai with ZEC",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2043",
+      "first_seen_at": "2026-10-14T17:56:32Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -5175,6 +5191,38 @@
       "first_seen_at": "2026-10-14T13:03:25Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1419049189": {
+      "created_at": "2026-10-14T13:52:51Z",
+      "display": "tamgahq/sandbox",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2048",
+      "first_seen_at": "2026-10-14T17:56:32Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419254037": {
+      "created_at": "2026-10-14T15:22:40Z",
+      "display": "5wt6fw45nt-design/zash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2047",
+      "first_seen_at": "2026-10-14T17:56:32Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419263473": {
+      "created_at": "2026-10-14T15:26:45Z",
+      "display": "swharris82-dev/Hybrid-privacy-coin",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2046",
+      "first_seen_at": "2026-10-14T17:56:32Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419417086": {
+      "created_at": "2026-10-14T16:33:26Z",
+      "display": "Lunaz-Gateway/lunaz",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2044",
+      "first_seen_at": "2026-10-14T17:56:32Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5747,9 +5795,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-14T13:03:25Z",
-    "forum": "2026-10-14T13:03:25Z",
-    "github": "2026-10-14T13:03:25Z",
-    "zcg": "2026-10-14T13:03:25Z"
+    "fixed_orgs": "2026-10-14T17:56:32Z",
+    "forum": "2026-10-14T17:56:32Z",
+    "github": "2026-10-14T17:56:32Z",
+    "zcg": "2026-10-14T17:56:32Z"
   }
 }
