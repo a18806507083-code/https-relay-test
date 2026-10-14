@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T02:26:28Z",
+    "detected_at": "2026-10-14T07:36:27Z",
+    "display": "Danilarious/instinct-feeds",
+    "key": "repo:1418257415",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Danilarious/instinct-feeds",
+      "homepage": null,
+      "pushed_at": "2026-10-14T04:53:23Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1418257415,
+    "url": "https://github.com/Danilarious/instinct-feeds"
+  },
+  "schema": "zcash-fast-event/1"
+}
