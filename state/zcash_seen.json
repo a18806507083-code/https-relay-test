@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-14T17:56:32Z",
+  "last_run_at": "2026-10-14T21:07:07Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-14T12:33:25Z",
+      "cutoff": "2026-10-14T17:26:32Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-14T12:33:25Z",
-      "matches": 3,
+      "cutoff": "2026-10-14T17:26:32Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-14T12:33:25Z",
-      "matches": 4,
+      "cutoff": "2026-10-14T17:26:32Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-14T12:33:25Z",
-      "matches": 0,
+      "cutoff": "2026-10-14T17:26:32Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -1285,6 +1285,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2043",
       "first_seen_at": "2026-10-14T17:56:32Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58204": {
+      "created_at": "2026-10-14T20:13:27.584Z",
+      "display": "58204 Zcash Early Builders Lab (ZEBL) Cape Town",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2054",
+      "first_seen_at": "2026-10-14T21:07:07Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -5223,6 +5231,30 @@
       "first_seen_at": "2026-10-14T17:56:32Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1419656060": {
+      "created_at": "2026-10-14T18:29:54Z",
+      "display": "cryppit/zec-refund-helper",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2058",
+      "first_seen_at": "2026-10-14T21:07:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419749914": {
+      "created_at": "2026-10-14T19:36:55Z",
+      "display": "ademikelz19-hub/zcash-mcp-server",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2055",
+      "first_seen_at": "2026-10-14T21:07:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1419798347": {
+      "created_at": "2026-10-14T20:15:32Z",
+      "display": "beatbroker/hidden-witness",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2053",
+      "first_seen_at": "2026-10-14T21:07:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5790,14 +5822,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2018",
       "first_seen_at": "2026-10-13T23:53:03Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5854149471": {
+      "created_at": "2026-10-14T19:21:07Z",
+      "display": "#493 Grant Application - Zcash Early Builders Lab (ZEBL) Cape Town",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2057",
+      "first_seen_at": "2026-10-14T21:07:07Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5854352973": {
+      "created_at": "2026-10-14T19:35:30Z",
+      "display": "#494 Zcash Privacy & Adoption in Two Bolivian Universities by BlockivIA",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2056",
+      "first_seen_at": "2026-10-14T21:07:07Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-14T17:56:32Z",
-    "forum": "2026-10-14T17:56:32Z",
-    "github": "2026-10-14T17:56:32Z",
-    "zcg": "2026-10-14T17:56:32Z"
+    "fixed_orgs": "2026-10-14T21:07:07Z",
+    "forum": "2026-10-14T21:07:07Z",
+    "github": "2026-10-14T21:07:07Z",
+    "zcg": "2026-10-14T21:07:07Z"
   }
 }
