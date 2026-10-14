@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T19:21:07Z",
+    "detected_at": "2026-10-14T21:07:07Z",
+    "display": "#493 Grant Application - Zcash Early Builders Lab (ZEBL) Cape Town",
+    "key": "zcg:5854149471",
+    "metadata": {
+      "author": "thabo-zebl",
+      "issue_number": 493,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Grant Application - Zcash Early Builders Lab (ZEBL) Cape Town"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5854149471,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/493"
+  },
+  "schema": "zcash-fast-event/1"
+}
