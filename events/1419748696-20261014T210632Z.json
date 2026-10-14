@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T19:35:54Z",
+    "description": "WORKFLOW FRONTEND STAGE CONTEXT: contracts are already deployed. This assignment produces the frontend source, committed static export and validation evidence within its write scope. Put frontend source, package.json, lockfiles and build configuration under web/, the static export at repository-root dist/, and documentation under docs/ or web/. ...",
+    "detected_at": "2026-10-14T21:06:32Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-1776-workflow-frontend-stage-context",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1776-workflow-frontend-stage-context",
+    "pushed_at": "2026-10-14T20:30:54Z",
+    "repo_id": 1419748696,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
