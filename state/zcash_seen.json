@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-14T02:13:14Z",
+  "last_run_at": "2026-10-14T07:36:27Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-13T23:23:03Z",
+      "cutoff": "2026-10-14T01:43:14Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-13T23:23:03Z",
+      "cutoff": "2026-10-14T01:43:14Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-13T23:23:03Z",
-      "matches": 0,
+      "cutoff": "2026-10-14T01:43:14Z",
+      "matches": 9,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-13T23:23:03Z",
+      "cutoff": "2026-10-14T01:43:14Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -5063,6 +5063,78 @@
       "first_seen_at": "2026-10-13T23:53:03Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1418257415": {
+      "created_at": "2026-10-14T02:26:28Z",
+      "display": "Danilarious/instinct-feeds",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2032",
+      "first_seen_at": "2026-10-14T07:36:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418319924": {
+      "created_at": "2026-10-14T03:41:49Z",
+      "display": "ishandutta2007/Awesome-Third-Party-Custodian-In-Crypto",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2031",
+      "first_seen_at": "2026-10-14T07:36:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418357840": {
+      "created_at": "2026-10-14T04:25:27Z",
+      "display": "agnetic-ai/zmine-bot",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2030",
+      "first_seen_at": "2026-10-14T07:36:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418370516": {
+      "created_at": "2026-10-14T04:40:40Z",
+      "display": "intelligrip/minesplit",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2029",
+      "first_seen_at": "2026-10-14T07:36:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418429139": {
+      "created_at": "2026-10-14T05:48:17Z",
+      "display": "PLabs4/shieldtrack",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2028",
+      "first_seen_at": "2026-10-14T07:36:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418433147": {
+      "created_at": "2026-10-14T05:52:33Z",
+      "display": "ZeynepNguyen38/cryptowallet-cli",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2027",
+      "first_seen_at": "2026-10-14T07:36:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418476461": {
+      "created_at": "2026-10-14T06:30:30Z",
+      "display": "CryptoAstuce/bibliotheque-defi-fr",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2026",
+      "first_seen_at": "2026-10-14T07:36:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418480549": {
+      "created_at": "2026-10-14T06:34:30Z",
+      "display": "amandareyes475/cryptowallet-cli",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2025",
+      "first_seen_at": "2026-10-14T07:36:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418481788": {
+      "created_at": "2026-10-14T06:35:42Z",
+      "display": "abigaill63/cryptowallet-cli",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2024",
+      "first_seen_at": "2026-10-14T07:36:27Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5635,9 +5707,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-14T02:13:14Z",
-    "forum": "2026-10-14T02:13:14Z",
-    "github": "2026-10-14T02:13:14Z",
-    "zcg": "2026-10-14T02:13:14Z"
+    "fixed_orgs": "2026-10-14T07:36:27Z",
+    "forum": "2026-10-14T07:36:27Z",
+    "github": "2026-10-14T07:36:27Z",
+    "zcg": "2026-10-14T07:36:27Z"
   }
 }
