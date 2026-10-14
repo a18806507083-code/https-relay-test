@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-14T07:36:27Z",
+  "last_run_at": "2026-10-14T13:03:25Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-14T01:43:14Z",
+      "cutoff": "2026-10-14T07:06:27Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-14T01:43:14Z",
-      "matches": 0,
+      "cutoff": "2026-10-14T07:06:27Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-14T01:43:14Z",
-      "matches": 9,
+      "cutoff": "2026-10-14T07:06:27Z",
+      "matches": 4,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-14T01:43:14Z",
+      "cutoff": "2026-10-14T07:06:27Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -1261,6 +1261,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2009",
       "first_seen_at": "2026-10-13T20:42:37Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58182": {
+      "created_at": "2026-10-14T12:54:42.189Z",
+      "display": "58182 Zcash Community Grants Meeting Minutes 10/12/2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2036",
+      "first_seen_at": "2026-10-14T13:03:25Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -5135,6 +5143,38 @@
       "first_seen_at": "2026-10-14T07:36:27Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1418715291": {
+      "created_at": "2026-10-14T10:11:02Z",
+      "display": "Shubhbhangoo/jetcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2040",
+      "first_seen_at": "2026-10-14T13:03:25Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418730180": {
+      "created_at": "2026-10-14T10:25:37Z",
+      "display": "adrianmatias/pub",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2039",
+      "first_seen_at": "2026-10-14T13:03:25Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418786224": {
+      "created_at": "2026-10-14T11:18:53Z",
+      "display": "chrifilvpn/informatica-online",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2038",
+      "first_seen_at": "2026-10-14T13:03:25Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1418798949": {
+      "created_at": "2026-10-14T11:29:20Z",
+      "display": "chrifilvpn/test-25",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2037",
+      "first_seen_at": "2026-10-14T13:03:25Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5707,9 +5747,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-14T07:36:27Z",
-    "forum": "2026-10-14T07:36:27Z",
-    "github": "2026-10-14T07:36:27Z",
-    "zcg": "2026-10-14T07:36:27Z"
+    "fixed_orgs": "2026-10-14T13:03:25Z",
+    "forum": "2026-10-14T13:03:25Z",
+    "github": "2026-10-14T13:03:25Z",
+    "zcg": "2026-10-14T13:03:25Z"
   }
 }
