@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T11:39:08Z",
+    "detected_at": "2026-10-15T11:59:51Z",
+    "display": "Lordprolific/veylora-market",
+    "key": "repo:1420619718",
+    "metadata": {
+      "description": "Private market infrastructure with shielded Zcash settlement.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Lordprolific/veylora-market",
+      "homepage": null,
+      "pushed_at": "2026-10-15T11:39:09Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1420619718,
+    "url": "https://github.com/Lordprolific/veylora-market"
+  },
+  "schema": "zcash-fast-event/1"
+}
