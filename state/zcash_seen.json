@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-15T16:22:07Z",
+  "last_run_at": "2026-10-15T19:56:00Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-15T11:29:51Z",
+      "cutoff": "2026-10-15T15:52:07Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-15T11:29:51Z",
+      "cutoff": "2026-10-15T15:52:07Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-15T11:29:51Z",
-      "matches": 4,
+      "cutoff": "2026-10-15T15:52:07Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-15T11:29:51Z",
-      "matches": 0,
+      "cutoff": "2026-10-15T15:52:07Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -1333,6 +1333,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2100",
       "first_seen_at": "2026-10-15T16:22:07Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58241": {
+      "created_at": "2026-10-15T19:49:26.765Z",
+      "display": "58241 Grant Application — Zcash Wallet Finder ($3,000 / 8 weeks)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2108",
+      "first_seen_at": "2026-10-15T19:56:00Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -5431,6 +5439,30 @@
       "first_seen_at": "2026-10-15T16:22:07Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1421044794": {
+      "created_at": "2026-10-15T16:45:03Z",
+      "display": "Coldtill/self-hosted-crypto-payment-gateway",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2112",
+      "first_seen_at": "2026-10-15T19:56:00Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1421066631": {
+      "created_at": "2026-10-15T17:01:32Z",
+      "display": "Godwin-web3/lintel",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2111",
+      "first_seen_at": "2026-10-15T19:56:00Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1421152046": {
+      "created_at": "2026-10-15T18:10:52Z",
+      "display": "bajpai244/venice-cipherscan-demo",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2110",
+      "first_seen_at": "2026-10-15T19:56:00Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -6014,14 +6046,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2056",
       "first_seen_at": "2026-10-14T21:07:07Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5872871865": {
+      "created_at": "2026-10-15T19:48:41Z",
+      "display": "#495 Grant Application - Zcash Wallet Finder: Needs-Based Selection and Verifiable Capability Data",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2109",
+      "first_seen_at": "2026-10-15T19:56:00Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-15T16:22:07Z",
-    "forum": "2026-10-15T16:22:07Z",
-    "github": "2026-10-15T16:22:07Z",
-    "zcg": "2026-10-15T16:22:07Z"
+    "fixed_orgs": "2026-10-15T19:56:00Z",
+    "forum": "2026-10-15T19:56:00Z",
+    "github": "2026-10-15T19:56:00Z",
+    "zcg": "2026-10-15T19:56:00Z"
   }
 }
