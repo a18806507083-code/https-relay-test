@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T21:04:29Z",
+    "detected_at": "2026-10-15T22:45:27Z",
+    "display": "DrApkFile/Unstirred",
+    "key": "repo:1421322728",
+    "metadata": {
+      "description": ":  Prove you've held shielded ZEC since a given block, without revealing your address, balance or transactions. Zero-knowledge holding-duration proofs on Zcash Ironwood, built on Valar's delegation circuit.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "DrApkFile/Unstirred",
+      "homepage": null,
+      "pushed_at": "2026-10-15T21:04:31Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "protocol/ZK"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1421322728,
+    "url": "https://github.com/DrApkFile/Unstirred"
+  },
+  "schema": "zcash-fast-event/1"
+}
