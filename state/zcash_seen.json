@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-14T23:53:27Z",
+  "last_run_at": "2026-10-15T01:54:40Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-14T20:37:07Z",
+      "cutoff": "2026-10-14T23:23:27Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-14T20:37:07Z",
-      "matches": 3,
+      "cutoff": "2026-10-14T23:23:27Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-14T20:37:07Z",
-      "matches": 9,
+      "cutoff": "2026-10-14T23:23:27Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-14T20:37:07Z",
+      "cutoff": "2026-10-14T23:23:27Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -1317,6 +1317,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2062",
       "first_seen_at": "2026-10-14T23:53:27Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58213": {
+      "created_at": "2026-10-15T00:30:06.612Z",
+      "display": "58213 Pretty Genteel Policies, or, Where in the world is Filip Lucian Simion?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2077",
+      "first_seen_at": "2026-10-15T01:54:40Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -5351,6 +5359,14 @@
       "first_seen_at": "2026-10-14T23:53:27Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1420039683": {
+      "created_at": "2026-10-15T01:42:25Z",
+      "display": "centrexity/ZNode",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2076",
+      "first_seen_at": "2026-10-15T01:54:40Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -5939,9 +5955,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-14T23:53:27Z",
-    "forum": "2026-10-14T23:53:27Z",
-    "github": "2026-10-14T23:53:27Z",
-    "zcg": "2026-10-14T23:53:27Z"
+    "fixed_orgs": "2026-10-15T01:54:40Z",
+    "forum": "2026-10-15T01:54:40Z",
+    "github": "2026-10-15T01:54:40Z",
+    "zcg": "2026-10-15T01:54:40Z"
   }
 }
