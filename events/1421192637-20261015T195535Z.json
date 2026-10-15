@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T18:47:48Z",
+    "description": "Read-only mirror of hypurrquant/perp-cli for trade-ops pin verification (ADR 0001). No development here; patches live in Cheeli0/trade-ops.",
+    "detected_at": "2026-10-15T19:55:35Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Cheeli0/perp-cli",
+    "homepage": null,
+    "html_url": "https://github.com/Cheeli0/perp-cli",
+    "pushed_at": "2026-10-15T18:47:56Z",
+    "repo_id": 1421192637,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
