@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T00:33:43Z",
+    "description": "A custom token: poedb (POEDB). Token name: poedb Token symbol: POEDB Token supply: 1,000,000,000 with 18 decimals, all minted once to the deployer in the constructor. What it does: https://poedb.tw/us/",
+    "detected_at": "2026-10-15T01:54:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-1799-poedb",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1799-poedb",
+    "pushed_at": "2026-10-15T00:52:32Z",
+    "repo_id": 1419993272,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
