@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T10:40:28Z",
+    "description": null,
+    "detected_at": "2026-10-15T11:59:14Z",
+    "direct_signals": [
+      "chainId 4663"
+    ],
+    "full_name": "cyberwolf69/PULSE",
+    "homepage": null,
+    "html_url": "https://github.com/cyberwolf69/PULSE",
+    "pushed_at": "2026-10-15T10:41:57Z",
+    "repo_id": 1420551723,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
