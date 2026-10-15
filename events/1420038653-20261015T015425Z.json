@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T01:40:54Z",
+    "description": "send SOL, ETH, memecoins and stablecoins to anyone on X by username. testnet",
+    "detected_at": "2026-10-15T01:54:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "dropchadfun/dropchad",
+    "homepage": null,
+    "html_url": "https://github.com/dropchadfun/dropchad",
+    "pushed_at": "2026-10-15T01:51:53Z",
+    "repo_id": 1420038653,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
