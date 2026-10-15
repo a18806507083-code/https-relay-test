@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T14:46:39Z",
+    "detected_at": "2026-10-15T16:22:07Z",
+    "display": "4acha4a/clarity-wallet",
+    "key": "repo:1420890613",
+    "metadata": {
+      "description": "Clarity is a cryptocurrency wallet project built with Next.js, React, and TypeScript, focused on a clean user experience and modern web technologies.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "4acha4a/clarity-wallet",
+      "homepage": null,
+      "pushed_at": "2026-10-15T14:47:54Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1420890613,
+    "url": "https://github.com/4acha4a/clarity-wallet"
+  },
+  "schema": "zcash-fast-event/1"
+}
