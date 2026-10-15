@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T15:45:29.678Z",
+    "detected_at": "2026-10-15T16:22:07Z",
+    "display": "58229 Zcash merch for Babies and Kids",
+    "key": "forum:58229",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-merch-for-babies-and-kids",
+      "title": "Zcash merch for Babies and Kids",
+      "topic_id": 58229
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58229,
+    "url": "https://forum.zcashcommunity.com/t/zcash-merch-for-babies-and-kids/58229"
+  },
+  "schema": "zcash-fast-event/1"
+}
