@@ -1,0 +1,20 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T08:03:19Z",
+    "detected_at": "2026-10-07T08:54:49Z",
+    "display": "#471 V12 Credits Application - zkool",
+    "key": "zcg:5741556000",
+    "metadata": {
+      "author": "hhanh00",
+      "issue_number": 471,
+      "labels": [
+        "🛡️ V12 Credits Application"
+      ],
+      "title": "V12 Credits Application - zkool"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5741556000,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/471"
+  },
+  "schema": "zcash-fast-event/1"
+}
