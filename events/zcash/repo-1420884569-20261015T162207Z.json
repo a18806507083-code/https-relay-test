@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T14:42:29Z",
+    "detected_at": "2026-10-15T16:22:07Z",
+    "display": "zerocurrencycoin/Docs",
+    "key": "repo:1420884569",
+    "metadata": {
+      "description": "Project Documentation and Images",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "zerocurrencycoin/Docs",
+      "homepage": null,
+      "pushed_at": "2026-10-15T14:56:09Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1420884569,
+    "url": "https://github.com/zerocurrencycoin/Docs"
+  },
+  "schema": "zcash-fast-event/1"
+}
