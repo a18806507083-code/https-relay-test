@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-16T18:03:39Z",
+  "last_run_at": "2026-10-16T20:54:44Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-16T13:45:05Z",
+      "cutoff": "2026-10-16T17:33:39Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-16T13:45:05Z",
-      "matches": 2,
+      "cutoff": "2026-10-16T17:33:39Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-16T13:45:05Z",
-      "matches": 3,
+      "cutoff": "2026-10-16T17:33:39Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-16T13:45:05Z",
+      "cutoff": "2026-10-16T17:33:39Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -5575,6 +5575,22 @@
       "first_seen_at": "2026-10-16T18:03:39Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1422508730": {
+      "created_at": "2026-10-16T18:07:05Z",
+      "display": "TranKwon14/cryptowallet-cli",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2157",
+      "first_seen_at": "2026-10-16T20:54:44Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1422549268": {
+      "created_at": "2026-10-16T18:45:16Z",
+      "display": "zano-projects/wallet-address-validator",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2156",
+      "first_seen_at": "2026-10-16T20:54:44Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -6187,9 +6203,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-16T18:03:39Z",
-    "forum": "2026-10-16T18:03:39Z",
-    "github": "2026-10-16T18:03:39Z",
-    "zcg": "2026-10-16T18:03:39Z"
+    "fixed_orgs": "2026-10-16T20:54:44Z",
+    "forum": "2026-10-16T20:54:44Z",
+    "github": "2026-10-16T20:54:44Z",
+    "zcg": "2026-10-16T20:54:44Z"
   }
 }
