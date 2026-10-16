@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-16T05:06:42Z",
+  "last_run_at": "2026-10-16T09:41:26Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-16T00:16:39Z",
+      "cutoff": "2026-10-16T04:36:42Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-16T00:16:39Z",
+      "cutoff": "2026-10-16T04:36:42Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-16T00:16:39Z",
-      "matches": 1,
+      "cutoff": "2026-10-16T04:36:42Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-16T00:16:39Z",
-      "matches": 0,
+      "cutoff": "2026-10-16T04:36:42Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -5495,6 +5495,22 @@
       "first_seen_at": "2026-10-16T05:06:42Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1421693453": {
+      "created_at": "2026-10-16T05:32:49Z",
+      "display": "dismad/ua-eth-proto",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2129",
+      "first_seen_at": "2026-10-16T09:41:26Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1421877115": {
+      "created_at": "2026-10-16T08:38:03Z",
+      "display": "Dami904/kalyptra",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2127",
+      "first_seen_at": "2026-10-16T09:41:26Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -6086,14 +6102,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2109",
       "first_seen_at": "2026-10-15T19:56:00Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5879829266": {
+      "created_at": "2026-10-16T07:00:34Z",
+      "display": "#497 Grant Application - Zcash RPC Streaming Redaction Audit",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2128",
+      "first_seen_at": "2026-10-16T09:41:26Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-16T05:06:42Z",
-    "forum": "2026-10-16T05:06:42Z",
-    "github": "2026-10-16T05:06:42Z",
-    "zcg": "2026-10-16T05:06:42Z"
+    "fixed_orgs": "2026-10-16T09:41:26Z",
+    "forum": "2026-10-16T09:41:26Z",
+    "github": "2026-10-16T09:41:26Z",
+    "zcg": "2026-10-16T09:41:26Z"
   }
 }
