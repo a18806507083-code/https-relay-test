@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-16T09:41:26Z",
+  "last_run_at": "2026-10-16T14:15:05Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-16T04:36:42Z",
+      "cutoff": "2026-10-16T09:11:26Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-16T04:36:42Z",
+      "cutoff": "2026-10-16T09:11:26Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-16T04:36:42Z",
-      "matches": 2,
+      "cutoff": "2026-10-16T09:11:26Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-16T04:36:42Z",
+      "cutoff": "2026-10-16T09:11:26Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -5511,6 +5511,30 @@
       "first_seen_at": "2026-10-16T09:41:26Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1422070303": {
+      "created_at": "2026-10-16T11:27:56Z",
+      "display": "Oluwa-Laughter/zerynex",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2141",
+      "first_seen_at": "2026-10-16T14:15:05Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1422071103": {
+      "created_at": "2026-10-16T11:28:41Z",
+      "display": "london160771/ZecRescue",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2140",
+      "first_seen_at": "2026-10-16T14:15:05Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1422173456": {
+      "created_at": "2026-10-16T13:05:28Z",
+      "display": "LegendaryTunzeverywhere/BIDSHIELD",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2139",
+      "first_seen_at": "2026-10-16T14:15:05Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -6110,14 +6134,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2128",
       "first_seen_at": "2026-10-16T09:41:26Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5883130010": {
+      "created_at": "2026-10-16T11:10:02Z",
+      "display": "#498 Grant Application - Zcash 中文入门包 / Zcash Chinese Onboarding Pack",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2142",
+      "first_seen_at": "2026-10-16T14:15:05Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-16T09:41:26Z",
-    "forum": "2026-10-16T09:41:26Z",
-    "github": "2026-10-16T09:41:26Z",
-    "zcg": "2026-10-16T09:41:26Z"
+    "fixed_orgs": "2026-10-16T14:15:05Z",
+    "forum": "2026-10-16T14:15:05Z",
+    "github": "2026-10-16T14:15:05Z",
+    "zcg": "2026-10-16T14:15:05Z"
   }
 }
