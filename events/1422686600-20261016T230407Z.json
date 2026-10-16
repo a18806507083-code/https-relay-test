@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T21:27:26Z",
+    "description": "RUKUS deployed contracts, reproducible build inputs and integration reference on Robinhood Chain.",
+    "detected_at": "2026-10-16T23:04:07Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "RichardBuilds404/rukus-contracts",
+    "homepage": "https://app.rukus.fun/docs",
+    "html_url": "https://github.com/RichardBuilds404/rukus-contracts",
+    "pushed_at": "2026-10-16T21:27:40Z",
+    "repo_id": 1422686600,
+    "score": 5,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
