@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T15:23:19.611Z",
+    "detected_at": "2026-10-16T18:03:39Z",
+    "display": "58268 Grant Application - Zcash RPC Streaming Redaction Audit",
+    "key": "forum:58268",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-rpc-streaming-redaction-audit",
+      "title": "Grant Application - Zcash RPC Streaming Redaction Audit",
+      "topic_id": 58268
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58268,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-rpc-streaming-redaction-audit/58268"
+  },
+  "schema": "zcash-fast-event/1"
+}
