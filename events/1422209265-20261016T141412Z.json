@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T13:35:41Z",
+    "description": "Toll MCP server: coin checks for AI agents on Robinhood Chain, Solana, BSC and Arc (remote, https://t0ll.xyz/mcp)",
+    "detected_at": "2026-10-16T14:14:12Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "soli0x/toll-mcp",
+    "homepage": "https://t0ll.xyz/agents/mcp",
+    "html_url": "https://github.com/soli0x/toll-mcp",
+    "pushed_at": "2026-10-16T14:04:13Z",
+    "repo_id": 1422209265,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
