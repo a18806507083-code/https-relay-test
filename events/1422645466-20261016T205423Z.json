@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T20:32:47Z",
+    "description": "Deploy this Foundry project exactly as committed, from launch.json: DrandBeacon, IdentityMachine, MachineViews and EthMinter on Robinhood Chain, in that order, with the constructor arguments listed there ($owner is the dev payout address). Do not change any contract source, constructor argument or compiler setting: the project builds with forge ...",
+    "detected_at": "2026-10-16T20:54:23Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-2025-deploy-foundry-project-exactly",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2025-deploy-foundry-project-exactly",
+    "pushed_at": "2026-10-16T20:32:52Z",
+    "repo_id": 1422645466,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
