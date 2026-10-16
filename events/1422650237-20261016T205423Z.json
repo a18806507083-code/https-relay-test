@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T20:38:48Z",
+    "description": "Magic coin a coin for magic number game ",
+    "detected_at": "2026-10-16T20:54:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "Aquacoinx/MACO-",
+    "homepage": null,
+    "html_url": "https://github.com/Aquacoinx/MACO-",
+    "pushed_at": "2026-10-16T20:47:45Z",
+    "repo_id": 1422650237,
+    "score": 17,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
