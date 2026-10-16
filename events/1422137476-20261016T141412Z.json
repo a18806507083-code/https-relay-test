@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T12:32:53Z",
+    "description": "@veyanet/mcp is the Model Context Protocol server for VEYA on Robinhood Chain providing Streamable HTTP tools for describe, chain ping, hashing, verify, and verifiable onchain reads.",
+    "detected_at": "2026-10-16T14:14:12Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "veyanet/veya-mcp",
+    "homepage": "",
+    "html_url": "https://github.com/veyanet/veya-mcp",
+    "pushed_at": "2026-10-16T12:37:18Z",
+    "repo_id": 1422137476,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
