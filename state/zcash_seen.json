@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-16T14:15:05Z",
+  "last_run_at": "2026-10-16T18:03:39Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-16T09:11:26Z",
+      "cutoff": "2026-10-16T13:45:05Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-16T09:11:26Z",
-      "matches": 0,
+      "cutoff": "2026-10-16T13:45:05Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-16T09:11:26Z",
+      "cutoff": "2026-10-16T13:45:05Z",
       "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-16T09:11:26Z",
-      "matches": 1,
+      "cutoff": "2026-10-16T13:45:05Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -1341,6 +1341,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2108",
       "first_seen_at": "2026-10-15T19:56:00Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58264": {
+      "created_at": "2026-10-16T14:49:41.005Z",
+      "display": "58264 Miners 4 ZEC?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2150",
+      "first_seen_at": "2026-10-16T18:03:39Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58268": {
+      "created_at": "2026-10-16T15:23:19.611Z",
+      "display": "58268 Grant Application - Zcash RPC Streaming Redaction Audit",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2149",
+      "first_seen_at": "2026-10-16T18:03:39Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -5535,6 +5551,30 @@
       "first_seen_at": "2026-10-16T14:15:05Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1422239910": {
+      "created_at": "2026-10-16T14:02:46Z",
+      "display": "YouDevIt/cripte-di-zenobia",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2152",
+      "first_seen_at": "2026-10-16T18:03:39Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1422279789": {
+      "created_at": "2026-10-16T14:37:32Z",
+      "display": "esteexbt/veillint",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2151",
+      "first_seen_at": "2026-10-16T18:03:39Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1422415279": {
+      "created_at": "2026-10-16T16:38:51Z",
+      "display": "techbone/Ostrakon",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2148",
+      "first_seen_at": "2026-10-16T18:03:39Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -6147,9 +6187,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-16T14:15:05Z",
-    "forum": "2026-10-16T14:15:05Z",
-    "github": "2026-10-16T14:15:05Z",
-    "zcg": "2026-10-16T14:15:05Z"
+    "fixed_orgs": "2026-10-16T18:03:39Z",
+    "forum": "2026-10-16T18:03:39Z",
+    "github": "2026-10-16T18:03:39Z",
+    "zcg": "2026-10-16T18:03:39Z"
   }
 }
