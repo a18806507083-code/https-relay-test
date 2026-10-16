@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T14:49:41.005Z",
+    "detected_at": "2026-10-16T18:03:39Z",
+    "display": "58264 Miners 4 ZEC?",
+    "key": "forum:58264",
+    "metadata": {
+      "category_id": 13,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "miners-4-zec",
+      "title": "Miners 4 ZEC?",
+      "topic_id": 58264
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58264,
+    "url": "https://forum.zcashcommunity.com/t/miners-4-zec/58264"
+  },
+  "schema": "zcash-fast-event/1"
+}
