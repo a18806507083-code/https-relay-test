@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T18:45:16Z",
+    "detected_at": "2026-10-16T20:54:44Z",
+    "display": "zano-projects/wallet-address-validator",
+    "key": "repo:1422549268",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "zano-projects/wallet-address-validator",
+      "homepage": null,
+      "pushed_at": "2026-10-16T18:46:55Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1422549268,
+    "url": "https://github.com/zano-projects/wallet-address-validator"
+  },
+  "schema": "zcash-fast-event/1"
+}
