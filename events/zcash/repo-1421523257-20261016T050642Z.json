@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T01:55:05Z",
+    "detected_at": "2026-10-16T05:06:42Z",
+    "display": "deegalabs/konclave-prove-poc",
+    "key": "repo:1421523257",
+    "metadata": {
+      "description": "Orchard and Ironwood proving in WebAssembly on a phone: a measurement harness and its raw results",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "deegalabs/konclave-prove-poc",
+      "homepage": null,
+      "pushed_at": "2026-10-16T01:55:10Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1421523257,
+    "url": "https://github.com/deegalabs/konclave-prove-poc"
+  },
+  "schema": "zcash-fast-event/1"
+}
