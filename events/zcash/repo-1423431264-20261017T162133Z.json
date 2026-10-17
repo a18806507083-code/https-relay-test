@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T14:47:44Z",
+    "detected_at": "2026-10-17T16:21:33Z",
+    "display": "follen99/Backbone",
+    "key": "repo:1423431264",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "follen99/Backbone",
+      "homepage": null,
+      "pushed_at": "2026-10-17T15:02:05Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1423431264,
+    "url": "https://github.com/follen99/Backbone"
+  },
+  "schema": "zcash-fast-event/1"
+}
