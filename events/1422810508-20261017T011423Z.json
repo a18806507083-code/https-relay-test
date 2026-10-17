@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T00:39:08Z",
+    "description": "Gully Labs SDK: a typed client for the stock token tracker API and the embeddable widget (React + vanilla). MIT.",
+    "detected_at": "2026-10-17T01:14:23Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "gully-labs/sdk",
+    "homepage": "https://docs.gullylabs.xyz/sdk",
+    "html_url": "https://github.com/gully-labs/sdk",
+    "pushed_at": "2026-10-17T00:39:12Z",
+    "repo_id": 1422810508,
+    "score": 6,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
