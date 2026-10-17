@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T22:24:56Z",
+    "description": "Projects building on Robinhood Chain, each with public evidence that it ships. Regenerated weekly from Hey Research Lab's open dataset.",
+    "detected_at": "2026-10-17T22:42:57Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "hey-research-lab/awesome-robinhood-chain",
+    "homepage": "https://heyresearch.xyz",
+    "html_url": "https://github.com/hey-research-lab/awesome-robinhood-chain",
+    "pushed_at": "2026-10-17T22:25:42Z",
+    "repo_id": 1423800351,
+    "score": 20,
+    "tech_signals": [
+      "Morpho",
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
