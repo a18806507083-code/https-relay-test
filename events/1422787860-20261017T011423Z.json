@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T23:57:29Z",
+    "description": "Pangea's Uniswap v4 multichain hook: the deployed source, byte-for-byte (0x15e5E7206C661a1E881F5CD33A94eAF2328FA8cc on Ethereum, BNB Chain, Base, Robinhood)",
+    "detected_at": "2026-10-17T01:14:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "nightcode112/pangea-multichain-hook",
+    "homepage": null,
+    "html_url": "https://github.com/nightcode112/pangea-multichain-hook",
+    "pushed_at": "2026-10-17T00:26:54Z",
+    "repo_id": 1422787860,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
