@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T15:11:40Z",
+    "detected_at": "2026-10-17T16:21:33Z",
+    "display": "ace-coderr/ShieldLint",
+    "key": "repo:1423453629",
+    "metadata": {
+      "description": "Offline privacy linter for Zcash — catches transparent recipients, memo/viewing-key leaks and invalid ZIP 316/321 addresses before they ship.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ace-coderr/ShieldLint",
+      "homepage": "https://shieldlint.vercel.app",
+      "pushed_at": "2026-10-17T16:16:42Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1423453629,
+    "url": "https://github.com/ace-coderr/ShieldLint"
+  },
+  "schema": "zcash-fast-event/1"
+}
