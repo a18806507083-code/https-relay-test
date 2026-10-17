@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T21:59:30Z",
+    "description": "Trade quiet. Sealed orders, batch fills, zero snipers fed. Built on Robinhood Chain.",
+    "detected_at": "2026-10-17T22:42:57Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "Toftof93/silent-fill",
+    "homepage": null,
+    "html_url": "https://github.com/Toftof93/silent-fill",
+    "pushed_at": "2026-10-17T22:15:50Z",
+    "repo_id": 1423783023,
+    "score": 11,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
