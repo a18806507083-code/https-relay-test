@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T16:03:27Z",
+    "detected_at": "2026-10-17T18:34:55Z",
+    "display": "ProfGiulioTommasella/Spooky-House",
+    "key": "repo:1423501368",
+    "metadata": {
+      "description": "Gioco di ascolto di frammenti dei più importanti compositori di barocco e neoclassico",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "ProfGiulioTommasella/Spooky-House",
+      "homepage": null,
+      "pushed_at": "2026-10-17T17:54:05Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1423501368,
+    "url": "https://github.com/ProfGiulioTommasella/Spooky-House"
+  },
+  "schema": "zcash-fast-event/1"
+}
