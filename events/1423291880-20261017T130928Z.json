@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T12:10:15Z",
+    "description": null,
+    "detected_at": "2026-10-17T13:09:28Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "zyl19971116-debug/last",
+    "homepage": "https://web3-ui-last-signal-last-signal.vercel.app",
+    "html_url": "https://github.com/zyl19971116-debug/last",
+    "pushed_at": "2026-10-17T12:32:28Z",
+    "repo_id": 1423291880,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
