@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T13:24:32Z",
+    "detected_at": "2026-10-17T16:21:33Z",
+    "display": "marcoromoli11310-dot/rhymelab",
+    "key": "repo:1423354303",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "marcoromoli11310-dot/rhymelab",
+      "homepage": "https://marcoromoli11310-dot.github.io/rhymelab/",
+      "pushed_at": "2026-10-17T14:10:42Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1423354303,
+    "url": "https://github.com/marcoromoli11310-dot/rhymelab"
+  },
+  "schema": "zcash-fast-event/1"
+}
