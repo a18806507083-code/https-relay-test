@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T12:25:59.772Z",
+    "detected_at": "2026-10-17T13:10:04Z",
+    "display": "58297 Grant Application - ZIP-321 Conformance Notebook",
+    "key": "forum:58297",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zip-321-conformance-notebook",
+      "title": "Grant Application - ZIP-321 Conformance Notebook",
+      "topic_id": 58297
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58297,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zip-321-conformance-notebook/58297"
+  },
+  "schema": "zcash-fast-event/1"
+}
