@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T16:26:52Z",
+    "detected_at": "2026-10-17T18:34:55Z",
+    "display": "Lordprolific/veylora-testnet-wallet",
+    "key": "repo:1423522646",
+    "metadata": {
+      "description": "An open-source Zcash testnet wallet and developer toolkit for building, connecting, and testing Zcash dApps. Built for the Veylora ecosystem and the wider Zcash developer community.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Lordprolific/veylora-testnet-wallet",
+      "homepage": "https://veylora-zcash-dapp-lab.vercel.app",
+      "pushed_at": "2026-10-17T18:33:48Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1423522646,
+    "url": "https://github.com/Lordprolific/veylora-testnet-wallet"
+  },
+  "schema": "zcash-fast-event/1"
+}
