@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-17T16:21:33Z",
+  "last_run_at": "2026-10-17T18:34:55Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-17T12:40:04Z",
+      "cutoff": "2026-10-17T15:51:33Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-17T12:40:04Z",
+      "cutoff": "2026-10-17T15:51:33Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-17T12:40:04Z",
+      "cutoff": "2026-10-17T15:51:33Z",
       "matches": 4,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-17T12:40:04Z",
+      "cutoff": "2026-10-17T15:51:33Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -5751,6 +5751,30 @@
       "first_seen_at": "2026-10-17T16:21:33Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1423500494": {
+      "created_at": "2026-10-17T16:02:26Z",
+      "display": "howard1984/siworld",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2210",
+      "first_seen_at": "2026-10-17T18:34:55Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1423501368": {
+      "created_at": "2026-10-17T16:03:27Z",
+      "display": "ProfGiulioTommasella/Spooky-House",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2209",
+      "first_seen_at": "2026-10-17T18:34:55Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1423522646": {
+      "created_at": "2026-10-17T16:26:52Z",
+      "display": "Lordprolific/veylora-testnet-wallet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2208",
+      "first_seen_at": "2026-10-17T18:34:55Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -6379,9 +6403,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-17T16:21:33Z",
-    "forum": "2026-10-17T16:21:33Z",
-    "github": "2026-10-17T16:21:33Z",
-    "zcg": "2026-10-17T16:21:33Z"
+    "fixed_orgs": "2026-10-17T18:34:55Z",
+    "forum": "2026-10-17T18:34:55Z",
+    "github": "2026-10-17T18:34:55Z",
+    "zcg": "2026-10-17T18:34:55Z"
   }
 }
