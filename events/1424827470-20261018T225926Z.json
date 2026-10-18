@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T21:14:01Z",
+    "description": "UPDATE the existing \"Bounty Box\" build (IMD job: https://explorer.imd.fun/jobs/865f5b8b-7263-4943-be2b-50eeec478fcb). Keep its accepted src/BountyBox.sol and tests, and change only what is listed here. Contract only, no frontend work. Target chain: Robinhood Chain, set in one config file (chain ID, RPC, explorer). Do not deploy to Ethereum mainn...",
+    "detected_at": "2026-10-18T22:59:26Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "identity-md-launches/launch-2194-update-existing-bounty-box",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2194-update-existing-bounty-box",
+    "pushed_at": "2026-10-18T22:15:18Z",
+    "repo_id": 1424827470,
+    "score": 10,
+    "tech_signals": [
+      "Oracle",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
