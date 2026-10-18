@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T07:51:20Z",
+    "description": "PEPES FAMILY: 3,333 IMD Pepes, fully on chain, on Robinhood Chain",
+    "detected_at": "2026-10-18T09:06:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "0xtenang/PepesFamilyNFT",
+    "homepage": null,
+    "html_url": "https://github.com/0xtenang/PepesFamilyNFT",
+    "pushed_at": "2026-10-18T07:51:30Z",
+    "repo_id": 1424126949,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
