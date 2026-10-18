@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-18T18:48:16Z",
+  "last_run_at": "2026-10-18T21:05:10Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-18T16:00:36Z",
+      "cutoff": "2026-10-18T18:18:16Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-18T16:00:36Z",
-      "matches": 1,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-10-18T16:00:36Z",
+      "cutoff": "2026-10-18T18:18:16Z",
       "matches": 0,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-10-18T18:18:16Z",
+      "matches": 5,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-10-18T16:00:36Z",
+      "cutoff": "2026-10-18T18:18:16Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -5839,6 +5839,46 @@
       "first_seen_at": "2026-10-18T16:30:36Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1424737803": {
+      "created_at": "2026-10-18T19:29:15Z",
+      "display": "georgesdejager925/cryptowallet-cli",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2259",
+      "first_seen_at": "2026-10-18T21:05:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1424750215": {
+      "created_at": "2026-10-18T19:43:06Z",
+      "display": "greco857/cryptowallet-cli",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2258",
+      "first_seen_at": "2026-10-18T21:05:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1424792119": {
+      "created_at": "2026-10-18T20:29:58Z",
+      "display": "JorgePanagiotou/cryptowallet-cli",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2257",
+      "first_seen_at": "2026-10-18T21:05:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1424797070": {
+      "created_at": "2026-10-18T20:35:34Z",
+      "display": "prgsuleiman/decoy-canary-wallet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2256",
+      "first_seen_at": "2026-10-18T21:05:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1424799958": {
+      "created_at": "2026-10-18T20:38:44Z",
+      "display": "Riccardom717/cryptowallet-cli",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2255",
+      "first_seen_at": "2026-10-18T21:05:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -6467,9 +6507,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-18T18:48:16Z",
-    "forum": "2026-10-18T18:48:16Z",
-    "github": "2026-10-18T18:48:16Z",
-    "zcg": "2026-10-18T18:48:16Z"
+    "fixed_orgs": "2026-10-18T21:05:10Z",
+    "forum": "2026-10-18T21:05:10Z",
+    "github": "2026-10-18T21:05:10Z",
+    "zcg": "2026-10-18T21:05:10Z"
   }
 }
