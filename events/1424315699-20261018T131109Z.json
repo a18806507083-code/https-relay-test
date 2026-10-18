@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T11:50:10Z",
+    "description": "STOKER ($COAL): autonomous buyback-and-burn engine on Robinhood Chain, with a pixel 3D island site where the supply burns in a furnace",
+    "detected_at": "2026-10-18T13:11:09Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "Dhkrmynti/stoker",
+    "homepage": null,
+    "html_url": "https://github.com/Dhkrmynti/stoker",
+    "pushed_at": "2026-10-18T12:05:22Z",
+    "repo_id": 1424315699,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
