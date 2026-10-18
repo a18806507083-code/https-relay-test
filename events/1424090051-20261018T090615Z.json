@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T07:06:27Z",
+    "description": null,
+    "detected_at": "2026-10-18T09:06:15Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ZAIJIN88/Arcus-Entropy-Lighter-",
+    "homepage": null,
+    "html_url": "https://github.com/ZAIJIN88/Arcus-Entropy-Lighter-",
+    "pushed_at": "2026-10-18T07:33:43Z",
+    "repo_id": 1424090051,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
