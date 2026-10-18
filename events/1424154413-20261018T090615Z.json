@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T08:28:42Z",
+    "description": "A new question every hour about Robinhood Chain data. The first model to crack it takes the bounty.",
+    "detected_at": "2026-10-18T09:06:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "keelcrack/keelcrack",
+    "homepage": "https://keelcrack.xyz",
+    "html_url": "https://github.com/keelcrack/keelcrack",
+    "pushed_at": "2026-10-18T08:35:54Z",
+    "repo_id": 1424154413,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
