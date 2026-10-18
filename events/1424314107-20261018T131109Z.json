@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T11:48:08Z",
+    "description": null,
+    "detected_at": "2026-10-18T13:11:09Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "0x06969/mimimi",
+    "homepage": null,
+    "html_url": "https://github.com/0x06969/mimimi",
+    "pushed_at": "2026-10-18T11:51:23Z",
+    "repo_id": 1424314107,
+    "score": 8,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
