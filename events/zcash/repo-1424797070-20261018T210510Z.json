@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T20:35:34Z",
+    "detected_at": "2026-10-18T21:05:10Z",
+    "display": "prgsuleiman/decoy-canary-wallet",
+    "key": "repo:1424797070",
+    "metadata": {
+      "description": "A Zcash-based wallet security prototype that uses shielded canary outputs to detect suspicious activity, trigger a protective freeze, and require legitimate recovery.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "prgsuleiman/decoy-canary-wallet",
+      "homepage": null,
+      "pushed_at": "2026-10-18T20:39:27Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1424797070,
+    "url": "https://github.com/prgsuleiman/decoy-canary-wallet"
+  },
+  "schema": "zcash-fast-event/1"
+}
