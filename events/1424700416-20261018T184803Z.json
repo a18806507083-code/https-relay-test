@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T18:43:42Z",
+    "description": "TypeScript SDK and MCP server for gage: fixed-cost loans with no liquidation on Robinhood Chain",
+    "detected_at": "2026-10-18T18:48:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "DebenLabs/gage-sdk",
+    "homepage": "https://docs.gage.cash/ai-agents/sdk",
+    "html_url": "https://github.com/DebenLabs/gage-sdk",
+    "pushed_at": "2026-10-18T18:43:56Z",
+    "repo_id": 1424700416,
+    "score": 12,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
