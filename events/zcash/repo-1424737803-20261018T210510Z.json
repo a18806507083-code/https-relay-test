@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T19:29:15Z",
+    "detected_at": "2026-10-18T21:05:10Z",
+    "display": "georgesdejager925/cryptowallet-cli",
+    "key": "repo:1424737803",
+    "metadata": {
+      "description": "cw — a crypto wallet generator CLI tool for a lot of blockchains: Bitcoin, Ethereum, Base, Solana, SUI, TON, any EVM (L1/L2/L3) and many others",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "georgesdejager925/cryptowallet-cli",
+      "homepage": "https://www.npmjs.com/package/@yerofey/cryptowallet-cli",
+      "pushed_at": "2026-10-18T19:29:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1424737803,
+    "url": "https://github.com/georgesdejager925/cryptowallet-cli"
+  },
+  "schema": "zcash-fast-event/1"
+}
