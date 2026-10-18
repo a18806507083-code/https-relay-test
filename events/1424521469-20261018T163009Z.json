@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T15:30:59Z",
+    "description": "Deploy only src/KeptVault.sol from this repository on Robinhood Chain (chain id 4663), with no changes to the production source unless an audit finding requires one. KEPT lets any project lock tokens behind milestones that the IMD oracle checks; kept milestones release to the team, unproven ones are burned. Constructor arguments in order: owner_...",
+    "detected_at": "2026-10-18T16:30:09Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-2172-deploy-only-src-keptvault-sol-repository",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2172-deploy-only-src-keptvault-sol-repository",
+    "pushed_at": "2026-10-18T16:25:22Z",
+    "repo_id": 1424521469,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
