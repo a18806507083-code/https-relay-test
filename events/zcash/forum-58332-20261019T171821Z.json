@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T14:24:47.681Z",
+    "detected_at": "2026-10-19T17:18:21Z",
+    "display": "58332 Grant Application – zreceipt: payment disclosures for shielded Zcash (ZIP 311)",
+    "key": "forum:58332",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zreceipt-payment-disclosures-for-shielded-zcash-zip-311",
+      "title": "Grant Application – zreceipt: payment disclosures for shielded Zcash (ZIP 311)",
+      "topic_id": 58332
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58332,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zreceipt-payment-disclosures-for-shielded-zcash-zip-311/58332"
+  },
+  "schema": "zcash-fast-event/1"
+}
