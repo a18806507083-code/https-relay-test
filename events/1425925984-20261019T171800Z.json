@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T17:03:29Z",
+    "description": "Intelligent Dance Market: immutable Uniswap v4 sequencer hook (Foundry), launched through IMD on Robinhood Chain",
+    "detected_at": "2026-10-19T17:18:00Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "discodirector/idm-hook",
+    "homepage": "https://theidm.fun",
+    "html_url": "https://github.com/discodirector/idm-hook",
+    "pushed_at": "2026-10-19T17:04:46Z",
+    "repo_id": 1425925984,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
