@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T19:39:27.339Z",
+    "detected_at": "2026-10-19T21:34:42Z",
+    "display": "58349 Grant Application - {Pasta GLV Scalar Split Assurance: Source-Linked Proofs for Pallas and Vesta}",
+    "key": "forum:58349",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-pasta-glv-scalar-split-assurance-source-linked-proofs-for-pallas-and-vesta",
+      "title": "Grant Application - {Pasta GLV Scalar Split Assurance: Source-Linked Proofs for Pallas and Vesta}",
+      "topic_id": 58349
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58349,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-pasta-glv-scalar-split-assurance-source-linked-proofs-for-pallas-and-vesta/58349"
+  },
+  "schema": "zcash-fast-event/1"
+}
