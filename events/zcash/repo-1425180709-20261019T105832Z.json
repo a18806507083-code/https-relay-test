@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T06:04:14Z",
+    "detected_at": "2026-10-19T10:58:32Z",
+    "display": "Tachyonexp/tachyon",
+    "key": "repo:1425180709",
+    "metadata": {
+      "description": "Tachyon — private multi-chain agent runtime. Shielded notes, recursive SNARKs, agent-controlled wallets.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Tachyonexp/tachyon",
+      "homepage": null,
+      "pushed_at": "2026-10-19T06:06:23Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1425180709,
+    "url": "https://github.com/Tachyonexp/tachyon"
+  },
+  "schema": "zcash-fast-event/1"
+}
