@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T16:16:12Z",
+    "description": "Deploy the audited IMD Vault factory on Robinhood Chain, unchanged. This is the exact code audited and deployed on Ethereum mainnet in launch 2244 (VaultFactory at 0xdbaff609cd0500527a2a102f5cbbbbc70fd2ff5b). Deploy exactly src/VaultFactory.sol with constructor arguments: imd_=0x0000000000000000000000000000000000000000, feeRecipient_=0x000000000...",
+    "detected_at": "2026-10-19T17:18:00Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-2251-deploy-audited-imd-vault",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2251-deploy-audited-imd-vault",
+    "pushed_at": "2026-10-19T16:16:16Z",
+    "repo_id": 1425874192,
+    "score": 7,
+    "tech_signals": [
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
