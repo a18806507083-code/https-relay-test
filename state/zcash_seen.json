@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-19T00:50:35Z",
+  "last_run_at": "2026-10-19T05:24:01Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-18T22:29:51Z",
+      "cutoff": "2026-10-19T00:20:35Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-18T22:29:51Z",
+      "cutoff": "2026-10-19T00:20:35Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-18T22:29:51Z",
-      "matches": 1,
+      "cutoff": "2026-10-19T00:20:35Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-18T22:29:51Z",
-      "matches": 0,
+      "cutoff": "2026-10-19T00:20:35Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -5887,6 +5887,14 @@
       "first_seen_at": "2026-10-19T00:50:35Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1424972131": {
+      "created_at": "2026-10-19T01:15:44Z",
+      "display": "nocontentinhere4-art/entity-enclave",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2269",
+      "first_seen_at": "2026-10-19T05:24:01Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -6510,14 +6518,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2193",
       "first_seen_at": "2026-10-17T13:10:04Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5916932341": {
+      "created_at": "2026-10-19T02:50:02Z",
+      "display": "#501 Develop a Go interface to state-of-the-art Zcash light-wallet tech",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2268",
+      "first_seen_at": "2026-10-19T05:24:01Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-19T00:50:35Z",
-    "forum": "2026-10-19T00:50:35Z",
-    "github": "2026-10-19T00:50:35Z",
-    "zcg": "2026-10-19T00:50:35Z"
+    "fixed_orgs": "2026-10-19T05:24:01Z",
+    "forum": "2026-10-19T05:24:01Z",
+    "github": "2026-10-19T05:24:01Z",
+    "zcg": "2026-10-19T05:24:01Z"
   }
 }
