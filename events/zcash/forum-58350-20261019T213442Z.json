@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T19:50:18.313Z",
+    "detected_at": "2026-10-19T21:34:42Z",
+    "display": "58350 How Can I Use My KOL Network to Help Zcash Reach More People?",
+    "key": "forum:58350",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "how-can-i-use-my-kol-network-to-help-zcash-reach-more-people",
+      "title": "How Can I Use My KOL Network to Help Zcash Reach More People?",
+      "topic_id": 58350
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58350,
+    "url": "https://forum.zcashcommunity.com/t/how-can-i-use-my-kol-network-to-help-zcash-reach-more-people/58350"
+  },
+  "schema": "zcash-fast-event/1"
+}
