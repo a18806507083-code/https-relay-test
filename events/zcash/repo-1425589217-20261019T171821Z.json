@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T12:34:04Z",
+    "detected_at": "2026-10-19T17:18:21Z",
+    "display": "tomcode1000/hypothec",
+    "key": "repo:1425589217",
+    "metadata": {
+      "description": "Private USDC loans against shielded ZEC: a 3-of-4 FROST vault per loan on Zcash, the loan on Base. ZECATHON, Private Markets.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "tomcode1000/hypothec",
+      "homepage": null,
+      "pushed_at": "2026-10-19T14:54:41Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1425589217,
+    "url": "https://github.com/tomcode1000/hypothec"
+  },
+  "schema": "zcash-fast-event/1"
+}
