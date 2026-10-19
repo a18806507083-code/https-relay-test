@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T20:22:57Z",
+    "detected_at": "2026-10-19T21:34:42Z",
+    "display": "vesperorg/vesper",
+    "key": "repo:1426132841",
+    "metadata": {
+      "description": "A privacy coin whose ledger records a payment without who paid, who was paid, or how much: one-time locks for receivers, sealed amounts the chain can add up but not read, and a ring of 32 possible coins for every spend (twice Monero's). Plain Python, written to be read. Testnet-1 is live with valueless test coins. Not audited.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "vesperorg/vesper",
+      "homepage": "https://vesperorg.github.io/vesper/",
+      "pushed_at": "2026-10-19T21:18:33Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1426132841,
+    "url": "https://github.com/vesperorg/vesper"
+  },
+  "schema": "zcash-fast-event/1"
+}
