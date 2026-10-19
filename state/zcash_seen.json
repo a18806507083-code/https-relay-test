@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-19T10:58:32Z",
+  "last_run_at": "2026-10-19T17:18:21Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-19T04:54:01Z",
+      "cutoff": "2026-10-19T10:28:32Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
       "cutoff": "2026-10-19T04:54:01Z",
-      "error": "HTTP Error 429: Too Many Requests",
-      "status": "FAIL"
-    },
-    "github": {
-      "cutoff": "2026-10-19T04:54:01Z",
       "matches": 3,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-10-19T10:28:32Z",
+      "matches": 6,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-10-19T04:54:01Z",
-      "matches": 2,
+      "cutoff": "2026-10-19T10:28:32Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -1381,6 +1381,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2244",
       "first_seen_at": "2026-10-18T16:30:36Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58332": {
+      "created_at": "2026-10-19T14:24:47.681Z",
+      "display": "58332 Grant Application – zreceipt: payment disclosures for shielded Zcash (ZIP 311)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2290",
+      "first_seen_at": "2026-10-19T17:18:21Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58339": {
+      "created_at": "2026-10-19T14:59:53.650Z",
+      "display": "58339 Grant Application - Zcash at @BlockchainLife 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2289",
+      "first_seen_at": "2026-10-19T17:18:21Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58341": {
+      "created_at": "2026-10-19T15:07:39.157Z",
+      "display": "58341 Last call: applications for Zcon7 close tomorrow!",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2288",
+      "first_seen_at": "2026-10-19T17:18:21Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -5919,6 +5943,54 @@
       "first_seen_at": "2026-10-19T10:58:32Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1425512643": {
+      "created_at": "2026-10-19T11:27:05Z",
+      "display": "Roberto-Mottola/awesome-legal-onions",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2294",
+      "first_seen_at": "2026-10-19T17:18:21Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1425517012": {
+      "created_at": "2026-10-19T11:31:07Z",
+      "display": "carlopilloni88-design/GranPesca-0.13.2",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2293",
+      "first_seen_at": "2026-10-19T17:18:21Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1425589217": {
+      "created_at": "2026-10-19T12:34:04Z",
+      "display": "tomcode1000/hypothec",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2292",
+      "first_seen_at": "2026-10-19T17:18:21Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1425633839": {
+      "created_at": "2026-10-19T13:09:26Z",
+      "display": "kazzysax/OBSCURA",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2291",
+      "first_seen_at": "2026-10-19T17:18:21Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1425918887": {
+      "created_at": "2026-10-19T16:57:06Z",
+      "display": "Sireadell/fanta",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2287",
+      "first_seen_at": "2026-10-19T17:18:21Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1425923723": {
+      "created_at": "2026-10-19T17:01:29Z",
+      "display": "davicresta-star/weroad-thailandia",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2286",
+      "first_seen_at": "2026-10-19T17:18:21Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -6571,9 +6643,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-19T10:58:32Z",
-    "forum": "2026-10-19T05:24:01Z",
-    "github": "2026-10-19T10:58:32Z",
-    "zcg": "2026-10-19T10:58:32Z"
+    "fixed_orgs": "2026-10-19T17:18:21Z",
+    "forum": "2026-10-19T17:18:21Z",
+    "github": "2026-10-19T17:18:21Z",
+    "zcg": "2026-10-19T17:18:21Z"
   }
 }
