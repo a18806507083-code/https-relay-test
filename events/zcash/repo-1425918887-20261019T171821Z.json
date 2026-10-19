@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T16:57:06Z",
+    "detected_at": "2026-10-19T17:18:21Z",
+    "display": "Sireadell/fanta",
+    "key": "repo:1425918887",
+    "metadata": {
+      "description": "Checks a sealed-bid Zcash auction: replays the bids, winner, price and refunds from a read-only key and says PASS or FAIL.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Sireadell/fanta",
+      "homepage": null,
+      "pushed_at": "2026-10-19T16:57:17Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1425918887,
+    "url": "https://github.com/Sireadell/fanta"
+  },
+  "schema": "zcash-fast-event/1"
+}
