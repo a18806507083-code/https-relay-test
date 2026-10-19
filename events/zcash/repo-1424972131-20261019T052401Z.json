@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T01:15:44Z",
+    "detected_at": "2026-10-19T05:24:01Z",
+    "display": "nocontentinhere4-art/entity-enclave",
+    "key": "repo:1424972131",
+    "metadata": {
+      "description": "An autonomous entity's enclave: attested TDX service, shielded Zcash treasury, public hash-chained ledger.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "nocontentinhere4-art/entity-enclave",
+      "homepage": null,
+      "pushed_at": "2026-10-19T02:28:00Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1424972131,
+    "url": "https://github.com/nocontentinhere4-art/entity-enclave"
+  },
+  "schema": "zcash-fast-event/1"
+}
