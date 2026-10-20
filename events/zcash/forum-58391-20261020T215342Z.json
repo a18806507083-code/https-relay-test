@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T19:23:36.337Z",
+    "detected_at": "2026-10-20T21:53:42Z",
+    "display": "58391 Address Checker, an agent that tells you what a Zcash address really is before you send",
+    "key": "forum:58391",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "address-checker-an-agent-that-tells-you-what-a-zcash-address-really-is-before-you-send",
+      "title": "Address Checker, an agent that tells you what a Zcash address really is before you send",
+      "topic_id": 58391
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58391,
+    "url": "https://forum.zcashcommunity.com/t/address-checker-an-agent-that-tells-you-what-a-zcash-address-really-is-before-you-send/58391"
+  },
+  "schema": "zcash-fast-event/1"
+}
