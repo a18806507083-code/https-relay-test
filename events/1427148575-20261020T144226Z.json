@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T14:35:43Z",
+    "description": "Python SDK for Triport: synchronous and asynchronous JSON-RPC across nine networks, REST helpers, WebSocket subscriptions and Solana gRPC endpoint configuration.",
+    "detected_at": "2026-10-20T14:42:26Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "triport-labs/triport-python-sdk",
+    "homepage": "https://triport.io/docs",
+    "html_url": "https://github.com/triport-labs/triport-python-sdk",
+    "pushed_at": "2026-10-20T14:35:50Z",
+    "repo_id": 1427148575,
+    "score": 7,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
