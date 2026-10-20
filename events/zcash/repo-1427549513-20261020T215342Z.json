@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T20:48:50Z",
+    "detected_at": "2026-10-20T21:53:42Z",
+    "display": "BuildHighBH/AURUM",
+    "key": "repo:1427549513",
+    "metadata": {
+      "description": "Top cryptocurrency Tracker ",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "BuildHighBH/AURUM",
+      "homepage": "Aurum.com",
+      "pushed_at": "2026-10-20T21:28:50Z",
+      "tech_signals": [
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1427549513,
+    "url": "https://github.com/BuildHighBH/AURUM"
+  },
+  "schema": "zcash-fast-event/1"
+}
