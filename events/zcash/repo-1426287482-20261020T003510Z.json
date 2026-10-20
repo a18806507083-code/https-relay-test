@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T23:30:54Z",
+    "detected_at": "2026-10-20T00:35:10Z",
+    "display": "saimon289127/Downfall-Dawnwall",
+    "key": "repo:1426287482",
+    "metadata": {
+      "description": "Downfall — L'Assedio dell'Alba (HTML5 Mobile Strategy + Tower Defense + Base Building in Phaser 4 & Playgama Bridge)",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "saimon289127/Downfall-Dawnwall",
+      "homepage": null,
+      "pushed_at": "2026-10-19T23:44:18Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1426287482,
+    "url": "https://github.com/saimon289127/Downfall-Dawnwall"
+  },
+  "schema": "zcash-fast-event/1"
+}
