@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T20:22:15.020Z",
+    "detected_at": "2026-10-20T21:53:42Z",
+    "display": "58397 Proposal & Community Support: Privacy-Focused Multicoin Wrapper (XMR, ZEC, DASH) & ETF Roadmap",
+    "key": "forum:58397",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "proposal-community-support-privacy-focused-multicoin-wrapper-xmr-zec-dash-etf-roadmap",
+      "title": "Proposal & Community Support: Privacy-Focused Multicoin Wrapper (XMR, ZEC, DASH) & ETF Roadmap",
+      "topic_id": 58397
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58397,
+    "url": "https://forum.zcashcommunity.com/t/proposal-community-support-privacy-focused-multicoin-wrapper-xmr-zec-dash-etf-roadmap/58397"
+  },
+  "schema": "zcash-fast-event/1"
+}
