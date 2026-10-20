@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T21:10:49Z",
+    "description": "just a v4 launch alert bot",
+    "detected_at": "2026-10-20T21:53:15Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "N-koder/v4launchalertbot",
+    "homepage": null,
+    "html_url": "https://github.com/N-koder/v4launchalertbot",
+    "pushed_at": "2026-10-20T21:47:26Z",
+    "repo_id": 1427568581,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
