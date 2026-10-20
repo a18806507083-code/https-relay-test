@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T21:34:31Z",
+    "description": "Data-condition checks for Robinhood Stock Token prices on Robinhood Chain, with a preregistered replay.",
+    "detected_at": "2026-10-20T21:53:15Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Flookerton/stock-token-check",
+    "homepage": null,
+    "html_url": "https://github.com/Flookerton/stock-token-check",
+    "pushed_at": "2026-10-20T21:37:01Z",
+    "repo_id": 1427587691,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
