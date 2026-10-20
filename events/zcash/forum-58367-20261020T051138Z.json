@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T03:52:15.841Z",
+    "detected_at": "2026-10-20T05:11:38Z",
+    "display": "58367 Zcash at 10: What Role Will Whales Play in the Next Decade?",
+    "key": "forum:58367",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-at-10-what-role-will-whales-play-in-the-next-decade",
+      "title": "Zcash at 10: What Role Will Whales Play in the Next Decade?",
+      "topic_id": 58367
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58367,
+    "url": "https://forum.zcashcommunity.com/t/zcash-at-10-what-role-will-whales-play-in-the-next-decade/58367"
+  },
+  "schema": "zcash-fast-event/1"
+}
