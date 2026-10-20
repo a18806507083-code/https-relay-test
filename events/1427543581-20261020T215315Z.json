@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T20:42:10Z",
+    "description": "Three Claude Code agents (Scout, Skeptic, Trader) that paper-trade Robinhood Chain tokens on the PumpPill MCP. Paper only.",
+    "detected_at": "2026-10-20T21:53:15Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "JackedBased/pumppill-swarm-template",
+    "homepage": "https://pumppill.org/?ref=gh",
+    "html_url": "https://github.com/JackedBased/pumppill-swarm-template",
+    "pushed_at": "2026-10-20T21:43:30Z",
+    "repo_id": 1427543581,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
