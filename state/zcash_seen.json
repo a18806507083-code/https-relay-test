@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-20T18:44:22Z",
+  "last_run_at": "2026-10-20T21:53:42Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-20T14:12:59Z",
+      "cutoff": "2026-10-20T18:14:22Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-20T14:12:59Z",
-      "matches": 4,
+      "cutoff": "2026-10-20T18:14:22Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-20T14:12:59Z",
-      "matches": 6,
+      "cutoff": "2026-10-20T18:14:22Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-20T14:12:59Z",
+      "cutoff": "2026-10-20T18:14:22Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -1485,6 +1485,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2341",
       "first_seen_at": "2026-10-20T18:44:22Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58391": {
+      "created_at": "2026-10-20T19:23:36.337Z",
+      "display": "58391 Address Checker, an agent that tells you what a Zcash address really is before you send",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2359",
+      "first_seen_at": "2026-10-20T21:53:42Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58393": {
+      "created_at": "2026-10-20T19:45:27.585Z",
+      "display": "58393 Grant Proposal: Develop a Go interface to state-of-the-art Zcash light-wallet tech",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2358",
+      "first_seen_at": "2026-10-20T21:53:42Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58397": {
+      "created_at": "2026-10-20T20:22:15.020Z",
+      "display": "58397 Proposal & Community Support: Privacy-Focused Multicoin Wrapper (XMR, ZEC, DASH) & ETF Roadmap",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2357",
+      "first_seen_at": "2026-10-20T21:53:42Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -6247,6 +6271,30 @@
       "first_seen_at": "2026-10-20T18:44:22Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1427436235": {
+      "created_at": "2026-10-20T18:49:46Z",
+      "display": "carlopilloni88-design/GranPesca-0.14.1",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2360",
+      "first_seen_at": "2026-10-20T21:53:42Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1427549513": {
+      "created_at": "2026-10-20T20:48:50Z",
+      "display": "BuildHighBH/AURUM",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2356",
+      "first_seen_at": "2026-10-20T21:53:42Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1427552472": {
+      "created_at": "2026-10-20T20:52:13Z",
+      "display": "supplychain-e2e-lab/Supplychain-e2e",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2355",
+      "first_seen_at": "2026-10-20T21:53:42Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -6915,9 +6963,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-20T18:44:22Z",
-    "forum": "2026-10-20T18:44:22Z",
-    "github": "2026-10-20T18:44:22Z",
-    "zcg": "2026-10-20T18:44:22Z"
+    "fixed_orgs": "2026-10-20T21:53:42Z",
+    "forum": "2026-10-20T21:53:42Z",
+    "github": "2026-10-20T21:53:42Z",
+    "zcg": "2026-10-20T21:53:42Z"
   }
 }
