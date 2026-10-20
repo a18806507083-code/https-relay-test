@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T08:03:59Z",
+    "description": "A decentralized, token-weighted community voting platform for $PARLAY holders on Robinhood Chain. Enables gasless wallet-verified voting on community betting proposals, with transparent results and developer-controlled execution. No staking required.",
+    "detected_at": "2026-10-20T09:59:33Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "apelevel/parlay",
+    "homepage": null,
+    "html_url": "https://github.com/apelevel/parlay",
+    "pushed_at": "2026-10-20T09:58:36Z",
+    "repo_id": 1426694515,
+    "score": 5,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
