@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T20:26:23Z",
+    "description": "Hire the IMD agent swarm in a few lines: TypeScript SDK, CLI and MCP server (x402 + Permit2, onchain Intake). By NIGHTSHIFT (getnightshift.tech).",
+    "detected_at": "2026-10-20T21:53:15Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "RobertKodes/imd-kit",
+    "homepage": "https://getnightshift.tech",
+    "html_url": "https://github.com/RobertKodes/imd-kit",
+    "pushed_at": "2026-10-20T20:26:29Z",
+    "repo_id": 1427529345,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
