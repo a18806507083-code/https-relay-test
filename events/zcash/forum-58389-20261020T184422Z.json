@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T16:38:12.149Z",
+    "detected_at": "2026-10-20T18:44:22Z",
+    "display": "58389 Zcash Foundation Names David Campbell Executive Director",
+    "key": "forum:58389",
+    "metadata": {
+      "category_id": 21,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-foundation-names-david-campbell-executive-director",
+      "title": "Zcash Foundation Names David Campbell Executive Director",
+      "topic_id": 58389
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58389,
+    "url": "https://forum.zcashcommunity.com/t/zcash-foundation-names-david-campbell-executive-director/58389"
+  },
+  "schema": "zcash-fast-event/1"
+}
