@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T00:08:23Z",
+    "description": null,
+    "detected_at": "2026-10-20T00:34:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "SpamCow/balls",
+    "homepage": null,
+    "html_url": "https://github.com/SpamCow/balls",
+    "pushed_at": "2026-10-20T00:18:35Z",
+    "repo_id": 1426311521,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
