@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T16:15:26.253Z",
+    "detected_at": "2026-10-20T18:44:22Z",
+    "display": "58382 Zcash Refund Helper: check a ZEC deposit stuck in the NEAR Omni bridge, and who can refund it (read-only, no keys)",
+    "key": "forum:58382",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-refund-helper-check-a-zec-deposit-stuck-in-the-near-omni-bridge-and-who-can-refund-it-read-only-no-keys",
+      "title": "Zcash Refund Helper: check a ZEC deposit stuck in the NEAR Omni bridge, and who can refund it (read-only, no keys)",
+      "topic_id": 58382
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58382,
+    "url": "https://forum.zcashcommunity.com/t/zcash-refund-helper-check-a-zec-deposit-stuck-in-the-near-omni-bridge-and-who-can-refund-it-read-only-no-keys/58382"
+  },
+  "schema": "zcash-fast-event/1"
+}
