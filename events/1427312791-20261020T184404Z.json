@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T16:54:47Z",
+    "description": "The Tombola token, exactly as IMD launches it on Robinhood Chain: one Foundry project, the reference token with Tombola's fixed addresses.",
+    "detected_at": "2026-10-20T18:44:04Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "JJ-ME55/tombola-token",
+    "homepage": null,
+    "html_url": "https://github.com/JJ-ME55/tombola-token",
+    "pushed_at": "2026-10-20T17:05:11Z",
+    "repo_id": 1427312791,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
