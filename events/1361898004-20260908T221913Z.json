@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T20:57:30Z",
+    "description": null,
+    "detected_at": "2026-09-08T22:19:13Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "kingwilliamAI/kingwilliamAI",
+    "homepage": null,
+    "html_url": "https://github.com/kingwilliamAI/kingwilliamAI",
+    "pushed_at": "2026-09-08T20:58:22Z",
+    "repo_id": 1361898004,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
