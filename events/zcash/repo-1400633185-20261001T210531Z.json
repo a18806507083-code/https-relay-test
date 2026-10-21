@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T19:39:41Z",
+    "detected_at": "2026-10-01T21:05:31Z",
+    "display": "megabyte0x/zec-buyingprice",
+    "key": "repo:1400633185",
+    "metadata": {
+      "description": "Native macOS app for estimating Zcash acquisition prices from view-only wallet history",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer",
+        "mobile SDK"
+      ],
+      "full_name": "megabyte0x/zec-buyingprice",
+      "homepage": null,
+      "pushed_at": "2026-10-01T20:03:05Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1400633185,
+    "url": "https://github.com/megabyte0x/zec-buyingprice"
+  },
+  "schema": "zcash-fast-event/1"
+}
