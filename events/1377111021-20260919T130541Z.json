@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T12:09:42Z",
+    "description": "QuoPull protocol contracts on Robinhood Chain",
+    "detected_at": "2026-09-19T13:05:41Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "OrganikCncpt/quopull-contracts",
+    "homepage": "https://quopull.fun",
+    "html_url": "https://github.com/OrganikCncpt/quopull-contracts",
+    "pushed_at": "2026-09-19T12:09:45Z",
+    "repo_id": 1377111021,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
