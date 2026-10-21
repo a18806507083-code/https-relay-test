@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T12:30:57Z",
+    "detected_at": "2026-09-28T18:46:53Z",
+    "display": "gaogaodadashangshang/hodlpay",
+    "key": "repo:1392659358",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "gaogaodadashangshang/hodlpay",
+      "homepage": null,
+      "pushed_at": "2026-09-28T12:32:22Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1392659358,
+    "url": "https://github.com/gaogaodadashangshang/hodlpay"
+  },
+  "schema": "zcash-fast-event/1"
+}
