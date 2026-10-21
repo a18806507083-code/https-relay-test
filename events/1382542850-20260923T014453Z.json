@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-23T01:14:25Z",
+    "description": null,
+    "detected_at": "2026-09-23T01:44:53Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "trakinasman/public-apis",
+    "homepage": null,
+    "html_url": "https://github.com/trakinasman/public-apis",
+    "pushed_at": "2026-09-23T01:24:42Z",
+    "repo_id": 1382542850,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Bridge",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
