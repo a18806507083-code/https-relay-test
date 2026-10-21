@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T11:28:41Z",
+    "detected_at": "2026-10-16T14:15:05Z",
+    "display": "london160771/ZecRescue",
+    "key": "repo:1422071103",
+    "metadata": {
+      "description": "Multi-chain emergency wallet recovery for compromised EVM wallets, using gasless USDC rescue and shielded Zcash recovery.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "london160771/ZecRescue",
+      "homepage": null,
+      "pushed_at": "2026-10-16T11:35:46Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1422071103,
+    "url": "https://github.com/london160771/ZecRescue"
+  },
+  "schema": "zcash-fast-event/1"
+}
