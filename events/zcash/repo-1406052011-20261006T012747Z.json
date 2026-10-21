@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-05T16:15:16Z",
+    "detected_at": "2026-10-06T01:27:47Z",
+    "display": "dr-winner/Ghostpass",
+    "key": "repo:1406052011",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "dr-winner/Ghostpass",
+      "homepage": null,
+      "pushed_at": "2026-10-05T18:52:49Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1406052011,
+    "url": "https://github.com/dr-winner/Ghostpass"
+  },
+  "schema": "zcash-fast-event/1"
+}
