@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T20:24:18Z",
+    "description": "FloorFeed: follow the NFT traders who actually win. Overview, screenshots and open-source launchpad contracts. Live at floorfeed.io",
+    "detected_at": "2026-10-19T21:34:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "mcooper7649/floorfeed-showcase",
+    "homepage": "https://floorfeed.io",
+    "html_url": "https://github.com/mcooper7649/floorfeed-showcase",
+    "pushed_at": "2026-10-19T20:24:31Z",
+    "repo_id": 1426134088,
+    "score": 6,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
