@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T12:41:24Z",
+    "detected_at": "2026-09-15T14:26:40Z",
+    "display": "bbuenz/lambdaworks",
+    "key": "repo:1371449548",
+    "metadata": {
+      "description": "Mirror of lambdaclass/lambdaworks with a polylogarithmic STARK verifier (branch polylog-verifier); used by bbuenz/twist-vdf-stark",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "bbuenz/lambdaworks",
+      "homepage": null,
+      "pushed_at": "2026-09-15T12:46:59Z",
+      "tech_signals": [
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1371449548,
+    "url": "https://github.com/bbuenz/lambdaworks"
+  },
+  "schema": "zcash-fast-event/1"
+}
