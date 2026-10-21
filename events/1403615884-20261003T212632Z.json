@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T20:35:20Z",
+    "description": null,
+    "detected_at": "2026-10-03T21:26:32Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "armouxvelour/VibeID",
+    "homepage": null,
+    "html_url": "https://github.com/armouxvelour/VibeID",
+    "pushed_at": "2026-10-03T21:17:16Z",
+    "repo_id": 1403615884,
+    "score": 11,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
