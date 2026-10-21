@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T15:13:39Z",
+    "detected_at": "2026-10-21T18:53:36Z",
+    "display": "steven3002/zcash-wallet-core-nu7",
+    "key": "repo:1428555623",
+    "metadata": {
+      "description": "Zcash NU7 compatibility MVP for Wallet Core: transparent v5 transactions, legacy external-signature support, Android integration, and confirmed regtest payments.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "steven3002/zcash-wallet-core-nu7",
+      "homepage": null,
+      "pushed_at": "2026-10-21T18:04:54Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1428555623,
+    "url": "https://github.com/steven3002/zcash-wallet-core-nu7"
+  },
+  "schema": "zcash-fast-event/1"
+}
