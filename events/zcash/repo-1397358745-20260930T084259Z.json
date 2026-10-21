@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T08:12:54Z",
+    "detected_at": "2026-09-30T08:42:59Z",
+    "display": "stealthpadRH/console",
+    "key": "repo:1397358745",
+    "metadata": {
+      "description": "Stealthpad app on Robinhood Chain: board, launch, claim to USDG, Zcash or Aleo, keeper rounds and receipts. Next.js 16, non-root.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "stealthpadRH/console",
+      "homepage": null,
+      "pushed_at": "2026-09-30T08:14:53Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1397358745,
+    "url": "https://github.com/stealthpadRH/console"
+  },
+  "schema": "zcash-fast-event/1"
+}
