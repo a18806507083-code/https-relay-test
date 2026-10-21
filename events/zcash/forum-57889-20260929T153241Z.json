@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T14:55:05.038Z",
+    "detected_at": "2026-09-29T15:32:41Z",
+    "display": "57889 Introducing Noir Protocol : A multi-token economy and DeFi for ZEC holders, while Zcash stays ZEC-only",
+    "key": "forum:57889",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "introducing-noir-protocol-a-multi-token-economy-and-defi-for-zec-holders-while-zcash-stays-zec-only",
+      "title": "Introducing Noir Protocol : A multi-token economy and DeFi for ZEC holders, while Zcash stays ZEC-only",
+      "topic_id": 57889
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57889,
+    "url": "https://forum.zcashcommunity.com/t/introducing-noir-protocol-a-multi-token-economy-and-defi-for-zec-holders-while-zcash-stays-zec-only/57889"
+  },
+  "schema": "zcash-fast-event/1"
+}
