@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T11:18:51Z",
+    "description": null,
+    "detected_at": "2026-10-15T11:59:14Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "atmsw24-tech/FlashGuysHold",
+    "homepage": null,
+    "html_url": "https://github.com/atmsw24-tech/FlashGuysHold",
+    "pushed_at": "2026-10-15T11:20:37Z",
+    "repo_id": 1420591821,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
