@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T16:42:48Z",
+    "description": null,
+    "detected_at": "2026-10-14T17:56:10Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "youjiji0310/gridpunks",
+    "homepage": "https://gridpunks-vert.vercel.app",
+    "html_url": "https://github.com/youjiji0310/gridpunks",
+    "pushed_at": "2026-10-14T16:47:48Z",
+    "repo_id": 1419437834,
+    "score": 12,
+    "tech_signals": [
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
