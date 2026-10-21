@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T11:31:52Z",
+    "detected_at": "2026-09-24T15:07:33Z",
+    "display": "Davide6414/gioco_da_cesso",
+    "key": "repo:1385345416",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Davide6414/gioco_da_cesso",
+      "homepage": null,
+      "pushed_at": "2026-09-24T13:21:53Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1385345416,
+    "url": "https://github.com/Davide6414/gioco_da_cesso"
+  },
+  "schema": "zcash-fast-event/1"
+}
