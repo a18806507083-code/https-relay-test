@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T22:04:02Z",
+    "detected_at": "2026-10-14T23:53:27Z",
+    "display": "paygate-to/paygate-node",
+    "key": "repo:1419896842",
+    "metadata": {
+      "description": "Node SDK payment gateway without KYC",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "paygate-to/paygate-node",
+      "homepage": null,
+      "pushed_at": "2026-10-14T23:14:28Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1419896842,
+    "url": "https://github.com/paygate-to/paygate-node"
+  },
+  "schema": "zcash-fast-event/1"
+}
