@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T20:10:32Z",
+    "description": null,
+    "detected_at": "2026-09-22T21:24:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "ZOLT-family/ZOLT",
+    "homepage": null,
+    "html_url": "https://github.com/ZOLT-family/ZOLT",
+    "pushed_at": "2026-09-22T21:03:43Z",
+    "repo_id": 1382298755,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
