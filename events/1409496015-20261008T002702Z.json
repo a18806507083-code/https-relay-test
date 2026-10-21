@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T23:46:36Z",
+    "description": "IMD6900's in-pool perps hook and pool, deployed by the IMD swarm on Robinhood Chain",
+    "detected_at": "2026-10-08T00:27:02Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "magic0xfrens/imd6900-perps-hook",
+    "homepage": null,
+    "html_url": "https://github.com/magic0xfrens/imd6900-perps-hook",
+    "pushed_at": "2026-10-07T23:46:42Z",
+    "repo_id": 1409496015,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
