@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T11:43:42.711Z",
+    "detected_at": "2026-10-02T12:27:33Z",
+    "display": "57977 Opinion wanted: bridge programmability and trustless DeFi access to Ethereum from shielded Zcash",
+    "key": "forum:57977",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "opinion-wanted-bridge-programmability-and-trustless-defi-access-to-ethereum-from-shielded-zcash",
+      "title": "Opinion wanted: bridge programmability and trustless DeFi access to Ethereum from shielded Zcash",
+      "topic_id": 57977
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57977,
+    "url": "https://forum.zcashcommunity.com/t/opinion-wanted-bridge-programmability-and-trustless-defi-access-to-ethereum-from-shielded-zcash/57977"
+  },
+  "schema": "zcash-fast-event/1"
+}
