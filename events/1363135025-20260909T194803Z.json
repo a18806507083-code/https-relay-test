@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T19:28:06Z",
+    "description": "Technical documentation, whitepaper, deployment registry, and security boundaries for Mnemosphere.",
+    "detected_at": "2026-09-09T19:48:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "mnemosphere-org/mnemosphere-docs",
+    "homepage": "https://mnemosphere.org",
+    "html_url": "https://github.com/mnemosphere-org/mnemosphere-docs",
+    "pushed_at": "2026-09-09T19:28:23Z",
+    "repo_id": 1363135025,
+    "score": 17,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
