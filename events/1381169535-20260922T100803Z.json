@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T09:05:23Z",
+    "description": null,
+    "detected_at": "2026-09-22T10:08:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "AI-algorithms/snipe-x",
+    "homepage": null,
+    "html_url": "https://github.com/AI-algorithms/snipe-x",
+    "pushed_at": "2026-09-22T09:21:00Z",
+    "repo_id": 1381169535,
+    "score": 5,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
