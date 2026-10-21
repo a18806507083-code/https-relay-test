@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T10:20:28Z",
+    "detected_at": "2026-09-22T14:46:41Z",
+    "display": "Sbri0110/atlante-no-mans-sky-save-editor",
+    "key": "repo:1381267463",
+    "metadata": {
+      "description": "Editor di salvataggi per No Man's Sky, in italiano. Java 8 e Swing, con le icone del gioco.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Sbri0110/atlante-no-mans-sky-save-editor",
+      "homepage": "https://sbri0110.github.io/atlante-no-mans-sky-save-editor/",
+      "pushed_at": "2026-09-22T10:54:27Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1381267463,
+    "url": "https://github.com/Sbri0110/atlante-no-mans-sky-save-editor"
+  },
+  "schema": "zcash-fast-event/1"
+}
