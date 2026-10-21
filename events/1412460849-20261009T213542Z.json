@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T21:18:38Z",
+    "description": null,
+    "detected_at": "2026-10-09T21:35:42Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Soonyy01/elta",
+    "homepage": "https://elta-iota.vercel.app",
+    "html_url": "https://github.com/Soonyy01/elta",
+    "pushed_at": "2026-10-09T21:24:15Z",
+    "repo_id": 1412460849,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
