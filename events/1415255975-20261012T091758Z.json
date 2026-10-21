@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T07:45:29Z",
+    "description": "2FA for hot wallets ",
+    "detected_at": "2026-10-12T09:17:58Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Meetmetha/SecondFactorPublic",
+    "homepage": null,
+    "html_url": "https://github.com/Meetmetha/SecondFactorPublic",
+    "pushed_at": "2026-10-12T07:54:20Z",
+    "repo_id": 1415255975,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
