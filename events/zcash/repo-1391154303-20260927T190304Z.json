@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T16:46:16Z",
+    "detected_at": "2026-09-27T19:03:04Z",
+    "display": "MxxCloud/Pugnodisemi",
+    "key": "repo:1391154303",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "MxxCloud/Pugnodisemi",
+      "homepage": null,
+      "pushed_at": "2026-09-27T18:28:46Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1391154303,
+    "url": "https://github.com/MxxCloud/Pugnodisemi"
+  },
+  "schema": "zcash-fast-event/1"
+}
