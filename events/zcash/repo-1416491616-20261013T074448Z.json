@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T05:08:10Z",
+    "detected_at": "2026-10-13T07:44:48Z",
+    "display": "yinscode/pairkey",
+    "key": "repo:1416491616",
+    "metadata": {
+      "description": "PairKey — the programmable key protocol: Solana-authorized threshold signing across Solana, EVM, Bitcoin, NEAR and Zcash",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "yinscode/pairkey",
+      "homepage": "https://pairkey.com",
+      "pushed_at": "2026-10-13T05:08:19Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416491616,
+    "url": "https://github.com/yinscode/pairkey"
+  },
+  "schema": "zcash-fast-event/1"
+}
