@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T18:43:26Z",
+    "detected_at": "2026-09-25T19:15:38Z",
+    "display": "sova-chain/wz.cash",
+    "key": "repo:1388053901",
+    "metadata": {
+      "description": "wZcash (wz.cash): custodial wrapped ZEC on Sova, a Sova Labs product. Not part of the Sova protocol.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash"
+      ],
+      "full_name": "sova-chain/wz.cash",
+      "homepage": null,
+      "pushed_at": "2026-09-25T19:00:21Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1388053901,
+    "url": "https://github.com/sova-chain/wz.cash"
+  },
+  "schema": "zcash-fast-event/1"
+}
