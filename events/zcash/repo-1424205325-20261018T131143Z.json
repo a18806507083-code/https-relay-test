@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T09:31:55Z",
+    "detected_at": "2026-10-18T13:11:43Z",
+    "display": "Cypheranon-dev/Maskwallet",
+    "key": "repo:1424205325",
+    "metadata": {
+      "description": "Mask Wallet v1 - Privacy-first self-custodial Zcash wallet inspired by ZODL. Create, secure, and use shielded wallets in the browser.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "Cypheranon-dev/Maskwallet",
+      "homepage": "",
+      "pushed_at": "2026-10-18T09:45:36Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1424205325,
+    "url": "https://github.com/Cypheranon-dev/Maskwallet"
+  },
+  "schema": "zcash-fast-event/1"
+}
