@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T03:08:44Z",
+    "description": "Session-aware collateral risk layer untuk tokenized equity di Morpho Blue",
+    "detected_at": "2026-09-19T04:58:27Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "mdlog/vigil",
+    "homepage": null,
+    "html_url": "https://github.com/mdlog/vigil",
+    "pushed_at": "2026-09-19T04:09:46Z",
+    "repo_id": 1376665125,
+    "score": 17,
+    "tech_signals": [
+      "Morpho",
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
