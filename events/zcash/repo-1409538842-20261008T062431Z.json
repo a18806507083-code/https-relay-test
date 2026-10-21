@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T00:55:05Z",
+    "detected_at": "2026-10-08T06:24:31Z",
+    "display": "logos-co/logos-zcash-wallet-cli",
+    "key": "repo:1409538842",
+    "metadata": {
+      "description": "Headless Zcash wallet sessions for logosctl, relayed through the Logos Zcash wallet backend.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "logos-co/logos-zcash-wallet-cli",
+      "homepage": null,
+      "pushed_at": "2026-10-08T02:34:59Z",
+      "tech_signals": [
+        "wallet/payment",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1409538842,
+    "url": "https://github.com/logos-co/logos-zcash-wallet-cli"
+  },
+  "schema": "zcash-fast-event/1"
+}
