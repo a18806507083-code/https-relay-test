@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T02:36:55.543Z",
+    "detected_at": "2026-09-25T05:16:25Z",
+    "display": "57799 Grant Application - Independent Recomputation of the Zcash Supply Ledger, including the NU7 NSM Reserve",
+    "key": "forum:57799",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "grant-application-independent-recomputation-of-the-zcash-supply-ledger-including-the-nu7-nsm-reserve",
+      "title": "Grant Application - Independent Recomputation of the Zcash Supply Ledger, including the NU7 NSM Reserve",
+      "topic_id": 57799
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57799,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-independent-recomputation-of-the-zcash-supply-ledger-including-the-nu7-nsm-reserve/57799"
+  },
+  "schema": "zcash-fast-event/1"
+}
