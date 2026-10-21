@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-09-26T14:48:38Z",
+    "detected_at": "2026-09-26T17:45:13Z",
+    "display": "#448 Grant Application - Zcash Privacy Ecosystem Mapping & Adoption Data",
+    "key": "zcg:5594840415",
+    "metadata": {
+      "author": "jen-sei",
+      "issue_number": 448,
+      "labels": [],
+      "title": "Grant Application - Zcash Privacy Ecosystem Mapping & Adoption Data"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5594840415,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/448"
+  },
+  "schema": "zcash-fast-event/1"
+}
