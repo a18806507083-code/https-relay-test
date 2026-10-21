@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T13:08:22.200Z",
+    "detected_at": "2026-10-21T14:38:20Z",
+    "display": "58412 Grant Application - Lean proof of the GLV recoding and ladder in pasta_curves (part 3 of pasta_curves#174)",
+    "key": "forum:58412",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-lean-proof-of-the-glv-recoding-and-ladder-in-pasta-curves-part-3-of-pasta-curves-174",
+      "title": "Grant Application - Lean proof of the GLV recoding and ladder in pasta_curves (part 3 of pasta_curves#174)",
+      "topic_id": 58412
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58412,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-lean-proof-of-the-glv-recoding-and-ladder-in-pasta-curves-part-3-of-pasta-curves-174/58412"
+  },
+  "schema": "zcash-fast-event/1"
+}
