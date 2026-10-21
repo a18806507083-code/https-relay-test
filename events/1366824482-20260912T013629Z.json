@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T01:03:49Z",
+    "description": "The StockBack shelf: every brand that pays in its own tokenized stock on Robinhood Chain, its rate, its proof routes and its token address.",
+    "detected_at": "2026-09-12T01:36:29Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "stockbackrh/shelf",
+    "homepage": "https://usestockback.xyz",
+    "html_url": "https://github.com/stockbackrh/shelf",
+    "pushed_at": "2026-09-12T01:11:04Z",
+    "repo_id": 1366824482,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
