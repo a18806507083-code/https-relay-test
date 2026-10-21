@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T23:20:20Z",
+    "description": null,
+    "detected_at": "2026-09-20T00:21:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "SANTOSRAYYYY/JACKPOTHOOD",
+    "homepage": "https://www.jackpothood.com",
+    "html_url": "https://github.com/SANTOSRAYYYY/JACKPOTHOOD",
+    "pushed_at": "2026-09-19T23:22:41Z",
+    "repo_id": 1377697648,
+    "score": 12,
+    "tech_signals": [
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
