@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T20:20:16Z",
+    "description": "Deploy IMD6900RobinhoodLaunch (src/IMD6900RobinhoodLaunch.sol) on Robinhood Chain exactly as it is in the repository: one contract, four constructor arguments in this order: 0x35da9c0303507ddf708e87f2568eddf12c47a059 (owner: the team wallet), 0x8366a39CC670B4001A1121B8F6A443A643e40951 (Uniswap v4's PoolManager on Robinhood Chain), 0x0000198C940D...",
+    "detected_at": "2026-10-13T20:41:56Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "identity-md-launches/launch-1639-imd6900robinhoodlaunch",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1639-imd6900robinhoodlaunch",
+    "pushed_at": "2026-10-13T20:20:20Z",
+    "repo_id": 1417920633,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
