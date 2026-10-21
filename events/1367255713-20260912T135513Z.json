@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T11:57:20Z",
+    "description": "Real-time multi-chain EVM portfolio tracking dashboard (Base, BSC, Ink, HyperEVM, Robinhood Chain)",
+    "detected_at": "2026-09-12T13:55:13Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "Rizkijack/PortofolioDashboard",
+    "homepage": "https://portofolio-dashboard-mu.vercel.app",
+    "html_url": "https://github.com/Rizkijack/PortofolioDashboard",
+    "pushed_at": "2026-09-12T13:04:05Z",
+    "repo_id": 1367255713,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
