@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T16:23:37Z",
+    "detected_at": "2026-09-28T18:46:53Z",
+    "display": "bebro1337booking-bit/zubit-final",
+    "key": "repo:1393243928",
+    "metadata": {
+      "description": "Zubit Protocol: quantum resistance for the Zcash blockchain. Phase 1: post-quantum ML-DSA-44 spends for transparent ZEC in the Zebra node (research).",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "bebro1337booking-bit/zubit-final",
+      "homepage": null,
+      "pushed_at": "2026-09-28T16:23:46Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1393243928,
+    "url": "https://github.com/bebro1337booking-bit/zubit-final"
+  },
+  "schema": "zcash-fast-event/1"
+}
