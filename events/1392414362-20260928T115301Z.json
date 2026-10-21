@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T10:25:05Z",
+    "description": "Coragentic: an operating network for agents skills, private context, swarm coordination, jobs, policy, and proof on Robinhood Chain.",
+    "detected_at": "2026-09-28T11:53:01Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "coragentic/coragentic",
+    "homepage": "https://coragentic.app",
+    "html_url": "https://github.com/coragentic/coragentic",
+    "pushed_at": "2026-09-28T11:02:31Z",
+    "repo_id": 1392414362,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
