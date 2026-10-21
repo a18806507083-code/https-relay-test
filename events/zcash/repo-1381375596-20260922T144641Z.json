@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T11:33:28Z",
+    "detected_at": "2026-09-22T14:46:41Z",
+    "display": "Harshit5691/parametric-crop",
+    "key": "repo:1381375596",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Harshit5691/parametric-crop",
+      "homepage": null,
+      "pushed_at": "2026-09-22T11:50:59Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1381375596,
+    "url": "https://github.com/Harshit5691/parametric-crop"
+  },
+  "schema": "zcash-fast-event/1"
+}
