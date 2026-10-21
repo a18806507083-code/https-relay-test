@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T23:35:33Z",
+    "detected_at": "2026-10-13T01:16:21Z",
+    "display": "NoisedLabs/noised",
+    "key": "repo:1416236247",
+    "metadata": {
+      "description": "Noised: the quantum security layer for Solana. Post-quantum (LMS) signed token launches that can't be rugged, programmable launch rules, Autopilot, PQ vault, private balances, QSL-1 standard, TypeScript SDK and MCP server.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "NoisedLabs/noised",
+      "homepage": "https://noised.fun",
+      "pushed_at": "2026-10-13T00:57:14Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416236247,
+    "url": "https://github.com/NoisedLabs/noised"
+  },
+  "schema": "zcash-fast-event/1"
+}
