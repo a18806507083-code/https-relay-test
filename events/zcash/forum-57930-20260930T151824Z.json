@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T13:56:24.184Z",
+    "detected_at": "2026-09-30T15:18:24Z",
+    "display": "57930 Bringing Shielded Zcash to Everyday Payments",
+    "key": "forum:57930",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "bringing-shielded-zcash-to-everyday-payments",
+      "title": "Bringing Shielded Zcash to Everyday Payments",
+      "topic_id": 57930
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57930,
+    "url": "https://forum.zcashcommunity.com/t/bringing-shielded-zcash-to-everyday-payments/57930"
+  },
+  "schema": "zcash-fast-event/1"
+}
