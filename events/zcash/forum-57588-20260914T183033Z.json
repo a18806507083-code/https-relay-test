@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T16:42:04.968Z",
+    "detected_at": "2026-09-14T18:30:33Z",
+    "display": "57588 The no email found grant",
+    "key": "forum:57588",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "the-no-email-found-grant",
+      "title": "The no email found grant",
+      "topic_id": 57588
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57588,
+    "url": "https://forum.zcashcommunity.com/t/the-no-email-found-grant/57588"
+  },
+  "schema": "zcash-fast-event/1"
+}
