@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T15:05:09Z",
+    "detected_at": "2026-10-12T19:06:41Z",
+    "display": "4less4ndr0/viaggi-libri-auto",
+    "key": "repo:1415760011",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "4less4ndr0/viaggi-libri-auto",
+      "homepage": "https://4less4ndr0.github.io/viaggi-libri-auto/",
+      "pushed_at": "2026-10-12T15:35:59Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1415760011,
+    "url": "https://github.com/4less4ndr0/viaggi-libri-auto"
+  },
+  "schema": "zcash-fast-event/1"
+}
