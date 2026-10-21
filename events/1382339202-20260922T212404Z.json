@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T20:46:09Z",
+    "description": null,
+    "detected_at": "2026-09-22T21:24:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "sonyzgt/L5",
+    "homepage": null,
+    "html_url": "https://github.com/sonyzgt/L5",
+    "pushed_at": "2026-09-22T21:06:16Z",
+    "repo_id": 1382339202,
+    "score": 9,
+    "tech_signals": [
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
