@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T14:10:30Z",
+    "description": "Opportunity collateral-backed options v1 contracts and tests",
+    "detected_at": "2026-09-25T15:15:01Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "CipherPlayLabs/opportunity-options-contracts",
+    "homepage": null,
+    "html_url": "https://github.com/CipherPlayLabs/opportunity-options-contracts",
+    "pushed_at": "2026-09-25T14:10:34Z",
+    "repo_id": 1387629158,
+    "score": 10,
+    "tech_signals": [
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
