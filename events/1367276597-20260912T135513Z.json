@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T12:27:45Z",
+    "description": null,
+    "detected_at": "2026-09-12T13:55:13Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "EverySPY/Every",
+    "homepage": "https://every-orpin.vercel.app",
+    "html_url": "https://github.com/EverySPY/Every",
+    "pushed_at": "2026-09-12T13:00:03Z",
+    "repo_id": 1367276597,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
