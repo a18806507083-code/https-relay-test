@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T18:15:26Z",
+    "description": "Which wallets snipe every new Robinhood Chain launch, which ones are round-trip bots, and what happens to the launches they hit. Built on CoinGecko API data.",
+    "detected_at": "2026-09-29T20:10:19Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "TheSmartApe/serial-sniper-tracker",
+    "homepage": null,
+    "html_url": "https://github.com/TheSmartApe/serial-sniper-tracker",
+    "pushed_at": "2026-09-29T19:17:22Z",
+    "repo_id": 1396296268,
+    "score": 7,
+    "tech_signals": [
+      "Hook",
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
