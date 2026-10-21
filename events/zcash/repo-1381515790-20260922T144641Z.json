@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T12:48:43Z",
+    "detected_at": "2026-09-22T14:46:41Z",
+    "display": "mellor28/cycle-potential",
+    "key": "repo:1381515790",
+    "metadata": {
+      "description": "Scenario explorer for how strong the next crypto cycle could be. Pick a token, a strength, and a date to see a modeled potential price and what would have to be true. Not a prediction or investment advice.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "mellor28/cycle-potential",
+      "homepage": "https://mellor28.github.io/cycle-potential/",
+      "pushed_at": "2026-09-22T12:55:43Z",
+      "tech_signals": [
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1381515790,
+    "url": "https://github.com/mellor28/cycle-potential"
+  },
+  "schema": "zcash-fast-event/1"
+}
