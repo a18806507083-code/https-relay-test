@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T01:51:14Z",
+    "detected_at": "2026-10-04T03:33:43Z",
+    "display": "rochaandreasr/sprout-backend",
+    "key": "repo:1403781733",
+    "metadata": {
+      "description": "Solução DeFi e DePIN para o agro: microcrédito restrito por IoT e IA para pequenos produtores rurais.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "rochaandreasr/sprout-backend",
+      "homepage": null,
+      "pushed_at": "2026-10-04T02:51:47Z",
+      "tech_signals": [
+        "node/indexer",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403781733,
+    "url": "https://github.com/rochaandreasr/sprout-backend"
+  },
+  "schema": "zcash-fast-event/1"
+}
