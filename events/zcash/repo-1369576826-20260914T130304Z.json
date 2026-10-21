@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T08:31:20Z",
+    "detected_at": "2026-09-14T13:03:04Z",
+    "display": "Webghost01-NG/veyrin",
+    "key": "repo:1369576826",
+    "metadata": {
+      "description": "A keyless Zcash PCZT safety layer: inspect transaction intent, detect mutations, and witness live mainnet data through five allowlisted RPC methods.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Webghost01-NG/veyrin",
+      "homepage": "https://veyrin.vercel.app",
+      "pushed_at": "2026-09-14T12:15:38Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1369576826,
+    "url": "https://github.com/Webghost01-NG/veyrin"
+  },
+  "schema": "zcash-fast-event/1"
+}
