@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T00:29:23Z",
+    "description": "King of the Hill launchpad: tokens compete on market cap, the hourly winner is bought back and burned.",
+    "detected_at": "2026-09-22T00:46:52Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "Reteiom/koth",
+    "homepage": "https://koth-red.vercel.app",
+    "html_url": "https://github.com/Reteiom/koth",
+    "pushed_at": "2026-09-22T00:40:48Z",
+    "repo_id": 1380680614,
+    "score": 14,
+    "tech_signals": [
+      "Lending/Vault",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
