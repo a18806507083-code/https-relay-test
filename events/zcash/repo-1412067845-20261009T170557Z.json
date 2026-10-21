@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T15:30:29Z",
+    "detected_at": "2026-10-09T17:05:57Z",
+    "display": "Annkkitaaa/hashsmash-poseidon-verification",
+    "key": "repo:1412067845",
+    "metadata": {
+      "description": "Reproducible checks for the Poseidon target definitions proposed for HashSmash: Zcash Orchard P128Pow5T3 and the EF KoalaBear instance",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Annkkitaaa/hashsmash-poseidon-verification",
+      "homepage": null,
+      "pushed_at": "2026-10-09T15:30:35Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1412067845,
+    "url": "https://github.com/Annkkitaaa/hashsmash-poseidon-verification"
+  },
+  "schema": "zcash-fast-event/1"
+}
