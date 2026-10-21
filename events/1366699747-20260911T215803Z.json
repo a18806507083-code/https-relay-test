@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T21:17:47Z",
+    "description": "HIMSX \u2014 HIMS Accumulator on Robinhood Chain",
+    "detected_at": "2026-09-11T21:58:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "TOKMITH/HIMSX",
+    "homepage": null,
+    "html_url": "https://github.com/TOKMITH/HIMSX",
+    "pushed_at": "2026-09-11T21:17:50Z",
+    "repo_id": 1366699747,
+    "score": 5,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
