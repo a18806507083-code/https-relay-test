@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T01:13:54Z",
+    "detected_at": "2026-10-08T06:24:31Z",
+    "display": "netzo92/math",
+    "key": "repo:1409550945",
+    "metadata": {
+      "description": "Iterative research on algorithmic complexity and Zcash cryptography",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "netzo92/math",
+      "homepage": null,
+      "pushed_at": "2026-10-08T01:34:36Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1409550945,
+    "url": "https://github.com/netzo92/math"
+  },
+  "schema": "zcash-fast-event/1"
+}
