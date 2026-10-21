@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T19:09:39Z",
+    "detected_at": "2026-09-28T23:32:25Z",
+    "display": "louisinthesubway/privacy-zingolib",
+    "key": "repo:1393680164",
+    "metadata": {
+      "description": "SWARM fork of zingolib, the wallet SDK (mirror after the Swarm-Official suspension; pinned rev c7464d2 = swarm-sdk-mainnet-1)",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "louisinthesubway/privacy-zingolib",
+      "homepage": null,
+      "pushed_at": "2026-09-28T19:11:41Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1393680164,
+    "url": "https://github.com/louisinthesubway/privacy-zingolib"
+  },
+  "schema": "zcash-fast-event/1"
+}
