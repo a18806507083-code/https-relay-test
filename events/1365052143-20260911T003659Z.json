@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T23:20:37Z",
+    "description": "Name your price. Get paid to wait. Covered calls, credit lines, fixed-term savings and payout strips on tokenized equities, each behind one sentence.",
+    "detected_at": "2026-09-11T00:36:59Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "nirholas/marian",
+    "homepage": null,
+    "html_url": "https://github.com/nirholas/marian",
+    "pushed_at": "2026-09-10T23:20:54Z",
+    "repo_id": 1365052143,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
