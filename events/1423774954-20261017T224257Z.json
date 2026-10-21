@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T21:48:59Z",
+    "description": "Open-source Robinhood trading agent infrastructure with MCP-powered DEX research, autonomous trading, agent wallets, and copy-trading capabilities",
+    "detected_at": "2026-10-17T22:42:57Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "yjodvvpshu/noraz-agent",
+    "homepage": "https://noraz.space",
+    "html_url": "https://github.com/yjodvvpshu/noraz-agent",
+    "pushed_at": "2026-10-17T21:49:09Z",
+    "repo_id": 1423774954,
+    "score": 18,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
