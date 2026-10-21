@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T22:20:55Z",
+    "detected_at": "2026-09-28T23:32:25Z",
+    "display": "Bortlesboat/shieldcheck",
+    "key": "repo:1393908662",
+    "metadata": {
+      "description": "A regression lab for privacy and order authorization at the Zcash checkout boundary",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "Bortlesboat/shieldcheck",
+      "homepage": "https://bortlesboat.github.io/shieldcheck/",
+      "pushed_at": "2026-09-28T23:19:45Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1393908662,
+    "url": "https://github.com/Bortlesboat/shieldcheck"
+  },
+  "schema": "zcash-fast-event/1"
+}
