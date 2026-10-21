@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T13:09:26Z",
+    "detected_at": "2026-10-19T17:18:21Z",
+    "display": "kazzysax/OBSCURA",
+    "key": "repo:1425633839",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "kazzysax/OBSCURA",
+      "homepage": null,
+      "pushed_at": "2026-10-19T13:54:52Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1425633839,
+    "url": "https://github.com/kazzysax/OBSCURA"
+  },
+  "schema": "zcash-fast-event/1"
+}
