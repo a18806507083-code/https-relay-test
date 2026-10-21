@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T11:09:45.488Z",
+    "detected_at": "2026-10-03T14:53:26Z",
+    "display": "58025 Grant Application - Tells: a privacy checkup for Zcash wallets",
+    "key": "forum:58025",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "grant-application-tells-a-privacy-checkup-for-zcash-wallets",
+      "title": "Grant Application - Tells: a privacy checkup for Zcash wallets",
+      "topic_id": 58025
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58025,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-tells-a-privacy-checkup-for-zcash-wallets/58025"
+  },
+  "schema": "zcash-fast-event/1"
+}
