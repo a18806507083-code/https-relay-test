@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T09:01:52Z",
+    "description": "CoolBB agency GitHub profile",
+    "detected_at": "2026-10-03T10:38:00Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "CoolBB97/CoolBB97",
+    "homepage": null,
+    "html_url": "https://github.com/CoolBB97/CoolBB97",
+    "pushed_at": "2026-10-03T09:08:43Z",
+    "repo_id": 1402923578,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
