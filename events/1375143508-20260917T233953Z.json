@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T22:42:53Z",
+    "description": null,
+    "detected_at": "2026-09-17T23:39:53Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "travisiol/flowbank",
+    "homepage": null,
+    "html_url": "https://github.com/travisiol/flowbank",
+    "pushed_at": "2026-09-17T22:42:59Z",
+    "repo_id": 1375143508,
+    "score": 8,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
