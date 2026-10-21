@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T07:12:42Z",
+    "detected_at": "2026-10-07T08:54:49Z",
+    "display": "EvanForty/cloakpay",
+    "key": "repo:1408399281",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "EvanForty/cloakpay",
+      "homepage": "https://cloakpay-lovat.vercel.app",
+      "pushed_at": "2026-10-07T07:13:08Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1408399281,
+    "url": "https://github.com/EvanForty/cloakpay"
+  },
+  "schema": "zcash-fast-event/1"
+}
