@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T18:49:01Z",
+    "description": "Add the Swarm Derby theme pack for 2026-10-09 (the auction winner's batter, pitcher, stadium, weather and commentary, as specified in specs/WP1-theme-packs.md, in the chunky sticker style of themes/gus/) and republish the site under its existing name. The page code and its text stay unchanged.",
+    "detected_at": "2026-10-08T19:27:34Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-1078-add-swarm-derby-theme",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1078-add-swarm-derby-theme",
+    "pushed_at": "2026-10-08T19:01:18Z",
+    "repo_id": 1410818051,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
