@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T08:11:14Z",
+    "detected_at": "2026-09-30T08:42:59Z",
+    "display": "stealthpadRH/conduit",
+    "key": "repo:1397355630",
+    "metadata": {
+      "description": "Stealthpad read API reference and TypeScript SDK: claim builder with viem, NEAR Intents route quotes, Zcash and Aleo address checks.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "stealthpadRH/conduit",
+      "homepage": null,
+      "pushed_at": "2026-09-30T08:12:14Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1397355630,
+    "url": "https://github.com/stealthpadRH/conduit"
+  },
+  "schema": "zcash-fast-event/1"
+}
