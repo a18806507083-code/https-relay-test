@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T17:48:06Z",
+    "detected_at": "2026-10-11T19:35:13Z",
+    "display": "dariolucarusso2010-alt/gestisci-inventario",
+    "key": "repo:1414615384",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "dariolucarusso2010-alt/gestisci-inventario",
+      "homepage": null,
+      "pushed_at": "2026-10-11T17:52:55Z",
+      "tech_signals": [
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1414615384,
+    "url": "https://github.com/dariolucarusso2010-alt/gestisci-inventario"
+  },
+  "schema": "zcash-fast-event/1"
+}
