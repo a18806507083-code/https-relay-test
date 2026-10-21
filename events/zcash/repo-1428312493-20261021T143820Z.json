@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T11:52:07Z",
+    "detected_at": "2026-10-21T14:38:20Z",
+    "display": "vibecoderc4-hub/THE-DERELICT",
+    "key": "repo:1428312493",
+    "metadata": {
+      "description": "A survival gambling game where the table cannot read your hand and the money moves in shielded ZEC.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "vibecoderc4-hub/THE-DERELICT",
+      "homepage": null,
+      "pushed_at": "2026-10-21T11:46:08Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1428312493,
+    "url": "https://github.com/vibecoderc4-hub/THE-DERELICT"
+  },
+  "schema": "zcash-fast-event/1"
+}
