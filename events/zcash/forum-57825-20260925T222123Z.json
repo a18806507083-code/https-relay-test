@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T19:38:59.000Z",
+    "detected_at": "2026-09-25T22:21:23Z",
+    "display": "57825 KIOSK 22 | Looking for a few Zcash testers before our Colosseum submission",
+    "key": "forum:57825",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "kiosk-22-looking-for-a-few-zcash-testers-before-our-colosseum-submission",
+      "title": "KIOSK 22 | Looking for a few Zcash testers before our Colosseum submission",
+      "topic_id": 57825
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57825,
+    "url": "https://forum.zcashcommunity.com/t/kiosk-22-looking-for-a-few-zcash-testers-before-our-colosseum-submission/57825"
+  },
+  "schema": "zcash-fast-event/1"
+}
