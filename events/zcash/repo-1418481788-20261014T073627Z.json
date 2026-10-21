@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T06:35:42Z",
+    "detected_at": "2026-10-14T07:36:27Z",
+    "display": "abigaill63/cryptowallet-cli",
+    "key": "repo:1418481788",
+    "metadata": {
+      "description": "cw — a crypto wallet generator CLI tool for a lot of blockchains: Bitcoin, Ethereum, Base, Solana, SUI, TON, any EVM (L1/L2/L3) and many others",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "abigaill63/cryptowallet-cli",
+      "homepage": "https://www.npmjs.com/package/@yerofey/cryptowallet-cli",
+      "pushed_at": "2026-10-14T06:37:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1418481788,
+    "url": "https://github.com/abigaill63/cryptowallet-cli"
+  },
+  "schema": "zcash-fast-event/1"
+}
