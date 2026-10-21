@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T02:07:48Z",
+    "detected_at": "2026-10-01T02:23:49Z",
+    "display": "saqlainsarwarksa-web/zaino",
+    "key": "repo:1398929590",
+    "metadata": {
+      "description": "ZAINO - 3D mint-green and blue 40-day challenge site (Python build, GitHub Pages)",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "saqlainsarwarksa-web/zaino",
+      "homepage": null,
+      "pushed_at": "2026-10-01T02:09:46Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1398929590,
+    "url": "https://github.com/saqlainsarwarksa-web/zaino"
+  },
+  "schema": "zcash-fast-event/1"
+}
