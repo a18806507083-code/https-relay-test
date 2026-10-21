@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T15:57:15Z",
+    "description": "Candle auction token launchpad: commit-reveal bids, VRF random cutoff, uniform clearing price (Foundry, BNB testnet)",
+    "detected_at": "2026-09-16T16:19:44Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "MM-sheng/candle-launchpad",
+    "homepage": null,
+    "html_url": "https://github.com/MM-sheng/candle-launchpad",
+    "pushed_at": "2026-09-16T16:01:44Z",
+    "repo_id": 1373291670,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
