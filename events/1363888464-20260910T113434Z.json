@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T10:07:01Z",
+    "description": "Independent read-only Robinhood Chain RPC, Stock Token and Chainlink diagnostics CLI",
+    "detected_at": "2026-09-10T11:34:34Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "SilasJng/rhc-sentry",
+    "homepage": null,
+    "html_url": "https://github.com/SilasJng/rhc-sentry",
+    "pushed_at": "2026-09-10T10:15:00Z",
+    "repo_id": 1363888464,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
