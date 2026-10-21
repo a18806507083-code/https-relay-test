@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T04:46:15Z",
+    "description": "Billboard ($BILLBOARD) - a vault of roadside billboards on Robinhood Chain",
+    "detected_at": "2026-09-22T05:25:38Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Dovgalyuk1/billboardfi",
+    "homepage": "https://billboardfi.vercel.app",
+    "html_url": "https://github.com/Dovgalyuk1/billboardfi",
+    "pushed_at": "2026-09-22T04:46:19Z",
+    "repo_id": 1380887991,
+    "score": 5,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
