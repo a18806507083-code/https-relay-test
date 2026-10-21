@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T14:42:49Z",
+    "detected_at": "2026-09-27T15:21:28Z",
+    "display": "PolyClawdDev/WallyWorld",
+    "key": "repo:1390975943",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "PolyClawdDev/WallyWorld",
+      "homepage": null,
+      "pushed_at": "2026-09-27T14:44:44Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1390975943,
+    "url": "https://github.com/PolyClawdDev/WallyWorld"
+  },
+  "schema": "zcash-fast-event/1"
+}
