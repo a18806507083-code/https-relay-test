@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T08:18:11Z",
+    "detected_at": "2026-09-30T08:42:59Z",
+    "display": "stealthpadRH/warden",
+    "key": "repo:1397369091",
+    "metadata": {
+      "description": "Stealthpad off-chain worker: indexes vaults, computes time-weighted snapshots, signs Merkle roots, keeps rounds, never holds funds.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "stealthpadRH/warden",
+      "homepage": null,
+      "pushed_at": "2026-09-30T08:18:52Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1397369091,
+    "url": "https://github.com/stealthpadRH/warden"
+  },
+  "schema": "zcash-fast-event/1"
+}
