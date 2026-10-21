@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T00:47:48Z",
+    "detected_at": "2026-09-29T02:41:01Z",
+    "display": "saplingcash/zcash-delivery-proof",
+    "key": "repo:1394013202",
+    "metadata": {
+      "description": "Prove a Zcash shielded payment was delivered, with its memo, without revealing the wallet. Rust + WebAssembly.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash"
+      ],
+      "full_name": "saplingcash/zcash-delivery-proof",
+      "homepage": null,
+      "pushed_at": "2026-09-29T00:47:52Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1394013202,
+    "url": "https://github.com/saplingcash/zcash-delivery-proof"
+  },
+  "schema": "zcash-fast-event/1"
+}
