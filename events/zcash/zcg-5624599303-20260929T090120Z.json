@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T03:26:06Z",
+    "detected_at": "2026-09-29T09:01:20Z",
+    "display": "#452 Grant Application - zealz.fun: Bringing Real, Redeemable Zcash to the Masses",
+    "key": "zcg:5624599303",
+    "metadata": {
+      "author": "zealtoken",
+      "issue_number": 452,
+      "labels": [],
+      "title": "Grant Application - zealz.fun: Bringing Real, Redeemable Zcash to the Masses"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5624599303,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/452"
+  },
+  "schema": "zcash-fast-event/1"
+}
