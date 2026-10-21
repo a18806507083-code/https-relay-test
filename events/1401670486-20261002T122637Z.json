@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T12:24:02Z",
+    "description": "Offline CLI that detects evidence that a source repository targets Robinhood Chain (chain id 4663) and explains a deterministic confidence. A marker is evidence, not identity.",
+    "detected_at": "2026-10-02T12:26:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "hey-research-lab/chainprint",
+    "homepage": "https://heyresearch.xyz/developers",
+    "html_url": "https://github.com/hey-research-lab/chainprint",
+    "pushed_at": "2026-10-02T12:24:13Z",
+    "repo_id": 1401670486,
+    "score": 21,
+    "tech_signals": [
+      "Uniswap",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
