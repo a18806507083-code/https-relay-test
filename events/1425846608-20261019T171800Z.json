@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T15:52:10Z",
+    "description": "ITEM: reward token and four contracts for Basket Protocol (its vault: the BASK token below) on Robinhood Chain (4663). No website; no Robinhood name or logo except the chain name. Contracts: 1. LaunchToken: the standard launch token, unchanged; it is ITEM, not BASK. 2. ItemStaking(address item=$token) 3. BaskUsdgGauge(address item=$token) 4. Ite...",
+    "detected_at": "2026-10-19T17:18:00Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-2249-item",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2249-item",
+    "pushed_at": "2026-10-19T16:48:05Z",
+    "repo_id": 1425846608,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
