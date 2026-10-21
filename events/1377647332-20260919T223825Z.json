@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T21:56:58Z",
+    "description": null,
+    "detected_at": "2026-09-19T22:38:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "travisiol/petri",
+    "homepage": null,
+    "html_url": "https://github.com/travisiol/petri",
+    "pushed_at": "2026-09-19T21:57:02Z",
+    "repo_id": 1377647332,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
