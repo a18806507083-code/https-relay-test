@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T17:08:03Z",
+    "detected_at": "2026-10-08T19:27:59Z",
+    "display": "gilbertacosta2007-prog/CNCV-juego",
+    "key": "repo:1410697044",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "gilbertacosta2007-prog/CNCV-juego",
+      "homepage": null,
+      "pushed_at": "2026-10-08T18:51:11Z",
+      "tech_signals": [
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1410697044,
+    "url": "https://github.com/gilbertacosta2007-prog/CNCV-juego"
+  },
+  "schema": "zcash-fast-event/1"
+}
