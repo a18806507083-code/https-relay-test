@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T09:03:42Z",
+    "detected_at": "2026-09-29T15:32:41Z",
+    "display": "micovi/nyctis-spec",
+    "key": "repo:1394783175",
+    "metadata": {
+      "description": "Nyctis: specifications, conformance vectors and research papers",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "micovi/nyctis-spec",
+      "homepage": null,
+      "pushed_at": "2026-09-29T09:03:48Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1394783175,
+    "url": "https://github.com/micovi/nyctis-spec"
+  },
+  "schema": "zcash-fast-event/1"
+}
