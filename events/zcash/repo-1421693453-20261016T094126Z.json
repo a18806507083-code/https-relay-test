@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T05:32:49Z",
+    "detected_at": "2026-10-16T09:41:26Z",
+    "display": "dismad/ua-eth-proto",
+    "key": "repo:1421693453",
+    "metadata": {
+      "description": "UA as a dual-purpose identity + payment string",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "dismad/ua-eth-proto",
+      "homepage": null,
+      "pushed_at": "2026-10-16T05:36:43Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1421693453,
+    "url": "https://github.com/dismad/ua-eth-proto"
+  },
+  "schema": "zcash-fast-event/1"
+}
