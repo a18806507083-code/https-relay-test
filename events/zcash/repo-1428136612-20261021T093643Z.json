@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T09:06:24Z",
+    "detected_at": "2026-10-21T09:36:43Z",
+    "display": "Just-Anonymously-Known/shieldpay",
+    "key": "repo:1428136612",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Just-Anonymously-Known/shieldpay",
+      "homepage": null,
+      "pushed_at": "2026-10-21T09:17:21Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1428136612,
+    "url": "https://github.com/Just-Anonymously-Known/shieldpay"
+  },
+  "schema": "zcash-fast-event/1"
+}
