@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T15:07:39.157Z",
+    "detected_at": "2026-10-19T17:18:21Z",
+    "display": "58341 Last call: applications for Zcon7 close tomorrow!",
+    "key": "forum:58341",
+    "metadata": {
+      "category_id": 21,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "last-call-applications-for-zcon7-close-tomorrow",
+      "title": "Last call: applications for Zcon7 close tomorrow!",
+      "topic_id": 58341
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58341,
+    "url": "https://forum.zcashcommunity.com/t/last-call-applications-for-zcon7-close-tomorrow/58341"
+  },
+  "schema": "zcash-fast-event/1"
+}
