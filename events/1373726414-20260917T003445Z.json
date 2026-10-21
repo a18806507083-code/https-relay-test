@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T23:26:44Z",
+    "description": "ARB/ETH/SOL/WLD\u306e\u4eee\u60f3\u901a\u8ca8\u30cb\u30e5\u30fc\u30b9\u3092Discord\u306b\u901a\u77e5\u3059\u308bBOT",
+    "detected_at": "2026-09-17T00:34:45Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "sajicosaji/crypto-news-bot",
+    "homepage": null,
+    "html_url": "https://github.com/sajicosaji/crypto-news-bot",
+    "pushed_at": "2026-09-16T23:48:06Z",
+    "repo_id": 1373726414,
+    "score": 6,
+    "tech_signals": [
+      "Morpho",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
