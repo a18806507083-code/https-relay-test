@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T01:43:45Z",
+    "detected_at": "2026-09-16T06:39:21Z",
+    "display": "OlamideAfunsho/argos",
+    "key": "repo:1372387645",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "OlamideAfunsho/argos",
+      "homepage": null,
+      "pushed_at": "2026-09-16T01:48:35Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1372387645,
+    "url": "https://github.com/OlamideAfunsho/argos"
+  },
+  "schema": "zcash-fast-event/1"
+}
