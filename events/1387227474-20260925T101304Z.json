@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T09:55:23Z",
+    "description": "The Bidwallfi app: walls board, coin pages with the Floor Wall and ledger, launch in one signature, opt-in in two transactions. Next.js 16 and viem.",
+    "detected_at": "2026-09-25T10:13:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "bidwallfi/viewport",
+    "homepage": null,
+    "html_url": "https://github.com/bidwallfi/viewport",
+    "pushed_at": "2026-09-25T09:56:08Z",
+    "repo_id": 1387227474,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
