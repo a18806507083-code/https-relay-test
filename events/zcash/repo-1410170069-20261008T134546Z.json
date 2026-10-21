@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T10:53:30Z",
+    "detected_at": "2026-10-08T13:45:46Z",
+    "display": "logos-co/logos-zebrad-ui",
+    "key": "repo:1410170069",
+    "metadata": {
+      "description": "Manage the Zcash node that zebrad_module runs in-process: start, stop, sync progress, settings, the ports it opens, and its log.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "logos-co/logos-zebrad-ui",
+      "homepage": null,
+      "pushed_at": "2026-10-08T11:59:09Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1410170069,
+    "url": "https://github.com/logos-co/logos-zebrad-ui"
+  },
+  "schema": "zcash-fast-event/1"
+}
