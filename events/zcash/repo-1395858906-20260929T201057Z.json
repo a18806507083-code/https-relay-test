@@ -1,0 +1,34 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T15:56:37Z",
+    "detected_at": "2026-09-29T20:10:57Z",
+    "display": "beautifulrem/zeceipt",
+    "key": "repo:1395858906",
+    "metadata": {
+      "description": "Verifiable receipts for shielded Zcash payments: disclose one output without a viewing key. Rust + WASM verifier + payout console.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "beautifulrem/zeceipt",
+      "homepage": "https://github.com/beautifulrem/zeceipt#readme",
+      "pushed_at": "2026-09-29T20:03:04Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1395858906,
+    "url": "https://github.com/beautifulrem/zeceipt"
+  },
+  "schema": "zcash-fast-event/1"
+}
