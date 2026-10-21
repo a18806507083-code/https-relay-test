@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T19:44:47Z",
+    "detected_at": "2026-09-28T23:32:25Z",
+    "display": "aksum/pass-exporter",
+    "key": "repo:1393733276",
+    "metadata": {
+      "description": "Migrate your pass (password-store) secrets to Proton Pass (and later 1Password) through a reviewable JSON export",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "aksum/pass-exporter",
+      "homepage": null,
+      "pushed_at": "2026-09-28T20:10:14Z",
+      "tech_signals": [
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1393733276,
+    "url": "https://github.com/aksum/pass-exporter"
+  },
+  "schema": "zcash-fast-event/1"
+}
