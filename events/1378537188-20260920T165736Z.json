@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T16:21:21Z",
+    "description": "Chord \u2014 non-custodial trading API on Arc, Robinhood Chain and Monad: router contracts, TypeScript SDK, OpenAPI spec, docs MCP",
+    "detected_at": "2026-09-20T16:57:36Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "tuantqse90/chord",
+    "homepage": "https://getchord.xyz",
+    "html_url": "https://github.com/tuantqse90/chord",
+    "pushed_at": "2026-09-20T16:21:26Z",
+    "repo_id": 1378537188,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
