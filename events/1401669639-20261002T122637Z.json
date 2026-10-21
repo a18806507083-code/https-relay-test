@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T12:23:36Z",
+    "description": "Terminal client for HEY Research Lab public API: Robinhood Chain projects, ships, changes, evidence and unknowns, with JSON output for scripts and agents.",
+    "detected_at": "2026-10-02T12:26:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "hey-research-lab/hey-cli",
+    "homepage": "https://heyresearch.xyz/docs/public-api",
+    "html_url": "https://github.com/hey-research-lab/hey-cli",
+    "pushed_at": "2026-10-02T12:23:48Z",
+    "repo_id": 1401669639,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
