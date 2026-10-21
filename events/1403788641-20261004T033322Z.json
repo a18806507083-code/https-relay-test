@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T02:05:44Z",
+    "description": null,
+    "detected_at": "2026-10-04T03:33:22Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "altaga/Effisend-RH",
+    "homepage": null,
+    "html_url": "https://github.com/altaga/Effisend-RH",
+    "pushed_at": "2026-10-04T03:11:57Z",
+    "repo_id": 1403788641,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
