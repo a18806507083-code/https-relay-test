@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T07:40:54Z",
+    "description": "Launch imd/acc's RemoteStacker on Robinhood Chain (chain 4663) from this repository (the launch-robinhood branch, which is the robinhood branch without .github/workflows; do not add any workflow file): deploy only the RemoteStacker, exactly as launch.json lists it, wired to IMD on Robinhood Chain and to imd/acc's live StackReceiver on Ethereum. ...",
+    "detected_at": "2026-10-13T07:44:18Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-1537-launch-imd-acc-s-remotestacker-robinhood",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1537-launch-imd-acc-s-remotestacker-robinhood",
+    "pushed_at": "2026-10-13T07:40:58Z",
+    "repo_id": 1416651582,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
