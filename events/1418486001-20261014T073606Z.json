@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T06:39:44Z",
+    "description": "Token launchpad on Robinhood Chain that routes creator fees to Telegram usernames, paid in GRAM on TON.",
+    "detected_at": "2026-10-14T07:36:06Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "Telepay-Developer/TelePay",
+    "homepage": "",
+    "html_url": "https://github.com/Telepay-Developer/TelePay",
+    "pushed_at": "2026-10-14T07:08:48Z",
+    "repo_id": 1418486001,
+    "score": 11,
+    "tech_signals": [
+      "Lending/Vault",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
