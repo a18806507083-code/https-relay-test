@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T10:32:34Z",
+    "description": "Onchain carbon credit marketplace on Robinhood Chain. Controlled mainnet beta, unaudited.",
+    "detected_at": "2026-10-19T10:57:51Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "CarbonizedLab/carbonized",
+    "homepage": "https://carbonized.app",
+    "html_url": "https://github.com/CarbonizedLab/carbonized",
+    "pushed_at": "2026-10-19T10:56:18Z",
+    "repo_id": 1425455099,
+    "score": 11,
+    "tech_signals": [
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
