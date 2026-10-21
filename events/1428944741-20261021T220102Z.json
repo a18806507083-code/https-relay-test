@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T21:22:28Z",
+    "description": "Deploy one contract: PondsideGuard, a standalone Uniswap v4 hook with no token and no pool of its own, on Robinhood Chain. It must be usable by anyone initializing a new pool with it on the PoolManager passed as a constructor argument (Robinhood Chain PoolManager 0x8366a39CC670B4001A1121B8F6A443A643e40951). The hook does exactly the following, a...",
+    "detected_at": "2026-10-21T22:01:02Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-2424-deploy-one-contract-pondsideguard",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2424-deploy-one-contract-pondsideguard",
+    "pushed_at": "2026-10-21T21:22:31Z",
+    "repo_id": 1428944741,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
