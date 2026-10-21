@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T15:20:15.037Z",
+    "detected_at": "2026-09-24T19:03:27Z",
+    "display": "57790 In Spam? Contacted Official Email for Slipstream Licensing",
+    "key": "forum:57790",
+    "metadata": {
+      "category_id": 51,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "in-spam-contacted-official-email-for-slipstream-licensing",
+      "title": "In Spam? Contacted Official Email for Slipstream Licensing",
+      "topic_id": 57790
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57790,
+    "url": "https://forum.zcashcommunity.com/t/in-spam-contacted-official-email-for-slipstream-licensing/57790"
+  },
+  "schema": "zcash-fast-event/1"
+}
