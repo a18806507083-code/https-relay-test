@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T06:42:38Z",
+    "description": "Fair-launch token launchpad on Robinhood Chain, built on Uniswap v4.",
+    "detected_at": "2026-10-06T07:47:35Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "volleyfun3/volley",
+    "homepage": "https://volleyfun.org",
+    "html_url": "https://github.com/volleyfun3/volley",
+    "pushed_at": "2026-10-06T07:01:20Z",
+    "repo_id": 1406829185,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
