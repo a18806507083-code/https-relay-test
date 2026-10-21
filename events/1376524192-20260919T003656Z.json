@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T23:20:01Z",
+    "description": null,
+    "detected_at": "2026-09-19T00:36:56Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "giupy997/stockmine",
+    "homepage": null,
+    "html_url": "https://github.com/giupy997/stockmine",
+    "pushed_at": "2026-09-19T00:18:15Z",
+    "repo_id": 1376524192,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
