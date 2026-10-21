@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T17:24:59Z",
+    "description": "Build a Uniswap V4 hook called SigmoidIMD for fair token launches, plus a launchpad contract. The hook attaches to pools paired with IMD on Robinhood Chain and protects the first 100 blocks after pool creation (the opening window): (1) dynamic swap fee starting at 0.30% and rising with price impact (fee = 0.30% + 150 x price impact fraction), ca...",
+    "detected_at": "2026-10-21T18:52:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-2406-sigmoidimd",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2406-sigmoidimd",
+    "pushed_at": "2026-10-21T17:25:03Z",
+    "repo_id": 1428709136,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
