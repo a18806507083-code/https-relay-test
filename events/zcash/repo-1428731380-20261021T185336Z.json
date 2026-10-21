@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T17:45:49Z",
+    "detected_at": "2026-10-21T18:53:36Z",
+    "display": "fedeopc/Cave-Sicura",
+    "key": "repo:1428731380",
+    "metadata": {
+      "description": "App di emergenza per i cittadini di Cave (RM): allerta meteo del giorno, cosa fare in caso di rischio, zaino di emergenza e numeri utili. A cura dell’Associazione Italiana Protezione Civile Cave – OdV.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "fedeopc/Cave-Sicura",
+      "homepage": null,
+      "pushed_at": "2026-10-21T17:49:30Z",
+      "tech_signals": [
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1428731380,
+    "url": "https://github.com/fedeopc/Cave-Sicura"
+  },
+  "schema": "zcash-fast-event/1"
+}
