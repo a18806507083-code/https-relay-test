@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T06:00:59Z",
+    "detected_at": "2026-10-13T07:44:48Z",
+    "display": "skazistp-cpu/ztab",
+    "key": "repo:1416538842",
+    "metadata": {
+      "description": "Split a bill and get paid back in Zcash: one standard ZIP 321 payment request per person. Live at ztab.sebrona.com",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash"
+      ],
+      "full_name": "skazistp-cpu/ztab",
+      "homepage": "https://ztab.sebrona.com",
+      "pushed_at": "2026-10-13T06:01:11Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416538842,
+    "url": "https://github.com/skazistp-cpu/ztab"
+  },
+  "schema": "zcash-fast-event/1"
+}
