@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T18:10:07Z",
+    "description": "Hedge-fund quant research for memecoins on Solana and Robinhood Chain. Claude invents strategies; the engine prices rugs, slippage and MEV, and kills the lucky ones.",
+    "detected_at": "2026-10-11T19:34:39Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "zostaff/quant-memcoins-researcher",
+    "homepage": "",
+    "html_url": "https://github.com/zostaff/quant-memcoins-researcher",
+    "pushed_at": "2026-10-11T18:44:46Z",
+    "repo_id": 1414634761,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
