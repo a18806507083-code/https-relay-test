@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T17:19:16Z",
+    "detected_at": "2026-10-20T18:44:22Z",
+    "display": "devfola/zcash-durable-outbox",
+    "key": "repo:1427339865",
+    "metadata": {
+      "description": "Self-hosted Zcash payment outbox for Zallet, with durable payment IDs and identical-byte transaction retries. MVP tested on disposable NU6.3 regtest.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "devfola/zcash-durable-outbox",
+      "homepage": null,
+      "pushed_at": "2026-10-20T17:44:17Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1427339865,
+    "url": "https://github.com/devfola/zcash-durable-outbox"
+  },
+  "schema": "zcash-fast-event/1"
+}
