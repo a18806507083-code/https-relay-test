@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T21:19:07Z",
+    "description": null,
+    "detected_at": "2026-10-03T21:26:32Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "stynxcash/stynxcash",
+    "homepage": null,
+    "html_url": "https://github.com/stynxcash/stynxcash",
+    "pushed_at": "2026-10-03T21:19:51Z",
+    "repo_id": 1403644659,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
