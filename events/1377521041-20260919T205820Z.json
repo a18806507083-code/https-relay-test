@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T19:02:30Z",
+    "description": null,
+    "detected_at": "2026-09-19T20:58:20Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "jetttdevs/tagonlong",
+    "homepage": null,
+    "html_url": "https://github.com/jetttdevs/tagonlong",
+    "pushed_at": "2026-09-19T20:14:10Z",
+    "repo_id": 1377521041,
+    "score": 17,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
