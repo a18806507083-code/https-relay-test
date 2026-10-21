@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T05:43:57Z",
+    "detected_at": "2026-09-21T06:24:21Z",
+    "display": "zNik0/zBridge",
+    "key": "repo:1379154048",
+    "metadata": {
+      "description": "First two-way bridge between Solana SPL tokens and Zcash ZSA",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "zNik0/zBridge",
+      "homepage": null,
+      "pushed_at": "2026-09-21T05:43:58Z",
+      "tech_signals": [
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1379154048,
+    "url": "https://github.com/zNik0/zBridge"
+  },
+  "schema": "zcash-fast-event/1"
+}
