@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T07:47:16Z",
+    "description": null,
+    "detected_at": "2026-09-11T09:36:22Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "equilattice-labs/r301",
+    "homepage": "https://r301-one.vercel.app",
+    "html_url": "https://github.com/equilattice-labs/r301",
+    "pushed_at": "2026-09-11T07:48:20Z",
+    "repo_id": 1365591064,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
