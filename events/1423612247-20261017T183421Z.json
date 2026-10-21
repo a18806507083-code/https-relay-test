@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T18:12:03Z",
+    "description": "Next.js front end for Hoodfactory on Robinhood Chain: launch tokens through a chat agent, pair them with ETH or stock tokens, browse the market, swap, and track a wallet dashboard. Real mainnet transactions.",
+    "detected_at": "2026-10-17T18:34:21Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "sherwood-labs/robinhood-agent-launchpad",
+    "homepage": null,
+    "html_url": "https://github.com/sherwood-labs/robinhood-agent-launchpad",
+    "pushed_at": "2026-10-17T18:12:08Z",
+    "repo_id": 1423612247,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
