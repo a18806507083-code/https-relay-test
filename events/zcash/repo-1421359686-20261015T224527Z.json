@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T21:49:59Z",
+    "detected_at": "2026-10-15T22:45:27Z",
+    "display": "Nassim55/il-mazzo",
+    "key": "repo:1421359686",
+    "metadata": {
+      "description": "Italian-English Card Game",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Nassim55/il-mazzo",
+      "homepage": null,
+      "pushed_at": "2026-10-15T22:44:49Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1421359686,
+    "url": "https://github.com/Nassim55/il-mazzo"
+  },
+  "schema": "zcash-fast-event/1"
+}
