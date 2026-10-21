@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T08:26:09Z",
+    "description": "Stealth payments on Robinhood Chain (ERC-5564): contract, site and Cloudflare worker.",
+    "detected_at": "2026-10-12T09:17:58Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "ghostpay-source/ghostpay",
+    "homepage": "https://ghostpayfin.xyz",
+    "html_url": "https://github.com/ghostpay-source/ghostpay",
+    "pushed_at": "2026-10-12T09:12:37Z",
+    "repo_id": 1415298704,
+    "score": 12,
+    "tech_signals": [
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
