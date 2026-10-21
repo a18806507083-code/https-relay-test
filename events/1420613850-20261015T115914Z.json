@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T11:35:09Z",
+    "description": null,
+    "detected_at": "2026-10-15T11:59:14Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "sambhav999/outpost-rivals",
+    "homepage": "https://outpost-rivals.vercel.app",
+    "html_url": "https://github.com/sambhav999/outpost-rivals",
+    "pushed_at": "2026-10-15T11:54:26Z",
+    "repo_id": 1420613850,
+    "score": 12,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
