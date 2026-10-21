@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T13:49:35.179Z",
+    "detected_at": "2026-10-13T15:17:22Z",
+    "display": "58168 Grant Application - ZEC Order Pay: shielded ZEC checkout, refunds and creator payouts for service marketplaces",
+    "key": "forum:58168",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zec-order-pay-shielded-zec-checkout-refunds-and-creator-payouts-for-service-marketplaces",
+      "title": "Grant Application - ZEC Order Pay: shielded ZEC checkout, refunds and creator payouts for service marketplaces",
+      "topic_id": 58168
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58168,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zec-order-pay-shielded-zec-checkout-refunds-and-creator-payouts-for-service-marketplaces/58168"
+  },
+  "schema": "zcash-fast-event/1"
+}
