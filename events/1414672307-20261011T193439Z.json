@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T18:54:15Z",
+    "description": "GitHub contribution analytics and metrics dashboard. Tracks commit activity, streaks, and visualizes development patterns across repositories.",
+    "detected_at": "2026-10-11T19:34:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "ssrjkk/harvest",
+    "homepage": null,
+    "html_url": "https://github.com/ssrjkk/harvest",
+    "pushed_at": "2026-10-11T18:54:26Z",
+    "repo_id": 1414672307,
+    "score": 8,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
