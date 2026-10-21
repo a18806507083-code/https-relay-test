@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T20:27:14Z",
+    "detected_at": "2026-09-27T21:59:38Z",
+    "display": "adamzkdev/zscan-nft-registry",
+    "key": "repo:1391377708",
+    "metadata": {
+      "description": "Zcash NFT collections listed on ZScan: names, links and sources. Submit yours.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "adamzkdev/zscan-nft-registry",
+      "homepage": "https://zscan.cash/collections",
+      "pushed_at": "2026-09-27T20:27:18Z",
+      "tech_signals": [
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1391377708,
+    "url": "https://github.com/adamzkdev/zscan-nft-registry"
+  },
+  "schema": "zcash-fast-event/1"
+}
