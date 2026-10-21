@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T18:19:42Z",
+    "description": "DELTA: route a coin's creator fees anywhere, on Solana and Robinhood Chain",
+    "detected_at": "2026-09-30T20:04:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "tow3web3/deltas",
+    "homepage": null,
+    "html_url": "https://github.com/tow3web3/deltas",
+    "pushed_at": "2026-09-30T19:19:46Z",
+    "repo_id": 1398583323,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
