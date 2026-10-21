@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-21T09:36:43Z",
+  "last_run_at": "2026-10-21T14:38:20Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-21T04:10:00Z",
+      "cutoff": "2026-10-21T09:06:43Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-21T04:10:00Z",
-      "matches": 1,
+      "cutoff": "2026-10-21T09:06:43Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-21T04:10:00Z",
-      "matches": 3,
+      "cutoff": "2026-10-21T09:06:43Z",
+      "matches": 6,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-21T04:10:00Z",
-      "matches": 1,
+      "cutoff": "2026-10-21T09:06:43Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -1517,6 +1517,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2371",
       "first_seen_at": "2026-10-21T09:36:43Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58410": {
+      "created_at": "2026-10-21T11:30:05.485Z",
+      "display": "58410 ZF Engineering Update: 6 - 19 October 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2385",
+      "first_seen_at": "2026-10-21T14:38:20Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58412": {
+      "created_at": "2026-10-21T13:08:22.200Z",
+      "display": "58412 Grant Application - Lean proof of the GLV recoding and ladder in pasta_curves (part 3 of pasta_curves#174)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2380",
+      "first_seen_at": "2026-10-21T14:38:20Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -6343,6 +6359,54 @@
       "first_seen_at": "2026-10-21T09:36:43Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1428179738": {
+      "created_at": "2026-10-21T09:45:47Z",
+      "display": "AshThunder/zecasino",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2388",
+      "first_seen_at": "2026-10-21T14:38:20Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1428201757": {
+      "created_at": "2026-10-21T10:06:50Z",
+      "display": "linoxbt/cashr",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2387",
+      "first_seen_at": "2026-10-21T14:38:20Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1428312493": {
+      "created_at": "2026-10-21T11:52:07Z",
+      "display": "vibecoderc4-hub/THE-DERELICT",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2383",
+      "first_seen_at": "2026-10-21T14:38:20Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1428317186": {
+      "created_at": "2026-10-21T11:56:28Z",
+      "display": "blessed-user/THE-DERELICT",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2382",
+      "first_seen_at": "2026-10-21T14:38:20Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1428363063": {
+      "created_at": "2026-10-21T12:36:46Z",
+      "display": "Wangsamuels/Zeep-backend-",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2381",
+      "first_seen_at": "2026-10-21T14:38:20Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1428506759": {
+      "created_at": "2026-10-21T14:34:05Z",
+      "display": "Dr-WangZhiyuan/zcash-envelope",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2379",
+      "first_seen_at": "2026-10-21T14:38:20Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -7022,14 +7086,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2373",
       "first_seen_at": "2026-10-21T09:36:43Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5959057956": {
+      "created_at": "2026-10-21T10:49:26Z",
+      "display": "#508 CryptoMondays Community Events",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2386",
+      "first_seen_at": "2026-10-21T14:38:20Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:5959887650": {
+      "created_at": "2026-10-21T11:49:02Z",
+      "display": "#509 Grant Application - {Application Name}",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2384",
+      "first_seen_at": "2026-10-21T14:38:20Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-21T09:36:43Z",
-    "forum": "2026-10-21T09:36:43Z",
-    "github": "2026-10-21T09:36:43Z",
-    "zcg": "2026-10-21T09:36:43Z"
+    "fixed_orgs": "2026-10-21T14:38:20Z",
+    "forum": "2026-10-21T14:38:20Z",
+    "github": "2026-10-21T14:38:20Z",
+    "zcg": "2026-10-21T14:38:20Z"
   }
 }
