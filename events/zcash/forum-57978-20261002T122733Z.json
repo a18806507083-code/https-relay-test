@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T12:14:45.070Z",
+    "detected_at": "2026-10-02T12:27:33Z",
+    "display": "57978 NEAR Intents was hacked yesterday",
+    "key": "forum:57978",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "near-intents-was-hacked-yesterday",
+      "title": "NEAR Intents was hacked yesterday",
+      "topic_id": 57978
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57978,
+    "url": "https://forum.zcashcommunity.com/t/near-intents-was-hacked-yesterday/57978"
+  },
+  "schema": "zcash-fast-event/1"
+}
