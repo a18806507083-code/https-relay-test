@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T17:03:01Z",
+    "description": null,
+    "detected_at": "2026-09-27T19:02:44Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "meisems/nearpool",
+    "homepage": null,
+    "html_url": "https://github.com/meisems/nearpool",
+    "pushed_at": "2026-09-27T18:56:33Z",
+    "repo_id": 1391177195,
+    "score": 5,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
