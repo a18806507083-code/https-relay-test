@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T18:29:54Z",
+    "detected_at": "2026-10-14T21:07:07Z",
+    "display": "cryppit/zec-refund-helper",
+    "key": "repo:1419656060",
+    "metadata": {
+      "description": "Keyless, read-only helper for Bitcoin and Zcash deposits stuck in the NEAR Omni bridge: the bridge's own refund steps, shielded when your address can take it. ZECATHON 2026, Cross-Chain.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash"
+      ],
+      "full_name": "cryppit/zec-refund-helper",
+      "homepage": "https://wheres-my-swap.higgsfield.app/refund",
+      "pushed_at": "2026-10-14T18:55:20Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1419656060,
+    "url": "https://github.com/cryppit/zec-refund-helper"
+  },
+  "schema": "zcash-fast-event/1"
+}
