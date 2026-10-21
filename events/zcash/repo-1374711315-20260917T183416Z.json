@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T16:15:44Z",
+    "detected_at": "2026-09-17T18:34:16Z",
+    "display": "thedarklord112/Badges_and_Icons-for-profile-README",
+    "key": "repo:1374711315",
+    "metadata": {
+      "description": "Enhance your GitHub profile with this amazing resources.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "thedarklord112/Badges_and_Icons-for-profile-README",
+      "homepage": null,
+      "pushed_at": "2026-09-17T16:23:53Z",
+      "tech_signals": [
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1374711315,
+    "url": "https://github.com/thedarklord112/Badges_and_Icons-for-profile-README"
+  },
+  "schema": "zcash-fast-event/1"
+}
