@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T16:26:49Z",
+    "detected_at": "2026-10-03T18:20:47Z",
+    "display": "neromtoobad/glasstown",
+    "key": "repo:1403404124",
+    "metadata": {
+      "description": "Learn to use Zcash privately in about 10 minutes: a beginner game for ZECATHON",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "neromtoobad/glasstown",
+      "homepage": "https://neromtoobad.github.io/glasstown/",
+      "pushed_at": "2026-10-03T17:33:40Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403404124,
+    "url": "https://github.com/neromtoobad/glasstown"
+  },
+  "schema": "zcash-fast-event/1"
+}
