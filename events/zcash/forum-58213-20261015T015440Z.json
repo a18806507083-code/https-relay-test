@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T00:30:06.612Z",
+    "detected_at": "2026-10-15T01:54:40Z",
+    "display": "58213 Pretty Genteel Policies, or, Where in the world is Filip Lucian Simion?",
+    "key": "forum:58213",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "pretty-genteel-policies-or-where-in-the-world-is-filip-lucian-simion",
+      "title": "Pretty Genteel Policies, or, Where in the world is Filip Lucian Simion?",
+      "topic_id": 58213
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58213,
+    "url": "https://forum.zcashcommunity.com/t/pretty-genteel-policies-or-where-in-the-world-is-filip-lucian-simion/58213"
+  },
+  "schema": "zcash-fast-event/1"
+}
