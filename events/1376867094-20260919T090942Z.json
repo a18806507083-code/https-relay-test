@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T07:28:46Z",
+    "description": "Coins backed by their own leveraged portfolio on Robinhood Chain. Uniswap v4 hook with ETH fees, locked liquidity and profit-funded buyback & burn.",
+    "detected_at": "2026-09-19T09:09:42Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "Stakdofficial/Stakd",
+    "homepage": "https://www.stakd.tech",
+    "html_url": "https://github.com/Stakdofficial/Stakd",
+    "pushed_at": "2026-09-19T07:34:19Z",
+    "repo_id": 1376867094,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
