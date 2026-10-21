@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T18:11:13Z",
+    "description": null,
+    "detected_at": "2026-10-18T18:48:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "Anmol-345/robinpay",
+    "homepage": null,
+    "html_url": "https://github.com/Anmol-345/robinpay",
+    "pushed_at": "2026-10-18T18:47:50Z",
+    "repo_id": 1424673187,
+    "score": 11,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
