@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T01:43:31.214Z",
+    "detected_at": "2026-10-06T07:48:05Z",
+    "display": "58053 Zcash anniversary month",
+    "key": "forum:58053",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-anniversary-month",
+      "title": "Zcash anniversary month",
+      "topic_id": 58053
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58053,
+    "url": "https://forum.zcashcommunity.com/t/zcash-anniversary-month/58053"
+  },
+  "schema": "zcash-fast-event/1"
+}
