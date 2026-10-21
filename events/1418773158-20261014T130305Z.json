@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T11:07:22Z",
+    "description": "Clone-and-run TypeScript examples for Conviction lock integrations.",
+    "detected_at": "2026-10-14T13:03:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "ConvictionLocker/conviction-starter",
+    "homepage": "https://www.conviction.locker/docs/integrations",
+    "html_url": "https://github.com/ConvictionLocker/conviction-starter",
+    "pushed_at": "2026-10-14T12:15:51Z",
+    "repo_id": 1418773158,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
