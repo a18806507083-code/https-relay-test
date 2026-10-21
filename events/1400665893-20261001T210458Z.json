@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T20:09:48Z",
+    "description": null,
+    "detected_at": "2026-10-01T21:04:58Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "travisiol/spare",
+    "homepage": null,
+    "html_url": "https://github.com/travisiol/spare",
+    "pushed_at": "2026-10-01T20:09:55Z",
+    "repo_id": 1400665893,
+    "score": 5,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
