@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T23:19:04Z",
+    "description": "Dev check for any Robinhood Chain token: is anyone building it, and what did they ship? Terminal answer plus a shareable card, from Hey Research Lab's public evidence.",
+    "detected_at": "2026-10-18T00:19:41Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "hey-research-lab/hey-check",
+    "homepage": "https://heyresearch.xyz",
+    "html_url": "https://github.com/hey-research-lab/hey-check",
+    "pushed_at": "2026-10-17T23:19:10Z",
+    "repo_id": 1423829380,
+    "score": 9,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
