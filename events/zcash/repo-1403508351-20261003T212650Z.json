@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T18:13:36Z",
+    "detected_at": "2026-10-03T21:26:50Z",
+    "display": "lugodagoberto1-glitch/lugo-valdes-",
+    "key": "repo:1403508351",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "lugodagoberto1-glitch/lugo-valdes-",
+      "homepage": null,
+      "pushed_at": "2026-10-03T18:43:14Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403508351,
+    "url": "https://github.com/lugodagoberto1-glitch/lugo-valdes-"
+  },
+  "schema": "zcash-fast-event/1"
+}
