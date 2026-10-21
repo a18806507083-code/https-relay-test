@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T15:36:41Z",
+    "detected_at": "2026-10-01T16:20:48Z",
+    "display": "Anekenonso/create-zcash-app",
+    "key": "repo:1400262793",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Anekenonso/create-zcash-app",
+      "homepage": null,
+      "pushed_at": "2026-10-01T16:17:42Z",
+      "tech_signals": [
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1400262793,
+    "url": "https://github.com/Anekenonso/create-zcash-app"
+  },
+  "schema": "zcash-fast-event/1"
+}
