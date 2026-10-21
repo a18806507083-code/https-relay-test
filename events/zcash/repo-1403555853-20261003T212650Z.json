@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T19:12:08Z",
+    "detected_at": "2026-10-03T21:26:50Z",
+    "display": "ronkenx9/lose-the-tail",
+    "key": "repo:1403555853",
+    "metadata": {
+      "description": "A 5-minute voxel game that teaches your first shielded Zcash transaction. ZECATHON Wildcard entry.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ronkenx9/lose-the-tail",
+      "homepage": "https://lose-the-tail.vercel.app",
+      "pushed_at": "2026-10-03T21:09:15Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403555853,
+    "url": "https://github.com/ronkenx9/lose-the-tail"
+  },
+  "schema": "zcash-fast-event/1"
+}
