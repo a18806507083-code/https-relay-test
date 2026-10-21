@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T22:01:50Z",
+    "detected_at": "2026-10-13T01:16:21Z",
+    "display": "thithiri/zol",
+    "key": "repo:1416173744",
+    "metadata": {
+      "description": "ZOL.cash (Zcash Operating Layer) brings programmable Zcash privacy to Solana. Players deposit shielded ZEC from any Zcash wallet, play in real time in apps built as Solana programs that run in a MagicBlock/SVM rollup, and withdraw back to Zcash, shielded.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "thithiri/zol",
+      "homepage": "https://zol.cash",
+      "pushed_at": "2026-10-12T22:07:52Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416173744,
+    "url": "https://github.com/thithiri/zol"
+  },
+  "schema": "zcash-fast-event/1"
+}
