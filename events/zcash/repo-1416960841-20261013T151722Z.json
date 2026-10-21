@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T12:02:04Z",
+    "detected_at": "2026-10-13T15:17:22Z",
+    "display": "NoirWallet/ZcashBlocksCDN",
+    "key": "repo:1416960841",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "NoirWallet/ZcashBlocksCDN",
+      "homepage": null,
+      "pushed_at": "2026-10-13T12:03:21Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416960841,
+    "url": "https://github.com/NoirWallet/ZcashBlocksCDN"
+  },
+  "schema": "zcash-fast-event/1"
+}
