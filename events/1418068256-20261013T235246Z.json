@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T22:03:34Z",
+    "description": "Build and Fix code on ethereum ",
+    "detected_at": "2026-10-13T23:52:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Kshot3000/Ethereum-Builder",
+    "homepage": null,
+    "html_url": "https://github.com/Kshot3000/Ethereum-Builder",
+    "pushed_at": "2026-10-13T23:52:26Z",
+    "repo_id": 1418068256,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
