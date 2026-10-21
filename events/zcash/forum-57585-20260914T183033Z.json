@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T14:30:18.339Z",
+    "detected_at": "2026-09-14T18:30:33Z",
+    "display": "57585 Grant Application - GraphSense Zcash Shielded Accounting Repair",
+    "key": "forum:57585",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "grant-application-graphsense-zcash-shielded-accounting-repair",
+      "title": "Grant Application - GraphSense Zcash Shielded Accounting Repair",
+      "topic_id": 57585
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57585,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-graphsense-zcash-shielded-accounting-repair/57585"
+  },
+  "schema": "zcash-fast-event/1"
+}
