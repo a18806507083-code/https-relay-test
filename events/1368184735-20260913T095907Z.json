@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T08:19:38Z",
+    "description": "Versus \u2014 same ticker, different claim. Claim router for tokenized US equities on Solana.",
+    "detected_at": "2026-09-13T09:59:07Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "criptocbas/versus",
+    "homepage": null,
+    "html_url": "https://github.com/criptocbas/versus",
+    "pushed_at": "2026-09-13T08:19:49Z",
+    "repo_id": 1368184735,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
