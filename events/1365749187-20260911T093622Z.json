@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T09:23:28Z",
+    "description": null,
+    "detected_at": "2026-09-11T09:36:22Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "emberet/zfbrain",
+    "homepage": null,
+    "html_url": "https://github.com/emberet/zfbrain",
+    "pushed_at": "2026-09-11T09:31:36Z",
+    "repo_id": 1365749187,
+    "score": 10,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
