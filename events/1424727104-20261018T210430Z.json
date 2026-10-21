@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T19:16:48Z",
+    "description": "Every rug frays before it's pulled. Public watchtower for MCP servers and Agent Skills: tool definitions hashed hourly and anchored on Robinhood Chain.",
+    "detected_at": "2026-10-18T21:04:30Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "fraywick/fraywick",
+    "homepage": "https://fraywick.xyz",
+    "html_url": "https://github.com/fraywick/fraywick",
+    "pushed_at": "2026-10-18T19:17:37Z",
+    "repo_id": 1424727104,
+    "score": 12,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
