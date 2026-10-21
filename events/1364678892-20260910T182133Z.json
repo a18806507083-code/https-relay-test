@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T17:52:24Z",
+    "description": null,
+    "detected_at": "2026-09-10T18:21:33Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "plantsweb3/trenchfly",
+    "homepage": "https://trenchfly-lilac.vercel.app",
+    "html_url": "https://github.com/plantsweb3/trenchfly",
+    "pushed_at": "2026-09-10T18:10:39Z",
+    "repo_id": 1364678892,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
