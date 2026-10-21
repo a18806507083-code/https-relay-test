@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T23:27:06Z",
+    "description": "Rare Fiends - an on-chain strategy game on Robinhood Chain, built with Rare Friends",
+    "detected_at": "2026-09-30T23:40:18Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "metanodelabs/rare-fiends",
+    "homepage": null,
+    "html_url": "https://github.com/metanodelabs/rare-fiends",
+    "pushed_at": "2026-09-30T23:27:15Z",
+    "repo_id": 1398830702,
+    "score": 11,
+    "tech_signals": [
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
