@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T01:37:04Z",
+    "detected_at": "2026-10-04T03:33:43Z",
+    "display": "Jack-Kane2468/zkas-easy-node-and-wallet",
+    "key": "repo:1403774725",
+    "metadata": {
+      "description": "A local zkas node that is easy to start up and easy to use.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Jack-Kane2468/zkas-easy-node-and-wallet",
+      "homepage": null,
+      "pushed_at": "2026-10-04T02:29:34Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403774725,
+    "url": "https://github.com/Jack-Kane2468/zkas-easy-node-and-wallet"
+  },
+  "schema": "zcash-fast-event/1"
+}
