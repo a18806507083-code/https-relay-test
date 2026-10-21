@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T16:38:17Z",
+    "description": "WENZO is a next-generation Web3 ecosystem focused on blockchain innovation, community growth, and decentralized technology. This repository contains the official website and digital infrastructure of the WENZO token project.",
+    "detected_at": "2026-09-15T18:18:56Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "johanshndr023-hub/wenzo",
+    "homepage": "https://wenzo.vercel.app",
+    "html_url": "https://github.com/johanshndr023-hub/wenzo",
+    "pushed_at": "2026-09-15T17:12:28Z",
+    "repo_id": 1371798309,
+    "score": 5,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
