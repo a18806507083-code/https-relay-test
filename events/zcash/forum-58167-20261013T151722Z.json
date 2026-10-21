@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T13:04:27.085Z",
+    "detected_at": "2026-10-13T15:17:22Z",
+    "display": "58167 Skyhook and ESMASTe: Cross-chain Bridging, Messaging and Execution Layer",
+    "key": "forum:58167",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "skyhook-and-esmaste-cross-chain-bridging-messaging-and-execution-layer",
+      "title": "Skyhook and ESMASTe: Cross-chain Bridging, Messaging and Execution Layer",
+      "topic_id": 58167
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58167,
+    "url": "https://forum.zcashcommunity.com/t/skyhook-and-esmaste-cross-chain-bridging-messaging-and-execution-layer/58167"
+  },
+  "schema": "zcash-fast-event/1"
+}
