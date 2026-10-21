@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T22:33:24Z",
+    "description": null,
+    "detected_at": "2026-10-08T00:27:02Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "solfinnai/nftburntest",
+    "homepage": null,
+    "html_url": "https://github.com/solfinnai/nftburntest",
+    "pushed_at": "2026-10-07T23:42:30Z",
+    "repo_id": 1409447026,
+    "score": 17,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
