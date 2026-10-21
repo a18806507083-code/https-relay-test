@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T01:25:13Z",
+    "detected_at": "2026-10-18T04:44:14Z",
+    "display": "zodl-inc/keystone3-firmware",
+    "key": "repo:1423890829",
+    "metadata": {
+      "description": "The best open source hardware wallet",
+      "fixed_owner": "zodl-inc",
+      "full_name": "zodl-inc/keystone3-firmware",
+      "homepage": "https://keyst.one/",
+      "pushed_at": "2026-10-18T01:46:52Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1423890829,
+    "url": "https://github.com/zodl-inc/keystone3-firmware"
+  },
+  "schema": "zcash-fast-event/1"
+}
