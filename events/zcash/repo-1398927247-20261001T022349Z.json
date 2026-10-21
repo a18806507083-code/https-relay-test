@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T02:04:23Z",
+    "detected_at": "2026-10-01T02:23:49Z",
+    "display": "zzzyyyddd/veilpay",
+    "key": "repo:1398927247",
+    "metadata": {
+      "description": "Privacy-preserving merchant payments powered by Zcash",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "zzzyyyddd/veilpay",
+      "homepage": null,
+      "pushed_at": "2026-10-01T02:13:43Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1398927247,
+    "url": "https://github.com/zzzyyyddd/veilpay"
+  },
+  "schema": "zcash-fast-event/1"
+}
