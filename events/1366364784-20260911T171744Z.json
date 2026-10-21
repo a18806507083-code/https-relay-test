@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T15:28:30Z",
+    "description": "The ticker tells you the exposure. The curb tells you the conditions. A multi-agent intelligence desk for stock tokens on Robinhood Chain.",
+    "detected_at": "2026-09-11T17:17:44Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "the-curb/CURB",
+    "homepage": "https://the-curb.vercel.app",
+    "html_url": "https://github.com/the-curb/CURB",
+    "pushed_at": "2026-09-11T16:26:28Z",
+    "repo_id": 1366364784,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
