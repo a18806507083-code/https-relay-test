@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T08:40:38Z",
+    "description": "Audit and deploy Sherwood v2 on Robinhood Chain (4663) for $IMD, with no new token. Sherwood v2 (src/SherwoodV2.sol) is a Uniswap v4 hook running a leaderboard game in rolling 20-hour rounds on one native-ETH/$IMD pool: every buy scores points and pays 5% of its ETH into the round's pot. Moves are Buy, Steal, Robin Hood, Flip (Dice Protocol rand...",
+    "detected_at": "2026-10-12T09:17:58Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-1389-audit-deploy-sherwood-v2",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1389-audit-deploy-sherwood-v2",
+    "pushed_at": "2026-10-12T08:40:44Z",
+    "repo_id": 1415313209,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
