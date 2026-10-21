@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T17:11:52Z",
+    "detected_at": "2026-09-28T18:46:53Z",
+    "display": "valargroup/valar-testnet-faucet",
+    "key": "repo:1393376427",
+    "metadata": {
+      "description": "Zcash testnet faucet by Valar Group: 0.125 TAZ per IP per day, paid by zecd and broadcast directly to Zakura nodes",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "valargroup/valar-testnet-faucet",
+      "homepage": "https://faucet.testnet.valargroup.dev",
+      "pushed_at": "2026-09-28T18:07:38Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1393376427,
+    "url": "https://github.com/valargroup/valar-testnet-faucet"
+  },
+  "schema": "zcash-fast-event/1"
+}
