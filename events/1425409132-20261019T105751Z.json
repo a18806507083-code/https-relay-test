@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T09:48:39Z",
+    "description": "Audit and deploy the three AskSwarm contracts on Robinhood Chain (chainId 4663), unchanged if they pass review. Foundry project at the repo root. These exact contracts were each audited and deployed on Ethereum mainnet through earlier IMD launches (#2099 AskSwarmRegistry, #2190 SwarmMarket, #2189 SwarmWager); their adaptation notes are in contra...",
+    "detected_at": "2026-10-19T10:57:51Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-2223-src-askswarmregistry-sol-src-swarmmarket",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2223-src-askswarmregistry-sol-src-swarmmarket",
+    "pushed_at": "2026-10-19T09:48:44Z",
+    "repo_id": 1425409132,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
