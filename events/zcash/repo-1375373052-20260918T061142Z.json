@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T04:35:55Z",
+    "detected_at": "2026-09-18T06:11:42Z",
+    "display": "JustShieldMe/Zeta",
+    "key": "repo:1375373052",
+    "metadata": {
+      "description": "A Zcash onchain data ingestion and analytics framework.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "JustShieldMe/Zeta",
+      "homepage": null,
+      "pushed_at": "2026-09-18T04:41:43Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1375373052,
+    "url": "https://github.com/JustShieldMe/Zeta"
+  },
+  "schema": "zcash-fast-event/1"
+}
