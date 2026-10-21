@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T17:25:04Z",
+    "detected_at": "2026-09-21T18:35:59Z",
+    "display": "cran11x/zkveil",
+    "key": "repo:1380218268",
+    "metadata": {
+      "description": "ZK VEIL — public-data Solana privacy scanner (VEIL Scan)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "cran11x/zkveil",
+      "homepage": "https://zkveil-sigma.vercel.app",
+      "pushed_at": "2026-09-21T17:25:14Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1380218268,
+    "url": "https://github.com/cran11x/zkveil"
+  },
+  "schema": "zcash-fast-event/1"
+}
