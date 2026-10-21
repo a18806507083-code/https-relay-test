@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T20:30:03Z",
+    "description": "Institutional FinTech & Web3 platform integrating Robinhood Trading MCP, EVM smart contracts (NFT/ERC-20), and autonomous AI risk management.",
+    "detected_at": "2026-09-21T22:09:19Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "awsanadelabdulbariahmedsultan-art/robinhood-chain-agentic-trader",
+    "homepage": null,
+    "html_url": "https://github.com/awsanadelabdulbariahmedsultan-art/robinhood-chain-agentic-trader",
+    "pushed_at": "2026-09-21T21:28:53Z",
+    "repo_id": 1380493822,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
