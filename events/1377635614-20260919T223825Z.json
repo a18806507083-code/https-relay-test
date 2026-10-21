@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T21:38:52Z",
+    "description": null,
+    "detected_at": "2026-09-19T22:38:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "priors-agents/priors",
+    "homepage": null,
+    "html_url": "https://github.com/priors-agents/priors",
+    "pushed_at": "2026-09-19T22:12:46Z",
+    "repo_id": 1377635614,
+    "score": 13,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
