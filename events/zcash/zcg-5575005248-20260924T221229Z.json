@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T21:51:18Z",
+    "detected_at": "2026-09-24T22:12:29Z",
+    "display": "#443 Grant Application - zswap by stallion labs",
+    "key": "zcg:5575005248",
+    "metadata": {
+      "author": "peejay-git",
+      "issue_number": 443,
+      "labels": [],
+      "title": "Grant Application - zswap by stallion labs"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5575005248,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/443"
+  },
+  "schema": "zcash-fast-event/1"
+}
