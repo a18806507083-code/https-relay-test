@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T09:55:01Z",
+    "detected_at": "2026-09-25T10:13:59Z",
+    "display": "maumcrez-svg/zecpop-dbc",
+    "key": "repo:1387226942",
+    "metadata": {
+      "description": "ZECPOP x Meteora Dynamic Bonding Curve: ZEC & leveraged-quote curves, 50%->1% anti-sniper fee scheduler, snipers-fund-the-burn accounting, claims, DAMM v2 graduation, localnet e2e against the real programs",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "maumcrez-svg/zecpop-dbc",
+      "homepage": "https://zecpop.fun",
+      "pushed_at": "2026-09-25T09:55:05Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1387226942,
+    "url": "https://github.com/maumcrez-svg/zecpop-dbc"
+  },
+  "schema": "zcash-fast-event/1"
+}
