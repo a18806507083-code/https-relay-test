@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T17:25:58Z",
+    "detected_at": "2026-10-08T19:27:59Z",
+    "display": "Esoterics611/custody-lab",
+    "key": "repo:1410719988",
+    "metadata": {
+      "description": "Institutional digital-asset custody demo and learning lab: FROST threshold signing, default-deny policy, FIX fill to Bitcoin regtest settlement, proof of reserves.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Esoterics611/custody-lab",
+      "homepage": null,
+      "pushed_at": "2026-10-08T19:10:23Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1410719988,
+    "url": "https://github.com/Esoterics611/custody-lab"
+  },
+  "schema": "zcash-fast-event/1"
+}
