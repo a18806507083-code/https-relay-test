@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T18:16:32Z",
+    "description": "my profile repo",
+    "detected_at": "2026-10-21T18:52:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "NatX223/NatX223",
+    "homepage": null,
+    "html_url": "https://github.com/NatX223/NatX223",
+    "pushed_at": "2026-10-21T18:42:19Z",
+    "repo_id": 1428764412,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Bridge",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
