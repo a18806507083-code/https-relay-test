@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T17:15:38Z",
+    "description": null,
+    "detected_at": "2026-09-19T18:39:00Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "hoodoracles/HoodOracle",
+    "homepage": null,
+    "html_url": "https://github.com/hoodoracles/HoodOracle",
+    "pushed_at": "2026-09-19T17:40:35Z",
+    "repo_id": 1377426152,
+    "score": 18,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
