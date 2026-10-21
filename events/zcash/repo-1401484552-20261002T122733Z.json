@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T10:06:26Z",
+    "detected_at": "2026-10-02T12:27:33Z",
+    "display": "habibixyz/zec-whisper",
+    "key": "repo:1401484552",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "habibixyz/zec-whisper",
+      "homepage": "https://zec-whisper.vercel.app",
+      "pushed_at": "2026-10-02T11:42:35Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1401484552,
+    "url": "https://github.com/habibixyz/zec-whisper"
+  },
+  "schema": "zcash-fast-event/1"
+}
