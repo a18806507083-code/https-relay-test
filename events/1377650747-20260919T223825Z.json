@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T22:02:35Z",
+    "description": "Uniswap V2 core contracts, configured for Robinhood Chain (chainId 4663)",
+    "detected_at": "2026-09-19T22:38:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "reno2021/v2-core",
+    "homepage": null,
+    "html_url": "https://github.com/reno2021/v2-core",
+    "pushed_at": "2026-09-19T22:02:37Z",
+    "repo_id": 1377650747,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
