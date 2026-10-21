@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T10:22:33.869Z",
+    "detected_at": "2026-10-04T15:17:01Z",
+    "display": "58031 Proof of Privacy Campaign Report",
+    "key": "forum:58031",
+    "metadata": {
+      "category_id": 17,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "proof-of-privacy-campaign-report",
+      "title": "Proof of Privacy Campaign Report",
+      "topic_id": 58031
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58031,
+    "url": "https://forum.zcashcommunity.com/t/proof-of-privacy-campaign-report/58031"
+  },
+  "schema": "zcash-fast-event/1"
+}
