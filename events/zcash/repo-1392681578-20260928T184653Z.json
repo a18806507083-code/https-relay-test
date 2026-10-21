@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T12:41:03Z",
+    "detected_at": "2026-09-28T18:46:53Z",
+    "display": "honeyvig/ZK_in_Art",
+    "key": "repo:1392681578",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "honeyvig/ZK_in_Art",
+      "homepage": null,
+      "pushed_at": "2026-09-28T12:41:09Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1392681578,
+    "url": "https://github.com/honeyvig/ZK_in_Art"
+  },
+  "schema": "zcash-fast-event/1"
+}
