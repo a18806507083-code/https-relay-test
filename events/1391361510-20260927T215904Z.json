@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T20:06:07Z",
+    "description": null,
+    "detected_at": "2026-09-27T21:59:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "trenchsheikh/arca-test",
+    "homepage": "https://web-darkbet.vercel.app",
+    "html_url": "https://github.com/trenchsheikh/arca-test",
+    "pushed_at": "2026-09-27T20:35:22Z",
+    "repo_id": 1391361510,
+    "score": 9,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
