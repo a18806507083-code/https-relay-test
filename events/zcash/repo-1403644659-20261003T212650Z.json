@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T21:19:07Z",
+    "detected_at": "2026-10-03T21:26:50Z",
+    "display": "stynxcash/stynxcash",
+    "key": "repo:1403644659",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "stynxcash/stynxcash",
+      "homepage": null,
+      "pushed_at": "2026-10-03T21:19:51Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403644659,
+    "url": "https://github.com/stynxcash/stynxcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
