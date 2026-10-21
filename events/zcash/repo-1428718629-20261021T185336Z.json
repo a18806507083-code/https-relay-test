@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T17:33:57Z",
+    "detected_at": "2026-10-21T18:53:36Z",
+    "display": "TomciSplinter/vesper",
+    "key": "repo:1428718629",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "TomciSplinter/vesper",
+      "homepage": "https://vesper-cogents.vercel.app",
+      "pushed_at": "2026-10-21T18:40:39Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1428718629,
+    "url": "https://github.com/TomciSplinter/vesper"
+  },
+  "schema": "zcash-fast-event/1"
+}
