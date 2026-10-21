@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T00:54:35Z",
+    "detected_at": "2026-10-08T06:24:31Z",
+    "display": "logos-co/logos-zcash-wallet-backend",
+    "key": "repo:1409538510",
+    "metadata": {
+      "description": "Coordinator between the Logos Zcash wallet surfaces and the engine: roles, send review and approval, shielding, migration and events.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "logos-co/logos-zcash-wallet-backend",
+      "homepage": null,
+      "pushed_at": "2026-10-08T02:34:39Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1409538510,
+    "url": "https://github.com/logos-co/logos-zcash-wallet-backend"
+  },
+  "schema": "zcash-fast-event/1"
+}
