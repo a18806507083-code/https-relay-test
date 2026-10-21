@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T20:51:44Z",
+    "description": "Headless keeper + rotation agent for the Coffer vault on Robinhood Chain (4663)",
+    "detected_at": "2026-09-16T22:17:15Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "soterialabs2025/coffer_agent_rh",
+    "homepage": null,
+    "html_url": "https://github.com/soterialabs2025/coffer_agent_rh",
+    "pushed_at": "2026-09-16T22:00:33Z",
+    "repo_id": 1373627134,
+    "score": 7,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
