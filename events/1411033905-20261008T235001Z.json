@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T22:52:54Z",
+    "description": null,
+    "detected_at": "2026-10-08T23:50:01Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "InVisionCRM/GridBot",
+    "homepage": null,
+    "html_url": "https://github.com/InVisionCRM/GridBot",
+    "pushed_at": "2026-10-08T23:22:01Z",
+    "repo_id": 1411033905,
+    "score": 17,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
