@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T16:03:55Z",
+    "detected_at": "2026-10-20T18:44:22Z",
+    "display": "cryppit/wheres-my-swap",
+    "key": "repo:1427254287",
+    "metadata": {
+      "description": "Trace a NEAR Intents swap hop by hop from public chain data: where the money is and who can move it.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "cryppit/wheres-my-swap",
+      "homepage": null,
+      "pushed_at": "2026-10-20T16:04:01Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1427254287,
+    "url": "https://github.com/cryppit/wheres-my-swap"
+  },
+  "schema": "zcash-fast-event/1"
+}
