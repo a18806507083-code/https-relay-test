@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T22:49:40.102Z",
+    "detected_at": "2026-10-14T23:53:27Z",
+    "display": "58210 Grant Application - Zcash BuildPath India + Mumbai First-Build Day",
+    "key": "forum:58210",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-buildpath-india-mumbai-first-build-day",
+      "title": "Grant Application - Zcash BuildPath India + Mumbai First-Build Day",
+      "topic_id": 58210
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58210,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-buildpath-india-mumbai-first-build-day/58210"
+  },
+  "schema": "zcash-fast-event/1"
+}
