@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T08:38:03Z",
+    "detected_at": "2026-10-16T09:41:26Z",
+    "display": "Dami904/kalyptra",
+    "key": "repo:1421877115",
+    "metadata": {
+      "description": "Sealed-bid auctions for private company shares on Zcash Shielded Assets: threshold-encrypted orders, one public uniform price anyone can check, atomic swap settlement. Zecathon, Private Markets track.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Dami904/kalyptra",
+      "homepage": null,
+      "pushed_at": "2026-10-16T08:46:39Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1421877115,
+    "url": "https://github.com/Dami904/kalyptra"
+  },
+  "schema": "zcash-fast-event/1"
+}
