@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T13:06:05Z",
+    "description": "A decentralized Web3 launchpad test application built with Next.js (App Router), Wagmi/Viem, and Tailwind CSS. Features real-time wallet connection, token market exploration, and seamless buy/sell transactions with instant state refetching.",
+    "detected_at": "2026-10-06T14:29:35Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "hasbifirdaus/launchpad-test",
+    "homepage": "https://launchpad-test-beta.vercel.app",
+    "html_url": "https://github.com/hasbifirdaus/launchpad-test",
+    "pushed_at": "2026-10-06T13:23:29Z",
+    "repo_id": 1407321766,
+    "score": 6,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
