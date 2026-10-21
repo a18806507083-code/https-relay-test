@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T23:08:27.260Z",
+    "detected_at": "2026-09-13T23:26:59Z",
+    "display": "57571 LEONINE DAO: Our Zebrad and Lightwalletd in production",
+    "key": "forum:57571",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "leonine-dao-our-zebrad-and-lightwalletd-in-production",
+      "title": "LEONINE DAO: Our Zebrad and Lightwalletd in production",
+      "topic_id": 57571
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57571,
+    "url": "https://forum.zcashcommunity.com/t/leonine-dao-our-zebrad-and-lightwalletd-in-production/57571"
+  },
+  "schema": "zcash-fast-event/1"
+}
