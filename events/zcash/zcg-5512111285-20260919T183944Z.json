@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T17:14:01Z",
+    "detected_at": "2026-09-19T18:39:44Z",
+    "display": "#432 Grant Application - {Application Name}",
+    "key": "zcg:5512111285",
+    "metadata": {
+      "author": "revmarcuspeter-cyber",
+      "issue_number": 432,
+      "labels": [],
+      "title": "Grant Application - {Application Name}"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5512111285,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/432"
+  },
+  "schema": "zcash-fast-event/1"
+}
