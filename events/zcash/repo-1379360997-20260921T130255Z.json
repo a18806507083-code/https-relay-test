@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T08:29:48Z",
+    "detected_at": "2026-09-21T13:02:55Z",
+    "display": "cran11x/zkduck",
+    "key": "repo:1379360997",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "cran11x/zkduck",
+      "homepage": "https://zkduck.vercel.app",
+      "pushed_at": "2026-09-21T09:02:23Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1379360997,
+    "url": "https://github.com/cran11x/zkduck"
+  },
+  "schema": "zcash-fast-event/1"
+}
