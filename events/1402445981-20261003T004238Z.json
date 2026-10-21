@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T23:15:29Z",
+    "description": "Splice \u2014 the composable layer for autonomous agents. Verified skills, a sandboxed runtime, live Robinhood Chain data, MCP, SDK and CLI.",
+    "detected_at": "2026-10-03T00:42:38Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "spliceloom/spliceloom",
+    "homepage": "https://spliceloom.com",
+    "html_url": "https://github.com/spliceloom/spliceloom",
+    "pushed_at": "2026-10-03T00:38:28Z",
+    "repo_id": 1402445981,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
