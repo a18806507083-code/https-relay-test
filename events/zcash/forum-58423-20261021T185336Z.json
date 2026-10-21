@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T18:08:31.655Z",
+    "detected_at": "2026-10-21T18:53:36Z",
+    "display": "58423 Ahead of the 10th anniversary.... programmability comes to shielded Zcash!",
+    "key": "forum:58423",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "ahead-of-the-10th-anniversary-programmability-comes-to-shielded-zcash",
+      "title": "Ahead of the 10th anniversary.... programmability comes to shielded Zcash!",
+      "topic_id": 58423
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58423,
+    "url": "https://forum.zcashcommunity.com/t/ahead-of-the-10th-anniversary-programmability-comes-to-shielded-zcash/58423"
+  },
+  "schema": "zcash-fast-event/1"
+}
