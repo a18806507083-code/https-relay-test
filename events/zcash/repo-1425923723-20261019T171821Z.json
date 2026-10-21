@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T17:01:29Z",
+    "detected_at": "2026-10-19T17:18:21Z",
+    "display": "davicresta-star/weroad-thailandia",
+    "key": "repo:1425923723",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "davicresta-star/weroad-thailandia",
+      "homepage": null,
+      "pushed_at": "2026-10-19T17:08:39Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1425923723,
+    "url": "https://github.com/davicresta-star/weroad-thailandia"
+  },
+  "schema": "zcash-fast-event/1"
+}
