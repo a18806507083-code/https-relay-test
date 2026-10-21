@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T19:34:08Z",
+    "detected_at": "2026-10-13T20:42:37Z",
+    "display": "Solforio/dnd_app",
+    "key": "repo:1417840552",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Solforio/dnd_app",
+      "homepage": null,
+      "pushed_at": "2026-10-13T20:38:41Z",
+      "tech_signals": [
+        "node/indexer",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1417840552,
+    "url": "https://github.com/Solforio/dnd_app"
+  },
+  "schema": "zcash-fast-event/1"
+}
