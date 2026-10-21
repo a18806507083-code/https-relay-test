@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T19:59:48Z",
+    "description": "Build autonomous AI agents that interact with blockchains \u2014 in minutes, not months.",
+    "detected_at": "2026-10-13T20:41:56Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "teraus111/web3-agent-kit-solana-trading",
+    "homepage": null,
+    "html_url": "https://github.com/teraus111/web3-agent-kit-solana-trading",
+    "pushed_at": "2026-10-13T20:08:39Z",
+    "repo_id": 1417887127,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
