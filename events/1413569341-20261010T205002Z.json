@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-10T19:07:37Z",
+    "description": null,
+    "detected_at": "2026-10-10T20:50:02Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "nomnom11/BASEBID",
+    "homepage": "https://basebid-blond.vercel.app",
+    "html_url": "https://github.com/nomnom11/BASEBID",
+    "pushed_at": "2026-10-10T20:40:56Z",
+    "repo_id": 1413569341,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Oracle",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
