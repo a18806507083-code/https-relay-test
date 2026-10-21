@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T12:41:09Z",
+    "description": "Charity launchpad",
+    "detected_at": "2026-09-09T13:43:27Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "0xhonestdev/tithe",
+    "homepage": null,
+    "html_url": "https://github.com/0xhonestdev/tithe",
+    "pushed_at": "2026-09-09T13:28:18Z",
+    "repo_id": 1362664356,
+    "score": 7,
+    "tech_signals": [
+      "Lending/Vault",
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
