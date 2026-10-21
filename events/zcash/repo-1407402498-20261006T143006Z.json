@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T14:01:12Z",
+    "detected_at": "2026-10-06T14:30:06Z",
+    "display": "Use-Tessera/tessera",
+    "key": "repo:1407402498",
+    "metadata": {
+      "description": "Threshold signing for Stellar: FROST signers that enforce their own policy. Rust core, policy engine, signer daemon and CLI.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Use-Tessera/tessera",
+      "homepage": null,
+      "pushed_at": "2026-10-06T14:01:25Z",
+      "tech_signals": [
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1407402498,
+    "url": "https://github.com/Use-Tessera/tessera"
+  },
+  "schema": "zcash-fast-event/1"
+}
