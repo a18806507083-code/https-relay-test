@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T17:43:01Z",
+    "detected_at": "2026-10-13T20:42:37Z",
+    "display": "elemental-zcash/merchant-wiki",
+    "key": "repo:1417630173",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "elemental-zcash/merchant-wiki",
+      "homepage": null,
+      "pushed_at": "2026-10-13T17:43:03Z",
+      "tech_signals": [
+        "wallet/payment"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1417630173,
+    "url": "https://github.com/elemental-zcash/merchant-wiki"
+  },
+  "schema": "zcash-fast-event/1"
+}
