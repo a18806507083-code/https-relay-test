@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T16:41:16Z",
+    "description": "FondrFi brings crypto, tokenized equities, and real-world assets into one focused trading experience.  Built around Robinhood Chain, it keeps discovery, swaps, and liquidity within reach\u2014without making the experience feel complicated.",
+    "detected_at": "2026-09-09T17:17:32Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "FondrFi/FondrFi",
+    "homepage": null,
+    "html_url": "https://github.com/FondrFi/FondrFi",
+    "pushed_at": "2026-09-09T16:50:23Z",
+    "repo_id": 1362956311,
+    "score": 11,
+    "tech_signals": [
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
