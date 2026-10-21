@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T19:17:19Z",
+    "description": "Whole-brain Drosophila connectome simulation (FlyWire v783, 138 639 neurons) that decides on-chain buybacks of $FLY on Robinhood Chain by proboscis extension. The proof behind inthebrainofafly.com",
+    "detected_at": "2026-09-10T20:57:30Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "theflyRH/thefly-brain",
+    "homepage": "https://inthebrainofafly.com",
+    "html_url": "https://github.com/theflyRH/thefly-brain",
+    "pushed_at": "2026-09-10T20:21:45Z",
+    "repo_id": 1364797354,
+    "score": 9,
+    "tech_signals": [
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
