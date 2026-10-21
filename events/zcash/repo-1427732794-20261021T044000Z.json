@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T01:11:44Z",
+    "detected_at": "2026-10-21T04:40:00Z",
+    "display": "sacha-l/zshirts",
+    "key": "repo:1427732794",
+    "metadata": {
+      "description": "A shirt that carries an encrypted Zcash memo. The page holds most of the viewing key; the shirt holds the last 16 characters.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "sacha-l/zshirts",
+      "homepage": null,
+      "pushed_at": "2026-10-21T01:11:49Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1427732794,
+    "url": "https://github.com/sacha-l/zshirts"
+  },
+  "schema": "zcash-fast-event/1"
+}
