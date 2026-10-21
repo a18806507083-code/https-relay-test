@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T21:34:11Z",
+    "detected_at": "2026-09-20T23:25:31Z",
+    "display": "PolyClawdDev/stamppad",
+    "key": "repo:1378794963",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "PolyClawdDev/stamppad",
+      "homepage": "https://stamppad-delta.vercel.app",
+      "pushed_at": "2026-09-20T23:24:59Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1378794963,
+    "url": "https://github.com/PolyClawdDev/stamppad"
+  },
+  "schema": "zcash-fast-event/1"
+}
