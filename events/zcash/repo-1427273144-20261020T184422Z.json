@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T16:19:47Z",
+    "detected_at": "2026-10-20T18:44:22Z",
+    "display": "Barakat123-web/nu7-block-action-limits",
+    "key": "repo:1427273144",
+    "metadata": {
+      "description": "ZecHub motion design: NU7 block action limits (ZIP 218), 25-second blocks",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Barakat123-web/nu7-block-action-limits",
+      "homepage": null,
+      "pushed_at": "2026-10-20T16:21:11Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1427273144,
+    "url": "https://github.com/Barakat123-web/nu7-block-action-limits"
+  },
+  "schema": "zcash-fast-event/1"
+}
