@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T17:58:22Z",
+    "description": null,
+    "detected_at": "2026-09-13T19:30:58Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "PonsBoard/PonsBoard",
+    "homepage": null,
+    "html_url": "https://github.com/PonsBoard/PonsBoard",
+    "pushed_at": "2026-09-13T18:04:40Z",
+    "repo_id": 1368700982,
+    "score": 12,
+    "tech_signals": [
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
