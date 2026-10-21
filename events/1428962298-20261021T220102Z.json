@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T21:44:29Z",
+    "description": "Launch test (TEST) with a Uniswap v4 hook on Robinhood Chain, paired with IMD. Token: test (TEST), the standard launch token: 1,000,000,000 supply, 18 decimals, plain transfers, no owner functions. The hook does exactly the following, and nothing else: 1. Take 1.0% of the ETH side of every buy and sell as a hook fee, settled in ETH inside the sw...",
+    "detected_at": "2026-10-21T22:01:02Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-2425-launch-test-test-uniswap",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2425-launch-test-test-uniswap",
+    "pushed_at": "2026-10-21T21:44:32Z",
+    "repo_id": 1428962298,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
