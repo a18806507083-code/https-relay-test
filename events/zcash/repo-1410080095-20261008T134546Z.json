@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T09:36:10Z",
+    "detected_at": "2026-10-08T13:45:46Z",
+    "display": "vinu225/Decentralized_AI",
+    "key": "repo:1410080095",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "vinu225/Decentralized_AI",
+      "homepage": null,
+      "pushed_at": "2026-10-08T11:21:56Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1410080095,
+    "url": "https://github.com/vinu225/Decentralized_AI"
+  },
+  "schema": "zcash-fast-event/1"
+}
