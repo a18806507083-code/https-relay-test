@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T18:29:13Z",
+    "description": null,
+    "detected_at": "2026-09-18T20:25:08Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "travisiol/chip",
+    "homepage": null,
+    "html_url": "https://github.com/travisiol/chip",
+    "pushed_at": "2026-09-18T18:29:16Z",
+    "repo_id": 1376282453,
+    "score": 6,
+    "tech_signals": [
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
