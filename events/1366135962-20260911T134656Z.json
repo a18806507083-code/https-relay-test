@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T13:10:12Z",
+    "description": "Read-only TypeScript integrations for PEG and funded staking on Robinhood Chain. Typed snapshots, exact token arithmetic, runtime verification, and TypeScript / Python examples.",
+    "detected_at": "2026-09-11T13:46:56Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "use-peg/peg-sdk",
+    "homepage": "https://usepeg.trade",
+    "html_url": "https://github.com/use-peg/peg-sdk",
+    "pushed_at": "2026-09-11T13:11:37Z",
+    "repo_id": 1366135962,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
