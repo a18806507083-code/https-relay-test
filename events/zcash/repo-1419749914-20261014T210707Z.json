@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T19:36:55Z",
+    "detected_at": "2026-10-14T21:07:07Z",
+    "display": "ademikelz19-hub/zcash-mcp-server",
+    "key": "repo:1419749914",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "ademikelz19-hub/zcash-mcp-server",
+      "homepage": null,
+      "pushed_at": "2026-10-14T21:05:12Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1419749914,
+    "url": "https://github.com/ademikelz19-hub/zcash-mcp-server"
+  },
+  "schema": "zcash-fast-event/1"
+}
