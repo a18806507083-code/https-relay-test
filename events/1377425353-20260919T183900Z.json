@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T17:14:49Z",
+    "description": null,
+    "detected_at": "2026-09-19T18:39:00Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "capitalpressdev/mcp",
+    "homepage": null,
+    "html_url": "https://github.com/capitalpressdev/mcp",
+    "pushed_at": "2026-09-19T17:22:15Z",
+    "repo_id": 1377425353,
+    "score": 9,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
