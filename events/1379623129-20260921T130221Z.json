@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T11:43:20Z",
+    "description": "Pyre \u2014 coins that build apps. Robinhood Chain.",
+    "detected_at": "2026-09-21T13:02:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "realdoomsman/pyre",
+    "homepage": null,
+    "html_url": "https://github.com/realdoomsman/pyre",
+    "pushed_at": "2026-09-21T12:49:39Z",
+    "repo_id": 1379623129,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
