@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T19:56:45Z",
+    "description": "Onchain intelligence for Robinhood Chain",
+    "detected_at": "2026-10-01T21:04:58Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "tunahanarik/skein",
+    "homepage": null,
+    "html_url": "https://github.com/tunahanarik/skein",
+    "pushed_at": "2026-10-01T19:56:56Z",
+    "repo_id": 1400652638,
+    "score": 10,
+    "tech_signals": [
+      "Morpho",
+      "Uniswap",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
