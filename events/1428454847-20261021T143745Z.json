@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T13:52:08Z",
+    "description": "LastSeenRegistry: a do-not-send list, bounty hunts and contract audits judged by the IdentityMD agent swarm. Foundry, 20 tests.",
+    "detected_at": "2026-10-21T14:37:45Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Alok-mad98/lastseenimd-registry",
+    "homepage": "https://lastseen-4pu.pages.dev",
+    "html_url": "https://github.com/Alok-mad98/lastseenimd-registry",
+    "pushed_at": "2026-10-21T13:52:15Z",
+    "repo_id": 1428454847,
+    "score": 7,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
