@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T18:24:30Z",
+    "description": "Redeploy an already built and reviewed project: KING ($KING), a \"King of the Hill\" throne game on a Uniswap v4 hook, KING/ETH, and publish its website. Source: https://github.com/identity-md-launches/launch-814-custom-token-king-hill (launch 814). It passed every review, but its deploy was parked with \"Manifest: fee tier 3000 is not on the polic...",
+    "detected_at": "2026-10-06T19:43:15Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-832-redeploy-already-built-reviewed",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-832-redeploy-already-built-reviewed",
+    "pushed_at": "2026-10-06T19:15:12Z",
+    "repo_id": 1407760636,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
