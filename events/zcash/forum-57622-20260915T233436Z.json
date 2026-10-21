@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T22:34:42.760Z",
+    "detected_at": "2026-09-15T23:34:36Z",
+    "display": "57622 The Experience of Struggling to Find Investors for the Platform",
+    "key": "forum:57622",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "the-experience-of-struggling-to-find-investors-for-the-platform",
+      "title": "The Experience of Struggling to Find Investors for the Platform",
+      "topic_id": 57622
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57622,
+    "url": "https://forum.zcashcommunity.com/t/the-experience-of-struggling-to-find-investors-for-the-platform/57622"
+  },
+  "schema": "zcash-fast-event/1"
+}
