@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T17:22:15Z",
+    "description": null,
+    "detected_at": "2026-09-20T19:13:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "Ramya11-CSE/Ramya-Swap",
+    "homepage": "https://ramya-swap.vercel.app",
+    "html_url": "https://github.com/Ramya11-CSE/Ramya-Swap",
+    "pushed_at": "2026-09-20T17:23:57Z",
+    "repo_id": 1378596417,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
