@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T08:36:02Z",
+    "detected_at": "2026-09-25T10:13:59Z",
+    "display": "toalt23/toalt23-umbrel-store-apps",
+    "key": "repo:1387115283",
+    "metadata": {
+      "description": "Community App Store from toalt23",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "toalt23/toalt23-umbrel-store-apps",
+      "homepage": null,
+      "pushed_at": "2026-09-25T09:52:20Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1387115283,
+    "url": "https://github.com/toalt23/toalt23-umbrel-store-apps"
+  },
+  "schema": "zcash-fast-event/1"
+}
