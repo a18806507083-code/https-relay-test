@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T17:00:29Z",
+    "description": "Deploy the existing Foundry project LastSeenRegistry (src/LastSeenRegistry.sol) on Robinhood Chain, contracts only, no token. It is a public do-not-send list for crypto wallets, a bounty hunt for stolen funds, and a paid contract audit, where every answer is asked of the IdentityMD agent swarm through the oracle Intake and comes back signed. Do ...",
+    "detected_at": "2026-10-21T18:52:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-2402-deploy-existing-foundry-project",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2402-deploy-existing-foundry-project",
+    "pushed_at": "2026-10-21T18:46:53Z",
+    "repo_id": 1428681977,
+    "score": 7,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
