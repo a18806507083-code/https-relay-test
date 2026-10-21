@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T12:53:20Z",
+    "detected_at": "2026-10-11T15:17:45Z",
+    "display": "ZolaceCash/app",
+    "key": "repo:1414336724",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ZolaceCash/app",
+      "homepage": null,
+      "pushed_at": "2026-10-11T15:16:24Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1414336724,
+    "url": "https://github.com/ZolaceCash/app"
+  },
+  "schema": "zcash-fast-event/1"
+}
