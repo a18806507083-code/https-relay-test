@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T14:25:36Z",
+    "description": "Hunt what is valuable on Robinhood Chain 4663",
+    "detected_at": "2026-09-10T15:07:28Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "rimtoln/fletch",
+    "homepage": "https://fletch.cash",
+    "html_url": "https://github.com/rimtoln/fletch",
+    "pushed_at": "2026-09-10T14:30:32Z",
+    "repo_id": 1364330290,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
