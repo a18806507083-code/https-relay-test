@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T20:52:27.000Z",
+    "detected_at": "2026-09-14T21:57:54Z",
+    "display": "57595 Grant Application - Rill shielded ZIP-321 Accept",
+    "key": "forum:57595",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-rill-shielded-zip-321-accept",
+      "title": "Grant Application - Rill shielded ZIP-321 Accept",
+      "topic_id": 57595
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57595,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-rill-shielded-zip-321-accept/57595"
+  },
+  "schema": "zcash-fast-event/1"
+}
