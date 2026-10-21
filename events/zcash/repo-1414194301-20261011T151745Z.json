@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T10:03:37Z",
+    "detected_at": "2026-10-11T15:17:45Z",
+    "display": "ichigo86x/familywall",
+    "key": "repo:1414194301",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "ichigo86x/familywall",
+      "homepage": null,
+      "pushed_at": "2026-10-11T10:58:25Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1414194301,
+    "url": "https://github.com/ichigo86x/familywall"
+  },
+  "schema": "zcash-fast-event/1"
+}
