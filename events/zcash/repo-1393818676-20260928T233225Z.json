@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T20:46:09Z",
+    "detected_at": "2026-09-28T23:32:25Z",
+    "display": "chrifilvpn/test-17",
+    "key": "repo:1393818676",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "chrifilvpn/test-17",
+      "homepage": null,
+      "pushed_at": "2026-09-28T20:48:28Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1393818676,
+    "url": "https://github.com/chrifilvpn/test-17"
+  },
+  "schema": "zcash-fast-event/1"
+}
