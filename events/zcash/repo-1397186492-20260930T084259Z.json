@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T06:32:58Z",
+    "detected_at": "2026-09-30T08:42:59Z",
+    "display": "CYPHES-ATP/Core",
+    "key": "repo:1397186492",
+    "metadata": {
+      "description": "CASH: private money, mined into existence by anyone. Shielded-only L1 (Zcash Ironwood, Halo 2) with BeamHash III GPU proof of work, on a Zebra-derived Rust node.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "CYPHES-ATP/Core",
+      "homepage": null,
+      "pushed_at": "2026-09-30T06:33:06Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1397186492,
+    "url": "https://github.com/CYPHES-ATP/Core"
+  },
+  "schema": "zcash-fast-event/1"
+}
