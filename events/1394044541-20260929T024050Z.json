@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T01:28:25Z",
+    "description": "Co-op liquidity on Robinhood Chain. You bring ETH, player 2 brings the token. Pre-launch draw live.",
+    "detected_at": "2026-09-29T02:40:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "nimoricoop/nimori-app",
+    "homepage": "https://playnimori.com",
+    "html_url": "https://github.com/nimoricoop/nimori-app",
+    "pushed_at": "2026-09-29T01:44:07Z",
+    "repo_id": 1394044541,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
