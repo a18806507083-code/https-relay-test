@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T12:51:22Z",
+    "detected_at": "2026-10-11T15:17:45Z",
+    "display": "andreaecristina2023/InCamminoconLaCri",
+    "key": "repo:1414334791",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "andreaecristina2023/InCamminoconLaCri",
+      "homepage": null,
+      "pushed_at": "2026-10-11T15:05:47Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1414334791,
+    "url": "https://github.com/andreaecristina2023/InCamminoconLaCri"
+  },
+  "schema": "zcash-fast-event/1"
+}
