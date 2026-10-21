@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T07:55:17.575Z",
+    "detected_at": "2026-10-21T09:36:43Z",
+    "display": "58405 Grant Application: Zash, free open-source Zcash education bot and channel in Spanish",
+    "key": "forum:58405",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zash-free-open-source-zcash-education-bot-and-channel-in-spanish",
+      "title": "Grant Application: Zash, free open-source Zcash education bot and channel in Spanish",
+      "topic_id": 58405
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58405,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zash-free-open-source-zcash-education-bot-and-channel-in-spanish/58405"
+  },
+  "schema": "zcash-fast-event/1"
+}
