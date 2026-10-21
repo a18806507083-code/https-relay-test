@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T12:32:59Z",
+    "description": null,
+    "detected_at": "2026-10-08T13:45:12Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "zidanptr/imdworks-bounties",
+    "homepage": null,
+    "html_url": "https://github.com/zidanptr/imdworks-bounties",
+    "pushed_at": "2026-10-08T12:33:09Z",
+    "repo_id": 1410302435,
+    "score": 5,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
