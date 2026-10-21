@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T07:44:45Z",
+    "detected_at": "2026-09-28T11:53:44Z",
+    "display": "AlexSkidanov/vexa-finance",
+    "key": "repo:1392148146",
+    "metadata": {
+      "description": "Private neobank on Solana: confidential USDC balances, policy-bound AI agent accounts via NEAR chain signatures, and Zcash-routed stealth transfers.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "AlexSkidanov/vexa-finance",
+      "homepage": "https://vexa.finance",
+      "pushed_at": "2026-09-28T09:11:49Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1392148146,
+    "url": "https://github.com/AlexSkidanov/vexa-finance"
+  },
+  "schema": "zcash-fast-event/1"
+}
