@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T19:44:17Z",
+    "description": null,
+    "detected_at": "2026-09-13T21:35:12Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "tytyvm/Duel",
+    "homepage": null,
+    "html_url": "https://github.com/tytyvm/Duel",
+    "pushed_at": "2026-09-13T19:45:02Z",
+    "repo_id": 1368805093,
+    "score": 5,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
