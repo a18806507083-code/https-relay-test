@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T12:06:43Z",
+    "description": "Public on-chain record of what stock-token pools say about the NYSE open, scored against what happened. Robinhood Chain. No owner, no fee.",
+    "detected_at": "2026-10-14T13:03:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "TheOwlProtocol/Owl",
+    "homepage": null,
+    "html_url": "https://github.com/TheOwlProtocol/Owl",
+    "pushed_at": "2026-10-14T12:58:14Z",
+    "repo_id": 1418846092,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
