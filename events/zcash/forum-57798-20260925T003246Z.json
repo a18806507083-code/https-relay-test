@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T00:05:58.868Z",
+    "detected_at": "2026-09-25T00:32:46Z",
+    "display": "57798 ZCASH on Colosseum This Year: Navigating the Intersection of Zcash Privacy and Solana Infrastructure",
+    "key": "forum:57798",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-on-colosseum-this-year-navigating-the-intersection-of-zcash-privacy-and-solana-infrastructure",
+      "title": "ZCASH on Colosseum This Year: Navigating the Intersection of Zcash Privacy and Solana Infrastructure",
+      "topic_id": 57798
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57798,
+    "url": "https://forum.zcashcommunity.com/t/zcash-on-colosseum-this-year-navigating-the-intersection-of-zcash-privacy-and-solana-infrastructure/57798"
+  },
+  "schema": "zcash-fast-event/1"
+}
