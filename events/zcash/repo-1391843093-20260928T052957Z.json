@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T05:05:21Z",
+    "detected_at": "2026-09-28T05:29:57Z",
+    "display": "gaoyunlong6768/hodlpay",
+    "key": "repo:1391843093",
+    "metadata": {
+      "description": "Crypto-backed Buy Now, Pay Later: lock SOL or zenZEC, pay any merchant upfront in USDC on Solana or stablecoins on Tempo, repay in 4 interest-free installments.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "gaoyunlong6768/hodlpay",
+      "homepage": null,
+      "pushed_at": "2026-09-28T05:29:53Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1391843093,
+    "url": "https://github.com/gaoyunlong6768/hodlpay"
+  },
+  "schema": "zcash-fast-event/1"
+}
