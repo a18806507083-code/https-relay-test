@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T17:49:40Z",
+    "detected_at": "2026-09-30T20:05:17Z",
+    "display": "Bruno12221/l2beat-privacy-hunt",
+    "key": "repo:1398551511",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Bruno12221/l2beat-privacy-hunt",
+      "homepage": null,
+      "pushed_at": "2026-09-30T18:02:49Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1398551511,
+    "url": "https://github.com/Bruno12221/l2beat-privacy-hunt"
+  },
+  "schema": "zcash-fast-event/1"
+}
