@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T22:34:44Z",
+    "detected_at": "2026-10-03T23:56:56Z",
+    "display": "Oluwa-Laughter/zerant-protocol",
+    "key": "repo:1403686973",
+    "metadata": {
+      "description": "Zerant Protocol is a privacy-preserving credential and reputation layer for Zcash. It lets users receive verifiable credentials, build contextual reputation, and prove claims like membership, contribution history, or eligibility without exposing their full identity, wallet activity, or unrelated credentials. ",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Oluwa-Laughter/zerant-protocol",
+      "homepage": null,
+      "pushed_at": "2026-10-03T23:46:05Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403686973,
+    "url": "https://github.com/Oluwa-Laughter/zerant-protocol"
+  },
+  "schema": "zcash-fast-event/1"
+}
