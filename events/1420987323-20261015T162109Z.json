@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T16:01:08Z",
+    "description": "Let an AI mine BinCoin on Robinhood Chain: CLI (bincoin), MCP server (bincoin-mcp) and SDK",
+    "detected_at": "2026-10-15T16:21:09Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "osaykancuno/bincoin-agent",
+    "homepage": "https://osaykancuno.github.io/bincoin-app/#/agents",
+    "html_url": "https://github.com/osaykancuno/bincoin-agent",
+    "pushed_at": "2026-10-15T16:01:24Z",
+    "repo_id": 1420987323,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
