@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T18:23:16Z",
+    "detected_at": "2026-09-21T18:35:59Z",
+    "display": "0xramp-labs/0xramp-sdk",
+    "key": "repo:1380311558",
+    "metadata": {
+      "description": "A TypeScript SDK for wallet apps that want to offer 0xramp ZEC ↔ local-fiat ramps (Pix, UPI, …) by hosting **`0xramp.app`** in an embedded WebView (origin visible)",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "0xramp-labs/0xramp-sdk",
+      "homepage": null,
+      "pushed_at": "2026-09-21T18:33:24Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1380311558,
+    "url": "https://github.com/0xramp-labs/0xramp-sdk"
+  },
+  "schema": "zcash-fast-event/1"
+}
