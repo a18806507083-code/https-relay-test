@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T03:42:17Z",
+    "description": null,
+    "detected_at": "2026-09-09T04:51:35Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH testnet 46630"
+    ],
+    "full_name": "robinhood-pm/Robinhood-Prediction-Market",
+    "homepage": null,
+    "html_url": "https://github.com/robinhood-pm/Robinhood-Prediction-Market",
+    "pushed_at": "2026-09-09T03:58:03Z",
+    "repo_id": 1362162027,
+    "score": 11,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
