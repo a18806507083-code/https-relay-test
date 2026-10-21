@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T17:29:06Z",
+    "detected_at": "2026-09-28T18:46:53Z",
+    "display": "aronlammer/zubit-protocol",
+    "key": "repo:1393420830",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "aronlammer/zubit-protocol",
+      "homepage": null,
+      "pushed_at": "2026-09-28T17:51:54Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1393420830,
+    "url": "https://github.com/aronlammer/zubit-protocol"
+  },
+  "schema": "zcash-fast-event/1"
+}
