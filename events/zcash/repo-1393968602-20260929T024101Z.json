@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T23:44:07Z",
+    "detected_at": "2026-09-29T02:41:01Z",
+    "display": "gaylandresident/shawdo-edition",
+    "key": "repo:1393968602",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "gaylandresident/shawdo-edition",
+      "homepage": null,
+      "pushed_at": "2026-09-29T00:06:56Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1393968602,
+    "url": "https://github.com/gaylandresident/shawdo-edition"
+  },
+  "schema": "zcash-fast-event/1"
+}
