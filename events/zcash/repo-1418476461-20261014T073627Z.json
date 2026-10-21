@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T06:30:30Z",
+    "detected_at": "2026-10-14T07:36:27Z",
+    "display": "CryptoAstuce/bibliotheque-defi-fr",
+    "key": "repo:1418476461",
+    "metadata": {
+      "description": "397 parcours de lecture de code en français : DeFi, ZK, Base, Hyperliquid, Bitcoin, NFT, bridges.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "CryptoAstuce/bibliotheque-defi-fr",
+      "homepage": "",
+      "pushed_at": "2026-10-14T06:31:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1418476461,
+    "url": "https://github.com/CryptoAstuce/bibliotheque-defi-fr"
+  },
+  "schema": "zcash-fast-event/1"
+}
