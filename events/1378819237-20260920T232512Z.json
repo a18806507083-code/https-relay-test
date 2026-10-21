@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T22:13:03Z",
+    "description": null,
+    "detected_at": "2026-09-20T23:25:12Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "liakh10/nbbo",
+    "homepage": "https://nbbo.vercel.app",
+    "html_url": "https://github.com/liakh10/nbbo",
+    "pushed_at": "2026-09-20T22:27:00Z",
+    "repo_id": 1378819237,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
