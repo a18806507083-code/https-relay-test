@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-05T12:38:46.638Z",
+    "detected_at": "2026-10-06T01:27:47Z",
+    "display": "58050 Introducing meetzec.com: a small toolkit for starting in-person Zcash meetups (work in progress)",
+    "key": "forum:58050",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "introducing-meetzec-com-a-small-toolkit-for-starting-in-person-zcash-meetups-work-in-progress",
+      "title": "Introducing meetzec.com: a small toolkit for starting in-person Zcash meetups (work in progress)",
+      "topic_id": 58050
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58050,
+    "url": "https://forum.zcashcommunity.com/t/introducing-meetzec-com-a-small-toolkit-for-starting-in-person-zcash-meetups-work-in-progress/58050"
+  },
+  "schema": "zcash-fast-event/1"
+}
