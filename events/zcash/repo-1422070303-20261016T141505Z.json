@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T11:27:56Z",
+    "detected_at": "2026-10-16T14:15:05Z",
+    "display": "Oluwa-Laughter/zerynex",
+    "key": "repo:1422070303",
+    "metadata": {
+      "description": "A Rust-first privacy-policy and regression-testing toolkit for Zcash transaction infrastructure.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash"
+      ],
+      "full_name": "Oluwa-Laughter/zerynex",
+      "homepage": null,
+      "pushed_at": "2026-10-16T13:37:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1422070303,
+    "url": "https://github.com/Oluwa-Laughter/zerynex"
+  },
+  "schema": "zcash-fast-event/1"
+}
