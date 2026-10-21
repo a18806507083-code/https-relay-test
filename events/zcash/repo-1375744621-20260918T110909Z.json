@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T11:06:14Z",
+    "detected_at": "2026-09-18T11:09:09Z",
+    "display": "arcayne/zcash-tpm-take-home",
+    "key": "repo:1375744621",
+    "metadata": {
+      "description": "Zcash Foundation TPM take-home assessment: Part 1 delivery triage",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "arcayne/zcash-tpm-take-home",
+      "homepage": null,
+      "pushed_at": "2026-09-18T11:07:22Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1375744621,
+    "url": "https://github.com/arcayne/zcash-tpm-take-home"
+  },
+  "schema": "zcash-fast-event/1"
+}
