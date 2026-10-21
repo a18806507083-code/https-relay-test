@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T00:42:08Z",
+    "detected_at": "2026-10-17T01:14:39Z",
+    "display": "ttimesai-star/zcash-address-kit",
+    "key": "repo:1422812078",
+    "metadata": {
+      "description": "Parse and validate every Zcash address type (Unified u1/zu/tu with F4Jumble, Sapling, TEX, transparent) in pure TypeScript. Prototype.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash"
+      ],
+      "full_name": "ttimesai-star/zcash-address-kit",
+      "homepage": null,
+      "pushed_at": "2026-10-17T00:42:19Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1422812078,
+    "url": "https://github.com/ttimesai-star/zcash-address-kit"
+  },
+  "schema": "zcash-fast-event/1"
+}
