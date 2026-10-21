@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T21:11:12Z",
+    "detected_at": "2026-10-13T23:53:03Z",
+    "display": "ryssroad/zecret-dms-demo",
+    "key": "repo:1418003355",
+    "metadata": {
+      "description": "Offline protocol-core research demo for a private dead man’s switch using Zcash memo transport. Early prototype; no independent human audit.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ryssroad/zecret-dms-demo",
+      "homepage": null,
+      "pushed_at": "2026-10-13T21:11:30Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1418003355,
+    "url": "https://github.com/ryssroad/zecret-dms-demo"
+  },
+  "schema": "zcash-fast-event/1"
+}
