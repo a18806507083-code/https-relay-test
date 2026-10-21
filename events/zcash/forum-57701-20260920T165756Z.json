@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T13:59:58.487Z",
+    "detected_at": "2026-09-20T16:57:56Z",
+    "display": "57701 Trade ZEC Options on Solana",
+    "key": "forum:57701",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "trade-zec-options-on-solana",
+      "title": "Trade ZEC Options on Solana",
+      "topic_id": 57701
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57701,
+    "url": "https://forum.zcashcommunity.com/t/trade-zec-options-on-solana/57701"
+  },
+  "schema": "zcash-fast-event/1"
+}
