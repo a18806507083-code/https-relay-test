@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T13:23:46Z",
+    "description": null,
+    "detected_at": "2026-09-12T13:55:13Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "useNodra/nodra-siwe-utils",
+    "homepage": null,
+    "html_url": "https://github.com/useNodra/nodra-siwe-utils",
+    "pushed_at": "2026-09-12T13:24:07Z",
+    "repo_id": 1367318798,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
