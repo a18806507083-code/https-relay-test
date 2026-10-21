@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T21:35:46Z",
+    "description": "Uniswap v4 hook for the ETH/FEESH pool on Robinhood Chain",
+    "detected_at": "2026-09-16T22:17:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "Aid9999/feesher-hook",
+    "homepage": null,
+    "html_url": "https://github.com/Aid9999/feesher-hook",
+    "pushed_at": "2026-09-16T21:35:49Z",
+    "repo_id": 1373658823,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
