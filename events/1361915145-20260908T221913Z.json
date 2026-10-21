@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T21:19:04Z",
+    "description": "Read-only Robinhood Chain intelligence and an encrypted local asset workspace. Filtered source mirror with preserved development dates.",
+    "detected_at": "2026-09-08T22:19:13Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ChainScoutAi/ChainScoutAI",
+    "homepage": "https://www.chainscout.net",
+    "html_url": "https://github.com/ChainScoutAi/ChainScoutAI",
+    "pushed_at": "2026-09-08T22:18:36Z",
+    "repo_id": 1361915145,
+    "score": 9,
+    "tech_signals": [
+      "Morpho",
+      "Uniswap",
+      "RWA/stock",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
