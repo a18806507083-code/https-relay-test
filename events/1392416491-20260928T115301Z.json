@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T10:26:14Z",
+    "description": null,
+    "detected_at": "2026-09-28T11:53:01Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "honeyvig/UniswapX",
+    "homepage": null,
+    "html_url": "https://github.com/honeyvig/UniswapX",
+    "pushed_at": "2026-09-28T10:26:33Z",
+    "repo_id": 1392416491,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
