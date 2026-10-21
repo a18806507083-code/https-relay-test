@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T08:31:00Z",
+    "description": "CHEQ3 smart contracts: private programmable credit on Robinhood Chain",
+    "detected_at": "2026-09-25T10:13:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "cheq3app/cheq3-contracts",
+    "homepage": "https://cheq3.com",
+    "html_url": "https://github.com/cheq3app/cheq3-contracts",
+    "pushed_at": "2026-09-25T08:31:15Z",
+    "repo_id": 1387107986,
+    "score": 11,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
