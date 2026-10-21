@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T14:47:53Z",
+    "detected_at": "2026-10-06T19:43:48Z",
+    "display": "USCMig/crosslink-tui",
+    "key": "repo:1407468664",
+    "metadata": {
+      "description": "Terminal UI for running a Crosslink (zebrad) node",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "USCMig/crosslink-tui",
+      "homepage": null,
+      "pushed_at": "2026-10-06T15:49:35Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1407468664,
+    "url": "https://github.com/USCMig/crosslink-tui"
+  },
+  "schema": "zcash-fast-event/1"
+}
