@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T16:44:55.443Z",
+    "detected_at": "2026-10-01T21:05:31Z",
+    "display": "57955 Epoch: Future-Proof Cryptography for Zcash",
+    "key": "forum:57955",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "epoch-future-proof-cryptography-for-zcash",
+      "title": "Epoch: Future-Proof Cryptography for Zcash",
+      "topic_id": 57955
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57955,
+    "url": "https://forum.zcashcommunity.com/t/epoch-future-proof-cryptography-for-zcash/57955"
+  },
+  "schema": "zcash-fast-event/1"
+}
