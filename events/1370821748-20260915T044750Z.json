@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T03:23:40Z",
+    "description": null,
+    "detected_at": "2026-09-15T04:47:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "deadpixelslabs/ai-deadpixels",
+    "homepage": "https://ai-deadpixels.vercel.app",
+    "html_url": "https://github.com/deadpixelslabs/ai-deadpixels",
+    "pushed_at": "2026-09-15T03:24:11Z",
+    "repo_id": 1370821748,
+    "score": 9,
+    "tech_signals": [
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
