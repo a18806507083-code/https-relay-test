@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T23:13:03Z",
+    "detected_at": "2026-09-28T00:18:00Z",
+    "display": "mamadmisaghi/Zecrelay",
+    "key": "repo:1391487586",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "mamadmisaghi/Zecrelay",
+      "homepage": null,
+      "pushed_at": "2026-09-27T23:53:43Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1391487586,
+    "url": "https://github.com/mamadmisaghi/Zecrelay"
+  },
+  "schema": "zcash-fast-event/1"
+}
