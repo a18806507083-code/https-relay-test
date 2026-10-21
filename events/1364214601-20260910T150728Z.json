@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T13:26:59Z",
+    "description": null,
+    "detected_at": "2026-09-10T15:07:28Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "zyl19971116-debug/BORN-1",
+    "homepage": null,
+    "html_url": "https://github.com/zyl19971116-debug/BORN-1",
+    "pushed_at": "2026-09-10T14:40:58Z",
+    "repo_id": 1364214601,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
