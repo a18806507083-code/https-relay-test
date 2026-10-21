@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T21:21:36Z",
+    "description": null,
+    "detected_at": "2026-09-11T21:58:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "devsolusd1/nadir",
+    "homepage": "https://nadir-lemon.vercel.app",
+    "html_url": "https://github.com/devsolusd1/nadir",
+    "pushed_at": "2026-09-11T21:55:53Z",
+    "repo_id": 1366702132,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
