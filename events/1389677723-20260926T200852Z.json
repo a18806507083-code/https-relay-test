@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-26T18:53:51Z",
+    "description": "Read-only crypto market panels for Windows. Public exchange prices, on-chain tickers and wallet activity. Pre-release source.",
+    "detected_at": "2026-09-26T20:08:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "gautamgpt1/TrenchHQ",
+    "homepage": null,
+    "html_url": "https://github.com/gautamgpt1/TrenchHQ",
+    "pushed_at": "2026-09-26T19:51:13Z",
+    "repo_id": 1389677723,
+    "score": 5,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
