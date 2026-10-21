@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T13:59:57.160Z",
+    "detected_at": "2026-09-18T14:57:28Z",
+    "display": "57666 Scams unlimited",
+    "key": "forum:57666",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "scams-unlimited",
+      "title": "Scams unlimited",
+      "topic_id": 57666
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57666,
+    "url": "https://forum.zcashcommunity.com/t/scams-unlimited/57666"
+  },
+  "schema": "zcash-fast-event/1"
+}
