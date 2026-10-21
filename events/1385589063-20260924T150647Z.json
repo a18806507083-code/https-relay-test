@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T13:41:29Z",
+    "description": "Official iOS SDK for interacting with the Rhythm agent. Experimental Swift interface and local preview.",
+    "detected_at": "2026-09-24T15:06:47Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Rhythmak/ios-rhythm-sdk",
+    "homepage": "https://rhythm.casa",
+    "html_url": "https://github.com/Rhythmak/ios-rhythm-sdk",
+    "pushed_at": "2026-09-24T13:46:54Z",
+    "repo_id": 1385589063,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
