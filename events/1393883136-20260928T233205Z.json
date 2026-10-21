@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T21:52:11Z",
+    "description": "Multi-account farming bot for Note Systems on Robinhood Chain Testnet (46630). Auto-config, env-based keys, proxy support.",
+    "detected_at": "2026-09-28T23:32:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "VionaNadhira/note-systems-bot",
+    "homepage": null,
+    "html_url": "https://github.com/VionaNadhira/note-systems-bot",
+    "pushed_at": "2026-09-28T21:52:16Z",
+    "repo_id": 1393883136,
+    "score": 12,
+    "tech_signals": [
+      "RWA/stock",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
