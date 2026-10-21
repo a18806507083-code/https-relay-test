@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T20:15:32Z",
+    "detected_at": "2026-10-14T21:07:07Z",
+    "display": "beatbroker/hidden-witness",
+    "key": "repo:1419798347",
+    "metadata": {
+      "description": "THE HIDDEN WITNESS: a zero-knowledge game where the roof is a shielded Zcash transaction. By chris berli for ZECATHON.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "beatbroker/hidden-witness",
+      "homepage": null,
+      "pushed_at": "2026-10-14T21:03:32Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1419798347,
+    "url": "https://github.com/beatbroker/hidden-witness"
+  },
+  "schema": "zcash-fast-event/1"
+}
