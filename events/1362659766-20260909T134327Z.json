@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T12:36:58Z",
+    "description": null,
+    "detected_at": "2026-09-09T13:43:27Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "PumpLandSOL/obol-rh",
+    "homepage": null,
+    "html_url": "https://github.com/PumpLandSOL/obol-rh",
+    "pushed_at": "2026-09-09T12:37:04Z",
+    "repo_id": 1362659766,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
