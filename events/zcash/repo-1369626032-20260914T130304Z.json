@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T09:05:01Z",
+    "detected_at": "2026-09-14T13:03:04Z",
+    "display": "Julkfer89/Passaporto-per-la-comunicazione",
+    "key": "repo:1369626032",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Julkfer89/Passaporto-per-la-comunicazione",
+      "homepage": null,
+      "pushed_at": "2026-09-14T09:08:54Z",
+      "tech_signals": [
+        "node/indexer",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1369626032,
+    "url": "https://github.com/Julkfer89/Passaporto-per-la-comunicazione"
+  },
+  "schema": "zcash-fast-event/1"
+}
