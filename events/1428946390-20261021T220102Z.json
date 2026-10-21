@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T21:24:31Z",
+    "description": null,
+    "detected_at": "2026-10-21T22:01:02Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "reallyunintented/rbh-rwa-preflight",
+    "homepage": null,
+    "html_url": "https://github.com/reallyunintented/rbh-rwa-preflight",
+    "pushed_at": "2026-10-21T21:26:12Z",
+    "repo_id": 1428946390,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
