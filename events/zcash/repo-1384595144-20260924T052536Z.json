@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T03:49:49Z",
+    "detected_at": "2026-09-24T05:25:36Z",
+    "display": "Oro-Nullpoint/oro-protocol",
+    "key": "repo:1384595144",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Oro-Nullpoint/oro-protocol",
+      "homepage": "https://oro-nullpoint.xyz/",
+      "pushed_at": "2026-09-24T03:50:51Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1384595144,
+    "url": "https://github.com/Oro-Nullpoint/oro-protocol"
+  },
+  "schema": "zcash-fast-event/1"
+}
