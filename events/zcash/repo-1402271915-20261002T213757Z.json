@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T19:33:17Z",
+    "detected_at": "2026-10-02T21:37:57Z",
+    "display": "zodl-inc/zakura-wallet-libraries",
+    "key": "repo:1402271915",
+    "metadata": {
+      "description": "Wallet-layer librustzcash crates forked onto the Zakura crypto stack",
+      "fixed_owner": "zodl-inc",
+      "full_name": "zodl-inc/zakura-wallet-libraries",
+      "homepage": null,
+      "pushed_at": "2026-10-01T23:29:42Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1402271915,
+    "url": "https://github.com/zodl-inc/zakura-wallet-libraries"
+  },
+  "schema": "zcash-fast-event/1"
+}
