@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T13:11:48.043Z",
+    "detected_at": "2026-10-07T15:50:37Z",
+    "display": "58069 ZCG-Funded V12 Credits for AI Security Scans: Applications Open",
+    "key": "forum:58069",
+    "metadata": {
+      "category_id": 34,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "zcg-funded-v12-credits-for-ai-security-scans-applications-open",
+      "title": "ZCG-Funded V12 Credits for AI Security Scans: Applications Open",
+      "topic_id": 58069
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58069,
+    "url": "https://forum.zcashcommunity.com/t/zcg-funded-v12-credits-for-ai-security-scans-applications-open/58069"
+  },
+  "schema": "zcash-fast-event/1"
+}
