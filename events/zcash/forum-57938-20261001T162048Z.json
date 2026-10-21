@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T13:37:20.614Z",
+    "detected_at": "2026-10-01T16:20:48Z",
+    "display": "57938 CipherScan is now ZecBlock 🟨",
+    "key": "forum:57938",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "cipherscan-is-now-zecblock",
+      "title": "CipherScan is now ZecBlock 🟨",
+      "topic_id": 57938
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57938,
+    "url": "https://forum.zcashcommunity.com/t/cipherscan-is-now-zecblock/57938"
+  },
+  "schema": "zcash-fast-event/1"
+}
