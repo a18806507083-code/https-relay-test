@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T11:47:16Z",
+    "detected_at": "2026-09-15T14:26:40Z",
+    "display": "BatuhanZcash/zecmarket",
+    "key": "repo:1371372051",
+    "metadata": {
+      "description": "Private, non-custodial peer-to-peer marketplace for the Zcash ecosystem. Shielded payments, wallet to wallet, optional 2-of-3 escrow.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "BatuhanZcash/zecmarket",
+      "homepage": "https://zecmarket.org",
+      "pushed_at": "2026-09-15T11:49:47Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1371372051,
+    "url": "https://github.com/BatuhanZcash/zecmarket"
+  },
+  "schema": "zcash-fast-event/1"
+}
