@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T16:27:33Z",
+    "description": "Proof-of-work pixel Shiba NFTs and BARK on Robinhood Chain. Contracts, browser miners, website and tests.",
+    "detected_at": "2026-09-12T16:35:06Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "Rebus2344/shibahash",
+    "homepage": "https://shibahash.fun/",
+    "html_url": "https://github.com/Rebus2344/shibahash",
+    "pushed_at": "2026-09-12T16:27:56Z",
+    "repo_id": 1367481848,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
