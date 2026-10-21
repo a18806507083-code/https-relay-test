@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T08:03:55Z",
+    "description": null,
+    "detected_at": "2026-09-29T09:01:10Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "johba37/gap-guard",
+    "homepage": null,
+    "html_url": "https://github.com/johba37/gap-guard",
+    "pushed_at": "2026-09-29T08:52:39Z",
+    "repo_id": 1394682012,
+    "score": 16,
+    "tech_signals": [
+      "Morpho",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
