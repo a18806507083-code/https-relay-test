@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T13:33:03Z",
+    "detected_at": "2026-10-09T17:05:57Z",
+    "display": "kappamarti/games",
+    "key": "repo:1411899029",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "kappamarti/games",
+      "homepage": null,
+      "pushed_at": "2026-10-09T15:23:16Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1411899029,
+    "url": "https://github.com/kappamarti/games"
+  },
+  "schema": "zcash-fast-event/1"
+}
