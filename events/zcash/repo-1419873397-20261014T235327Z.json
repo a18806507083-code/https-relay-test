@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T21:32:53Z",
+    "detected_at": "2026-10-14T23:53:27Z",
+    "display": "paygate-to/paygate-php",
+    "key": "repo:1419873397",
+    "metadata": {
+      "description": "PHP SDK payment gateway no KYC instant crypto payouts",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "paygate-to/paygate-php",
+      "homepage": null,
+      "pushed_at": "2026-10-14T23:51:39Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1419873397,
+    "url": "https://github.com/paygate-to/paygate-php"
+  },
+  "schema": "zcash-fast-event/1"
+}
