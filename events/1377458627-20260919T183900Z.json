@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T17:50:04Z",
+    "description": null,
+    "detected_at": "2026-09-19T18:39:00Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "hoodoracles/hoodoracles",
+    "homepage": null,
+    "html_url": "https://github.com/hoodoracles/hoodoracles",
+    "pushed_at": "2026-09-19T17:50:28Z",
+    "repo_id": 1377458627,
+    "score": 7,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
