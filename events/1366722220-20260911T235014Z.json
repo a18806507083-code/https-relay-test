@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T21:53:12Z",
+    "description": "miner",
+    "detected_at": "2026-09-11T23:50:14Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "exitstable/miner",
+    "homepage": null,
+    "html_url": "https://github.com/exitstable/miner",
+    "pushed_at": "2026-09-11T22:34:50Z",
+    "repo_id": 1366722220,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
