@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-16T09:54:14.315Z",
+    "detected_at": "2026-09-16T12:00:31Z",
+    "display": "57628 Grant Application - Argos: zcashd Emergency Recovery Phrase Support",
+    "key": "forum:57628",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-argos-zcashd-emergency-recovery-phrase-support",
+      "title": "Grant Application - Argos: zcashd Emergency Recovery Phrase Support",
+      "topic_id": 57628
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57628,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-argos-zcashd-emergency-recovery-phrase-support/57628"
+  },
+  "schema": "zcash-fast-event/1"
+}
