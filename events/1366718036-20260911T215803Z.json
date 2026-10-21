@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T21:46:40Z",
+    "description": "Outer Claims: four procedurally generated worlds, 4,000 hex land claims on Robinhood Chain",
+    "detected_at": "2026-09-11T21:58:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "OutOfTallin/outerclaims",
+    "homepage": null,
+    "html_url": "https://github.com/OutOfTallin/outerclaims",
+    "pushed_at": "2026-09-11T21:49:35Z",
+    "repo_id": 1366718036,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
