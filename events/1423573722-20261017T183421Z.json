@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T17:25:56Z",
+    "description": "Python bot that prices Pons tokens on Robinhood Chain from Uniswap V3 pools and places bounded swaps via the Pons router. Dry-run by default.",
+    "detected_at": "2026-10-17T18:34:21Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "sherwood-labs/robinhood-volume-bot",
+    "homepage": null,
+    "html_url": "https://github.com/sherwood-labs/robinhood-volume-bot",
+    "pushed_at": "2026-10-17T17:26:03Z",
+    "repo_id": 1423573722,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
