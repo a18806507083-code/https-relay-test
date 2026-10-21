@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T18:42:31Z",
+    "description": "The trading MCP server for AI agents. Crypto, perps, stocks, prediction markets, forex, defi and memecoins.",
+    "detected_at": "2026-10-20T18:44:04Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "openfinance-tech/mcp",
+    "homepage": null,
+    "html_url": "https://github.com/openfinance-tech/mcp",
+    "pushed_at": "2026-10-20T18:43:05Z",
+    "repo_id": 1427428778,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
