@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T17:01:32Z",
+    "detected_at": "2026-10-15T19:56:00Z",
+    "display": "Godwin-web3/lintel",
+    "key": "repo:1421066631",
+    "metadata": {
+      "description": "Conditional settlement on Zcash. Two-party adaptor signatures with selective disclosure.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Godwin-web3/lintel",
+      "homepage": null,
+      "pushed_at": "2026-10-15T17:08:46Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1421066631,
+    "url": "https://github.com/Godwin-web3/lintel"
+  },
+  "schema": "zcash-fast-event/1"
+}
