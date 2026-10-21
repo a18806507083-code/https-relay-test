@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-18T23:09:47Z",
+    "detected_at": "2026-09-19T00:37:09Z",
+    "display": "ethosinteligencia-boop/tactool-devnet-assets",
+    "key": "repo:1376517913",
+    "metadata": {
+      "description": "Public immutable metadata assets for TACTOOL Devnet testing. No Mainnet or financial representation.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ethosinteligencia-boop/tactool-devnet-assets",
+      "homepage": null,
+      "pushed_at": "2026-09-18T23:15:31Z",
+      "tech_signals": [
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1376517913,
+    "url": "https://github.com/ethosinteligencia-boop/tactool-devnet-assets"
+  },
+  "schema": "zcash-fast-event/1"
+}
