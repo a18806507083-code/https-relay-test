@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-26T21:21:08Z",
+    "description": "Splitroom \u2014 narrative markets on Robinhood Chain",
+    "detected_at": "2026-09-26T22:44:31Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Pasha727272/splitroom",
+    "homepage": null,
+    "html_url": "https://github.com/Pasha727272/splitroom",
+    "pushed_at": "2026-09-26T21:21:18Z",
+    "repo_id": 1389801088,
+    "score": 5,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
