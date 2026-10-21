@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-08T18:05:10Z",
+    "description": "Local desktop sniper terminal and strategy backtester for pons v2 on Robinhood Chain. Everything runs on your machine.",
+    "detected_at": "2026-09-08T19:58:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "plutos-eth/banana",
+    "homepage": null,
+    "html_url": "https://github.com/plutos-eth/banana",
+    "pushed_at": "2026-09-08T18:41:56Z",
+    "repo_id": 1361740810,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
