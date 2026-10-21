@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-23T11:13:52.030Z",
+    "detected_at": "2026-09-23T12:08:10Z",
+    "display": "57763 Feature request Zodl old pools",
+    "key": "forum:57763",
+    "metadata": {
+      "category_id": 51,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "feature-request-zodl-old-pools",
+      "title": "Feature request Zodl old pools",
+      "topic_id": 57763
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57763,
+    "url": "https://forum.zcashcommunity.com/t/feature-request-zodl-old-pools/57763"
+  },
+  "schema": "zcash-fast-event/1"
+}
