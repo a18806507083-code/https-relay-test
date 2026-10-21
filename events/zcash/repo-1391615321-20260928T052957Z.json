@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T02:24:58Z",
+    "detected_at": "2026-09-28T05:29:57Z",
+    "display": "wytkd292/tivilive-bitcoin-iptv",
+    "key": "repo:1391615321",
+    "metadata": {
+      "description": "iptv subscription bitcoin: 24-Hour Free Trial, Plans from $15",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "wytkd292/tivilive-bitcoin-iptv",
+      "homepage": "",
+      "pushed_at": "2026-09-28T02:25:12Z",
+      "tech_signals": [
+        "wallet/payment",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1391615321,
+    "url": "https://github.com/wytkd292/tivilive-bitcoin-iptv"
+  },
+  "schema": "zcash-fast-event/1"
+}
