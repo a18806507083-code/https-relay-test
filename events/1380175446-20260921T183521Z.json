@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T16:58:47Z",
+    "description": "Scheduled USDG payout rooms with a settler bounty. Anyone can settle; the caller is paid.",
+    "detected_at": "2026-09-21T18:35:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "dmetagame/outlay",
+    "homepage": null,
+    "html_url": "https://github.com/dmetagame/outlay",
+    "pushed_at": "2026-09-21T17:04:59Z",
+    "repo_id": 1380175446,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
