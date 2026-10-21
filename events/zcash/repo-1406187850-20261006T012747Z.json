@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-05T17:59:22Z",
+    "detected_at": "2026-10-06T01:27:47Z",
+    "display": "ZecDoor/zecdoor",
+    "key": "repo:1406187850",
+    "metadata": {
+      "description": "Move the ZEC you hold on Solana into a shielded Zcash wallet you control, with one signature in Phantom. MIT.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "ZecDoor/zecdoor",
+      "homepage": "https://zecdoor.0xo.in",
+      "pushed_at": "2026-10-05T20:45:31Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1406187850,
+    "url": "https://github.com/ZecDoor/zecdoor"
+  },
+  "schema": "zcash-fast-event/1"
+}
