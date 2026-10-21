@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T04:54:33Z",
+    "description": null,
+    "detected_at": "2026-10-17T05:35:58Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ZenithResearch/castalia-wallet",
+    "homepage": null,
+    "html_url": "https://github.com/ZenithResearch/castalia-wallet",
+    "pushed_at": "2026-10-17T04:59:51Z",
+    "repo_id": 1422959103,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
