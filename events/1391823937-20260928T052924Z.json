@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T04:50:44Z",
+    "description": "Any model. One key. Paid per call. OpenRouter-compatible inference router settled in USDG on Robinhood Chain.",
+    "detected_at": "2026-09-28T05:29:24Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "AnyRouteRH/AnyRoute",
+    "homepage": null,
+    "html_url": "https://github.com/AnyRouteRH/AnyRoute",
+    "pushed_at": "2026-09-28T04:50:52Z",
+    "repo_id": 1391823937,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
