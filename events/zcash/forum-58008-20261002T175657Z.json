@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T17:42:59.163Z",
+    "detected_at": "2026-10-02T17:56:57Z",
+    "display": "58008 Grant Application: Build Buddies x Zcash — Privacy Education and Community Adoption in Latin America and Asia",
+    "key": "forum:58008",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-build-buddies-x-zcash-privacy-education-and-community-adoption-in-latin-america-and-asia",
+      "title": "Grant Application: Build Buddies x Zcash — Privacy Education and Community Adoption in Latin America and Asia",
+      "topic_id": 58008
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58008,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-build-buddies-x-zcash-privacy-education-and-community-adoption-in-latin-america-and-asia/58008"
+  },
+  "schema": "zcash-fast-event/1"
+}
