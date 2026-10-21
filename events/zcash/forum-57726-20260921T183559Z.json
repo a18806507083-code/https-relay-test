@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T14:18:51.427Z",
+    "detected_at": "2026-09-21T18:35:59Z",
+    "display": "57726 [Grant application] - Human readable version of Ironwood formal verification, first steps - bulletproofs in the AGM",
+    "key": "forum:57726",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-human-readable-version-of-ironwood-formal-verification-first-steps-bulletproofs-in-the-agm",
+      "title": "[Grant application] - Human readable version of Ironwood formal verification, first steps - bulletproofs in the AGM",
+      "topic_id": 57726
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57726,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-human-readable-version-of-ironwood-formal-verification-first-steps-bulletproofs-in-the-agm/57726"
+  },
+  "schema": "zcash-fast-event/1"
+}
