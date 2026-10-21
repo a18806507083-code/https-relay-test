@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T11:39:26Z",
+    "description": null,
+    "detected_at": "2026-10-15T11:59:14Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "atmsw24-tech/Flagboysns",
+    "homepage": null,
+    "html_url": "https://github.com/atmsw24-tech/Flagboysns",
+    "pushed_at": "2026-10-15T11:41:25Z",
+    "repo_id": 1420620145,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
