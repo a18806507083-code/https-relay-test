@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T02:45:07.460Z",
+    "detected_at": "2026-10-13T07:44:48Z",
+    "display": "58165 Grant Application: Konclave (taking the viewing key off the coordinator)",
+    "key": "forum:58165",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "grant-application-konclave-taking-the-viewing-key-off-the-coordinator",
+      "title": "Grant Application: Konclave (taking the viewing key off the coordinator)",
+      "topic_id": 58165
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58165,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-konclave-taking-the-viewing-key-off-the-coordinator/58165"
+  },
+  "schema": "zcash-fast-event/1"
+}
