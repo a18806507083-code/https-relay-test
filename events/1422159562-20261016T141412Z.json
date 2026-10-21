@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-16T12:52:46Z",
+    "description": "Blockmachine miner setup script and Docker Compose configs",
+    "detected_at": "2026-10-16T14:14:12Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "slickroot/blockmachine-miner",
+    "homepage": null,
+    "html_url": "https://github.com/slickroot/blockmachine-miner",
+    "pushed_at": "2026-10-16T12:56:46Z",
+    "repo_id": 1422159562,
+    "score": 6,
+    "tech_signals": [
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
