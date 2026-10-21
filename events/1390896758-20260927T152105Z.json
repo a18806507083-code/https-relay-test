@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T13:39:43Z",
+    "description": null,
+    "detected_at": "2026-09-27T15:21:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "Levier-Tech/levier",
+    "homepage": null,
+    "html_url": "https://github.com/Levier-Tech/levier",
+    "pushed_at": "2026-09-27T15:01:22Z",
+    "repo_id": 1390896758,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
