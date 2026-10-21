@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T06:02:01Z",
+    "detected_at": "2026-09-19T09:10:01Z",
+    "display": "Maheshsiddu29/ZWA-Protocol",
+    "key": "repo:1376793202",
+    "metadata": {
+      "description": "Privacy-preserving RWA protocol on Zcash for proving asset provenance and investor eligibility before atomic shielded settlement.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Maheshsiddu29/ZWA-Protocol",
+      "homepage": null,
+      "pushed_at": "2026-09-19T07:43:26Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1376793202,
+    "url": "https://github.com/Maheshsiddu29/ZWA-Protocol"
+  },
+  "schema": "zcash-fast-event/1"
+}
