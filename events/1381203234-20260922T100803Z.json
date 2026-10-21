@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T09:32:03Z",
+    "description": "Claim the post, pay the author. Any public post in the timeline becomes a coin that can never be claimed again, and the account that wrote it is paid out of every trade. $CLAIM on Robinhood Chain.",
+    "detected_at": "2026-09-22T10:08:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "xclaimRH/xclaimRH",
+    "homepage": null,
+    "html_url": "https://github.com/xclaimRH/xclaimRH",
+    "pushed_at": "2026-09-22T09:32:43Z",
+    "repo_id": 1381203234,
+    "score": 9,
+    "tech_signals": [
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
