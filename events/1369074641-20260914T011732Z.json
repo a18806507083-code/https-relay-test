@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T00:39:42Z",
+    "description": "Hackerbane assessment reports (PDF)",
+    "detected_at": "2026-09-14T01:17:32Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "hackerbane-audits/reports",
+    "homepage": "https://hackerbane.com/reports",
+    "html_url": "https://github.com/hackerbane-audits/reports",
+    "pushed_at": "2026-09-14T01:11:19Z",
+    "repo_id": 1369074641,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
