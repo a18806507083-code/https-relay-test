@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T14:48:10Z",
+    "detected_at": "2026-10-20T18:44:22Z",
+    "display": "zecpot/zecpot",
+    "key": "repo:1427164071",
+    "metadata": {
+      "description": "A daily private ZEC pot on Zcash",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "zecpot/zecpot",
+      "homepage": null,
+      "pushed_at": "2026-10-20T14:48:18Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1427164071,
+    "url": "https://github.com/zecpot/zecpot"
+  },
+  "schema": "zcash-fast-event/1"
+}
