@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T19:28:24Z",
+    "description": "Rovyn smart contracts on Robinhood Chain",
+    "detected_at": "2026-10-06T19:43:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "rovyn-fi/contracts",
+    "homepage": "https://rovyn.fi",
+    "html_url": "https://github.com/rovyn-fi/contracts",
+    "pushed_at": "2026-10-06T19:28:51Z",
+    "repo_id": 1407829653,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
