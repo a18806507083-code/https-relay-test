@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T07:37:55Z",
+    "description": null,
+    "detected_at": "2026-10-07T08:54:38Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "Bush-fi/erc4626-tests",
+    "homepage": null,
+    "html_url": "https://github.com/Bush-fi/erc4626-tests",
+    "pushed_at": "2026-10-07T08:22:42Z",
+    "repo_id": 1408426689,
+    "score": 13,
+    "tech_signals": [
+      "Morpho",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
