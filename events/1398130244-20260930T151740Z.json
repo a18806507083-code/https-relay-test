@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T13:52:47Z",
+    "description": "A city of agents. Your workforce. Swarm work. Visible results. Yours to keep.",
+    "detected_at": "2026-09-30T15:17:40Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "SwarmCityxyz/SwarmCity",
+    "homepage": null,
+    "html_url": "https://github.com/SwarmCityxyz/SwarmCity",
+    "pushed_at": "2026-09-30T13:56:47Z",
+    "repo_id": 1398130244,
+    "score": 13,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
