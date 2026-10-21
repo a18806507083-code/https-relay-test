@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T20:36:52Z",
+    "description": "622k cross-chain memecoin launch snapshots (Solana, Base, BNB, Robinhood Chain, +). Full launch trajectories: price, liquidity, order flow, outcomes. CC0.",
+    "detected_at": "2026-09-09T21:58:59Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Sirkunle001/memecoin-launch-dataset",
+    "homepage": null,
+    "html_url": "https://github.com/Sirkunle001/memecoin-launch-dataset",
+    "pushed_at": "2026-09-09T20:49:02Z",
+    "repo_id": 1363194940,
+    "score": 5,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
