@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T21:38:26Z",
+    "detected_at": "2026-09-30T23:40:44Z",
+    "display": "equihash-lab/antminer-z15-pro-860k-notes",
+    "key": "repo:1398764040",
+    "metadata": {
+      "description": "Operator notes for Bitmain Antminer Z15 Pro 860K: power, setup checklist, and ROI estimator.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "equihash-lab/antminer-z15-pro-860k-notes",
+      "homepage": "https://www.z15pro860.com/",
+      "pushed_at": "2026-09-30T21:46:09Z",
+      "tech_signals": [
+        "wallet/payment",
+        "protocol/ZK",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1398764040,
+    "url": "https://github.com/equihash-lab/antminer-z15-pro-860k-notes"
+  },
+  "schema": "zcash-fast-event/1"
+}
