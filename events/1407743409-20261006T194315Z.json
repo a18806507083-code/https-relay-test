@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T18:09:05Z",
+    "description": null,
+    "detected_at": "2026-10-06T19:43:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "chaoukic/cross-chain-bot",
+    "homepage": null,
+    "html_url": "https://github.com/chaoukic/cross-chain-bot",
+    "pushed_at": "2026-10-06T18:11:45Z",
+    "repo_id": 1407743409,
+    "score": 9,
+    "tech_signals": [
+      "Hook",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
