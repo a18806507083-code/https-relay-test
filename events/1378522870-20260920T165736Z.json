@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T16:06:22Z",
+    "description": null,
+    "detected_at": "2026-09-20T16:57:36Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Motdin/novice-trader",
+    "homepage": null,
+    "html_url": "https://github.com/Motdin/novice-trader",
+    "pushed_at": "2026-09-20T16:49:49Z",
+    "repo_id": 1378522870,
+    "score": 9,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
