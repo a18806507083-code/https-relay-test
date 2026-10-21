@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-26T22:04:27Z",
+    "description": "Moonbag whitepaper and STRIDE threat model: how SPY and NVDA stock tokens are split at a line into FLOOR and MOON, and what can go wrong.",
+    "detected_at": "2026-09-26T22:44:31Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "moonbagfi/moonbag-treatise",
+    "homepage": null,
+    "html_url": "https://github.com/moonbagfi/moonbag-treatise",
+    "pushed_at": "2026-09-26T22:04:54Z",
+    "repo_id": 1389828117,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
