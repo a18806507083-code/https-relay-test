@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T19:24:07.193Z",
+    "detected_at": "2026-10-08T19:27:59Z",
+    "display": "58092 Minor Grant Application — Travel support for Devcon 8 Mumbai (speaker, curator, performer) ZKMusic",
+    "key": "forum:58092",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "minor-grant-application-travel-support-for-devcon-8-mumbai-speaker-curator-performer-zkmusic",
+      "title": "Minor Grant Application — Travel support for Devcon 8 Mumbai (speaker, curator, performer) ZKMusic",
+      "topic_id": 58092
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58092,
+    "url": "https://forum.zcashcommunity.com/t/minor-grant-application-travel-support-for-devcon-8-mumbai-speaker-curator-performer-zkmusic/58092"
+  },
+  "schema": "zcash-fast-event/1"
+}
