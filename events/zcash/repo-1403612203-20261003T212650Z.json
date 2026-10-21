@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T20:29:47Z",
+    "detected_at": "2026-10-03T21:26:50Z",
+    "display": "tufanaydinn/zocialworld",
+    "key": "repo:1403612203",
+    "metadata": {
+      "description": "Open-source browser-based social world for the Zcash ecosystem — explore projects, meet builders, and participate in privacy-conscious community experiences.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "tufanaydinn/zocialworld",
+      "homepage": null,
+      "pushed_at": "2026-10-03T20:31:02Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403612203,
+    "url": "https://github.com/tufanaydinn/zocialworld"
+  },
+  "schema": "zcash-fast-event/1"
+}
