@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T13:31:50Z",
+    "description": "Cut \u2014 film crowdfunding on Robinhood Chain",
+    "detected_at": "2026-09-30T15:17:40Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "omataratic/cut-web",
+    "homepage": "https://cut-web-delta.vercel.app",
+    "html_url": "https://github.com/omataratic/cut-web",
+    "pushed_at": "2026-09-30T13:31:55Z",
+    "repo_id": 1398061217,
+    "score": 14,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
