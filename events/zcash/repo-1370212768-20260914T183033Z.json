@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T16:22:33Z",
+    "detected_at": "2026-09-14T18:30:33Z",
+    "display": "r-ishabh12/crypto-data-pipeline",
+    "key": "repo:1370212768",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "r-ishabh12/crypto-data-pipeline",
+      "homepage": null,
+      "pushed_at": "2026-09-14T17:23:30Z",
+      "tech_signals": [
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1370212768,
+    "url": "https://github.com/r-ishabh12/crypto-data-pipeline"
+  },
+  "schema": "zcash-fast-event/1"
+}
