@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T18:16:36Z",
+    "description": "Hoodlox - dig crates in a shared 3D valley on Robinhood Chain. Live at hoodlox.fun",
+    "detected_at": "2026-10-21T18:52:52Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "hoodlox/hoodlox",
+    "homepage": "https://hoodlox.fun",
+    "html_url": "https://github.com/hoodlox/hoodlox",
+    "pushed_at": "2026-10-21T18:34:36Z",
+    "repo_id": 1428764492,
+    "score": 13,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
