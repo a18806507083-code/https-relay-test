@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T12:57:26Z",
+    "detected_at": "2026-09-28T18:46:53Z",
+    "display": "madii506/zcash-agent",
+    "key": "repo:1392717704",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "madii506/zcash-agent",
+      "homepage": "https://zcash-agent.vercel.app",
+      "pushed_at": "2026-09-28T13:13:40Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1392717704,
+    "url": "https://github.com/madii506/zcash-agent"
+  },
+  "schema": "zcash-fast-event/1"
+}
