@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T04:24:16Z",
+    "description": "Autonomous Multi-Chain Wallet Intelligence & Forensic Graph Layer for Web3 Token Launches",
+    "detected_at": "2026-09-17T05:15:19Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "tracehop-labs/tracehop",
+    "homepage": "https://tracehop-web.vercel.app/",
+    "html_url": "https://github.com/tracehop-labs/tracehop",
+    "pushed_at": "2026-09-17T04:44:58Z",
+    "repo_id": 1373922918,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
