@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T12:24:28Z",
+    "description": "Self-hostable, read-only Telegram bot for HEY Research Lab lookups on Robinhood Chain, powered only by the public API. Docker image built by the operator.",
+    "detected_at": "2026-10-02T12:26:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "hey-research-lab/hey-telegram-bot",
+    "homepage": "https://heyresearch.xyz/developers",
+    "html_url": "https://github.com/hey-research-lab/hey-telegram-bot",
+    "pushed_at": "2026-10-02T12:24:40Z",
+    "repo_id": 1401671217,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
