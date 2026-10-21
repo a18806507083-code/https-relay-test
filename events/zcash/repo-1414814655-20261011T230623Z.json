@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T22:15:02Z",
+    "detected_at": "2026-10-11T23:06:23Z",
+    "display": "tok222999/aura",
+    "key": "repo:1414814655",
+    "metadata": {
+      "description": "AURA is a privacy payment layer that lets users pay from a persistent shielded balance, checks for risky timing/amount patterns before broadcast, and settles recipients in the assets they already use.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "tok222999/aura",
+      "homepage": null,
+      "pushed_at": "2026-10-11T22:15:40Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1414814655,
+    "url": "https://github.com/tok222999/aura"
+  },
+  "schema": "zcash-fast-event/1"
+}
