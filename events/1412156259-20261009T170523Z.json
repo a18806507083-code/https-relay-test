@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T16:39:54Z",
+    "description": "Build the on-chain side of \"IMD Money Back\" ($MONEYBACK), a Uniswap v4 hook launch on Robinhood Chain (chainId 4663) paired with IMD, as a Foundry project for the IMD launch factory: four contracts, full tests, launch.json, README, SECURITY_REVIEW.md. PRODUCT (context; no payout logic on-chain): every trade pays 5.5%: the pool's 1.25% LP fee (1%...",
+    "detected_at": "2026-10-09T17:05:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-1184-src-moneybacktoken-sol-src-moneybackhook",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1184-src-moneybacktoken-sol-src-moneybackhook",
+    "pushed_at": "2026-10-09T16:39:57Z",
+    "repo_id": 1412156259,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
