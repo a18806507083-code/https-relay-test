@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T13:40:14.886Z",
+    "detected_at": "2026-09-25T15:15:39Z",
+    "display": "57810 From Discovering Zcash to Finding a Way to Contribute",
+    "key": "forum:57810",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "from-discovering-zcash-to-finding-a-way-to-contribute",
+      "title": "From Discovering Zcash to Finding a Way to Contribute",
+      "topic_id": 57810
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57810,
+    "url": "https://forum.zcashcommunity.com/t/from-discovering-zcash-to-finding-a-way-to-contribute/57810"
+  },
+  "schema": "zcash-fast-event/1"
+}
