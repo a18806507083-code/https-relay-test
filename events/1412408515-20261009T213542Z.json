@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T20:18:47Z",
+    "description": "Build the off-chain payout engine for \"IMD Money Back\" ($MONEYBACK): a TypeScript service that reads Robinhood Chain (4663), finds every 15 min which holders are underwater and pays them back in IMD via RoundPayout. TypeScript + tsx + viem + vitest, Linux VPS under pm2. Deliver: package.json, tsconfig, src/, test/, scripts/, env.example, ecosyst...",
+    "detected_at": "2026-10-09T21:35:42Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "identity-md-launches/launch-1206-build-off-chain-payout-engine",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1206-build-off-chain-payout-engine",
+    "pushed_at": "2026-10-09T20:46:45Z",
+    "repo_id": 1412408515,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
