@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T21:59:37Z",
+    "description": "Deploy one contract on Robinhood Chain: ImdGuard, a Uniswap v4 hook for the existing token 0x5f7bb59365ce557c26dbcaa4ee9d39a4b95b7127 (IMD), paired with ETH. No new token and no pool created by the launch; the creator will initialize the pool with this hook afterwards on the PoolManager passed as a constructor argument (0x8366a39CC670B4001A1121B...",
+    "detected_at": "2026-10-21T22:01:02Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-2426-deploy-one-contract-robinhood",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2426-deploy-one-contract-robinhood",
+    "pushed_at": "2026-10-21T21:59:41Z",
+    "repo_id": 1428973384,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
