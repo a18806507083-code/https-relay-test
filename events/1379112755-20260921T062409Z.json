@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T05:02:21Z",
+    "description": "Independent security review of the Staccpad stack on Robinhood Chain (4663): 13 high/critical findings with on-chain evidence, executable PoCs, and prioritized fixes.",
+    "detected_at": "2026-09-21T06:24:09Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "goodsmash/staccpad-security-review",
+    "homepage": null,
+    "html_url": "https://github.com/goodsmash/staccpad-security-review",
+    "pushed_at": "2026-09-21T05:57:36Z",
+    "repo_id": 1379112755,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
