@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T16:48:42Z",
+    "description": null,
+    "detected_at": "2026-09-13T17:18:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "KentraProtocol/KentraProtocol",
+    "homepage": null,
+    "html_url": "https://github.com/KentraProtocol/KentraProtocol",
+    "pushed_at": "2026-09-13T17:18:20Z",
+    "repo_id": 1368616698,
+    "score": 5,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
