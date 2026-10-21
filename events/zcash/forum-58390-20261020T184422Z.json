@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T17:32:09.484Z",
+    "detected_at": "2026-10-20T18:44:22Z",
+    "display": "58390 Zipcompass, a skill that sends coding agents to the right ZIP",
+    "key": "forum:58390",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zipcompass-a-skill-that-sends-coding-agents-to-the-right-zip",
+      "title": "Zipcompass, a skill that sends coding agents to the right ZIP",
+      "topic_id": 58390
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58390,
+    "url": "https://forum.zcashcommunity.com/t/zipcompass-a-skill-that-sends-coding-agents-to-the-right-zip/58390"
+  },
+  "schema": "zcash-fast-event/1"
+}
