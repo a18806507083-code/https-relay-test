@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-22T16:29:55Z",
+    "description": "swarm0x MCP server for agents.",
+    "detected_at": "2026-09-22T18:18:49Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "swarm0xsh/swarm0x-mcp",
+    "homepage": "https://swarm0x.sh",
+    "html_url": "https://github.com/swarm0xsh/swarm0x-mcp",
+    "pushed_at": "2026-09-22T16:47:29Z",
+    "repo_id": 1381934833,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
