@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T22:54:11Z",
+    "description": "created from ozzy's \"zzy\" bot on github. Takes fees from it's coin, constantly researches news, trades robinhood stock coins with the fees. feel free to use this as a self sustaining pons dev.  oh yea it also tweets about its portfolio.",
+    "detected_at": "2026-09-11T23:50:14Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "chvelle/zzy",
+    "homepage": null,
+    "html_url": "https://github.com/chvelle/zzy",
+    "pushed_at": "2026-09-11T22:58:39Z",
+    "repo_id": 1366757267,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
