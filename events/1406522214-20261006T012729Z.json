@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T00:36:35Z",
+    "description": "Markets for developers. Stocklayer official profile.",
+    "detected_at": "2026-10-06T01:27:29Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "stocklayerdev/stocklayerdev",
+    "homepage": null,
+    "html_url": "https://github.com/stocklayerdev/stocklayerdev",
+    "pushed_at": "2026-10-06T00:36:40Z",
+    "repo_id": 1406522214,
+    "score": 6,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
