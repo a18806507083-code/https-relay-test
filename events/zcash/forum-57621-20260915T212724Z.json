@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T20:23:31.161Z",
+    "detected_at": "2026-09-15T21:27:24Z",
+    "display": "57621 ZEC will become the private money of AI agents. We’re making it happen on AxiomAI",
+    "key": "forum:57621",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "zec-will-become-the-private-money-of-ai-agents-we-re-making-it-happen-on-axiomai",
+      "title": "ZEC will become the private money of AI agents. We’re making it happen on AxiomAI",
+      "topic_id": 57621
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57621,
+    "url": "https://forum.zcashcommunity.com/t/zec-will-become-the-private-money-of-ai-agents-we-re-making-it-happen-on-axiomai/57621"
+  },
+  "schema": "zcash-fast-event/1"
+}
