@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T19:36:56Z",
+    "detected_at": "2026-10-06T19:43:48Z",
+    "display": "OluwapelumiAdebisi/veil",
+    "key": "repo:1407838028",
+    "metadata": {
+      "description": "Veil is a privacy-first auction platform built on Zcash.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "OluwapelumiAdebisi/veil",
+      "homepage": null,
+      "pushed_at": "2026-10-06T19:36:58Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1407838028,
+    "url": "https://github.com/OluwapelumiAdebisi/veil"
+  },
+  "schema": "zcash-fast-event/1"
+}
