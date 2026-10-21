@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-23T01:05:19Z",
+    "description": "Friend Smash \u2014 a falling-block smasher starring your Rare Friend, with a simulated $RAREFRIENDS burn + prize-pool economy. Rare Friends Vibeathon entry.",
+    "detected_at": "2026-09-23T01:44:53Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Doodlifts/friend-smash",
+    "homepage": "https://friend-smash.vercel.app",
+    "html_url": "https://github.com/Doodlifts/friend-smash",
+    "pushed_at": "2026-09-23T01:44:47Z",
+    "repo_id": 1382535616,
+    "score": 6,
+    "tech_signals": [
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
