@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T12:27:03Z",
+    "detected_at": "2026-10-03T14:53:26Z",
+    "display": "elsiribot/allpos",
+    "key": "repo:1403136417",
+    "metadata": {
+      "description": "Linkable browser point-of-sale for Lightning, XMR, ZEC and LTC (via ff.io), based on joschisan/kasse",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "elsiribot/allpos",
+      "homepage": "https://elsiribot.github.io/allpos/",
+      "pushed_at": "2026-10-03T12:27:11Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403136417,
+    "url": "https://github.com/elsiribot/allpos"
+  },
+  "schema": "zcash-fast-event/1"
+}
