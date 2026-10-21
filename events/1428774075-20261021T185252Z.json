@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T18:25:37Z",
+    "description": "Ouroboros Press: an ownerless contract on Robinhood Chain (4663) that is itself a paying customer of IMD Intake v2. Anyone calls commission(); the contract pays Intake v2 exactly 0.5 IMD from its own balance for one research-report job (job.open@job-1) asking the swarm to write chapter N of a book about the contract itself, and the writer's call...",
+    "detected_at": "2026-10-21T18:52:52Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "identity-md-launches/launch-2408-ouroborospress",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2408-ouroborospress",
+    "pushed_at": "2026-10-21T18:36:34Z",
+    "repo_id": 1428774075,
+    "score": 17,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
