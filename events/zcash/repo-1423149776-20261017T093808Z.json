@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T09:18:54Z",
+    "detected_at": "2026-10-17T09:38:08Z",
+    "display": "Udoka-AM/corridorHub",
+    "key": "repo:1423149776",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Udoka-AM/corridorHub",
+      "homepage": null,
+      "pushed_at": "2026-10-17T09:32:46Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1423149776,
+    "url": "https://github.com/Udoka-AM/corridorHub"
+  },
+  "schema": "zcash-fast-event/1"
+}
