@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T10:39:59Z",
+    "description": "Launch PinkyVaultV2 from this repository on Robinhood Chain as contracts only: no token and no pool. Deploy PinkyVaultV2 with the constructor arguments in launch.json. It is Pinky's second vault, beside the live PinkyVault, and reuses the live PINKY token and PinkyStaking from launch #1166. A holder bonds IMD behind one of four promises about th...",
+    "detected_at": "2026-10-15T11:59:14Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "identity-md-launches/launch-1840-pinkyvaultv2",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1840-pinkyvaultv2",
+    "pushed_at": "2026-10-15T10:40:04Z",
+    "repo_id": 1420551193,
+    "score": 13,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
