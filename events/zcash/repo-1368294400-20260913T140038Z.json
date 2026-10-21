@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T10:50:01Z",
+    "detected_at": "2026-09-13T14:00:38Z",
+    "display": "gradido/gradido-blockchain-zk",
+    "key": "repo:1368294400",
+    "metadata": {
+      "description": "Shielded transfers for the Gradido blockchain: halo2 zero-knowledge circuits with exact decay, keys, note    ▎ encryption and signatures after the Zcash Orchard model. C ABI for gradido_node, WebAssembly signer for wallets.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "gradido/gradido-blockchain-zk",
+      "homepage": null,
+      "pushed_at": "2026-09-13T10:57:00Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1368294400,
+    "url": "https://github.com/gradido/gradido-blockchain-zk"
+  },
+  "schema": "zcash-fast-event/1"
+}
