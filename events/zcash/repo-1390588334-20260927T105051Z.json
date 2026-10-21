@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T09:51:12Z",
+    "detected_at": "2026-09-27T10:50:51Z",
+    "display": "sapgun/nts-virtual-asset-tracking",
+    "key": "repo:1390588334",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "sapgun/nts-virtual-asset-tracking",
+      "homepage": "https://nts-virtual-asset-tracking.vercel.app",
+      "pushed_at": "2026-09-27T10:50:47Z",
+      "tech_signals": [
+        "SDK/library",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1390588334,
+    "url": "https://github.com/sapgun/nts-virtual-asset-tracking"
+  },
+  "schema": "zcash-fast-event/1"
+}
