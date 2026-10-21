@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T13:19:42Z",
+    "detected_at": "2026-09-28T18:46:53Z",
+    "display": "bebro1337booking-bit/zubit",
+    "key": "repo:1392772385",
+    "metadata": {
+      "description": "Quantum Resistent Zebra for Zcash Blockchain",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "bebro1337booking-bit/zubit",
+      "homepage": null,
+      "pushed_at": "2026-09-28T13:52:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1392772385,
+    "url": "https://github.com/bebro1337booking-bit/zubit"
+  },
+  "schema": "zcash-fast-event/1"
+}
