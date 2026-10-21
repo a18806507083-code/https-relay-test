@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T13:11:16.066Z",
+    "detected_at": "2026-09-30T15:18:24Z",
+    "display": "57928 Zcash Community Grants (ZCG) Meeting Minutes 9/28/2026",
+    "key": "forum:57928",
+    "metadata": {
+      "category_id": 34,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "zcash-community-grants-zcg-meeting-minutes-9-28-2026",
+      "title": "Zcash Community Grants (ZCG) Meeting Minutes 9/28/2026",
+      "topic_id": 57928
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57928,
+    "url": "https://forum.zcashcommunity.com/t/zcash-community-grants-zcg-meeting-minutes-9-28-2026/57928"
+  },
+  "schema": "zcash-fast-event/1"
+}
