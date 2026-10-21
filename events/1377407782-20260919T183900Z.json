@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T16:56:55Z",
+    "description": "DeltaDesk: the open market-making desk for tokenized stocks. Truth layer (markouts vs Hyperliquid), x402 API, Bankr skills, and on-chain desk lanes on Robinhood Chain with a Dynamic-delegated agent.",
+    "detected_at": "2026-09-19T18:39:00Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "OoJae/deltadesk",
+    "homepage": null,
+    "html_url": "https://github.com/OoJae/deltadesk",
+    "pushed_at": "2026-09-19T16:59:51Z",
+    "repo_id": 1377407782,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
