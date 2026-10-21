@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T16:18:41Z",
+    "description": "DeepCore DEX + Launchpad template: set one config file, build, host anywhere. MIT.",
+    "detected_at": "2026-10-17T16:21:17Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "deep-core-protocol/dex-template",
+    "homepage": "https://deepcore.fun",
+    "html_url": "https://github.com/deep-core-protocol/dex-template",
+    "pushed_at": "2026-10-17T16:18:48Z",
+    "repo_id": 1423515223,
+    "score": 10,
+    "tech_signals": [
+      "Hook",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
