@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T22:34:07Z",
+    "description": "Hash Chain profile",
+    "detected_at": "2026-10-17T22:42:57Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "HashChainL0/HashChainL0",
+    "homepage": null,
+    "html_url": "https://github.com/HashChainL0/HashChainL0",
+    "pushed_at": "2026-10-17T22:34:11Z",
+    "repo_id": 1423805460,
+    "score": 7,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
