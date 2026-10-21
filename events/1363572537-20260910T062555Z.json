@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-10T05:41:06Z",
+    "description": "How many people are actually in a Robinhood Chain launch. Volume tells you how much, this tells you how many.",
+    "detected_at": "2026-09-10T06:25:55Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "0xwhrari/crowd",
+    "homepage": "https://crowd-ochre.vercel.app",
+    "html_url": "https://github.com/0xwhrari/crowd",
+    "pushed_at": "2026-09-10T06:22:09Z",
+    "repo_id": 1363572537,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
