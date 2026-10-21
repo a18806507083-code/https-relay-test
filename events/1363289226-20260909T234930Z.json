@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T22:47:57Z",
+    "description": "VIG launchpad smart contracts for Robinhood Chain",
+    "detected_at": "2026-09-09T23:49:30Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "cansitki/vig-contracts",
+    "homepage": "https://vigfamily.app",
+    "html_url": "https://github.com/cansitki/vig-contracts",
+    "pushed_at": "2026-09-09T22:48:02Z",
+    "repo_id": 1363289226,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
