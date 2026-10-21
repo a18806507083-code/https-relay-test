@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T01:24:12Z",
+    "detected_at": "2026-09-19T04:58:47Z",
+    "display": "deadpixelslabs/ZEC-BLOCKS",
+    "key": "repo:1376598542",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "deadpixelslabs/ZEC-BLOCKS",
+      "homepage": "https://zec-blocks.vercel.app",
+      "pushed_at": "2026-09-19T03:58:03Z",
+      "tech_signals": [
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1376598542,
+    "url": "https://github.com/deadpixelslabs/ZEC-BLOCKS"
+  },
+  "schema": "zcash-fast-event/1"
+}
