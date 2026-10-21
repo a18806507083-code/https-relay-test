@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T11:43:25Z",
+    "description": null,
+    "detected_at": "2026-09-28T11:53:01Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "StingyExchange/stingy-protocol",
+    "homepage": null,
+    "html_url": "https://github.com/StingyExchange/stingy-protocol",
+    "pushed_at": "2026-09-28T11:44:34Z",
+    "repo_id": 1392559083,
+    "score": 10,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
