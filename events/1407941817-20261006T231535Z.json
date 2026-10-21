@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T21:35:37Z",
+    "description": "Multi-chain asset explorer and wallet observer for Base, Robinhood, Ethereum, Arbitrum, Optimism, BNB Chain and Solana.",
+    "detected_at": "2026-10-06T23:15:35Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "Cryptoxiaoxiang/assetwatch",
+    "homepage": null,
+    "html_url": "https://github.com/Cryptoxiaoxiang/assetwatch",
+    "pushed_at": "2026-10-06T21:35:42Z",
+    "repo_id": 1407941817,
+    "score": 12,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
