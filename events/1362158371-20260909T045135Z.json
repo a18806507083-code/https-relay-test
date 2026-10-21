@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T03:37:05Z",
+    "description": null,
+    "detected_at": "2026-09-09T04:51:35Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "8bitgamehood-beep/gamhod",
+    "homepage": null,
+    "html_url": "https://github.com/8bitgamehood-beep/gamhod",
+    "pushed_at": "2026-09-09T03:47:05Z",
+    "repo_id": 1362158371,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
