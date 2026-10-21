@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T08:16:08Z",
+    "detected_at": "2026-09-30T08:42:59Z",
+    "display": "stealthpadRH/dossier",
+    "key": "repo:1397364911",
+    "metadata": {
+      "description": "Research papers for Stealthpad: thesis on keyless fee vaults and random snapshots, STRIDE threat model, and plain privacy scope.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "stealthpadRH/dossier",
+      "homepage": null,
+      "pushed_at": "2026-09-30T08:16:34Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1397364911,
+    "url": "https://github.com/stealthpadRH/dossier"
+  },
+  "schema": "zcash-fast-event/1"
+}
