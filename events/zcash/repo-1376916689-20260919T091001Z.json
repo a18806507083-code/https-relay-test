@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T08:24:28Z",
+    "detected_at": "2026-09-19T09:10:01Z",
+    "display": "hieusats/zatoshi-market-key-exposure",
+    "key": "repo:1376916689",
+    "metadata": {
+      "description": "Security audit: zatoshi.market sent users' raw WIF private keys to server-side Convex actions (ZRC-20 transfer/mint/batch-mint). Full code evidence + 3-way byte-identity verification.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "hieusats/zatoshi-market-key-exposure",
+      "homepage": null,
+      "pushed_at": "2026-09-19T08:24:34Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1376916689,
+    "url": "https://github.com/hieusats/zatoshi-market-key-exposure"
+  },
+  "schema": "zcash-fast-event/1"
+}
