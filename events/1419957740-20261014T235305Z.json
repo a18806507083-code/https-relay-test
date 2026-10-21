@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T23:37:09Z",
+    "description": "Cozy pixel-art farming game where the crops are mining rigs - NVDA Stock Token rewards on Robinhood Chain.",
+    "detected_at": "2026-10-14T23:53:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "Rig-valley/rig-valley",
+    "homepage": null,
+    "html_url": "https://github.com/Rig-valley/rig-valley",
+    "pushed_at": "2026-10-14T23:40:30Z",
+    "repo_id": 1419957740,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
