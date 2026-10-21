@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T15:58:29Z",
+    "detected_at": "2026-10-17T16:21:33Z",
+    "display": "Blockchain-Oracle/kakure",
+    "key": "repo:1423496914",
+    "metadata": {
+      "description": "Kakure 隠れ — a private prediction market on Zcash. Odds public, bettors private. ZECATHON, Private Markets.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Blockchain-Oracle/kakure",
+      "homepage": null,
+      "pushed_at": "2026-10-17T16:19:53Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1423496914,
+    "url": "https://github.com/Blockchain-Oracle/kakure"
+  },
+  "schema": "zcash-fast-event/1"
+}
