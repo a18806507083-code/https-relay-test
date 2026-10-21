@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T22:04:15Z",
+    "description": "Uniswap V2 periphery contracts, configured for Robinhood Chain (chainId 4663)",
+    "detected_at": "2026-09-19T22:38:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "reno2021/v2-periphery",
+    "homepage": null,
+    "html_url": "https://github.com/reno2021/v2-periphery",
+    "pushed_at": "2026-09-19T22:04:16Z",
+    "repo_id": 1377651830,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
