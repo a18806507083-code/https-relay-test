@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T20:45:47Z",
+    "description": "TokenAnalyzer Robinhood Chain asset verification and Evidence Anchor - Buildathon 2026",
+    "detected_at": "2026-09-27T21:59:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "SafeOneChain-com/tokenanalyzer-robinhood-buildathon-2026",
+    "homepage": null,
+    "html_url": "https://github.com/SafeOneChain-com/tokenanalyzer-robinhood-buildathon-2026",
+    "pushed_at": "2026-09-27T20:49:58Z",
+    "repo_id": 1391391531,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
