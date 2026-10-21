@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T10:25:37Z",
+    "detected_at": "2026-10-14T13:03:25Z",
+    "display": "adrianmatias/pub",
+    "key": "repo:1418730180",
+    "metadata": {
+      "description": "The public shelf of Adrian Matias — infographics, essays, and the archive. Served at taoaieng.io",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "adrianmatias/pub",
+      "homepage": "https://adrianmatias.github.io/pub/",
+      "pushed_at": "2026-10-14T11:40:44Z",
+      "tech_signals": [
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1418730180,
+    "url": "https://github.com/adrianmatias/pub"
+  },
+  "schema": "zcash-fast-event/1"
+}
