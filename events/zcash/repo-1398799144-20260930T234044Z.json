@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T22:32:51Z",
+    "detected_at": "2026-09-30T23:40:44Z",
+    "display": "zcash/zcash_script",
+    "key": "repo:1398799144",
+    "metadata": {
+      "description": "Rust bindings to the ECC's zcash_script C++ library.",
+      "fixed_owner": "zcash",
+      "full_name": "zcash/zcash_script",
+      "homepage": "",
+      "pushed_at": "2026-06-18T15:22:30Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1398799144,
+    "url": "https://github.com/zcash/zcash_script"
+  },
+  "schema": "zcash-fast-event/1"
+}
