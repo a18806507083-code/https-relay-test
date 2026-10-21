@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-05T23:36:52.740Z",
+    "detected_at": "2026-10-06T01:27:47Z",
+    "display": "58052 Zcash in BTCTKVR: Forks!",
+    "key": "forum:58052",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-in-btctkvr-forks",
+      "title": "Zcash in BTCTKVR: Forks!",
+      "topic_id": 58052
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58052,
+    "url": "https://forum.zcashcommunity.com/t/zcash-in-btctkvr-forks/58052"
+  },
+  "schema": "zcash-fast-event/1"
+}
