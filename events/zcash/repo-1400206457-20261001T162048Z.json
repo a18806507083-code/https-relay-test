@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T15:02:26Z",
+    "detected_at": "2026-10-01T16:20:48Z",
+    "display": "Webghost01-NG/nivyr",
+    "key": "repo:1400206457",
+    "metadata": {
+      "description": "TypeScript lifecycle testing for real shielded Zcash payments",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Webghost01-NG/nivyr",
+      "homepage": null,
+      "pushed_at": "2026-10-01T15:02:54Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1400206457,
+    "url": "https://github.com/Webghost01-NG/nivyr"
+  },
+  "schema": "zcash-fast-event/1"
+}
