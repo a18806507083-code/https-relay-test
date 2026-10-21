@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-11T05:41:30Z",
+    "detected_at": "2026-10-11T08:58:13Z",
+    "display": "ikeago/zebra-custom-testnet-lab",
+    "key": "repo:1413974198",
+    "metadata": {
+      "description": "Reproducible Zebra-only custom Testnet with crawler-backed DNS and Prometheus monitoring",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ikeago/zebra-custom-testnet-lab",
+      "homepage": "https://github.com/ZcashFoundation/zebra/issues/9159",
+      "pushed_at": "2026-10-11T05:41:37Z",
+      "tech_signals": [
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1413974198,
+    "url": "https://github.com/ikeago/zebra-custom-testnet-lab"
+  },
+  "schema": "zcash-fast-event/1"
+}
