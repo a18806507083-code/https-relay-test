@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-24T09:12:34Z",
+    "description": "A user-side on-chain entitlement center for discovering, verifying, and claiming supported rewards on Robinhood Chain.",
+    "detected_at": "2026-09-24T10:14:56Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "sahiiiiiiil/claim-vault",
+    "homepage": "https://claim-vault.vercel.app",
+    "html_url": "https://github.com/sahiiiiiiil/claim-vault",
+    "pushed_at": "2026-09-24T10:12:52Z",
+    "repo_id": 1385137472,
+    "score": 5,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
