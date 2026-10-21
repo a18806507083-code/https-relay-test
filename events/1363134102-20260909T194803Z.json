@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T19:27:00Z",
+    "description": "Solidity source, tests, deployment evidence, and security disclosures for Mnemosphere.",
+    "detected_at": "2026-09-09T19:48:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "mnemosphere-org/mnemosphere-protocol",
+    "homepage": "https://mnemosphere.org",
+    "html_url": "https://github.com/mnemosphere-org/mnemosphere-protocol",
+    "pushed_at": "2026-09-09T19:32:49Z",
+    "repo_id": 1363134102,
+    "score": 19,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
