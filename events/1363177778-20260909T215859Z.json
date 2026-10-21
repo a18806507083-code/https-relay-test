@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T20:16:02Z",
+    "description": "Pump Farm \u2014 grow green candles on Robinhood Chain",
+    "detected_at": "2026-09-09T21:58:59Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "giocrack890-creator/pump-farm",
+    "homepage": "https://pump-farm.vercel.app",
+    "html_url": "https://github.com/giocrack890-creator/pump-farm",
+    "pushed_at": "2026-09-09T21:13:35Z",
+    "repo_id": 1363177778,
+    "score": 17,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
