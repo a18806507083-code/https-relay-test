@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T10:11:02Z",
+    "detected_at": "2026-10-14T13:03:25Z",
+    "display": "Shubhbhangoo/jetcash",
+    "key": "repo:1418715291",
+    "metadata": {
+      "description": "Experimental Monero-derived C++ privacy coin with a managed node, wallet and CPU-mining CLI",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Shubhbhangoo/jetcash",
+      "homepage": null,
+      "pushed_at": "2026-10-14T10:19:45Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1418715291,
+    "url": "https://github.com/Shubhbhangoo/jetcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
