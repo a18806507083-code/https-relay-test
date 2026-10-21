@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-25T16:54:12Z",
+    "detected_at": "2026-09-25T19:15:38Z",
+    "display": "honeyvig/Badges4-README.md-Profile",
+    "key": "repo:1387906613",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "honeyvig/Badges4-README.md-Profile",
+      "homepage": null,
+      "pushed_at": "2026-09-25T16:54:23Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1387906613,
+    "url": "https://github.com/honeyvig/Badges4-README.md-Profile"
+  },
+  "schema": "zcash-fast-event/1"
+}
