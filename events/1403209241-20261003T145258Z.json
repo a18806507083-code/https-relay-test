@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T13:32:01Z",
+    "description": "https://robinhood.teserra.world/",
+    "detected_at": "2026-10-03T14:52:58Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "RohanGlitched/tessera-robinhood",
+    "homepage": "",
+    "html_url": "https://github.com/RohanGlitched/tessera-robinhood",
+    "pushed_at": "2026-10-03T14:02:25Z",
+    "repo_id": 1403209241,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
