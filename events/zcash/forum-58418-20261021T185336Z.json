@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T16:28:01.356Z",
+    "detected_at": "2026-10-21T18:53:36Z",
+    "display": "58418 Zbeam: Verifiable Data Access and Server Routing for Zcash Wallets",
+    "key": "forum:58418",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zbeam-verifiable-data-access-and-server-routing-for-zcash-wallets",
+      "title": "Zbeam: Verifiable Data Access and Server Routing for Zcash Wallets",
+      "topic_id": 58418
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58418,
+    "url": "https://forum.zcashcommunity.com/t/zbeam-verifiable-data-access-and-server-routing-for-zcash-wallets/58418"
+  },
+  "schema": "zcash-fast-event/1"
+}
