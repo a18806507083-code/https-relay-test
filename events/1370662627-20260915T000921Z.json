@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T23:33:56Z",
+    "description": "Robinhood Chain (4663) GMGN screener + auto trading bot with Uniswap API/V3/V4 swap paths",
+    "detected_at": "2026-09-15T00:09:21Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "kontia1/robinhood-bot",
+    "homepage": null,
+    "html_url": "https://github.com/kontia1/robinhood-bot",
+    "pushed_at": "2026-09-14T23:58:21Z",
+    "repo_id": 1370662627,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
