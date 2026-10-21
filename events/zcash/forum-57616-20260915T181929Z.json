@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T15:37:32.665Z",
+    "detected_at": "2026-09-15T18:19:29Z",
+    "display": "57616 The Bridge is a Trap: Why timtech’s 50-Day Freeze Proves We Must Close the Shielded Loop",
+    "key": "forum:57616",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "the-bridge-is-a-trap-why-timtech-s-50-day-freeze-proves-we-must-close-the-shielded-loop",
+      "title": "The Bridge is a Trap: Why timtech’s 50-Day Freeze Proves We Must Close the Shielded Loop",
+      "topic_id": 57616
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57616,
+    "url": "https://forum.zcashcommunity.com/t/the-bridge-is-a-trap-why-timtech-s-50-day-freeze-proves-we-must-close-the-shielded-loop/57616"
+  },
+  "schema": "zcash-fast-event/1"
+}
