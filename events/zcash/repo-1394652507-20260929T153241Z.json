@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T07:46:26Z",
+    "detected_at": "2026-09-29T15:32:41Z",
+    "display": "Jacksoxx/shieldbid",
+    "key": "repo:1394652507",
+    "metadata": {
+      "description": "Sealed-bid auctions on Zcash: the bid is a shielded transfer, so the price never hits the chain in the clear.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Jacksoxx/shieldbid",
+      "homepage": "https://jacksoxx.github.io/shieldbid/",
+      "pushed_at": "2026-09-29T08:42:54Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1394652507,
+    "url": "https://github.com/Jacksoxx/shieldbid"
+  },
+  "schema": "zcash-fast-event/1"
+}
