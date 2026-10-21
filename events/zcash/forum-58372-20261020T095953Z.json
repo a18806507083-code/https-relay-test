@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-20T09:12:15.314Z",
+    "detected_at": "2026-10-20T09:59:53Z",
+    "display": "58372 Zodl swap failed, refund not received",
+    "key": "forum:58372",
+    "metadata": {
+      "category_id": 51,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zodl-swap-failed-refund-not-received",
+      "title": "Zodl swap failed, refund not received",
+      "topic_id": 58372
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58372,
+    "url": "https://forum.zcashcommunity.com/t/zodl-swap-failed-refund-not-received/58372"
+  },
+  "schema": "zcash-fast-event/1"
+}
