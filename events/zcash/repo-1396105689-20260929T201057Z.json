@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T17:10:06Z",
+    "detected_at": "2026-09-29T20:10:57Z",
+    "display": "saplingcash/zakura-bench",
+    "key": "repo:1396105689",
+    "metadata": {
+      "description": "Benchmark: Ironwood proving on Zakura Common compared with the upstream Zcash stack, checked with the upstream verifier.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "saplingcash/zakura-bench",
+      "homepage": null,
+      "pushed_at": "2026-09-29T17:10:10Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1396105689,
+    "url": "https://github.com/saplingcash/zakura-bench"
+  },
+  "schema": "zcash-fast-event/1"
+}
