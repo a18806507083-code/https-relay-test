@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-18T21:48:41Z",
+    "description": "Use the pinned imported Foundry repository and preserve its tested CabalFundingHook, LaunchToken and separately runnable worker design. Review the code and adapt only as required for IMD's supported univ4_hook / LaunchFactory route. Produce the valid manifest, tests, audit results and deployment artifacts. Do not substitute a generic hook, omit ...",
+    "detected_at": "2026-10-18T22:59:26Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-2196-use-pinned-imported-foundry",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2196-use-pinned-imported-foundry",
+    "pushed_at": "2026-10-18T21:48:44Z",
+    "repo_id": 1424850549,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
