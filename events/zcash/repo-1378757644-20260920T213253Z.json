@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T20:39:51Z",
+    "detected_at": "2026-09-20T21:32:53Z",
+    "display": "IhorMuliar/zenvelope",
+    "key": "repo:1378757644",
+    "metadata": {
+      "description": "Send shielded ZEC as a link. First production ZIP-324. Non-custodial.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash"
+      ],
+      "full_name": "IhorMuliar/zenvelope",
+      "homepage": null,
+      "pushed_at": "2026-09-20T21:23:23Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1378757644,
+    "url": "https://github.com/IhorMuliar/zenvelope"
+  },
+  "schema": "zcash-fast-event/1"
+}
