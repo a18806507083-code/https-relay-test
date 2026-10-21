@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T12:55:18Z",
+    "detected_at": "2026-09-13T14:00:38Z",
+    "display": "borabrepo/Genus",
+    "key": "repo:1368385823",
+    "metadata": {
+      "description": "Articles identifier for various languages ",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "borabrepo/Genus",
+      "homepage": null,
+      "pushed_at": "2026-09-13T13:42:30Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1368385823,
+    "url": "https://github.com/borabrepo/Genus"
+  },
+  "schema": "zcash-fast-event/1"
+}
