@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T22:10:09Z",
+    "description": null,
+    "detected_at": "2026-09-19T22:38:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "travisiol/quill",
+    "homepage": null,
+    "html_url": "https://github.com/travisiol/quill",
+    "pushed_at": "2026-09-19T22:10:13Z",
+    "repo_id": 1377655422,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
