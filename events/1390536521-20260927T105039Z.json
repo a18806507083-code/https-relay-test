@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-27T09:13:27Z",
+    "description": "TypeScript SDK for PeddleSwap: addresses, ABIs, chain definitions and pool address helpers for Robinhood Chain and Base. Generated from the deployed contracts.",
+    "detected_at": "2026-09-27T10:50:39Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "peddleswap/core-sdk",
+    "homepage": "https://peddleswap.xyz",
+    "html_url": "https://github.com/peddleswap/core-sdk",
+    "pushed_at": "2026-09-27T09:31:00Z",
+    "repo_id": 1390536521,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
