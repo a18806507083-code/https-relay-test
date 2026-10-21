@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T20:58:54Z",
+    "description": "Launch Curb (CURB) with the Uniswap v4 hook in src/CurbHook.sol from this repository with no changes to the production source unless an audit finding requires one; launch.json in the repository root is the manifest. Token: src/CurbToken.sol, name Curb, symbol CURB, 18 decimals, fixed 1,000,000,000 supply minted once to its deployer, no construct...",
+    "detected_at": "2026-10-19T21:34:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "identity-md-launches/launch-2266-launch-curb-curb-uniswap",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2266-launch-curb-curb-uniswap",
+    "pushed_at": "2026-10-19T20:58:58Z",
+    "repo_id": 1426171192,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
