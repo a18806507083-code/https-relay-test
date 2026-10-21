@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T17:26:57.550Z",
+    "detected_at": "2026-10-14T17:56:32Z",
+    "display": "58192 Pay OpenRouter and Venice.ai with ZEC",
+    "key": "forum:58192",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "pay-openrouter-and-venice-ai-with-zec",
+      "title": "Pay OpenRouter and Venice.ai with ZEC",
+      "topic_id": 58192
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58192,
+    "url": "https://forum.zcashcommunity.com/t/pay-openrouter-and-venice-ai-with-zec/58192"
+  },
+  "schema": "zcash-fast-event/1"
+}
