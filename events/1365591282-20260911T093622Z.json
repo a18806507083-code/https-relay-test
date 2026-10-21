@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T07:47:26Z",
+    "description": "Peg Dev \u2014 building tokenized-stock liquidity, community pools, and PegPad on Robinhood Chain.",
+    "detected_at": "2026-09-11T09:36:22Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "secretcompos/secretcompos",
+    "homepage": null,
+    "html_url": "https://github.com/secretcompos/secretcompos",
+    "pushed_at": "2026-09-11T08:15:56Z",
+    "repo_id": 1365591282,
+    "score": 6,
+    "tech_signals": [
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
