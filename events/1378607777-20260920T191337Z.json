@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-20T17:34:38Z",
+    "description": "Five-agent AI crew for Robinhood Chain: evidence-based token analysis with deterministic protections and a paper-only ledger. No live orders.",
+    "detected_at": "2026-09-20T19:13:37Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "AtenovD/orbit-chain-intelligence",
+    "homepage": null,
+    "html_url": "https://github.com/AtenovD/orbit-chain-intelligence",
+    "pushed_at": "2026-09-20T17:46:33Z",
+    "repo_id": 1378607777,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
