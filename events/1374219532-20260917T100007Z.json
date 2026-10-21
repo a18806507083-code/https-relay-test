@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-17T09:39:49Z",
+    "description": null,
+    "detected_at": "2026-09-17T10:00:07Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "redeemdotvote/redeem",
+    "homepage": null,
+    "html_url": "https://github.com/redeemdotvote/redeem",
+    "pushed_at": "2026-09-17T09:51:58Z",
+    "repo_id": 1374219532,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
