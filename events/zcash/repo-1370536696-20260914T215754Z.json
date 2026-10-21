@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T20:34:43Z",
+    "detected_at": "2026-09-14T21:57:54Z",
+    "display": "rillongit/zcash",
+    "key": "repo:1370536696",
+    "metadata": {
+      "description": "Shielded ZIP-321 invoices for Rill Accept",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "rillongit/zcash",
+      "homepage": "https://userill.com",
+      "pushed_at": "2026-09-14T20:46:03Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1370536696,
+    "url": "https://github.com/rillongit/zcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
