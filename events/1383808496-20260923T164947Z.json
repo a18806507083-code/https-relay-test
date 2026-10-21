@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-23T16:22:17Z",
+    "description": "Programmable markets on Robinhood Chain",
+    "detected_at": "2026-09-23T16:49:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "AlexBrian3/rook",
+    "homepage": null,
+    "html_url": "https://github.com/AlexBrian3/rook",
+    "pushed_at": "2026-09-23T16:23:18Z",
+    "repo_id": 1383808496,
+    "score": 11,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
