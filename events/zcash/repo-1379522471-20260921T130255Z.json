@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-21T10:34:32Z",
+    "detected_at": "2026-09-21T13:02:55Z",
+    "display": "daniel170999/zecat-site",
+    "key": "repo:1379522471",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "daniel170999/zecat-site",
+      "homepage": "https://zecatzcash.vercel.app",
+      "pushed_at": "2026-09-21T10:35:16Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1379522471,
+    "url": "https://github.com/daniel170999/zecat-site"
+  },
+  "schema": "zcash-fast-event/1"
+}
