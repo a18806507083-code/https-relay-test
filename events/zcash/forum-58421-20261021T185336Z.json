@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T17:58:05.449Z",
+    "detected_at": "2026-10-21T18:53:36Z",
+    "display": "58421 Grant Application - {Zcash Durable Payment Outbox}",
+    "key": "forum:58421",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-durable-payment-outbox",
+      "title": "Grant Application - {Zcash Durable Payment Outbox}",
+      "topic_id": 58421
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58421,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-durable-payment-outbox/58421"
+  },
+  "schema": "zcash-fast-event/1"
+}
