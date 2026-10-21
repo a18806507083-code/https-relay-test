@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T02:26:41Z",
+    "detected_at": "2026-10-15T06:33:59Z",
+    "display": "ahr9992/Bitcoin-Multisig-Cold-Storage-Checklist",
+    "key": "repo:1420072351",
+    "metadata": {
+      "description": "比特币 2-of-3 多重签名冷存储操作清单（Sparrow 钱包 + 三台不同品牌硬件钱包，P2WSH、无密码短语），含恢复演练与紧急 PSBT 流程。",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ahr9992/Bitcoin-Multisig-Cold-Storage-Checklist",
+      "homepage": null,
+      "pushed_at": "2026-10-15T03:55:12Z",
+      "tech_signals": [
+        "wallet/payment",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1420072351,
+    "url": "https://github.com/ahr9992/Bitcoin-Multisig-Cold-Storage-Checklist"
+  },
+  "schema": "zcash-fast-event/1"
+}
