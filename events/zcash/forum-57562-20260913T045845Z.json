@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-13T03:24:27.820Z",
+    "detected_at": "2026-09-13T04:58:45Z",
+    "display": "57562 I built ZecPay",
+    "key": "forum:57562",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "i-built-zecpay",
+      "title": "I built ZecPay",
+      "topic_id": 57562
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57562,
+    "url": "https://forum.zcashcommunity.com/t/i-built-zecpay/57562"
+  },
+  "schema": "zcash-fast-event/1"
+}
