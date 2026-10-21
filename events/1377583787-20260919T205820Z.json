@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T20:22:43Z",
+    "description": "Open-source reference searcher for DaWabLauncher. Detects, verifies, simulates, and optionally executes cross-chain WABIT opportunities between Ethereum and Robinhood Chain.",
+    "detected_at": "2026-09-19T20:58:20Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "bizznezz89/dawab-searcher",
+    "homepage": null,
+    "html_url": "https://github.com/bizznezz89/dawab-searcher",
+    "pushed_at": "2026-09-19T20:41:41Z",
+    "repo_id": 1377583787,
+    "score": 5,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
