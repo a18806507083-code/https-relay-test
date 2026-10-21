@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T22:46:23Z",
+    "description": null,
+    "detected_at": "2026-09-15T00:09:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "sevenup2727/astrafly",
+    "homepage": null,
+    "html_url": "https://github.com/sevenup2727/astrafly",
+    "pushed_at": "2026-09-14T23:02:47Z",
+    "repo_id": 1370634254,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
