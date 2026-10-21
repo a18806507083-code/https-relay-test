@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-30T13:20:46Z",
+    "description": null,
+    "detected_at": "2026-09-30T15:17:40Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "0xtenang/MillionBlock",
+    "homepage": null,
+    "html_url": "https://github.com/0xtenang/MillionBlock",
+    "pushed_at": "2026-09-30T15:17:02Z",
+    "repo_id": 1398026278,
+    "score": 11,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
