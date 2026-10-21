@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T08:14:23Z",
+    "description": "Robinhood Stock Token arbitrage bot for Robinhood Chain.  DEX arb of onchain RHJ ERC-20s vs Uniswap, Chainlink, and REST.",
+    "detected_at": "2026-09-15T09:37:18Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "wooyang/robinhood-stock-token-arbitrage-bot",
+    "homepage": "",
+    "html_url": "https://github.com/wooyang/robinhood-stock-token-arbitrage-bot",
+    "pushed_at": "2026-09-15T08:20:42Z",
+    "repo_id": 1371121568,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Oracle",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
