@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-04T16:18:07Z",
+    "detected_at": "2026-10-04T18:39:07Z",
+    "display": "Swarmcoin/swarm-mobile",
+    "key": "repo:1404610947",
+    "metadata": {
+      "description": "SWARM Wallet for Android, and the iOS work: the mobile wallet for SWARM (SWM), a proof-of-work privacy coin with shielded payments. Fork of zingo-mobile.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "Swarmcoin/swarm-mobile",
+      "homepage": null,
+      "pushed_at": "2026-10-04T16:22:06Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1404610947,
+    "url": "https://github.com/Swarmcoin/swarm-mobile"
+  },
+  "schema": "zcash-fast-event/1"
+}
