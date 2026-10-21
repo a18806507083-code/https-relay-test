@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T20:13:11Z",
+    "description": "Claude Code skill: deploy, register and seed a Peg Pool for a tokenized stock on Robinhood Chain \u2014 two wallet signatures, no private keys",
+    "detected_at": "2026-09-14T21:57:33Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "use-peg/peg-pools",
+    "homepage": "https://usepeg.trade",
+    "html_url": "https://github.com/use-peg/peg-pools",
+    "pushed_at": "2026-09-14T20:13:15Z",
+    "repo_id": 1370512159,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
