@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T13:54:22Z",
+    "detected_at": "2026-09-29T15:32:41Z",
+    "display": "daodudestiny56-netizen/turnstile",
+    "key": "repo:1395481131",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "daodudestiny56-netizen/turnstile",
+      "homepage": null,
+      "pushed_at": "2026-09-29T14:19:25Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1395481131,
+    "url": "https://github.com/daodudestiny56-netizen/turnstile"
+  },
+  "schema": "zcash-fast-event/1"
+}
