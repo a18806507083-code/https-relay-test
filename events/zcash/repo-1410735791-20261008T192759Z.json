@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T17:38:22Z",
+    "detected_at": "2026-10-08T19:27:59Z",
+    "display": "Nonco-Organization/crypto-address-validator",
+    "key": "repo:1410735791",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Nonco-Organization/crypto-address-validator",
+      "homepage": null,
+      "pushed_at": "2026-10-08T17:56:45Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1410735791,
+    "url": "https://github.com/Nonco-Organization/crypto-address-validator"
+  },
+  "schema": "zcash-fast-event/1"
+}
