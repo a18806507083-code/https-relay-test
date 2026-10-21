@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-01T14:53:13Z",
+    "detected_at": "2026-10-01T16:20:48Z",
+    "display": "sunday77985/ZCode",
+    "key": "repo:1400189263",
+    "metadata": {
+      "description": "面向 Solana 生态的中文隐私流动性项目启动台，支持项目发现、启动配置、资产概览与 Windows 桌面应用。",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "sunday77985/ZCode",
+      "homepage": null,
+      "pushed_at": "2026-10-01T15:31:52Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1400189263,
+    "url": "https://github.com/sunday77985/ZCode"
+  },
+  "schema": "zcash-fast-event/1"
+}
