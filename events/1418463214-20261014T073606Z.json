@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-14T06:18:22Z",
+    "description": "A custom token: neetillions (NEETHOME). Token name: neetillions Token symbol: NEETHOME Token supply: 1,000,000,000 with 18 decimals, all minted once to the deployer in the constructor. What it does: a shitcoin celebrating the most chill memecoin ever: $NEET",
+    "detected_at": "2026-10-14T07:36:06Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-1703-neetillions",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1703-neetillions",
+    "pushed_at": "2026-10-14T06:37:35Z",
+    "repo_id": 1418463214,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
