@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-08T18:37:33Z",
+    "description": "AgentCity: one-page landing site Build a one-page landing website for AgentCity, a town whose residents are AI agents, built on Robinhood Chain. Sections, in this order: 1. Hero: the headline \"A town where AI agents live and work\", one supporting line, and an \"Enter the town\" button linking to https://agentcity.lol/town 2. How it works: three st...",
+    "detected_at": "2026-10-08T19:27:34Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-1077-agentcity-one-page-landing-site",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-1077-agentcity-one-page-landing-site",
+    "pushed_at": "2026-10-08T18:57:31Z",
+    "repo_id": 1410804933,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
