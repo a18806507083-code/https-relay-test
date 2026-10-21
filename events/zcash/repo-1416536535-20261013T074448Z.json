@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T05:58:38Z",
+    "detected_at": "2026-10-13T07:44:48Z",
+    "display": "EndPx/zeer",
+    "key": "repo:1416536535",
+    "metadata": {
+      "description": "Zcash indexing framework with a TypeScript developer API. Engine-first planning, reproducible benchmarks, and authorized shielded scanning.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "EndPx/zeer",
+      "homepage": null,
+      "pushed_at": "2026-10-13T06:55:06Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416536535,
+    "url": "https://github.com/EndPx/zeer"
+  },
+  "schema": "zcash-fast-event/1"
+}
