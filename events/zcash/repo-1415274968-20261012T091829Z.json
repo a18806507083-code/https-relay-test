@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T08:02:59Z",
+    "detected_at": "2026-10-12T09:18:29Z",
+    "display": "Iniwura/zcash-payment-sessions",
+    "key": "repo:1415274968",
+    "metadata": {
+      "description": "Persistent, replay-safe ZIP-321 payment sessions for browser Zcash applications",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "Iniwura/zcash-payment-sessions",
+      "homepage": null,
+      "pushed_at": "2026-10-12T09:03:10Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1415274968,
+    "url": "https://github.com/Iniwura/zcash-payment-sessions"
+  },
+  "schema": "zcash-fast-event/1"
+}
