@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-03T22:37:57Z",
+    "detected_at": "2026-10-03T23:56:56Z",
+    "display": "DUptain1993/svc",
+    "key": "repo:1403688737",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "DUptain1993/svc",
+      "homepage": null,
+      "pushed_at": "2026-10-03T22:38:02Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1403688737,
+    "url": "https://github.com/DUptain1993/svc"
+  },
+  "schema": "zcash-fast-event/1"
+}
