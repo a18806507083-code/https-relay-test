@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-09-28T23:28:14Z",
+    "description": "NLYRA on Robinhood Chain: open smart contracts for The Desk bots, OTC Desk, launchpad, Lyra Shield and Real Yield Staking v2",
+    "detected_at": "2026-09-28T23:32:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "NlyraProject/nlyra-platform",
+    "homepage": "https://nlyra.xyz",
+    "html_url": "https://github.com/NlyraProject/nlyra-platform",
+    "pushed_at": "2026-09-28T23:28:44Z",
+    "repo_id": 1393957852,
+    "score": 18,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
