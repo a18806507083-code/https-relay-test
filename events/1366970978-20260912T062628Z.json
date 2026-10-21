@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T05:16:29Z",
+    "description": "Chrome extension that turns any post on X into a one-tap trade, and pays the account that posted the call a fixed 17.6 bps of every swap it produces, settled on-chain. Robinhood Chain via LI.FI, memecoins and official tokenized stocks in the same panel. Non-custodial.",
+    "detected_at": "2026-09-12T06:26:28Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "callpaid/callpaid",
+    "homepage": null,
+    "html_url": "https://github.com/callpaid/callpaid",
+    "pushed_at": "2026-09-12T05:17:20Z",
+    "repo_id": 1366970978,
+    "score": 6,
+    "tech_signals": [
+      "RWA/stock",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
