@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-06T23:00:42Z",
+    "description": "SYNAPZ AI \u2014 Solana Breakpoint showcase: governed AI execution, Solana trading infrastructure, KYRO autonomous artist engine, NFT and token tooling. Bootstrapped. Zero funding. Building.",
+    "detected_at": "2026-10-06T23:15:35Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "muratcan-gulkanat/omega-synapz-solana-showcase",
+    "homepage": null,
+    "html_url": "https://github.com/muratcan-gulkanat/omega-synapz-solana-showcase",
+    "pushed_at": "2026-10-06T23:10:54Z",
+    "repo_id": 1408001254,
+    "score": 8,
+    "tech_signals": [
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
