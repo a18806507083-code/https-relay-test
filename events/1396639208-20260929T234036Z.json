@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T21:58:43Z",
+    "description": "Private Cash. An immersive Robinhood Chain demo. Contracts coming soon.",
+    "detected_at": "2026-09-29T23:40:36Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "privcaasshh/pricash",
+    "homepage": "https://pricash.cash",
+    "html_url": "https://github.com/privcaasshh/pricash",
+    "pushed_at": "2026-09-29T21:58:55Z",
+    "repo_id": 1396639208,
+    "score": 8,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
