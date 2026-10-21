@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-09-12T19:33:45Z",
+    "description": "MCP server for the Pons launchpad on Robinhood Chain. Hosted read-only endpoint at mcp.ponsmcp.ai; run locally for write mode.",
+    "detected_at": "2026-09-12T20:56:35Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "ponsmcp/pons-mcp",
+    "homepage": "https://ponsmcp.ai",
+    "html_url": "https://github.com/ponsmcp/pons-mcp",
+    "pushed_at": "2026-09-12T20:40:52Z",
+    "repo_id": 1367632431,
+    "score": 18,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
