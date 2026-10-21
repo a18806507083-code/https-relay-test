@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-15T12:51:27Z",
+    "detected_at": "2026-10-15T16:22:07Z",
+    "display": "OpenPGP-Wallet/frost-zec",
+    "key": "repo:1420722607",
+    "metadata": {
+      "description": "Prototype: FROST 2-of-3 for shielded ZEC (Ironwood), ZIP 2005 keys, and a co-signer that verifies the PCZT",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "OpenPGP-Wallet/frost-zec",
+      "homepage": null,
+      "pushed_at": "2026-10-15T13:08:46Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1420722607,
+    "url": "https://github.com/OpenPGP-Wallet/frost-zec"
+  },
+  "schema": "zcash-fast-event/1"
+}
