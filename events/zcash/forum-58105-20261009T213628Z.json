@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T19:18:08.624Z",
+    "detected_at": "2026-10-09T21:36:28Z",
+    "display": "58105 Help please - ZODL + Near Intents - missing money",
+    "key": "forum:58105",
+    "metadata": {
+      "category_id": 12,
+      "posters": [
+        "Original Poster",
+        "Frequent Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "help-please-zodl-near-intents-missing-money",
+      "title": "Help please - ZODL + Near Intents - missing money",
+      "topic_id": 58105
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58105,
+    "url": "https://forum.zcashcommunity.com/t/help-please-zodl-near-intents-missing-money/58105"
+  },
+  "schema": "zcash-fast-event/1"
+}
