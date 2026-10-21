@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-02T12:23:24Z",
+    "description": "Specification, JSON Schema and stateless validator for AgentResearchReceipt v1: what an agent cited and concluded about a Robinhood Chain project. A valid receipt is not a recommendation.",
+    "detected_at": "2026-10-02T12:26:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "hey-research-lab/hey-research-receipts",
+    "homepage": "https://heyresearch.xyz/developers/agents",
+    "html_url": "https://github.com/hey-research-lab/hey-research-receipts",
+    "pushed_at": "2026-10-02T12:23:34Z",
+    "repo_id": 1401669214,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
