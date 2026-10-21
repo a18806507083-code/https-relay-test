@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T23:38:46.703Z",
+    "detected_at": "2026-09-15T00:09:44Z",
+    "display": "57597 Grant Application - 1CAD Protocol: ZK-TLS Proof-of-Solvency Infrastructure",
+    "key": "forum:57597",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-1cad-protocol-zk-tls-proof-of-solvency-infrastructure",
+      "title": "Grant Application - 1CAD Protocol: ZK-TLS Proof-of-Solvency Infrastructure",
+      "topic_id": 57597
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57597,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-1cad-protocol-zk-tls-proof-of-solvency-infrastructure/57597"
+  },
+  "schema": "zcash-fast-event/1"
+}
