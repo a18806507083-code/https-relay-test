@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-29T18:51:12.480Z",
+    "detected_at": "2026-09-29T20:10:57Z",
+    "display": "57892 Grant Application - 0xramp: ZEC payments and wallet integrations (revision of #408)",
+    "key": "forum:57892",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-0xramp-zec-payments-and-wallet-integrations-revision-of-408",
+      "title": "Grant Application - 0xramp: ZEC payments and wallet integrations (revision of #408)",
+      "topic_id": 57892
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 57892,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-0xramp-zec-payments-and-wallet-integrations-revision-of-408/57892"
+  },
+  "schema": "zcash-fast-event/1"
+}
