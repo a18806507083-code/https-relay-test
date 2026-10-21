@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T15:43:59Z",
+    "description": "Token name: Work Token symbol: WORK Robinhood Chain 4663. Builders address B = 0xc9EAFE33A510a3a3d95A94c4f85AdaF6a3EA12a0 (EOA). Owner = requester wallet. Contracts: WorkHook (Uniswap v4 hook on the WORK/IMD pool) and WorkersNFT. IMD on this chain = 0x5f7bb59365ce557c26dbcaa4ee9d39a4b95b7127. All owner changes are bounded and emit events; every ...",
+    "detected_at": "2026-10-07T15:50:02Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-920-src-workersnft-sol-src-workhook-sol",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-920-src-workersnft-sol-src-workhook-sol",
+    "pushed_at": "2026-10-07T15:44:02Z",
+    "repo_id": 1409022744,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
