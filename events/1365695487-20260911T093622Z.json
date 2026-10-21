@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-09-11T08:51:26Z",
+    "description": "The C. elegans connectome (302 neurons, complete since 1986) run as leaky integrate-and-fire units, smelling a launch page and biting the button. Source of 302neurons.xyz",
+    "detected_at": "2026-09-11T09:36:22Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "302neurons/neuroworm",
+    "homepage": "https://302neurons.xyz",
+    "html_url": "https://github.com/302neurons/neuroworm",
+    "pushed_at": "2026-09-11T09:33:28Z",
+    "repo_id": 1365695487,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
