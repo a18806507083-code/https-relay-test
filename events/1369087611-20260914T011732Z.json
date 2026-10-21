@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-14T00:55:54Z",
+    "description": "Liquidity intelligence for Robinhood Chain's tokenized-stock economy",
+    "detected_at": "2026-09-14T01:17:32Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "okhaimie-dev/emissary",
+    "homepage": null,
+    "html_url": "https://github.com/okhaimie-dev/emissary",
+    "pushed_at": "2026-09-14T01:09:56Z",
+    "repo_id": 1369087611,
+    "score": 10,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
