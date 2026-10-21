@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T04:12:31Z",
+    "description": null,
+    "detected_at": "2026-10-17T05:35:58Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "assay-ai/assay-frontend",
+    "homepage": null,
+    "html_url": "https://github.com/assay-ai/assay-frontend",
+    "pushed_at": "2026-10-17T05:13:05Z",
+    "repo_id": 1422932760,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
