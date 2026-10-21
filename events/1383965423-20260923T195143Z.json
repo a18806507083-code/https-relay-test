@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-09-23T17:56:34Z",
+    "description": "The market for compute: CMPT, a published H100 GPU-hour price, and fully collateralized options on it on Robinhood Chain.",
+    "detected_at": "2026-09-23T19:51:43Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Trionmarket/trion",
+    "homepage": "https://trion.market",
+    "html_url": "https://github.com/Trionmarket/trion",
+    "pushed_at": "2026-09-23T17:56:39Z",
+    "repo_id": 1383965423,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
