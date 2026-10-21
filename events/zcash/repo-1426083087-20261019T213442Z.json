@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-19T19:31:37Z",
+    "detected_at": "2026-10-19T21:34:42Z",
+    "display": "zecky-app/zecky-lock-it",
+    "key": "repo:1426083087",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "zecky-app/zecky-lock-it",
+      "homepage": null,
+      "pushed_at": "2026-10-19T19:45:59Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1426083087,
+    "url": "https://github.com/zecky-app/zecky-lock-it"
+  },
+  "schema": "zcash-fast-event/1"
+}
