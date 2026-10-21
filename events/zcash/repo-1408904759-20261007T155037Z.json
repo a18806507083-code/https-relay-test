@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-07T14:14:30Z",
+    "detected_at": "2026-10-07T15:50:37Z",
+    "display": "Steeve-Crypto/zshield-mcp",
+    "key": "repo:1408904759",
+    "metadata": {
+      "description": "MCP server: shielded ZEC pay tool with spending cap, allow-list, and viewing-key audit (mock chain first)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Steeve-Crypto/zshield-mcp",
+      "homepage": null,
+      "pushed_at": "2026-10-07T14:14:37Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1408904759,
+    "url": "https://github.com/Steeve-Crypto/zshield-mcp"
+  },
+  "schema": "zcash-fast-event/1"
+}
