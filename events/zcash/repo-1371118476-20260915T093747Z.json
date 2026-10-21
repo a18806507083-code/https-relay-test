@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-09-15T08:11:37Z",
+    "detected_at": "2026-09-15T09:37:47Z",
+    "display": "Ay-obami/ZecPulse",
+    "key": "repo:1371118476",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "Ay-obami/ZecPulse",
+      "homepage": null,
+      "pushed_at": "2026-09-15T09:21:47Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1371118476,
+    "url": "https://github.com/Ay-obami/ZecPulse"
+  },
+  "schema": "zcash-fast-event/1"
+}
