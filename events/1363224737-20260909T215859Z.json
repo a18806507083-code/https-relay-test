@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-09T21:17:07Z",
+    "description": "Open tooling for Predly: recompute every market price, read Robinhood Chain yourself, run the board offline.",
+    "detected_at": "2026-09-09T21:58:59Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Denis101Ka/predly-tools",
+    "homepage": "https://predly.tech",
+    "html_url": "https://github.com/Denis101Ka/predly-tools",
+    "pushed_at": "2026-09-09T21:50:52Z",
+    "repo_id": 1363224737,
+    "score": 8,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
