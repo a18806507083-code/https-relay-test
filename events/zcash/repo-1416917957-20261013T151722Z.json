@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-13T11:33:30Z",
+    "detected_at": "2026-10-13T15:17:22Z",
+    "display": "Live-BTC-News/Live-BTC-News.github.io",
+    "key": "repo:1416917957",
+    "metadata": {
+      "description": "Live BTC News Custom Tools for Zcash Price and BTC Charts",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Live-BTC-News/Live-BTC-News.github.io",
+      "homepage": null,
+      "pushed_at": "2026-10-13T11:48:36Z",
+      "tech_signals": [
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1416917957,
+    "url": "https://github.com/Live-BTC-News/Live-BTC-News.github.io"
+  },
+  "schema": "zcash-fast-event/1"
+}
