@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T08:10:56Z",
+    "description": null,
+    "detected_at": "2026-10-22T10:07:18Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "thinkragents/thinkr",
+    "homepage": null,
+    "html_url": "https://github.com/thinkragents/thinkr",
+    "pushed_at": "2026-10-22T09:53:07Z",
+    "repo_id": 1429439471,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
