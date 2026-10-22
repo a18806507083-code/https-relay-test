@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T17:23:33.401Z",
+    "detected_at": "2026-10-22T19:12:10Z",
+    "display": "58446 Grant Application - {Zcash NU7 Compatibility for Wallet Core}",
+    "key": "forum:58446",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-nu7-compatibility-for-wallet-core",
+      "title": "Grant Application - {Zcash NU7 Compatibility for Wallet Core}",
+      "topic_id": 58446
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58446,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-nu7-compatibility-for-wallet-core/58446"
+  },
+  "schema": "zcash-fast-event/1"
+}
