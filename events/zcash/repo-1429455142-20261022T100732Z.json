@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T08:25:56Z",
+    "detected_at": "2026-10-22T10:07:32Z",
+    "display": "AdamescuArmand/ZKP_ZCash_Project",
+    "key": "repo:1429455142",
+    "metadata": {
+      "description": "Repository containing the source code for the project on ZCash for the class Zero Knowledge Proofs: Cryptographic Polynomial Commitments and Interactive Proofs",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "AdamescuArmand/ZKP_ZCash_Project",
+      "homepage": null,
+      "pushed_at": "2026-10-22T08:25:58Z",
+      "tech_signals": [
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1429455142,
+    "url": "https://github.com/AdamescuArmand/ZKP_ZCash_Project"
+  },
+  "schema": "zcash-fast-event/1"
+}
