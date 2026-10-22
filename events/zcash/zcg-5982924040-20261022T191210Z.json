@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T16:02:24Z",
+    "detected_at": "2026-10-22T19:12:10Z",
+    "display": "#510 Grant Application - Zcash Localization Hub RU/UA",
+    "key": "zcg:5982924040",
+    "metadata": {
+      "author": "NoYouDeal",
+      "issue_number": 510,
+      "labels": [],
+      "title": "Grant Application - Zcash Localization Hub RU/UA"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 5982924040,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/510"
+  },
+  "schema": "zcash-fast-event/1"
+}
