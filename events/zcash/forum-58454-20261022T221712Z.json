@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T22:00:37.661Z",
+    "detected_at": "2026-10-22T22:17:12Z",
+    "display": "58454 ZecLink — Making Zcash Payments Simple and Accessible | $40,000 ZCG Grant Proposal",
+    "key": "forum:58454",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zeclink-making-zcash-payments-simple-and-accessible-40-000-zcg-grant-proposal",
+      "title": "ZecLink — Making Zcash Payments Simple and Accessible | $40,000 ZCG Grant Proposal",
+      "topic_id": 58454
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58454,
+    "url": "https://forum.zcashcommunity.com/t/zeclink-making-zcash-payments-simple-and-accessible-40-000-zcg-grant-proposal/58454"
+  },
+  "schema": "zcash-fast-event/1"
+}
