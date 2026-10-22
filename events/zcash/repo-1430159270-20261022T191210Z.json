@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T19:01:00Z",
+    "detected_at": "2026-10-22T19:12:10Z",
+    "display": "janneh2000/README",
+    "key": "repo:1430159270",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "janneh2000/README",
+      "homepage": null,
+      "pushed_at": "2026-10-22T19:03:25Z",
+      "tech_signals": [
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1430159270,
+    "url": "https://github.com/janneh2000/README"
+  },
+  "schema": "zcash-fast-event/1"
+}
