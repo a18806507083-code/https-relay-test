@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-21T23:36:24Z",
+    "description": "All-in-one trading workstation for Monad: memecoin terminal, anti-rug sniper, copy trading, NFT mints, perps farm. Self-custody, 0% fee.",
+    "detected_at": "2026-10-22T00:29:43Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "exsay07/chog-toolhub-hackathon",
+    "homepage": "https://chogtoolhub.space",
+    "html_url": "https://github.com/exsay07/chog-toolhub-hackathon",
+    "pushed_at": "2026-10-21T23:36:30Z",
+    "repo_id": 1429037961,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
