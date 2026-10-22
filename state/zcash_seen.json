@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-22T00:29:57Z",
+  "last_run_at": "2026-10-22T05:11:57Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-21T21:31:33Z",
+      "cutoff": "2026-10-21T23:59:57Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-21T21:31:33Z",
+      "cutoff": "2026-10-21T23:59:57Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-21T21:31:33Z",
-      "matches": 0,
+      "cutoff": "2026-10-21T23:59:57Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-21T21:31:33Z",
+      "cutoff": "2026-10-21T23:59:57Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -6487,6 +6487,22 @@
       "first_seen_at": "2026-10-21T22:01:33Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1429227341": {
+      "created_at": "2026-10-22T04:12:05Z",
+      "display": "lincoln-protocol/sdk",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2419",
+      "first_seen_at": "2026-10-22T05:11:57Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1429234518": {
+      "created_at": "2026-10-22T04:21:36Z",
+      "display": "DavidYashar/PCZT-Guard",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2418",
+      "first_seen_at": "2026-10-22T05:11:57Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -7187,9 +7203,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-22T00:29:57Z",
-    "forum": "2026-10-22T00:29:57Z",
-    "github": "2026-10-22T00:29:57Z",
-    "zcg": "2026-10-22T00:29:57Z"
+    "fixed_orgs": "2026-10-22T05:11:57Z",
+    "forum": "2026-10-22T05:11:57Z",
+    "github": "2026-10-22T05:11:57Z",
+    "zcg": "2026-10-22T05:11:57Z"
   }
 }
