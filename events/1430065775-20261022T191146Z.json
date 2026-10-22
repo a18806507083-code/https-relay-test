@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T17:30:48Z",
+    "description": "Orkid Swap MCP client \u2014 MEV-protected multichain swap routing over Streamable HTTP (npm: orkid-swap-mcp)",
+    "detected_at": "2026-10-22T19:11:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "jjcav84/orkid-swap-mcp",
+    "homepage": "https://orkidlabs.xyz",
+    "html_url": "https://github.com/jjcav84/orkid-swap-mcp",
+    "pushed_at": "2026-10-22T17:31:45Z",
+    "repo_id": 1430065775,
+    "score": 6,
+    "tech_signals": [
+      "Agent/MCP",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
