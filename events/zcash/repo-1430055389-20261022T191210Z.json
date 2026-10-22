@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T17:21:07Z",
+    "detected_at": "2026-10-22T19:12:10Z",
+    "display": "johnservil/sigil",
+    "key": "repo:1430055389",
+    "metadata": {
+      "description": "Sigil: bytes as one word of glyphs from five scripts. 26 characters for a 256-bit hash, selected whole by a double-click, no two characters alike, readable by machines, recognized at a glance.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "johnservil/sigil",
+      "homepage": "https://johnservil.github.io/sigil/",
+      "pushed_at": "2026-10-22T19:10:13Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1430055389,
+    "url": "https://github.com/johnservil/sigil"
+  },
+  "schema": "zcash-fast-event/1"
+}
