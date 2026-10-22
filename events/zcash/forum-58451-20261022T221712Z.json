@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T21:07:13.191Z",
+    "detected_at": "2026-10-22T22:17:12Z",
+    "display": "58451 Grant Application - Zcash Localization Hub: RU & UA wiki localization + weekly bilingual digest",
+    "key": "forum:58451",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-localization-hub-ru-ua-wiki-localization-weekly-bilingual-digest",
+      "title": "Grant Application - Zcash Localization Hub: RU & UA wiki localization + weekly bilingual digest",
+      "topic_id": 58451
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58451,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-localization-hub-ru-ua-wiki-localization-weekly-bilingual-digest/58451"
+  },
+  "schema": "zcash-fast-event/1"
+}
