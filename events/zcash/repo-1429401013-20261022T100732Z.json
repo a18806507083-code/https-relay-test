@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T07:34:08Z",
+    "detected_at": "2026-10-22T10:07:32Z",
+    "display": "zpredict/zpredict",
+    "key": "repo:1429401013",
+    "metadata": {
+      "description": "Shielded prediction market on Zcash. Price public, participants private.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "zpredict/zpredict",
+      "homepage": "https://zpredict.site",
+      "pushed_at": "2026-10-22T10:07:08Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1429401013,
+    "url": "https://github.com/zpredict/zpredict"
+  },
+  "schema": "zcash-fast-event/1"
+}
