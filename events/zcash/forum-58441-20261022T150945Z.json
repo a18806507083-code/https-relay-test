@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T14:36:27.345Z",
+    "detected_at": "2026-10-22T15:09:45Z",
+    "display": "58441 Zcash Android and Swift SDKs: End of Support and Next Steps",
+    "key": "forum:58441",
+    "metadata": {
+      "category_id": 31,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-android-and-swift-sdks-end-of-support-and-next-steps",
+      "title": "Zcash Android and Swift SDKs: End of Support and Next Steps",
+      "topic_id": 58441
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58441,
+    "url": "https://forum.zcashcommunity.com/t/zcash-android-and-swift-sdks-end-of-support-and-next-steps/58441"
+  },
+  "schema": "zcash-fast-event/1"
+}
