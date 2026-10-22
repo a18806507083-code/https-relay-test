@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T18:07:06Z",
+    "detected_at": "2026-10-22T19:12:10Z",
+    "display": "SKAHLO1/zecssl",
+    "key": "repo:1430104337",
+    "metadata": {
+      "description": "Web app and API for ZEC SSL, a bonded, threshold-signed operator network that settles cross-chain swaps directly into and out of Zcash's shielded pool.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "SKAHLO1/zecssl",
+      "homepage": null,
+      "pushed_at": "2026-10-22T18:07:08Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1430104337,
+    "url": "https://github.com/SKAHLO1/zecssl"
+  },
+  "schema": "zcash-fast-event/1"
+}
