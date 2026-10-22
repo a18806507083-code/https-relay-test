@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T17:51:36Z",
+    "description": "Profile README",
+    "detected_at": "2026-10-22T19:11:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "OoJae/OoJae",
+    "homepage": null,
+    "html_url": "https://github.com/OoJae/OoJae",
+    "pushed_at": "2026-10-22T17:51:42Z",
+    "repo_id": 1430088063,
+    "score": 6,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
