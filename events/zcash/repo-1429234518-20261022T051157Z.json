@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T04:21:36Z",
+    "detected_at": "2026-10-22T05:11:57Z",
+    "display": "DavidYashar/PCZT-Guard",
+    "key": "repo:1429234518",
+    "metadata": {
+      "description": "Offline, key-free verifier for Zcash PCZTs: checks the address shown to the user against the address the value is committed to, before a signature makes it irreversible.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash"
+      ],
+      "full_name": "DavidYashar/PCZT-Guard",
+      "homepage": null,
+      "pushed_at": "2026-10-22T05:09:05Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1429234518,
+    "url": "https://github.com/DavidYashar/PCZT-Guard"
+  },
+  "schema": "zcash-fast-event/1"
+}
