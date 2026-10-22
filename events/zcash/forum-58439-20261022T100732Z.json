@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T09:18:41.976Z",
+    "detected_at": "2026-10-22T10:07:32Z",
+    "display": "58439 Hello from Indonesia: Announcing the Zcash Indonesia Community",
+    "key": "forum:58439",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "hello-from-indonesia-announcing-the-zcash-indonesia-community",
+      "title": "Hello from Indonesia: Announcing the Zcash Indonesia Community",
+      "topic_id": 58439
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58439,
+    "url": "https://forum.zcashcommunity.com/t/hello-from-indonesia-announcing-the-zcash-indonesia-community/58439"
+  },
+  "schema": "zcash-fast-event/1"
+}
