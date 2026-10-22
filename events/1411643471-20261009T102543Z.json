@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T10:07:16Z",
+    "description": "ORDESK official site: https://ordesk.pansgo.com",
+    "detected_at": "2026-10-09T10:25:43Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "xiaoyang111222/orbio-research-desk",
+    "homepage": "https://ordesk.pansgo.com",
+    "html_url": "https://github.com/xiaoyang111222/orbio-research-desk",
+    "pushed_at": "2026-10-09T10:12:48Z",
+    "repo_id": 1411643471,
+    "score": 7,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
