@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T04:35:54Z",
+    "description": "What to build: two immutable contracts for The Hooks Store on Robinhood Chain (a second launch with chainId 1 deploys the same contracts on Ethereum), HookListingRegistry (a free on-chain listing registry) and FeaturedPlacementsV2 (a paid, refundable 24-hour featured-placement escrow in IMD). Upgrades: none. No proxy, no upgrade path, no DELEGAT...",
+    "detected_at": "2026-10-22T05:11:42Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-2454-what-build-two-immutable",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2454-what-build-two-immutable",
+    "pushed_at": "2026-10-22T05:00:11Z",
+    "repo_id": 1429245119,
+    "score": 10,
+    "tech_signals": [
+      "Hook",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
