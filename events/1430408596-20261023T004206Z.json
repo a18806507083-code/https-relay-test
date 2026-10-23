@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T00:22:56Z",
+    "description": "Token name: The Vault. Token symbol: VAULT. Build the COMPLETE immutable multi-asset competition below on Robinhood Chain. Use Playground's selected standard coin, ETH pairing and launch allocation; do not customize token supply, transfers or allocation. No protocol admin, upgrade, proxy, delegatecall, rescue, arbitrary router, borrowing, price ...",
+    "detected_at": "2026-10-23T00:42:06Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-2492-the-vault-token-symbol-vault",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2492-the-vault-token-symbol-vault",
+    "pushed_at": "2026-10-23T00:22:59Z",
+    "repo_id": 1430408596,
+    "score": 7,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
