@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T04:56:18Z",
+    "description": "Stockpile: Pons v2 memecoins on Robinhood Chain whose creator fees pay holders in tokenized stocks",
+    "detected_at": "2026-10-23T05:22:06Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "realdoomsman/stockpile",
+    "homepage": null,
+    "html_url": "https://github.com/realdoomsman/stockpile",
+    "pushed_at": "2026-10-23T04:56:25Z",
+    "repo_id": 1430592571,
+    "score": 12,
+    "tech_signals": [
+      "RWA/stock",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
