@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T18:18:52Z",
+    "description": null,
+    "detected_at": "2026-10-23T19:03:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "meya232026/PumPrint",
+    "homepage": null,
+    "html_url": "https://github.com/meya232026/PumPrint",
+    "pushed_at": "2026-10-23T18:34:26Z",
+    "repo_id": 1431400788,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
