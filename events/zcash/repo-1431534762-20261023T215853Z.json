@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T20:47:35Z",
+    "detected_at": "2026-10-23T21:58:53Z",
+    "display": "dismad/cumulusState",
+    "key": "repo:1431534762",
+    "metadata": {
+      "description": "cumulusState is a read-only scanner for a Zebra v7 state database",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "dismad/cumulusState",
+      "homepage": null,
+      "pushed_at": "2026-10-23T21:46:06Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431534762,
+    "url": "https://github.com/dismad/cumulusState"
+  },
+  "schema": "zcash-fast-event/1"
+}
