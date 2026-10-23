@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T20:13:31Z",
+    "description": "MCP server for Actuary: gate, receipts, mandates, x402 pay-per-call. Robinhood Chain.",
+    "detected_at": "2026-10-23T21:58:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "actuaryai/mcp",
+    "homepage": "https://actuaryai.pro",
+    "html_url": "https://github.com/actuaryai/mcp",
+    "pushed_at": "2026-10-23T21:49:49Z",
+    "repo_id": 1431505057,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
