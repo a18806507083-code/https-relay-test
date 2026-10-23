@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T11:24:57Z",
+    "detected_at": "2026-10-23T15:03:06Z",
+    "display": "onemanbillion/blindfold",
+    "key": "repo:1430954274",
+    "metadata": {
+      "description": "Sealed-bid auctions on Zcash where nobody sees the bids, not even the auction house. MPC over secret-shared bids, shielded deposits, public settlement.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "onemanbillion/blindfold",
+      "homepage": null,
+      "pushed_at": "2026-10-23T12:24:59Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1430954274,
+    "url": "https://github.com/onemanbillion/blindfold"
+  },
+  "schema": "zcash-fast-event/1"
+}
