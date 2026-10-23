@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-09T02:42:53Z",
+    "description": "Official public source, ABIs and Robinhood Chain deployment addresses for Hens, HEGG and the daily GLD protocol.",
+    "detected_at": "2026-10-09T03:08:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Hens-Farm/hens-protocol",
+    "homepage": null,
+    "html_url": "https://github.com/Hens-Farm/hens-protocol",
+    "pushed_at": "2026-10-09T03:07:18Z",
+    "repo_id": 1411193499,
+    "score": 12,
+    "tech_signals": [
+      "Hook",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
