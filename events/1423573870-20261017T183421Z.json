@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-17T17:26:05Z",
+    "description": "Telegram bot that indexes Robinhood Chain launchpad tokens (Pons, Lemon, LaunchFactory) and sends volume, surge, and whale alerts with on-chain verified data.",
+    "detected_at": "2026-10-17T18:34:21Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "sherwood-labs/robinhood-volume-tracker",
+    "homepage": null,
+    "html_url": "https://github.com/sherwood-labs/robinhood-volume-tracker",
+    "pushed_at": "2026-10-17T17:26:12Z",
+    "repo_id": 1423573870,
+    "score": 10,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
