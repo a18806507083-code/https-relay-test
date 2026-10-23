@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T17:22:45Z",
+    "description": "Back a Robinhood Chain builder with $WIF; it pays out only when Hey Research Lab counts real ships, each with its source.",
+    "detected_at": "2026-10-23T19:03:21Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "hey-research-lab/proof-of-ship",
+    "homepage": "https://hey-research-lab.github.io/proof-of-ship/",
+    "html_url": "https://github.com/hey-research-lab/proof-of-ship",
+    "pushed_at": "2026-10-23T18:46:37Z",
+    "repo_id": 1431344614,
+    "score": 11,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
