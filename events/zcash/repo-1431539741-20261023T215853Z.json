@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T20:53:30Z",
+    "detected_at": "2026-10-23T21:58:53Z",
+    "display": "kazzysax/kazzysax",
+    "key": "repo:1431539741",
+    "metadata": {
+      "description": "Profile README",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "kazzysax/kazzysax",
+      "homepage": null,
+      "pushed_at": "2026-10-23T21:20:43Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431539741,
+    "url": "https://github.com/kazzysax/kazzysax"
+  },
+  "schema": "zcash-fast-event/1"
+}
