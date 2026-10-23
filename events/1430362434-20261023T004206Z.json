@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-22T23:08:50Z",
+    "description": "A custom token: Sooth Protocol (SOOTH). Token name: Sooth Protocol Token symbol: SOOTH Token supply: 1,000,000,000 with 18 decimals, all minted once to the deployer in the constructor.",
+    "detected_at": "2026-10-23T00:42:06Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-2490-sooth-protocol",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-2490-sooth-protocol",
+    "pushed_at": "2026-10-22T23:22:05Z",
+    "repo_id": 1430362434,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
