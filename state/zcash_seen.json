@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-23T15:03:06Z",
+  "last_run_at": "2026-10-23T19:03:40Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-23T09:43:38Z",
+      "cutoff": "2026-10-23T14:33:06Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-23T09:43:38Z",
-      "matches": 1,
+      "cutoff": "2026-10-23T14:33:06Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-23T09:43:38Z",
+      "cutoff": "2026-10-23T14:33:06Z",
       "matches": 5,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-23T09:43:38Z",
-      "matches": 2,
+      "cutoff": "2026-10-23T14:33:06Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -6703,6 +6703,14 @@
       "first_seen_at": "2026-10-23T15:03:06Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1431426256": {
+      "created_at": "2026-10-23T18:45:14Z",
+      "display": "tachyon-zcash/ragu-audit",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2469",
+      "first_seen_at": "2026-10-23T19:03:40Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -7438,14 +7446,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2464",
       "first_seen_at": "2026-10-23T15:03:06Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6003412250": {
+      "created_at": "2026-10-23T18:33:14Z",
+      "display": "#515 Grant Application - Post-quantum readiness inventory for the Zcash stack",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2470",
+      "first_seen_at": "2026-10-23T19:03:40Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-23T15:03:06Z",
-    "forum": "2026-10-23T15:03:06Z",
-    "github": "2026-10-23T15:03:06Z",
-    "zcg": "2026-10-23T15:03:06Z"
+    "fixed_orgs": "2026-10-23T19:03:40Z",
+    "forum": "2026-10-23T19:03:40Z",
+    "github": "2026-10-23T19:03:40Z",
+    "zcg": "2026-10-23T19:03:40Z"
   }
 }
