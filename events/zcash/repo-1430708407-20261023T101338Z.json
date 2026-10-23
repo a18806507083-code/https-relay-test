@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T07:15:17Z",
+    "detected_at": "2026-10-23T10:13:38Z",
+    "display": "newsmoneymaker/vrsc-nodejs-pool",
+    "key": "repo:1430708407",
+    "metadata": {
+      "description": "VerusCoin (VRSC) mining pool - pool-pay.com",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "newsmoneymaker/vrsc-nodejs-pool",
+      "homepage": null,
+      "pushed_at": "2026-10-23T07:15:34Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1430708407,
+    "url": "https://github.com/newsmoneymaker/vrsc-nodejs-pool"
+  },
+  "schema": "zcash-fast-event/1"
+}
