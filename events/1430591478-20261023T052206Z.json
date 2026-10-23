@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T04:54:49Z",
+    "description": "Lev: launch Pons V2 coins whose fees fund an on-chain leveraged pToken treasury that buys back and burns",
+    "detected_at": "2026-10-23T05:22:06Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "realdoomsman/lev",
+    "homepage": null,
+    "html_url": "https://github.com/realdoomsman/lev",
+    "pushed_at": "2026-10-23T04:54:59Z",
+    "repo_id": 1430591478,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
