@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T14:35:19Z",
+    "detected_at": "2026-10-23T15:03:06Z",
+    "display": "sopskistar/velipay",
+    "key": "repo:1431160138",
+    "metadata": {
+      "description": "Velipay is a privacy-first Zcash payment platform for freelancers and businesses, offering shielded payments, private invoicing, secure payment links, and QR codes.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "sopskistar/velipay",
+      "homepage": null,
+      "pushed_at": "2026-10-23T14:35:21Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431160138,
+    "url": "https://github.com/sopskistar/velipay"
+  },
+  "schema": "zcash-fast-event/1"
+}
