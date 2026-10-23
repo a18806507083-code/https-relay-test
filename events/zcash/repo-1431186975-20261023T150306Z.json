@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T14:58:22Z",
+    "detected_at": "2026-10-23T15:03:06Z",
+    "display": "gacanga/KrgnMiner",
+    "key": "repo:1431186975",
+    "metadata": {
+      "description": "No-fee NVIDIA GPU miner for Kerrigan (KRGN), Equihash 192,7, CUDA solver written for Pascal / P104-100",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "gacanga/KrgnMiner",
+      "homepage": null,
+      "pushed_at": "2026-10-23T14:58:34Z",
+      "tech_signals": [
+        "wallet/payment",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431186975,
+    "url": "https://github.com/gacanga/KrgnMiner"
+  },
+  "schema": "zcash-fast-event/1"
+}
