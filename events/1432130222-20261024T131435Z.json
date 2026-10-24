@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T11:51:52Z",
+    "description": null,
+    "detected_at": "2026-10-24T13:14:35Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "biloet/bani-racing-ssr",
+    "homepage": "https://bani-racing-ssr.vercel.app",
+    "html_url": "https://github.com/biloet/bani-racing-ssr",
+    "pushed_at": "2026-10-24T12:24:00Z",
+    "repo_id": 1432130222,
+    "score": 20,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
