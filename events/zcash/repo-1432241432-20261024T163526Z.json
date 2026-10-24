@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T14:02:11Z",
+    "detected_at": "2026-10-24T16:35:26Z",
+    "display": "aol-code/passivbot",
+    "key": "repo:1432241432",
+    "metadata": {
+      "description": "Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin, WEEX and Hyperliquid",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "aol-code/passivbot",
+      "homepage": "https://www.passivbot.com",
+      "pushed_at": "2026-10-24T14:09:41Z",
+      "tech_signals": [
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1432241432,
+    "url": "https://github.com/aol-code/passivbot"
+  },
+  "schema": "zcash-fast-event/1"
+}
