@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T04:53:05Z",
+    "detected_at": "2026-10-24T09:04:32Z",
+    "display": "sybenx/cosign",
+    "key": "repo:1431826036",
+    "metadata": {
+      "description": "Cosign prototype: Nostr key split with FROST between a server and your devices",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "sybenx/cosign",
+      "homepage": null,
+      "pushed_at": "2026-10-24T07:05:54Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431826036,
+    "url": "https://github.com/sybenx/cosign"
+  },
+  "schema": "zcash-fast-event/1"
+}
