@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T04:15:40Z",
+    "description": "Diapago \u2014 supplier-payment advance for merchants who owe in dollars. Personal copy of 0xquantum3labs/diapago-pos.",
+    "detected_at": "2026-10-24T04:36:30Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "cidkagenow/diapago",
+    "homepage": null,
+    "html_url": "https://github.com/cidkagenow/diapago",
+    "pushed_at": "2026-10-24T04:21:50Z",
+    "repo_id": 1431803657,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
