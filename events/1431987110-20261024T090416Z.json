@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T08:44:57Z",
+    "description": "Buyback pool discovery and transaction preparation for Binance Agentic Wallet on BNB Smart Chain",
+    "detected_at": "2026-10-24T09:04:16Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "joshua2ai/buyback-agentic-wallet",
+    "homepage": null,
+    "html_url": "https://github.com/joshua2ai/buyback-agentic-wallet",
+    "pushed_at": "2026-10-24T09:02:41Z",
+    "repo_id": 1431987110,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
