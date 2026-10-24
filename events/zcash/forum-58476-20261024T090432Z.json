@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T06:33:13.879Z",
+    "detected_at": "2026-10-24T09:04:32Z",
+    "display": "58476 Zcash México x Zechub (october - november)",
+    "key": "forum:58476",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-mexico-x-zechub-october-november",
+      "title": "Zcash México x Zechub (october - november)",
+      "topic_id": 58476
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58476,
+    "url": "https://forum.zcashcommunity.com/t/zcash-mexico-x-zechub-october-november/58476"
+  },
+  "schema": "zcash-fast-event/1"
+}
