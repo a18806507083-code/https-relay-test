@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T21:09:58Z",
+    "detected_at": "2026-10-24T21:22:04Z",
+    "display": "saplingcash/zcash-escrow-bridge",
+    "key": "repo:1432597278",
+    "metadata": {
+      "description": "Bring a marketplace collectible onto a shielded Zcash collections ledger, one for one, redeemable at any time.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "saplingcash/zcash-escrow-bridge",
+      "homepage": null,
+      "pushed_at": "2026-10-24T21:10:05Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1432597278,
+    "url": "https://github.com/saplingcash/zcash-escrow-bridge"
+  },
+  "schema": "zcash-fast-event/1"
+}
