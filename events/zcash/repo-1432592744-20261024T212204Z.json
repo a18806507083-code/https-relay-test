@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T21:03:05Z",
+    "detected_at": "2026-10-24T21:22:04Z",
+    "display": "uccellogiraviti/sito-viaggi",
+    "key": "repo:1432592744",
+    "metadata": {
+      "description": "Sito web personale interattivo per la gestione e la visualizzazione dei miei viaggi e itinerari.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "uccellogiraviti/sito-viaggi",
+      "homepage": null,
+      "pushed_at": "2026-10-24T21:16:49Z",
+      "tech_signals": [
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1432592744,
+    "url": "https://github.com/uccellogiraviti/sito-viaggi"
+  },
+  "schema": "zcash-fast-event/1"
+}
