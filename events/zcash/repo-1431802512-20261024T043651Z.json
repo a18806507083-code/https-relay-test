@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T04:14:00Z",
+    "detected_at": "2026-10-24T04:36:51Z",
+    "display": "Ignfork/timepad-fixed",
+    "key": "repo:1431802512",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Ignfork/timepad-fixed",
+      "homepage": "https://timepad-fixed.vercel.app",
+      "pushed_at": "2026-10-24T04:14:18Z",
+      "tech_signals": [
+        "wallet/payment",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431802512,
+    "url": "https://github.com/Ignfork/timepad-fixed"
+  },
+  "schema": "zcash-fast-event/1"
+}
