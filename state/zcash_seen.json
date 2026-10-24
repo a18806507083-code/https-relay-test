@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-24T00:14:56Z",
+  "last_run_at": "2026-10-24T04:36:51Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-23T21:28:53Z",
+      "cutoff": "2026-10-23T23:44:56Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-23T21:28:53Z",
+      "cutoff": "2026-10-23T23:44:56Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-23T21:28:53Z",
-      "matches": 5,
+      "cutoff": "2026-10-23T23:44:56Z",
+      "matches": 8,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-23T21:28:53Z",
+      "cutoff": "2026-10-23T23:44:56Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -6775,6 +6775,54 @@
       "first_seen_at": "2026-10-24T00:14:56Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1431693638": {
+      "created_at": "2026-10-24T00:59:36Z",
+      "display": "Yonkoo11/trove",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2492",
+      "first_seen_at": "2026-10-24T04:36:51Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431702425": {
+      "created_at": "2026-10-24T01:16:05Z",
+      "display": "OlamideAfunsho/shielded-sync-gateway",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2491",
+      "first_seen_at": "2026-10-24T04:36:51Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431778400": {
+      "created_at": "2026-10-24T03:33:35Z",
+      "display": "BlockIo/sochain-mcp",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2490",
+      "first_seen_at": "2026-10-24T04:36:51Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431778461": {
+      "created_at": "2026-10-24T03:33:41Z",
+      "display": "BlockIo/dify-plugin-sochain",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2489",
+      "first_seen_at": "2026-10-24T04:36:51Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431792088": {
+      "created_at": "2026-10-24T03:56:59Z",
+      "display": "Ignfork/timepad",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2488",
+      "first_seen_at": "2026-10-24T04:36:51Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431802512": {
+      "created_at": "2026-10-24T04:14:00Z",
+      "display": "Ignfork/timepad-fixed",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2487",
+      "first_seen_at": "2026-10-24T04:36:51Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -7523,9 +7571,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-24T00:14:56Z",
-    "forum": "2026-10-24T00:14:56Z",
-    "github": "2026-10-24T00:14:56Z",
-    "zcg": "2026-10-24T00:14:56Z"
+    "fixed_orgs": "2026-10-24T04:36:51Z",
+    "forum": "2026-10-24T04:36:51Z",
+    "github": "2026-10-24T04:36:51Z",
+    "zcg": "2026-10-24T04:36:51Z"
   }
 }
