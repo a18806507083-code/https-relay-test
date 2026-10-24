@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T03:56:59Z",
+    "detected_at": "2026-10-24T04:36:51Z",
+    "display": "Ignfork/timepad",
+    "key": "repo:1431792088",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Ignfork/timepad",
+      "homepage": "https://timepad-kappa.vercel.app",
+      "pushed_at": "2026-10-24T03:57:38Z",
+      "tech_signals": [
+        "wallet/payment",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431792088,
+    "url": "https://github.com/Ignfork/timepad"
+  },
+  "schema": "zcash-fast-event/1"
+}
