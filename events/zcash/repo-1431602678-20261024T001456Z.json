@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T22:19:57Z",
+    "detected_at": "2026-10-24T00:14:56Z",
+    "display": "dorianvp/light-wallet-design-attack",
+    "key": "repo:1431602678",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "dorianvp/light-wallet-design-attack",
+      "homepage": null,
+      "pushed_at": "2026-10-23T23:44:14Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431602678,
+    "url": "https://github.com/dorianvp/light-wallet-design-attack"
+  },
+  "schema": "zcash-fast-event/1"
+}
