@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T23:51:23Z",
+    "detected_at": "2026-10-24T00:14:56Z",
+    "display": "doso-00/travel-dashboard",
+    "key": "repo:1431656836",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "doso-00/travel-dashboard",
+      "homepage": null,
+      "pushed_at": "2026-10-24T00:14:24Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431656836,
+    "url": "https://github.com/doso-00/travel-dashboard"
+  },
+  "schema": "zcash-fast-event/1"
+}
