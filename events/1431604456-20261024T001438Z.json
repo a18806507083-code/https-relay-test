@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T22:22:42Z",
+    "description": "pons starter on the TrenchyTools API: launch and trade on Robinhood Chain, bonding curve and Uniswap v4.",
+    "detected_at": "2026-10-24T00:14:38Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Trenchy-Tools/pons-starter",
+    "homepage": "https://trenchytools-docs-production.up.railway.app/docs/examples",
+    "html_url": "https://github.com/Trenchy-Tools/pons-starter",
+    "pushed_at": "2026-10-23T22:33:49Z",
+    "repo_id": 1431604456,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
