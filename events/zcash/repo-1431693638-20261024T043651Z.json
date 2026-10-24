@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T00:59:36Z",
+    "detected_at": "2026-10-24T04:36:51Z",
+    "display": "Yonkoo11/trove",
+    "key": "repo:1431693638",
+    "metadata": {
+      "description": "Private ZEC lending desk: shielded collateral vault under a 2-of-3 FROST key. Regtest only.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "Yonkoo11/trove",
+      "homepage": null,
+      "pushed_at": "2026-10-24T00:59:45Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431693638,
+    "url": "https://github.com/Yonkoo11/trove"
+  },
+  "schema": "zcash-fast-event/1"
+}
