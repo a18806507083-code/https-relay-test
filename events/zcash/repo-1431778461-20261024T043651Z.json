@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T03:33:41Z",
+    "detected_at": "2026-10-24T04:36:51Z",
+    "display": "BlockIo/dify-plugin-sochain",
+    "key": "repo:1431778461",
+    "metadata": {
+      "description": "SoChain plugin for Dify: Bitcoin, Litecoin, Dogecoin and Zcash blockchain data tools",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "BlockIo/dify-plugin-sochain",
+      "homepage": "https://sochain.com/docs",
+      "pushed_at": "2026-10-24T03:33:46Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431778461,
+    "url": "https://github.com/BlockIo/dify-plugin-sochain"
+  },
+  "schema": "zcash-fast-event/1"
+}
