@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T03:33:35Z",
+    "detected_at": "2026-10-24T04:36:51Z",
+    "display": "BlockIo/sochain-mcp",
+    "key": "repo:1431778400",
+    "metadata": {
+      "description": "SoChain's hosted MCP server: Bitcoin, Litecoin, Dogecoin and Zcash data for AI agents",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "BlockIo/sochain-mcp",
+      "homepage": "https://sochain.com/agents",
+      "pushed_at": "2026-10-24T03:33:40Z",
+      "tech_signals": [
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431778400,
+    "url": "https://github.com/BlockIo/sochain-mcp"
+  },
+  "schema": "zcash-fast-event/1"
+}
