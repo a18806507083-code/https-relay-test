@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T11:58:31Z",
+    "description": "Let Claude Code move small amounts of crypto onchain, with limits enforced by the wallet rather than the prompt. MetaMask Agent Wallet setup guide.",
+    "detected_at": "2026-10-24T13:14:35Z",
+    "direct_signals": [
+      "RH testnet 46630"
+    ],
+    "full_name": "markcfa/claude-agent-wallet",
+    "homepage": null,
+    "html_url": "https://github.com/markcfa/claude-agent-wallet",
+    "pushed_at": "2026-10-24T11:59:49Z",
+    "repo_id": 1432135555,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
