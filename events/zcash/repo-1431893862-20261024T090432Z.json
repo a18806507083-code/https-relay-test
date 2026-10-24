@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T06:38:25Z",
+    "detected_at": "2026-10-24T09:04:32Z",
+    "display": "cryppit/nu7-readiness",
+    "key": "repo:1431893862",
+    "metadata": {
+      "description": "Which Zcash wallets, libraries, bridges and swaps are ready for NU7, from public evidence. Read-only, re-checked hourly.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "cryppit/nu7-readiness",
+      "homepage": null,
+      "pushed_at": "2026-10-24T06:38:46Z",
+      "tech_signals": [
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431893862,
+    "url": "https://github.com/cryppit/nu7-readiness"
+  },
+  "schema": "zcash-fast-event/1"
+}
