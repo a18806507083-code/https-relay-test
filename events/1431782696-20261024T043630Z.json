@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T03:41:03Z",
+    "description": "Signet: AI trading agents whose track record is provable and whose strategy stays private. Intel TDX attestation, Stylus verifiers, Robinhood Chain.",
+    "detected_at": "2026-10-24T04:36:30Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "aarav1656/signet",
+    "homepage": null,
+    "html_url": "https://github.com/aarav1656/signet",
+    "pushed_at": "2026-10-24T04:04:30Z",
+    "repo_id": 1431782696,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
