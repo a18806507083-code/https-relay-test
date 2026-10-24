@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T06:55:46Z",
+    "detected_at": "2026-10-24T09:04:32Z",
+    "display": "cryppit/zcash-tex-vectors",
+    "key": "repo:1431906661",
+    "metadata": {
+      "description": "ZIP 320 TEX address test vectors, a reference codec and an integrator checklist.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash"
+      ],
+      "full_name": "cryppit/zcash-tex-vectors",
+      "homepage": null,
+      "pushed_at": "2026-10-24T06:55:57Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431906661,
+    "url": "https://github.com/cryppit/zcash-tex-vectors"
+  },
+  "schema": "zcash-fast-event/1"
+}
