@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T01:16:05Z",
+    "detected_at": "2026-10-24T04:36:51Z",
+    "display": "OlamideAfunsho/shielded-sync-gateway",
+    "key": "repo:1431702425",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "OlamideAfunsho/shielded-sync-gateway",
+      "homepage": null,
+      "pushed_at": "2026-10-24T01:17:49Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431702425,
+    "url": "https://github.com/OlamideAfunsho/shielded-sync-gateway"
+  },
+  "schema": "zcash-fast-event/1"
+}
