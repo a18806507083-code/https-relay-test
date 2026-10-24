@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T03:42:30Z",
+    "description": null,
+    "detected_at": "2026-10-24T04:36:30Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "onsynaps/Synaps-",
+    "homepage": null,
+    "html_url": "https://github.com/onsynaps/Synaps-",
+    "pushed_at": "2026-10-24T04:29:43Z",
+    "repo_id": 1431783546,
+    "score": 5,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
