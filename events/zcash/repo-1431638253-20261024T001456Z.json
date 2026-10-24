@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T23:18:32Z",
+    "detected_at": "2026-10-24T00:14:56Z",
+    "display": "tObZ0/sigil",
+    "key": "repo:1431638253",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "tObZ0/sigil",
+      "homepage": "https://sigil-xi-lilac.vercel.app",
+      "pushed_at": "2026-10-24T00:06:59Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431638253,
+    "url": "https://github.com/tObZ0/sigil"
+  },
+  "schema": "zcash-fast-event/1"
+}
