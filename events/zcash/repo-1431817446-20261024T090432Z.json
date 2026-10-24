@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T04:38:23Z",
+    "detected_at": "2026-10-24T09:04:32Z",
+    "display": "Samuel-Chuku/vintage",
+    "key": "repo:1431817446",
+    "metadata": {
+      "description": "Proof of age for private money: prove shielded Zcash coins existed before a hack, a cutoff or any block.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "Samuel-Chuku/vintage",
+      "homepage": "https://usevintage.site",
+      "pushed_at": "2026-10-24T09:00:04Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1431817446,
+    "url": "https://github.com/Samuel-Chuku/vintage"
+  },
+  "schema": "zcash-fast-event/1"
+}
