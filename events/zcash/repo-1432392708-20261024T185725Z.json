@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T16:49:05Z",
+    "detected_at": "2026-10-24T18:57:25Z",
+    "display": "Webghost01-NG/blindtender",
+    "key": "repo:1432392708",
+    "metadata": {
+      "description": "Tamper-evident confidential tender evidence chain with Zcash shielded settlement binding",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Webghost01-NG/blindtender",
+      "homepage": null,
+      "pushed_at": "2026-10-24T18:51:16Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1432392708,
+    "url": "https://github.com/Webghost01-NG/blindtender"
+  },
+  "schema": "zcash-fast-event/1"
+}
