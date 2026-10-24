@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T23:18:32Z",
+    "description": null,
+    "detected_at": "2026-10-24T00:14:38Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "tObZ0/sigil",
+    "homepage": "https://sigil-xi-lilac.vercel.app",
+    "html_url": "https://github.com/tObZ0/sigil",
+    "pushed_at": "2026-10-24T00:06:59Z",
+    "repo_id": 1431638253,
+    "score": 5,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
