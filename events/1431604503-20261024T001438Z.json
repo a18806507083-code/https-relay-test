@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-23T22:22:46Z",
+    "description": "Create, fund, split, distribute and consolidate wallets across Solana, Robinhood Chain, Ethereum and BNB with the TrenchyTools API.",
+    "detected_at": "2026-10-24T00:14:38Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Trenchy-Tools/wallet-mover",
+    "homepage": "https://trenchytools-docs-production.up.railway.app/docs/examples",
+    "html_url": "https://github.com/Trenchy-Tools/wallet-mover",
+    "pushed_at": "2026-10-23T22:33:54Z",
+    "repo_id": 1431604503,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Bridge",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
