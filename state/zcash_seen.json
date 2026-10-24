@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-24T04:36:51Z",
+  "last_run_at": "2026-10-24T09:04:32Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-23T23:44:56Z",
+      "cutoff": "2026-10-24T04:06:51Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-23T23:44:56Z",
-      "matches": 0,
+      "cutoff": "2026-10-24T04:06:51Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-23T23:44:56Z",
-      "matches": 8,
+      "cutoff": "2026-10-24T04:06:51Z",
+      "matches": 5,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-23T23:44:56Z",
+      "cutoff": "2026-10-24T04:06:51Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -1629,6 +1629,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2456",
       "first_seen_at": "2026-10-23T10:13:38Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58476": {
+      "created_at": "2026-10-24T06:33:13.879Z",
+      "display": "58476 Zcash México x Zechub (october - november)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2498",
+      "first_seen_at": "2026-10-24T09:04:32Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -6823,6 +6831,38 @@
       "first_seen_at": "2026-10-24T04:36:51Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1431817446": {
+      "created_at": "2026-10-24T04:38:23Z",
+      "display": "Samuel-Chuku/vintage",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2500",
+      "first_seen_at": "2026-10-24T09:04:32Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431826036": {
+      "created_at": "2026-10-24T04:53:05Z",
+      "display": "sybenx/cosign",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2499",
+      "first_seen_at": "2026-10-24T09:04:32Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431893862": {
+      "created_at": "2026-10-24T06:38:25Z",
+      "display": "cryppit/nu7-readiness",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2497",
+      "first_seen_at": "2026-10-24T09:04:32Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431906661": {
+      "created_at": "2026-10-24T06:55:46Z",
+      "display": "cryppit/zcash-tex-vectors",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2496",
+      "first_seen_at": "2026-10-24T09:04:32Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -7571,9 +7611,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-24T04:36:51Z",
-    "forum": "2026-10-24T04:36:51Z",
-    "github": "2026-10-24T04:36:51Z",
-    "zcg": "2026-10-24T04:36:51Z"
+    "fixed_orgs": "2026-10-24T09:04:32Z",
+    "forum": "2026-10-24T09:04:32Z",
+    "github": "2026-10-24T09:04:32Z",
+    "zcg": "2026-10-24T09:04:32Z"
   }
 }
