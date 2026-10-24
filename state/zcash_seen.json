@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-23T21:58:53Z",
+  "last_run_at": "2026-10-24T00:14:56Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-23T18:33:40Z",
+      "cutoff": "2026-10-23T21:28:53Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-23T18:33:40Z",
+      "cutoff": "2026-10-23T21:28:53Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-23T18:33:40Z",
-      "matches": 4,
+      "cutoff": "2026-10-23T21:28:53Z",
+      "matches": 5,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-23T18:33:40Z",
+      "cutoff": "2026-10-23T21:28:53Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -6735,6 +6735,46 @@
       "first_seen_at": "2026-10-23T21:58:53Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1431602678": {
+      "created_at": "2026-10-23T22:19:57Z",
+      "display": "dorianvp/light-wallet-design-attack",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2482",
+      "first_seen_at": "2026-10-24T00:14:56Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431625050": {
+      "created_at": "2026-10-23T22:55:37Z",
+      "display": "sopskistar/shadowbid",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2481",
+      "first_seen_at": "2026-10-24T00:14:56Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431638253": {
+      "created_at": "2026-10-23T23:18:32Z",
+      "display": "tObZ0/sigil",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2480",
+      "first_seen_at": "2026-10-24T00:14:56Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431656836": {
+      "created_at": "2026-10-23T23:51:23Z",
+      "display": "doso-00/travel-dashboard",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2479",
+      "first_seen_at": "2026-10-24T00:14:56Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1431664868": {
+      "created_at": "2026-10-24T00:06:27Z",
+      "display": "lurchinms/miningcoreV4",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2478",
+      "first_seen_at": "2026-10-24T00:14:56Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -7483,9 +7523,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-23T21:58:53Z",
-    "forum": "2026-10-23T21:58:53Z",
-    "github": "2026-10-23T21:58:53Z",
-    "zcg": "2026-10-23T21:58:53Z"
+    "fixed_orgs": "2026-10-24T00:14:56Z",
+    "forum": "2026-10-24T00:14:56Z",
+    "github": "2026-10-24T00:14:56Z",
+    "zcg": "2026-10-24T00:14:56Z"
   }
 }
