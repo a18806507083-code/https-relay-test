@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T11:34:34Z",
+    "description": null,
+    "detected_at": "2026-10-24T13:14:35Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "KingofSpades-dev/SIIR-33",
+    "homepage": null,
+    "html_url": "https://github.com/KingofSpades-dev/SIIR-33",
+    "pushed_at": "2026-10-24T11:37:05Z",
+    "repo_id": 1432116941,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
