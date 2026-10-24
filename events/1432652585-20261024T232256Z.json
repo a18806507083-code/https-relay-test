@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T22:40:21Z",
+    "description": null,
+    "detected_at": "2026-10-24T23:22:56Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "pawp5/creditGraph-mezo",
+    "homepage": null,
+    "html_url": "https://github.com/pawp5/creditGraph-mezo",
+    "pushed_at": "2026-10-24T22:43:37Z",
+    "repo_id": 1432652585,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
