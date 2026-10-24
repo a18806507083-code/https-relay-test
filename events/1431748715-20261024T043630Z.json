@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T02:41:36Z",
+    "description": null,
+    "detected_at": "2026-10-24T04:36:30Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "irf4an/sniperboot-v16",
+    "homepage": null,
+    "html_url": "https://github.com/irf4an/sniperboot-v16",
+    "pushed_at": "2026-10-24T04:29:33Z",
+    "repo_id": 1431748715,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
