@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T15:23:55Z",
+    "description": null,
+    "detected_at": "2026-10-24T16:35:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Idky1/SeblakOrigin",
+    "homepage": "",
+    "html_url": "https://github.com/Idky1/SeblakOrigin",
+    "pushed_at": "2026-10-24T15:25:34Z",
+    "repo_id": 1432316153,
+    "score": 10,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
