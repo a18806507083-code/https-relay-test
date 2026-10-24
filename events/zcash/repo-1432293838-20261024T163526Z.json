@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T14:59:04Z",
+    "detected_at": "2026-10-24T16:35:26Z",
+    "display": "42-coin/eiquidus-v1.99",
+    "key": "repo:1432293838",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "42-coin/eiquidus-v1.99",
+      "homepage": null,
+      "pushed_at": "2026-10-24T15:01:53Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1432293838,
+    "url": "https://github.com/42-coin/eiquidus-v1.99"
+  },
+  "schema": "zcash-fast-event/1"
+}
