@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-24T20:52:41Z",
+    "detected_at": "2026-10-24T21:22:04Z",
+    "display": "pietrangelidavide/start2",
+    "key": "repo:1432586004",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "pietrangelidavide/start2",
+      "homepage": null,
+      "pushed_at": "2026-10-24T21:07:33Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1432586004,
+    "url": "https://github.com/pietrangelidavide/start2"
+  },
+  "schema": "zcash-fast-event/1"
+}
