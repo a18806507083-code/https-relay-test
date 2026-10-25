@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T19:53:58Z",
+    "description": "Personal, rule-based trading agents with owner-controlled wallets. TypeScript, React and Solidity.",
+    "detected_at": "2026-10-25T20:44:04Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "loopitrade/TRYLOOPI",
+    "homepage": null,
+    "html_url": "https://github.com/loopitrade/TRYLOOPI",
+    "pushed_at": "2026-10-25T19:54:15Z",
+    "repo_id": 1433574919,
+    "score": 6,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
