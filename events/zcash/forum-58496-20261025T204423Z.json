@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T19:51:39.454Z",
+    "detected_at": "2026-10-25T20:44:23Z",
+    "display": "58496 Keystone Data Leak",
+    "key": "forum:58496",
+    "metadata": {
+      "category_id": 51,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "keystone-data-leak",
+      "title": "Keystone Data Leak",
+      "topic_id": 58496
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58496,
+    "url": "https://forum.zcashcommunity.com/t/keystone-data-leak/58496"
+  },
+  "schema": "zcash-fast-event/1"
+}
