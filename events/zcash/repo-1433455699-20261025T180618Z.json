@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T17:29:05Z",
+    "detected_at": "2026-10-25T18:06:18Z",
+    "display": "Ay-obami/LeakLens",
+    "key": "repo:1433455699",
+    "metadata": {
+      "description": "Pre-transaction privacy firewall for Zcash wallet proposals",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Ay-obami/LeakLens",
+      "homepage": null,
+      "pushed_at": "2026-10-25T17:57:24Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1433455699,
+    "url": "https://github.com/Ay-obami/LeakLens"
+  },
+  "schema": "zcash-fast-event/1"
+}
