@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T00:49:17Z",
+    "detected_at": "2026-10-25T01:18:33Z",
+    "display": "nodalsi/Nodal",
+    "key": "repo:1432717028",
+    "metadata": {
+      "description": "Privacy testing for Web3. See what your dApp sends.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "nodalsi/Nodal",
+      "homepage": null,
+      "pushed_at": "2026-10-25T01:01:08Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1432717028,
+    "url": "https://github.com/nodalsi/Nodal"
+  },
+  "schema": "zcash-fast-event/1"
+}
