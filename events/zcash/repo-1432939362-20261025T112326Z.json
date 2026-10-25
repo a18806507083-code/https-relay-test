@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T07:30:59Z",
+    "detected_at": "2026-10-25T11:23:26Z",
+    "display": "travisoye/vinca",
+    "key": "repo:1432939362",
+    "metadata": {
+      "description": "Vinca is a browser-based toolkit for Zcash developers to inspect incoming viewing keys, review received notes, and share encrypted viewing access or record snapshots—without handling spending keys.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "travisoye/vinca",
+      "homepage": "https://vincaonzec.vercel.app",
+      "pushed_at": "2026-10-25T08:38:48Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1432939362,
+    "url": "https://github.com/travisoye/vinca"
+  },
+  "schema": "zcash-fast-event/1"
+}
