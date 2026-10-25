@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T20:16:35Z",
+    "description": "Trade any Uniswap v4 hook pool on Robinhood Chain. Decoded hook permissions, one-click swaps via the Universal Router, and an ownerless buyback-and-burn contract.",
+    "detected_at": "2026-10-25T20:44:04Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Smart-Robinhood/smart",
+    "homepage": "https://smartrobin.xyz",
+    "html_url": "https://github.com/Smart-Robinhood/smart",
+    "pushed_at": "2026-10-25T20:17:29Z",
+    "repo_id": 1433591443,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
