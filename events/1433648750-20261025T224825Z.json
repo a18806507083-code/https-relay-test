@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T21:41:33Z",
+    "description": "notes.markets \u2014 structured notes on Robinhood Chain, run by Chainlink CRE",
+    "detected_at": "2026-10-25T22:48:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "adappterxyz/StratosNotes-Robinhood",
+    "homepage": null,
+    "html_url": "https://github.com/adappterxyz/StratosNotes-Robinhood",
+    "pushed_at": "2026-10-25T21:44:41Z",
+    "repo_id": 1433648750,
+    "score": 13,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
