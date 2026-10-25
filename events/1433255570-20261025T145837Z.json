@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T13:58:21Z",
+    "description": "Multi-asset fund tokens on Stellar: tokenized treasuries, stablecoins and permissioned funds in one basket, with redemption no manager can switch off.",
+    "detected_at": "2026-10-25T14:58:37Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "0xDanomite/alloy-stellar",
+    "homepage": null,
+    "html_url": "https://github.com/0xDanomite/alloy-stellar",
+    "pushed_at": "2026-10-25T14:52:42Z",
+    "repo_id": 1433255570,
+    "score": 5,
+    "tech_signals": [
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
