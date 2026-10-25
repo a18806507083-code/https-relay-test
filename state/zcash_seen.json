@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-25T20:44:23Z",
+  "last_run_at": "2026-10-25T22:48:40Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-25T17:36:18Z",
+      "cutoff": "2026-10-25T20:14:23Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-25T17:36:18Z",
-      "matches": 1,
+      "cutoff": "2026-10-25T20:14:23Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-25T17:36:18Z",
-      "matches": 1,
+      "cutoff": "2026-10-25T20:14:23Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-25T17:36:18Z",
+      "cutoff": "2026-10-25T20:14:23Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -7063,6 +7063,30 @@
       "first_seen_at": "2026-10-25T20:44:23Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1433643896": {
+      "created_at": "2026-10-25T21:33:47Z",
+      "display": "zec-desktop-dev/electrum-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2555",
+      "first_seen_at": "2026-10-25T22:48:40Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1433644089": {
+      "created_at": "2026-10-25T21:34:06Z",
+      "display": "nerses-asaturyan/zsettle",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2554",
+      "first_seen_at": "2026-10-25T22:48:40Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1433671706": {
+      "created_at": "2026-10-25T22:18:50Z",
+      "display": "farad00/zcash-dark-pool",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2553",
+      "first_seen_at": "2026-10-25T22:48:40Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -7819,9 +7843,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-25T20:44:23Z",
-    "forum": "2026-10-25T20:44:23Z",
-    "github": "2026-10-25T20:44:23Z",
-    "zcg": "2026-10-25T20:44:23Z"
+    "fixed_orgs": "2026-10-25T22:48:40Z",
+    "forum": "2026-10-25T22:48:40Z",
+    "github": "2026-10-25T22:48:40Z",
+    "zcg": "2026-10-25T22:48:40Z"
   }
 }
