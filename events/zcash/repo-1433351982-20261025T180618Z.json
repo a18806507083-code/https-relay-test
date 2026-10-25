@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T15:38:22Z",
+    "detected_at": "2026-10-25T18:06:18Z",
+    "display": "RokMikuz/btcz-electrum-wallet",
+    "key": "repo:1433351982",
+    "metadata": {
+      "description": "BitcoinZ (BTCZ) Electrum wallet 4.1 - Canopy-compatile port of Electrum-Zcash 4.1.2",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "RokMikuz/btcz-electrum-wallet",
+      "homepage": null,
+      "pushed_at": "2026-10-25T15:58:44Z",
+      "tech_signals": [
+        "wallet/payment",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1433351982,
+    "url": "https://github.com/RokMikuz/btcz-electrum-wallet"
+  },
+  "schema": "zcash-fast-event/1"
+}
