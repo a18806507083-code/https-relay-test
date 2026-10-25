@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T15:19:10Z",
+    "detected_at": "2026-10-25T18:06:18Z",
+    "display": "Pavithra-chinki/Crypto-price-pipeline",
+    "key": "repo:1433333615",
+    "metadata": {
+      "description": "Live cryptocurrency data pipeline using Python and CoinGecko API",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Pavithra-chinki/Crypto-price-pipeline",
+      "homepage": null,
+      "pushed_at": "2026-10-25T15:43:18Z",
+      "tech_signals": [
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1433333615,
+    "url": "https://github.com/Pavithra-chinki/Crypto-price-pipeline"
+  },
+  "schema": "zcash-fast-event/1"
+}
