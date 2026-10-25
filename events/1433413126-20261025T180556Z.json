@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T16:42:25Z",
+    "description": null,
+    "detected_at": "2026-10-25T18:05:56Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "zerohooktrade/zhook-sdk",
+    "homepage": null,
+    "html_url": "https://github.com/zerohooktrade/zhook-sdk",
+    "pushed_at": "2026-10-25T16:58:23Z",
+    "repo_id": 1433413126,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
