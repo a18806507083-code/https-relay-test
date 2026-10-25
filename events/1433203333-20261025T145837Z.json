@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T13:01:16Z",
+    "description": null,
+    "detected_at": "2026-10-25T14:58:37Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "weldonkipchirchir/crypto-portfolio-tracker",
+    "homepage": null,
+    "html_url": "https://github.com/weldonkipchirchir/crypto-portfolio-tracker",
+    "pushed_at": "2026-10-25T13:12:16Z",
+    "repo_id": 1433203333,
+    "score": 6,
+    "tech_signals": [
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
