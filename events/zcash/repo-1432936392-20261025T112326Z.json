@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T07:26:23Z",
+    "detected_at": "2026-10-25T11:23:26Z",
+    "display": "CharlesHoskinson/loki",
+    "key": "repo:1432936392",
+    "metadata": {
+      "description": "Loki: a drop-in GPU-accelerated fork of the midnight-proofs 0.8.3 prover. Same proof, any shape.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "CharlesHoskinson/loki",
+      "homepage": null,
+      "pushed_at": "2026-10-25T07:26:30Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1432936392,
+    "url": "https://github.com/CharlesHoskinson/loki"
+  },
+  "schema": "zcash-fast-event/1"
+}
