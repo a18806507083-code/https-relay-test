@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T19:10:07Z",
+    "detected_at": "2026-10-25T20:44:23Z",
+    "display": "PapyT/zcash-developer-quests",
+    "key": "repo:1433541542",
+    "metadata": {
+      "description": "Runnable Zcash developer quest exercises and reproducible evidence.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "PapyT/zcash-developer-quests",
+      "homepage": null,
+      "pushed_at": "2026-10-25T19:11:51Z",
+      "tech_signals": [
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1433541542,
+    "url": "https://github.com/PapyT/zcash-developer-quests"
+  },
+  "schema": "zcash-fast-event/1"
+}
