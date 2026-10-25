@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-25T07:28:40Z",
+    "detected_at": "2026-10-25T11:23:26Z",
+    "display": "DEBMUKHERJEE15/TradeTrust",
+    "key": "repo:1432937866",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "DEBMUKHERJEE15/TradeTrust",
+      "homepage": null,
+      "pushed_at": "2026-10-25T07:47:42Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1432937866,
+    "url": "https://github.com/DEBMUKHERJEE15/TradeTrust"
+  },
+  "schema": "zcash-fast-event/1"
+}
