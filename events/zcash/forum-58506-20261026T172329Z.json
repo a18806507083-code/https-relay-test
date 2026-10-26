@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T11:42:19.826Z",
+    "detected_at": "2026-10-26T17:23:29Z",
+    "display": "58506 Grant Application - Zbeam: A Trustless gRPC Network for Zcash",
+    "key": "forum:58506",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zbeam-a-trustless-grpc-network-for-zcash",
+      "title": "Grant Application - Zbeam: A Trustless gRPC Network for Zcash",
+      "topic_id": 58506
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58506,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zbeam-a-trustless-grpc-network-for-zcash/58506"
+  },
+  "schema": "zcash-fast-event/1"
+}
