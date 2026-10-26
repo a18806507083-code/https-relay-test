@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T19:47:41Z",
+    "detected_at": "2026-10-26T21:41:19Z",
+    "display": "Daveboss123/veil-vault",
+    "key": "repo:1434857998",
+    "metadata": {
+      "description": "A shielded bluffing game for ZECATHON 2026 Wildcard, with a browser practice round and a judge-facing testnet appendix.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Daveboss123/veil-vault",
+      "homepage": "https://veil-vault-game.vercel.app/",
+      "pushed_at": "2026-10-26T21:24:23Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1434857998,
+    "url": "https://github.com/Daveboss123/veil-vault"
+  },
+  "schema": "zcash-fast-event/1"
+}
