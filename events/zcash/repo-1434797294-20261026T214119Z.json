@@ -1,0 +1,34 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T18:46:06Z",
+    "detected_at": "2026-10-26T21:41:19Z",
+    "display": "lucasfisher/zecash-swift-fork",
+    "key": "repo:1434797294",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer",
+        "mobile SDK"
+      ],
+      "full_name": "lucasfisher/zecash-swift-fork",
+      "homepage": null,
+      "pushed_at": "2026-10-26T19:07:55Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1434797294,
+    "url": "https://github.com/lucasfisher/zecash-swift-fork"
+  },
+  "schema": "zcash-fast-event/1"
+}
