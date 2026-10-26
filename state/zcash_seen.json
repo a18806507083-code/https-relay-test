@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-26T17:23:29Z",
+  "last_run_at": "2026-10-26T21:41:19Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-26T10:45:16Z",
+      "cutoff": "2026-10-26T16:53:29Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-26T04:50:31Z",
-      "matches": 3,
+      "cutoff": "2026-10-26T16:53:29Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-26T10:45:16Z",
-      "matches": 7,
+      "cutoff": "2026-10-26T16:53:29Z",
+      "matches": 5,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-26T10:45:16Z",
-      "matches": 1,
+      "cutoff": "2026-10-26T16:53:29Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -1685,6 +1685,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2567",
       "first_seen_at": "2026-10-26T17:23:29Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58508": {
+      "created_at": "2026-10-26T17:41:08.098Z",
+      "display": "58508 ZEC as Collateral: Non-Custodial Strategy Insurance on Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2585",
+      "first_seen_at": "2026-10-26T21:41:19Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -7215,6 +7223,46 @@
       "first_seen_at": "2026-10-26T17:23:29Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1434797294": {
+      "created_at": "2026-10-26T18:46:06Z",
+      "display": "lucasfisher/zecash-swift-fork",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2584",
+      "first_seen_at": "2026-10-26T21:41:19Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1434857998": {
+      "created_at": "2026-10-26T19:47:41Z",
+      "display": "Daveboss123/veil-vault",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2583",
+      "first_seen_at": "2026-10-26T21:41:19Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1434870064": {
+      "created_at": "2026-10-26T19:59:34Z",
+      "display": "emperorsixpacks/zecdrop",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2582",
+      "first_seen_at": "2026-10-26T21:41:19Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1434870833": {
+      "created_at": "2026-10-26T20:00:22Z",
+      "display": "zorumeon/selectiveproof",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2581",
+      "first_seen_at": "2026-10-26T21:41:19Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1434905423": {
+      "created_at": "2026-10-26T20:38:17Z",
+      "display": "Bilalsnz/Zcash-",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2580",
+      "first_seen_at": "2026-10-26T21:41:19Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -7979,9 +8027,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-26T17:23:29Z",
-    "forum": "2026-10-26T17:23:29Z",
-    "github": "2026-10-26T17:23:29Z",
-    "zcg": "2026-10-26T17:23:29Z"
+    "fixed_orgs": "2026-10-26T21:41:19Z",
+    "forum": "2026-10-26T21:41:19Z",
+    "github": "2026-10-26T21:41:19Z",
+    "zcg": "2026-10-26T21:41:19Z"
   }
 }
