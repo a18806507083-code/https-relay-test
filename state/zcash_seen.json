@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-26T11:15:16Z",
+  "last_run_at": "2026-10-26T17:23:29Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-26T04:50:31Z",
+      "cutoff": "2026-10-26T10:45:16Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
       "cutoff": "2026-10-26T04:50:31Z",
-      "error": "HTTP Error 429: Too Many Requests",
-      "status": "FAIL"
+      "matches": 3,
+      "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-26T04:50:31Z",
-      "matches": 5,
+      "cutoff": "2026-10-26T10:45:16Z",
+      "matches": 7,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-26T04:50:31Z",
-      "matches": 0,
+      "cutoff": "2026-10-26T10:45:16Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -1661,6 +1661,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2549",
       "first_seen_at": "2026-10-25T20:44:23Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58500": {
+      "created_at": "2026-10-26T10:05:16.936Z",
+      "display": "58500 Zblind (antes Zash): un bot de Telegram gratis para aprender Zcash en español",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2577",
+      "first_seen_at": "2026-10-26T17:23:29Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58506": {
+      "created_at": "2026-10-26T11:42:19.826Z",
+      "display": "58506 Grant Application - Zbeam: A Trustless gRPC Network for Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2574",
+      "first_seen_at": "2026-10-26T17:23:29Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58507": {
+      "created_at": "2026-10-26T16:37:38.510Z",
+      "display": "58507 HoudiniSwap Retroactive Grant Application",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2567",
+      "first_seen_at": "2026-10-26T17:23:29Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -7135,6 +7159,62 @@
       "first_seen_at": "2026-10-26T11:15:16Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1434296452": {
+      "created_at": "2026-10-26T11:37:02Z",
+      "display": "nicolaloconte/pokexplorer-test",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2575",
+      "first_seen_at": "2026-10-26T17:23:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1434347112": {
+      "created_at": "2026-10-26T12:24:44Z",
+      "display": "lurchinms/miningcoreV4",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2573",
+      "first_seen_at": "2026-10-26T17:23:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1434376541": {
+      "created_at": "2026-10-26T12:51:21Z",
+      "display": "MaestroLivio/lumeria",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2572",
+      "first_seen_at": "2026-10-26T17:23:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1434410946": {
+      "created_at": "2026-10-26T13:20:18Z",
+      "display": "martinvibes/zeryth",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2571",
+      "first_seen_at": "2026-10-26T17:23:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1434528866": {
+      "created_at": "2026-10-26T14:54:06Z",
+      "display": "0xking-sol/crosslink-snapshots",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2570",
+      "first_seen_at": "2026-10-26T17:23:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1434552878": {
+      "created_at": "2026-10-26T15:13:34Z",
+      "display": "misjay/hush-testnet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2569",
+      "first_seen_at": "2026-10-26T17:23:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1434605526": {
+      "created_at": "2026-10-26T15:57:16Z",
+      "display": "Anoi-xyz/zephyr-sdk",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2568",
+      "first_seen_at": "2026-10-26T17:23:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -7886,14 +7966,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2536",
       "first_seen_at": "2026-10-25T14:58:50Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6038813661": {
+      "created_at": "2026-10-26T11:32:26Z",
+      "display": "#517 Grant Application - Zbeam: A Trustless gRPC Network for Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2576",
+      "first_seen_at": "2026-10-26T17:23:29Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-26T11:15:16Z",
-    "forum": "2026-10-26T05:20:31Z",
-    "github": "2026-10-26T11:15:16Z",
-    "zcg": "2026-10-26T11:15:16Z"
+    "fixed_orgs": "2026-10-26T17:23:29Z",
+    "forum": "2026-10-26T17:23:29Z",
+    "github": "2026-10-26T17:23:29Z",
+    "zcg": "2026-10-26T17:23:29Z"
   }
 }
