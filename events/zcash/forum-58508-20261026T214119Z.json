@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T17:41:08.098Z",
+    "detected_at": "2026-10-26T21:41:19Z",
+    "display": "58508 ZEC as Collateral: Non-Custodial Strategy Insurance on Zcash",
+    "key": "forum:58508",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "zec-as-collateral-non-custodial-strategy-insurance-on-zcash",
+      "title": "ZEC as Collateral: Non-Custodial Strategy Insurance on Zcash",
+      "topic_id": 58508
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58508,
+    "url": "https://forum.zcashcommunity.com/t/zec-as-collateral-non-custodial-strategy-insurance-on-zcash/58508"
+  },
+  "schema": "zcash-fast-event/1"
+}
