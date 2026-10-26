@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T20:00:22Z",
+    "detected_at": "2026-10-26T21:41:19Z",
+    "display": "zorumeon/selectiveproof",
+    "key": "repo:1434870833",
+    "metadata": {
+      "description": "Private, selective payment receipts for shielded Zcash payments.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "zorumeon/selectiveproof",
+      "homepage": null,
+      "pushed_at": "2026-10-26T20:52:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1434870833,
+    "url": "https://github.com/zorumeon/selectiveproof"
+  },
+  "schema": "zcash-fast-event/1"
+}
