@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T06:41:57Z",
+    "detected_at": "2026-10-26T11:15:16Z",
+    "display": "Axlnd3r/SecBid",
+    "key": "repo:1434002118",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Axlnd3r/SecBid",
+      "homepage": null,
+      "pushed_at": "2026-10-26T06:43:28Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1434002118,
+    "url": "https://github.com/Axlnd3r/SecBid"
+  },
+  "schema": "zcash-fast-event/1"
+}
