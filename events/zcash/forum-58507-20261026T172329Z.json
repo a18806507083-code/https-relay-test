@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T16:37:38.510Z",
+    "detected_at": "2026-10-26T17:23:29Z",
+    "display": "58507 HoudiniSwap Retroactive Grant Application",
+    "key": "forum:58507",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "houdiniswap-retroactive-grant-application",
+      "title": "HoudiniSwap Retroactive Grant Application",
+      "topic_id": 58507
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58507,
+    "url": "https://forum.zcashcommunity.com/t/houdiniswap-retroactive-grant-application/58507"
+  },
+  "schema": "zcash-fast-event/1"
+}
