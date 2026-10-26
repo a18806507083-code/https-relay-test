@@ -1,0 +1,34 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T19:59:34Z",
+    "detected_at": "2026-10-26T21:41:19Z",
+    "display": "emperorsixpacks/zecdrop",
+    "key": "repo:1434870064",
+    "metadata": {
+      "description": "ZecDrop: confidential batch payouts on Zcash. Private amounts, public accountability.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "emperorsixpacks/zecdrop",
+      "homepage": null,
+      "pushed_at": "2026-10-26T20:15:50Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1434870064,
+    "url": "https://github.com/emperorsixpacks/zecdrop"
+  },
+  "schema": "zcash-fast-event/1"
+}
