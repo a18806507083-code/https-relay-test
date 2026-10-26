@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T08:42:14Z",
+    "detected_at": "2026-10-26T11:15:16Z",
+    "display": "STProgramming/ia_game_stealth",
+    "key": "repo:1434116600",
+    "metadata": {
+      "description": "Shadow Protocol: playable stealth game with reinforcement learning guard and SWAT policies, Python server, and browser frontend.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "STProgramming/ia_game_stealth",
+      "homepage": null,
+      "pushed_at": "2026-10-26T08:42:36Z",
+      "tech_signals": [
+        "node/indexer",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1434116600,
+    "url": "https://github.com/STProgramming/ia_game_stealth"
+  },
+  "schema": "zcash-fast-event/1"
+}
