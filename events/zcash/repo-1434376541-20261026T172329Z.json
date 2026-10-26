@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T12:51:21Z",
+    "detected_at": "2026-10-26T17:23:29Z",
+    "display": "MaestroLivio/lumeria",
+    "key": "repo:1434376541",
+    "metadata": {
+      "description": "Lumeria — gioco educativo 3D in italiano per bambini di 5–7 anni: 100 missioni, offline, gamepad-first, Godot 4.7.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "MaestroLivio/lumeria",
+      "homepage": null,
+      "pushed_at": "2026-10-26T13:23:41Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1434376541,
+    "url": "https://github.com/MaestroLivio/lumeria"
+  },
+  "schema": "zcash-fast-event/1"
+}
