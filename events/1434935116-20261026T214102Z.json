@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T21:12:14Z",
+    "description": "Robinhood Chain MCP server: memecoin trading for AI agents, rug and honeypot checks, best route.",
+    "detected_at": "2026-10-26T21:41:02Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "isonips/robinhood-chain-mcp",
+    "homepage": "https://trnch.fun/bot",
+    "html_url": "https://github.com/isonips/robinhood-chain-mcp",
+    "pushed_at": "2026-10-26T21:17:42Z",
+    "repo_id": 1434935116,
+    "score": 17,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
