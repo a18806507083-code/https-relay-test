@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T15:13:34Z",
+    "detected_at": "2026-10-26T17:23:29Z",
+    "display": "misjay/hush-testnet",
+    "key": "repo:1434552878",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "misjay/hush-testnet",
+      "homepage": null,
+      "pushed_at": "2026-10-26T16:31:53Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1434552878,
+    "url": "https://github.com/misjay/hush-testnet"
+  },
+  "schema": "zcash-fast-event/1"
+}
