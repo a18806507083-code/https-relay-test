@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T11:32:26Z",
+    "detected_at": "2026-10-26T17:23:29Z",
+    "display": "#517 Grant Application - Zbeam: A Trustless gRPC Network for Zcash",
+    "key": "zcg:6038813661",
+    "metadata": {
+      "author": "chigozzdevv",
+      "issue_number": 517,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Grant Application - Zbeam: A Trustless gRPC Network for Zcash"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6038813661,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/517"
+  },
+  "schema": "zcash-fast-event/1"
+}
