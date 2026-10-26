@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T09:01:10Z",
+    "detected_at": "2026-10-26T11:15:16Z",
+    "display": "aidai524/NUI3",
+    "key": "repo:1434136653",
+    "metadata": {
+      "description": "Noir protocol UI lib",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "aidai524/NUI3",
+      "homepage": null,
+      "pushed_at": "2026-10-26T10:57:16Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1434136653,
+    "url": "https://github.com/aidai524/NUI3"
+  },
+  "schema": "zcash-fast-event/1"
+}
