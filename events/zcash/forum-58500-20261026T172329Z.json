@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T10:05:16.936Z",
+    "detected_at": "2026-10-26T17:23:29Z",
+    "display": "58500 Zblind (antes Zash): un bot de Telegram gratis para aprender Zcash en español",
+    "key": "forum:58500",
+    "metadata": {
+      "category_id": 10,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "zblind-antes-zash-un-bot-de-telegram-gratis-para-aprender-zcash-en-espanol",
+      "title": "Zblind (antes Zash): un bot de Telegram gratis para aprender Zcash en español",
+      "topic_id": 58500
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58500,
+    "url": "https://forum.zcashcommunity.com/t/zblind-antes-zash-un-bot-de-telegram-gratis-para-aprender-zcash-en-espanol/58500"
+  },
+  "schema": "zcash-fast-event/1"
+}
