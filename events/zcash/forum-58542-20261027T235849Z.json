@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T21:16:22.723Z",
+    "detected_at": "2026-10-27T23:58:49Z",
+    "display": "58542 What we have been building on ZecMap",
+    "key": "forum:58542",
+    "metadata": {
+      "category_id": 41,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "what-we-have-been-building-on-zecmap",
+      "title": "What we have been building on ZecMap",
+      "topic_id": 58542
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58542,
+    "url": "https://forum.zcashcommunity.com/t/what-we-have-been-building-on-zecmap/58542"
+  },
+  "schema": "zcash-fast-event/1"
+}
