@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T20:00:11Z",
+    "detected_at": "2026-10-27T20:38:43Z",
+    "display": "mayohalo/zdlc",
+    "key": "repo:1436217258",
+    "metadata": {
+      "description": "Zcash Discreet Log Contract",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "mayohalo/zdlc",
+      "homepage": "zdlc.cc",
+      "pushed_at": "2026-10-27T20:27:33Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436217258,
+    "url": "https://github.com/mayohalo/zdlc"
+  },
+  "schema": "zcash-fast-event/1"
+}
