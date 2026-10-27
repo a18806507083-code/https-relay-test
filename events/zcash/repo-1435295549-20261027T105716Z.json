@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T05:36:39Z",
+    "detected_at": "2026-10-27T10:57:16Z",
+    "display": "BonBagi/core",
+    "key": "repo:1435295549",
+    "metadata": {
+      "description": "BonBagi core: signed split charter, deterministic zatoshi split, ZIP-321 multi-recipient requests for one-payment, many-recipient Zcash shielded payments.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "BonBagi/core",
+      "homepage": "https://bonbagi.vercel.app",
+      "pushed_at": "2026-10-27T05:37:55Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1435295549,
+    "url": "https://github.com/BonBagi/core"
+  },
+  "schema": "zcash-fast-event/1"
+}
