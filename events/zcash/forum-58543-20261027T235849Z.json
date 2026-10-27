@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T21:28:40.870Z",
+    "detected_at": "2026-10-27T23:58:49Z",
+    "display": "58543 Zecd v0.9.0: NU7 Support",
+    "key": "forum:58543",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zecd-v0-9-0-nu7-support",
+      "title": "Zecd v0.9.0: NU7 Support",
+      "topic_id": 58543
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58543,
+    "url": "https://forum.zcashcommunity.com/t/zecd-v0-9-0-nu7-support/58543"
+  },
+  "schema": "zcash-fast-event/1"
+}
