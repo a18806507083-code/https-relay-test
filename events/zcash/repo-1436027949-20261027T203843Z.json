@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T16:59:39Z",
+    "detected_at": "2026-10-27T20:38:43Z",
+    "display": "Bocelli/Kindlefridge",
+    "key": "repo:1436027949",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Bocelli/Kindlefridge",
+      "homepage": null,
+      "pushed_at": "2026-10-27T20:25:16Z",
+      "tech_signals": [
+        "node/indexer",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436027949,
+    "url": "https://github.com/Bocelli/Kindlefridge"
+  },
+  "schema": "zcash-fast-event/1"
+}
