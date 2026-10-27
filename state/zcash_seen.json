@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-27T16:08:27Z",
+  "last_run_at": "2026-10-27T20:38:43Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-27T10:27:16Z",
+      "cutoff": "2026-10-27T15:38:27Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-27T10:27:16Z",
-      "matches": 2,
+      "cutoff": "2026-10-27T15:38:27Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-27T10:27:16Z",
-      "matches": 5,
+      "cutoff": "2026-10-27T15:38:27Z",
+      "matches": 12,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-27T10:27:16Z",
-      "matches": 1,
+      "cutoff": "2026-10-27T15:38:27Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -1733,6 +1733,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2616",
       "first_seen_at": "2026-10-27T16:08:27Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58540": {
+      "created_at": "2026-10-27T17:36:13.806Z",
+      "display": "58540 Sapling: using any market from your Zcash wallet, one month in",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2627",
+      "first_seen_at": "2026-10-27T20:38:43Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -7447,6 +7455,94 @@
       "first_seen_at": "2026-10-27T16:08:27Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1435987444": {
+      "created_at": "2026-10-27T16:24:36Z",
+      "display": "Kubudak90/Zcash-wallet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2632",
+      "first_seen_at": "2026-10-27T20:38:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1436001630": {
+      "created_at": "2026-10-27T16:37:05Z",
+      "display": "binarybeastt/amana",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2631",
+      "first_seen_at": "2026-10-27T20:38:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1436027949": {
+      "created_at": "2026-10-27T16:59:39Z",
+      "display": "Bocelli/Kindlefridge",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2630",
+      "first_seen_at": "2026-10-27T20:38:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1436040983": {
+      "created_at": "2026-10-27T17:11:14Z",
+      "display": "limbotechie/splytai",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2629",
+      "first_seen_at": "2026-10-27T20:38:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1436051225": {
+      "created_at": "2026-10-27T17:20:20Z",
+      "display": "davisantx/cyber-psoc",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2628",
+      "first_seen_at": "2026-10-27T20:38:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1436135668": {
+      "created_at": "2026-10-27T18:38:08Z",
+      "display": "craftsoldier/sapling",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2626",
+      "first_seen_at": "2026-10-27T20:38:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1436217258": {
+      "created_at": "2026-10-27T20:00:11Z",
+      "display": "mayohalo/zdlc",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2625",
+      "first_seen_at": "2026-10-27T20:38:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1436225404": {
+      "created_at": "2026-10-27T20:08:40Z",
+      "display": "softalpha0/Crowdline",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2624",
+      "first_seen_at": "2026-10-27T20:38:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1436231499": {
+      "created_at": "2026-10-27T20:15:01Z",
+      "display": "VCDMVeneto/presidi",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2623",
+      "first_seen_at": "2026-10-27T20:38:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1436237822": {
+      "created_at": "2026-10-27T20:21:42Z",
+      "display": "SortyLorty/Draeven-Kross",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2622",
+      "first_seen_at": "2026-10-27T20:38:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1436250166": {
+      "created_at": "2026-10-27T20:35:04Z",
+      "display": "yinscode/zchan",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2621",
+      "first_seen_at": "2026-10-27T20:38:43Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -8227,9 +8323,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-27T16:08:27Z",
-    "forum": "2026-10-27T16:08:27Z",
-    "github": "2026-10-27T16:08:27Z",
-    "zcg": "2026-10-27T16:08:27Z"
+    "fixed_orgs": "2026-10-27T20:38:43Z",
+    "forum": "2026-10-27T20:38:43Z",
+    "github": "2026-10-27T20:38:43Z",
+    "zcg": "2026-10-27T20:38:43Z"
   }
 }
