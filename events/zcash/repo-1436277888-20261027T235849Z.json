@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T21:05:16Z",
+    "detected_at": "2026-10-27T23:58:49Z",
+    "display": "fozagtx/Noirbank",
+    "key": "repo:1436277888",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "fozagtx/Noirbank",
+      "homepage": null,
+      "pushed_at": "2026-10-27T22:32:35Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436277888,
+    "url": "https://github.com/fozagtx/Noirbank"
+  },
+  "schema": "zcash-fast-event/1"
+}
