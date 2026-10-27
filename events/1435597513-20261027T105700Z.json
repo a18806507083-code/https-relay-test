@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T10:50:21Z",
+    "description": "Telegram bot for Hood Cabals holders. Link your wallet, get a tier by how many you hold on Robinhood Chain, and get let into the matching private rooms. Rechecked daily.",
+    "detected_at": "2026-10-27T10:57:00Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "JoshFransix/hood-cabals-bot",
+    "homepage": null,
+    "html_url": "https://github.com/JoshFransix/hood-cabals-bot",
+    "pushed_at": "2026-10-27T10:54:11Z",
+    "repo_id": 1435597513,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
