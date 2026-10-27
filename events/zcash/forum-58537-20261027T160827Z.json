@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T14:46:45.591Z",
+    "detected_at": "2026-10-27T16:08:27Z",
+    "display": "58537  Grant Application: Unpair, a route aggregator through the shielded pool",
+    "key": "forum:58537",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "grant-application-unpair-a-route-aggregator-through-the-shielded-pool",
+      "title": " Grant Application: Unpair, a route aggregator through the shielded pool",
+      "topic_id": 58537
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58537,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-unpair-a-route-aggregator-through-the-shielded-pool/58537"
+  },
+  "schema": "zcash-fast-event/1"
+}
