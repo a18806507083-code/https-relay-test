@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T21:58:33Z",
+    "description": null,
+    "detected_at": "2026-10-27T23:58:26Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "RonitSDE/Hood-Rivals",
+    "homepage": null,
+    "html_url": "https://github.com/RonitSDE/Hood-Rivals",
+    "pushed_at": "2026-10-27T22:00:17Z",
+    "repo_id": 1436321865,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
