@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T23:24:35Z",
+    "detected_at": "2026-10-27T23:58:49Z",
+    "display": "fozagtx/ZecAid",
+    "key": "repo:1436384852",
+    "metadata": {
+      "description": "Offline aid allowance cards on Zcash",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "fozagtx/ZecAid",
+      "homepage": null,
+      "pushed_at": "2026-10-27T23:48:33Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436384852,
+    "url": "https://github.com/fozagtx/ZecAid"
+  },
+  "schema": "zcash-fast-event/1"
+}
