@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T00:25:25Z",
+    "description": null,
+    "detected_at": "2026-10-27T00:48:11Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "weircool/townies-contracts",
+    "homepage": null,
+    "html_url": "https://github.com/weircool/townies-contracts",
+    "pushed_at": "2026-10-27T00:26:33Z",
+    "repo_id": 1435071146,
+    "score": 13,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
