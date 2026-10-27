@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-12T07:56:47Z",
+    "description": "A curated list of free public APIs, open-source APIs, REST APIs, and developer tools across 50+ categories, with documentation, authentication, and pricing details.",
+    "detected_at": "2026-10-12T09:17:58Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "cpubyteofficial/The-Ultimate-Free-API-Mega-List",
+    "homepage": null,
+    "html_url": "https://github.com/cpubyteofficial/The-Ultimate-Free-API-Mega-List",
+    "pushed_at": "2026-10-12T08:03:38Z",
+    "repo_id": 1415268175,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Bridge",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
