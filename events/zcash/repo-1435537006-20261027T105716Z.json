@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T09:50:03Z",
+    "detected_at": "2026-10-27T10:57:16Z",
+    "display": "rptxsoftware/laurel",
+    "key": "repo:1435537006",
+    "metadata": {
+      "description": "Laurel: a self-custodial Zcash wallet for Android. Testnet only, not audited.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "rptxsoftware/laurel",
+      "homepage": "https://laurel.cash",
+      "pushed_at": "2026-10-27T10:48:04Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1435537006,
+    "url": "https://github.com/rptxsoftware/laurel"
+  },
+  "schema": "zcash-fast-event/1"
+}
