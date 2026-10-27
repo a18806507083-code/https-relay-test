@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T09:27:09Z",
+    "detected_at": "2026-10-27T10:57:16Z",
+    "display": "raizo07/LeakBench",
+    "key": "repo:1435512832",
+    "metadata": {
+      "description": "Privacy leak analyzer for Zcash — facts in, findings out. Scores transactions against 15 on-chain leak heuristics: turnstile amount disclosure, transparent legs, fee fingerprints, timing clusters.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "raizo07/LeakBench",
+      "homepage": "https://raizo07.github.io/LeakBench/",
+      "pushed_at": "2026-10-27T09:53:55Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1435512832,
+    "url": "https://github.com/raizo07/LeakBench"
+  },
+  "schema": "zcash-fast-event/1"
+}
