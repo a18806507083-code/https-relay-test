@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T12:43:55Z",
+    "detected_at": "2026-10-27T16:08:27Z",
+    "display": "shrooms08/zecraft",
+    "key": "repo:1435716794",
+    "metadata": {
+      "description": "A game engine for fair, private games on shielded Zcash. Built from Zeek.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "shrooms08/zecraft",
+      "homepage": "https://zecraft-production.up.railway.app",
+      "pushed_at": "2026-10-27T14:42:56Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1435716794,
+    "url": "https://github.com/shrooms08/zecraft"
+  },
+  "schema": "zcash-fast-event/1"
+}
