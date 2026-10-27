@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T10:36:49Z",
+    "detected_at": "2026-10-27T10:57:16Z",
+    "display": "Anuoluwapo25/frost-interop-lab",
+    "key": "repo:1435583912",
+    "metadata": {
+      "description": "Conformance and interoperability tests for Zcash FROST wallets: shared vectors, an adapter protocol and a cross-implementation compatibility report. ZECATHON 2026, Core & Tooling.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Anuoluwapo25/frost-interop-lab",
+      "homepage": null,
+      "pushed_at": "2026-10-27T10:40:56Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1435583912,
+    "url": "https://github.com/Anuoluwapo25/frost-interop-lab"
+  },
+  "schema": "zcash-fast-event/1"
+}
