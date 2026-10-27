@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T20:21:42Z",
+    "detected_at": "2026-10-27T20:38:43Z",
+    "display": "SortyLorty/Draeven-Kross",
+    "key": "repo:1436237822",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "SortyLorty/Draeven-Kross",
+      "homepage": null,
+      "pushed_at": "2026-10-27T20:25:46Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436237822,
+    "url": "https://github.com/SortyLorty/Draeven-Kross"
+  },
+  "schema": "zcash-fast-event/1"
+}
