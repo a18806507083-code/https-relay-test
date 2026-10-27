@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-26T23:05:11Z",
+    "detected_at": "2026-10-27T00:48:29Z",
+    "display": "devIykee/ash",
+    "key": "repo:1435019395",
+    "metadata": {
+      "description": "Privacy-first financial operations and agent commerce on shielded Zcash.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "devIykee/ash",
+      "homepage": "https://ash-nu-khaki.vercel.app",
+      "pushed_at": "2026-10-27T00:39:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1435019395,
+    "url": "https://github.com/devIykee/ash"
+  },
+  "schema": "zcash-fast-event/1"
+}
