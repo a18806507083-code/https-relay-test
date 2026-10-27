@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T21:25:11Z",
+    "detected_at": "2026-10-27T23:58:49Z",
+    "display": "misjay/sotto",
+    "key": "repo:1436294168",
+    "metadata": {
+      "description": "Private payment links on Zcash. Share a link, get paid in shielded ZEC.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "misjay/sotto",
+      "homepage": null,
+      "pushed_at": "2026-10-27T21:25:19Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436294168,
+    "url": "https://github.com/misjay/sotto"
+  },
+  "schema": "zcash-fast-event/1"
+}
