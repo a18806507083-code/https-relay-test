@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T17:20:20Z",
+    "detected_at": "2026-10-27T20:38:43Z",
+    "display": "davisantx/cyber-psoc",
+    "key": "repo:1436051225",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "davisantx/cyber-psoc",
+      "homepage": null,
+      "pushed_at": "2026-10-27T17:24:47Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436051225,
+    "url": "https://github.com/davisantx/cyber-psoc"
+  },
+  "schema": "zcash-fast-event/1"
+}
