@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T17:36:13.806Z",
+    "detected_at": "2026-10-27T20:38:43Z",
+    "display": "58540 Sapling: using any market from your Zcash wallet, one month in",
+    "key": "forum:58540",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "sapling-using-any-market-from-your-zcash-wallet-one-month-in",
+      "title": "Sapling: using any market from your Zcash wallet, one month in",
+      "topic_id": 58540
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58540,
+    "url": "https://forum.zcashcommunity.com/t/sapling-using-any-market-from-your-zcash-wallet-one-month-in/58540"
+  },
+  "schema": "zcash-fast-event/1"
+}
