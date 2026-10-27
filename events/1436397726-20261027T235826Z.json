@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T23:44:09Z",
+    "description": "Open RugTrip clients (TypeScript, Python, Rust): pre-trade rug-risk checks and live verdict stream for Robinhood Chain bots and agents",
+    "detected_at": "2026-10-27T23:58:26Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "kingcobra-123/rugtrip-sdk",
+    "homepage": null,
+    "html_url": "https://github.com/kingcobra-123/rugtrip-sdk",
+    "pushed_at": "2026-10-27T23:45:39Z",
+    "repo_id": 1436397726,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
