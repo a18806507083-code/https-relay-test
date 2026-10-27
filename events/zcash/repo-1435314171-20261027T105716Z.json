@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T05:59:29Z",
+    "detected_at": "2026-10-27T10:57:16Z",
+    "display": "BonBagi/watcher",
+    "key": "repo:1435314171",
+    "metadata": {
+      "description": "Check your own share of a BonBagi payment, on your own machine, with your own viewing key",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "BonBagi/watcher",
+      "homepage": null,
+      "pushed_at": "2026-10-27T06:26:31Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1435314171,
+    "url": "https://github.com/BonBagi/watcher"
+  },
+  "schema": "zcash-fast-event/1"
+}
