@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T20:08:40Z",
+    "detected_at": "2026-10-27T20:38:43Z",
+    "display": "softalpha0/Crowdline",
+    "key": "repo:1436225404",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "softalpha0/Crowdline",
+      "homepage": null,
+      "pushed_at": "2026-10-27T20:38:05Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436225404,
+    "url": "https://github.com/softalpha0/Crowdline"
+  },
+  "schema": "zcash-fast-event/1"
+}
