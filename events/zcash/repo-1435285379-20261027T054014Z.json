@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T05:23:30Z",
+    "detected_at": "2026-10-27T05:40:14Z",
+    "display": "Ay-obami/ShieldSpec",
+    "key": "repo:1435285379",
+    "metadata": {
+      "description": "Privacy regression testing for Zcash wallet transaction proposals",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Ay-obami/ShieldSpec",
+      "homepage": null,
+      "pushed_at": "2026-10-27T05:39:12Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1435285379,
+    "url": "https://github.com/Ay-obami/ShieldSpec"
+  },
+  "schema": "zcash-fast-event/1"
+}
