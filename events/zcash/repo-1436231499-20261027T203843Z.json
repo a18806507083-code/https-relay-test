@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T20:15:01Z",
+    "detected_at": "2026-10-27T20:38:43Z",
+    "display": "VCDMVeneto/presidi",
+    "key": "repo:1436231499",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "VCDMVeneto/presidi",
+      "homepage": null,
+      "pushed_at": "2026-10-27T20:20:04Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436231499,
+    "url": "https://github.com/VCDMVeneto/presidi"
+  },
+  "schema": "zcash-fast-event/1"
+}
