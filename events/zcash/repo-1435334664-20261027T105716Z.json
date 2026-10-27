@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T06:23:17Z",
+    "detected_at": "2026-10-27T10:57:16Z",
+    "display": "Cyano88/veildesk",
+    "key": "repo:1435334664",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Cyano88/veildesk",
+      "homepage": null,
+      "pushed_at": "2026-10-27T09:44:15Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1435334664,
+    "url": "https://github.com/Cyano88/veildesk"
+  },
+  "schema": "zcash-fast-event/1"
+}
