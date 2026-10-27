@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T11:31:42Z",
+    "detected_at": "2026-10-27T16:08:27Z",
+    "display": "#519 Grant Application - Unpair",
+    "key": "zcg:6058335214",
+    "metadata": {
+      "author": "zakrad",
+      "issue_number": 519,
+      "labels": [],
+      "title": "Grant Application - Unpair"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6058335214,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/519"
+  },
+  "schema": "zcash-fast-event/1"
+}
