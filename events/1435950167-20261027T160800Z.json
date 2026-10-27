@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T15:53:55Z",
+    "description": null,
+    "detected_at": "2026-10-27T16:08:00Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "oldhawk007xd/oldhawk-line",
+    "homepage": null,
+    "html_url": "https://github.com/oldhawk007xd/oldhawk-line",
+    "pushed_at": "2026-10-27T16:07:23Z",
+    "repo_id": 1435950167,
+    "score": 7,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
