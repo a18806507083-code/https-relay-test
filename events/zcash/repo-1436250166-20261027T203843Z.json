@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T20:35:04Z",
+    "detected_at": "2026-10-27T20:38:43Z",
+    "display": "yinscode/zchan",
+    "key": "repo:1436250166",
+    "metadata": {
+      "description": "payment channels on Zcash, x402 and MPP, micropayments in milliseconds",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "yinscode/zchan",
+      "homepage": null,
+      "pushed_at": "2026-10-27T20:36:31Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436250166,
+    "url": "https://github.com/yinscode/zchan"
+  },
+  "schema": "zcash-fast-event/1"
+}
