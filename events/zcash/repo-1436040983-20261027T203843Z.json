@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T17:11:14Z",
+    "detected_at": "2026-10-27T20:38:43Z",
+    "display": "limbotechie/splytai",
+    "key": "repo:1436040983",
+    "metadata": {
+      "description": "Splyt turns shared real-world expenses into private, shielded Zcash (ZEC) reimbursement requests.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "limbotechie/splytai",
+      "homepage": "https://splytai.vercel.app",
+      "pushed_at": "2026-10-27T17:54:26Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436040983,
+    "url": "https://github.com/limbotechie/splytai"
+  },
+  "schema": "zcash-fast-event/1"
+}
