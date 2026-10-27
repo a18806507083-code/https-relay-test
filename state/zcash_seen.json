@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-27T00:48:29Z",
+  "last_run_at": "2026-10-27T05:40:14Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-26T21:11:19Z",
+      "cutoff": "2026-10-27T00:18:29Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-26T21:11:19Z",
+      "cutoff": "2026-10-27T00:18:29Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-26T21:11:19Z",
-      "matches": 4,
+      "cutoff": "2026-10-27T00:18:29Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-26T21:11:19Z",
-      "matches": 1,
+      "cutoff": "2026-10-27T00:18:29Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -1701,6 +1701,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2591",
       "first_seen_at": "2026-10-27T00:48:29Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58519": {
+      "created_at": "2026-10-27T01:25:18.586Z",
+      "display": "58519 Draft ZIP: Dev Fund Soft Landing",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2597",
+      "first_seen_at": "2026-10-27T05:40:14Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -7303,6 +7311,30 @@
       "first_seen_at": "2026-10-27T00:48:29Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1435098786": {
+      "created_at": "2026-10-27T01:07:35Z",
+      "display": "Bilalsnz/leak",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2598",
+      "first_seen_at": "2026-10-27T05:40:14Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1435246917": {
+      "created_at": "2026-10-27T04:31:37Z",
+      "display": "kodaneflash/larp-ledger-wallet-ios-clone",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2596",
+      "first_seen_at": "2026-10-27T05:40:14Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1435285379": {
+      "created_at": "2026-10-27T05:23:30Z",
+      "display": "Ay-obami/ShieldSpec",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2595",
+      "first_seen_at": "2026-10-27T05:40:14Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -8075,9 +8107,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-27T00:48:29Z",
-    "forum": "2026-10-27T00:48:29Z",
-    "github": "2026-10-27T00:48:29Z",
-    "zcg": "2026-10-27T00:48:29Z"
+    "fixed_orgs": "2026-10-27T05:40:14Z",
+    "forum": "2026-10-27T05:40:14Z",
+    "github": "2026-10-27T05:40:14Z",
+    "zcg": "2026-10-27T05:40:14Z"
   }
 }
