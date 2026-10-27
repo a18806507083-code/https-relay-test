@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T08:10:39.990Z",
+    "detected_at": "2026-10-27T10:57:16Z",
+    "display": "58527 Poll: Gauging community opinion about ZCG",
+    "key": "forum:58527",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "poll-gauging-community-opinion-about-zcg",
+      "title": "Poll: Gauging community opinion about ZCG",
+      "topic_id": 58527
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58527,
+    "url": "https://forum.zcashcommunity.com/t/poll-gauging-community-opinion-about-zcg/58527"
+  },
+  "schema": "zcash-fast-event/1"
+}
