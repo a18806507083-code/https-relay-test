@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T05:49:42Z",
+    "detected_at": "2026-10-27T10:57:16Z",
+    "display": "BonBagi/frontend",
+    "key": "repo:1435306158",
+    "metadata": {
+      "description": "BonBagi: one Zcash shielded payment, split to every member of a collective in one transaction. Live app.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "BonBagi/frontend",
+      "homepage": "https://bonbagi.vercel.app",
+      "pushed_at": "2026-10-27T06:34:28Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1435306158,
+    "url": "https://github.com/BonBagi/frontend"
+  },
+  "schema": "zcash-fast-event/1"
+}
