@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T23:50:45Z",
+    "detected_at": "2026-10-28T03:51:44Z",
+    "display": "jonwalch/zdn",
+    "key": "repo:1436402107",
+    "metadata": {
+      "description": "Experimental ZDN preview",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "jonwalch/zdn",
+      "homepage": null,
+      "pushed_at": "2026-10-28T02:52:12Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436402107,
+    "url": "https://github.com/jonwalch/zdn"
+  },
+  "schema": "zcash-fast-event/1"
+}
