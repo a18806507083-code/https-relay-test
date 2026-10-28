@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T13:05:55Z",
+    "detected_at": "2026-10-28T16:33:37Z",
+    "display": "komvalut/tariffia-wallet",
+    "key": "repo:1437098116",
+    "metadata": {
+      "description": "Tariffia Wallet - independent Android crypto wallet",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "komvalut/tariffia-wallet",
+      "homepage": null,
+      "pushed_at": "2026-10-28T16:27:33Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437098116,
+    "url": "https://github.com/komvalut/tariffia-wallet"
+  },
+  "schema": "zcash-fast-event/1"
+}
