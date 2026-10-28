@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T09:40:51Z",
+    "detected_at": "2026-10-28T10:03:20Z",
+    "display": "0xStruct/zylem",
+    "key": "repo:1436879016",
+    "metadata": {
+      "description": "zylem",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "0xStruct/zylem",
+      "homepage": null,
+      "pushed_at": "2026-10-28T09:42:19Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436879016,
+    "url": "https://github.com/0xStruct/zylem"
+  },
+  "schema": "zcash-fast-event/1"
+}
