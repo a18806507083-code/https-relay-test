@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T06:40:29Z",
+    "detected_at": "2026-10-28T10:03:20Z",
+    "display": "valeriusxix/asiri",
+    "key": "repo:1436703028",
+    "metadata": {
+      "description": "Asiri let’s a community fund (mutual aid, disaster relief, legal defence, medical support) receive donations and pay people privately on Zcash, without anyone needing a wallet. Organizers send a payment as a link over WhatsApp or SMS.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "valeriusxix/asiri",
+      "homepage": null,
+      "pushed_at": "2026-10-28T06:41:58Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436703028,
+    "url": "https://github.com/valeriusxix/asiri"
+  },
+  "schema": "zcash-fast-event/1"
+}
