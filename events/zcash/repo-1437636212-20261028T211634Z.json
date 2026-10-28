@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T21:12:08Z",
+    "detected_at": "2026-10-28T21:16:34Z",
+    "display": "shinothelegend/koma-zcash",
+    "key": "repo:1437636212",
+    "metadata": {
+      "description": "KOMA: a private comic series launchpad and reader, backed by shielded Zcash testnet payments.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "shinothelegend/koma-zcash",
+      "homepage": null,
+      "pushed_at": "2026-10-28T21:12:14Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437636212,
+    "url": "https://github.com/shinothelegend/koma-zcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
