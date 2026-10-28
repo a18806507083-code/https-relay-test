@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T20:43:21Z",
+    "detected_at": "2026-10-28T21:16:34Z",
+    "display": "nicolasholman/fuin-zcash",
+    "key": "repo:1437610313",
+    "metadata": {
+      "description": "Fuin: sealed-bid auctions with shielded Zcash settlement and browser-verifiable proofs. Zcash testnet.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "nicolasholman/fuin-zcash",
+      "homepage": "https://fuin-landing.vercel.app",
+      "pushed_at": "2026-10-28T20:43:30Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437610313,
+    "url": "https://github.com/nicolasholman/fuin-zcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
