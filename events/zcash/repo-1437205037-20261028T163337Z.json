@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T14:34:10Z",
+    "detected_at": "2026-10-28T16:33:37Z",
+    "display": "takologi/pirate-bootstrap",
+    "key": "repo:1437205037",
+    "metadata": {
+      "description": "Pirate Chain (ARRR) block data bootstrap snapshots",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "takologi/pirate-bootstrap",
+      "homepage": null,
+      "pushed_at": "2026-10-28T16:05:07Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437205037,
+    "url": "https://github.com/takologi/pirate-bootstrap"
+  },
+  "schema": "zcash-fast-event/1"
+}
