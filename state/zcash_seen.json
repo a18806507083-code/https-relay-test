@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-27T23:58:49Z",
+  "last_run_at": "2026-10-28T03:51:44Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-27T20:08:43Z",
+      "cutoff": "2026-10-27T23:28:49Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-27T20:08:43Z",
-      "matches": 2,
+      "cutoff": "2026-10-27T23:28:49Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-27T20:08:43Z",
-      "matches": 9,
+      "cutoff": "2026-10-27T23:28:49Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-27T20:08:43Z",
-      "matches": 0,
+      "cutoff": "2026-10-27T23:28:49Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -7607,6 +7607,14 @@
       "first_seen_at": "2026-10-27T23:58:49Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1436402107": {
+      "created_at": "2026-10-27T23:50:45Z",
+      "display": "jonwalch/zdn",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2647",
+      "first_seen_at": "2026-10-28T03:51:44Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -8382,14 +8390,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2620",
       "first_seen_at": "2026-10-27T16:08:27Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6071104575": {
+      "created_at": "2026-10-28T01:59:54Z",
+      "display": "#520 Grant Application - Authenticated Shielded Sync Gateway",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2646",
+      "first_seen_at": "2026-10-28T03:51:44Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-27T23:58:49Z",
-    "forum": "2026-10-27T23:58:49Z",
-    "github": "2026-10-27T23:58:49Z",
-    "zcg": "2026-10-27T23:58:49Z"
+    "fixed_orgs": "2026-10-28T03:51:44Z",
+    "forum": "2026-10-28T03:51:44Z",
+    "github": "2026-10-28T03:51:44Z",
+    "zcg": "2026-10-28T03:51:44Z"
   }
 }
