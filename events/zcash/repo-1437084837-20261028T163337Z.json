@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T12:54:29Z",
+    "detected_at": "2026-10-28T16:33:37Z",
+    "display": "etvjay/murmur",
+    "key": "repo:1437084837",
+    "metadata": {
+      "description": "Pay and talk when the network won't: a carrier for shielded Zcash payments and sealed notes between devices. Zcash testnet only. ZECATHON, Shielded Payments.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "etvjay/murmur",
+      "homepage": "https://murmurz.vercel.app",
+      "pushed_at": "2026-10-28T13:00:31Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437084837,
+    "url": "https://github.com/etvjay/murmur"
+  },
+  "schema": "zcash-fast-event/1"
+}
