@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T07:03:41Z",
+    "detected_at": "2026-10-28T10:03:20Z",
+    "display": "mikemoulder/zecpy-demo",
+    "key": "repo:1436724377",
+    "metadata": {
+      "description": "ZecPy Live: a replay of shielded wallet traffic",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "mikemoulder/zecpy-demo",
+      "homepage": "https://zecpy-live.pages.dev",
+      "pushed_at": "2026-10-28T07:04:15Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436724377,
+    "url": "https://github.com/mikemoulder/zecpy-demo"
+  },
+  "schema": "zcash-fast-event/1"
+}
