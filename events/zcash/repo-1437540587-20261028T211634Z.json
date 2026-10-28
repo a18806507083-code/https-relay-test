@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T19:29:07Z",
+    "detected_at": "2026-10-28T21:16:34Z",
+    "display": "kiocos/shielded-bitcoin",
+    "key": "repo:1437540587",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "kiocos/shielded-bitcoin",
+      "homepage": null,
+      "pushed_at": "2026-10-28T20:39:02Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437540587,
+    "url": "https://github.com/kiocos/shielded-bitcoin"
+  },
+  "schema": "zcash-fast-event/1"
+}
