@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T15:38:34Z",
+    "description": "A gothic Halloween-inspired meme project built around the Robinhood Chain community. The Hood After Dark. CA: 0xe7e87a25c9e2f7762ceaaf2ff07accf701279b71",
+    "detected_at": "2026-10-28T16:33:19Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "draculahood/draculahood",
+    "homepage": "draculahood.xyz",
+    "html_url": "https://github.com/draculahood/draculahood",
+    "pushed_at": "2026-10-28T16:03:54Z",
+    "repo_id": 1437285432,
+    "score": 17,
+    "tech_signals": [
+      "Oracle",
+      "Launchpad",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
