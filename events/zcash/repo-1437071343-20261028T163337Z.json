@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T12:43:26Z",
+    "detected_at": "2026-10-28T16:33:37Z",
+    "display": "Rampop01/zcash-developer-verification",
+    "key": "repo:1437071343",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Rampop01/zcash-developer-verification",
+      "homepage": null,
+      "pushed_at": "2026-10-28T12:44:37Z",
+      "tech_signals": [
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437071343,
+    "url": "https://github.com/Rampop01/zcash-developer-verification"
+  },
+  "schema": "zcash-fast-event/1"
+}
