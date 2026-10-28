@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T08:54:28Z",
+    "detected_at": "2026-10-28T10:03:20Z",
+    "display": "onlysniper447-stack/fordnet",
+    "key": "repo:1436830041",
+    "metadata": {
+      "description": "Fordnet — Zcash network intelligence dashboard + public REST API (ZECATHON Core & Tooling)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "onlysniper447-stack/fordnet",
+      "homepage": null,
+      "pushed_at": "2026-10-28T09:09:35Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436830041,
+    "url": "https://github.com/onlysniper447-stack/fordnet"
+  },
+  "schema": "zcash-fast-event/1"
+}
