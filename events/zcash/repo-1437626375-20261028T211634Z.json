@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T21:00:51Z",
+    "detected_at": "2026-10-28T21:16:34Z",
+    "display": "robinbanter/kippu-zcash",
+    "key": "repo:1437626375",
+    "metadata": {
+      "description": "Kippu: prepaid API tickets funded with shielded Zcash; zero-knowledge proofs pay per call without a new transaction. Zcash testnet.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "robinbanter/kippu-zcash",
+      "homepage": "https://kippu-landing.vercel.app",
+      "pushed_at": "2026-10-28T21:01:00Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437626375,
+    "url": "https://github.com/robinbanter/kippu-zcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
