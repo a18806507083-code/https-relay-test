@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T16:33:28Z",
+    "detected_at": "2026-10-28T16:33:37Z",
+    "display": "0xBaqi/veilreceipt",
+    "key": "repo:1437350062",
+    "metadata": {
+      "description": "Zcash shielded payment requests for merchants",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "0xBaqi/veilreceipt",
+      "homepage": null,
+      "pushed_at": "2026-10-28T16:33:30Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437350062,
+    "url": "https://github.com/0xBaqi/veilreceipt"
+  },
+  "schema": "zcash-fast-event/1"
+}
