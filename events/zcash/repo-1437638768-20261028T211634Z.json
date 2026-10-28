@@ -1,0 +1,34 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T21:15:04Z",
+    "detected_at": "2026-10-28T21:16:34Z",
+    "display": "thenaradmin/misthos-zcash",
+    "key": "repo:1437638768",
+    "metadata": {
+      "description": "Misthos: shielded Zcash payroll, per-employee signed proof of pay, retry safeguards and an accountant ledger. Testnet only.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "thenaradmin/misthos-zcash",
+      "homepage": "https://misthos-api.201-18-198-162.sslip.io",
+      "pushed_at": "2026-10-28T21:15:12Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437638768,
+    "url": "https://github.com/thenaradmin/misthos-zcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
