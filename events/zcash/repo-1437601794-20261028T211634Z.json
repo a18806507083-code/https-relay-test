@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T20:34:07Z",
+    "detected_at": "2026-10-28T21:16:34Z",
+    "display": "modemnakata/monero-is-awesome",
+    "key": "repo:1437601794",
+    "metadata": {
+      "description": "Monero onboarding, advocacy, and resource hub — why Monero, how to use it, and everything you need to know",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "modemnakata/monero-is-awesome",
+      "homepage": null,
+      "pushed_at": "2026-10-28T20:36:58Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437601794,
+    "url": "https://github.com/modemnakata/monero-is-awesome"
+  },
+  "schema": "zcash-fast-event/1"
+}
