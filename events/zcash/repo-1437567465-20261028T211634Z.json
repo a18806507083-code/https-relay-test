@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T19:56:45Z",
+    "detected_at": "2026-10-28T21:16:34Z",
+    "display": "adamzkdev/zscan-api-source",
+    "key": "repo:1437567465",
+    "metadata": {
+      "description": "ZScan indexer and public Zcash data API: source distribution without operator-specific deployment files",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "adamzkdev/zscan-api-source",
+      "homepage": null,
+      "pushed_at": "2026-10-28T19:56:50Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437567465,
+    "url": "https://github.com/adamzkdev/zscan-api-source"
+  },
+  "schema": "zcash-fast-event/1"
+}
