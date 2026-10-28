@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T20:41:20Z",
+    "detected_at": "2026-10-28T21:16:34Z",
+    "display": "modemnakata/zcash-critique",
+    "key": "repo:1437608530",
+    "metadata": {
+      "description": "Technical critique of Zcash: trusted setup, opt-in privacy, centralized governance, and why it fails as private money",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "modemnakata/zcash-critique",
+      "homepage": null,
+      "pushed_at": "2026-10-28T20:44:06Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437608530,
+    "url": "https://github.com/modemnakata/zcash-critique"
+  },
+  "schema": "zcash-fast-event/1"
+}
