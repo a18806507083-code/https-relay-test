@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T16:03:47Z",
+    "detected_at": "2026-10-28T16:33:37Z",
+    "display": "Milliebanned/cadence",
+    "key": "repo:1437315503",
+    "metadata": {
+      "description": "Private autopay for Zcash subscriptions: signed mandates, per-cycle shielded payments, a merchant that holds only a viewing key. ZECATHON 2026 · Shielded Payments.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "Milliebanned/cadence",
+      "homepage": "https://cadence.milliebanned.xyz",
+      "pushed_at": "2026-10-28T16:03:57Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437315503,
+    "url": "https://github.com/Milliebanned/cadence"
+  },
+  "schema": "zcash-fast-event/1"
+}
