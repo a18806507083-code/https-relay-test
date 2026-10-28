@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T13:38:38.503Z",
+    "detected_at": "2026-10-28T16:33:37Z",
+    "display": "58554 Grant Application - Post-quantum readiness inventory for the Zcash stack",
+    "key": "forum:58554",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-post-quantum-readiness-inventory-for-the-zcash-stack",
+      "title": "Grant Application - Post-quantum readiness inventory for the Zcash stack",
+      "topic_id": 58554
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58554,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-post-quantum-readiness-inventory-for-the-zcash-stack/58554"
+  },
+  "schema": "zcash-fast-event/1"
+}
