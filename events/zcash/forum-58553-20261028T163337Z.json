@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T13:37:00.787Z",
+    "detected_at": "2026-10-28T16:33:37Z",
+    "display": "58553 Is a 3-hour wait sane for a checkpoint-based SPV swap?",
+    "key": "forum:58553",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "is-a-3-hour-wait-sane-for-a-checkpoint-based-spv-swap",
+      "title": "Is a 3-hour wait sane for a checkpoint-based SPV swap?",
+      "topic_id": 58553
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58553,
+    "url": "https://forum.zcashcommunity.com/t/is-a-3-hour-wait-sane-for-a-checkpoint-based-spv-swap/58553"
+  },
+  "schema": "zcash-fast-event/1"
+}
