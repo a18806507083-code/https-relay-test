@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T04:16:58Z",
+    "detected_at": "2026-10-28T10:03:20Z",
+    "display": "rugmasterr/sproutbnb",
+    "key": "repo:1436588899",
+    "metadata": {
+      "description": "Sprout 春笋 — the Zcash-native launchpad on BNB Chain, built on Flap",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "rugmasterr/sproutbnb",
+      "homepage": "https://sproutbnb.vercel.app",
+      "pushed_at": "2026-10-28T06:03:28Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1436588899,
+    "url": "https://github.com/rugmasterr/sproutbnb"
+  },
+  "schema": "zcash-fast-event/1"
+}
