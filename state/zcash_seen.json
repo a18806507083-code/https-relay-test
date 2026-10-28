@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-28T16:33:37Z",
+  "last_run_at": "2026-10-28T21:16:34Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-28T09:33:20Z",
+      "cutoff": "2026-10-28T16:03:37Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-28T09:33:20Z",
-      "matches": 3,
+      "cutoff": "2026-10-28T16:03:37Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-28T09:33:20Z",
-      "matches": 12,
+      "cutoff": "2026-10-28T16:03:37Z",
+      "matches": 25,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-28T09:33:20Z",
+      "cutoff": "2026-10-28T16:03:37Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -7775,6 +7775,102 @@
       "first_seen_at": "2026-10-28T16:33:37Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1437540587": {
+      "created_at": "2026-10-28T19:29:07Z",
+      "display": "kiocos/shielded-bitcoin",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2684",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1437567465": {
+      "created_at": "2026-10-28T19:56:45Z",
+      "display": "adamzkdev/zscan-api-source",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2683",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1437601794": {
+      "created_at": "2026-10-28T20:34:07Z",
+      "display": "modemnakata/monero-is-awesome",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2682",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1437608530": {
+      "created_at": "2026-10-28T20:41:20Z",
+      "display": "modemnakata/zcash-critique",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2681",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1437610313": {
+      "created_at": "2026-10-28T20:43:21Z",
+      "display": "nicolasholman/fuin-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2680",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1437612863": {
+      "created_at": "2026-10-28T20:46:05Z",
+      "display": "niveshgajengi/fuin-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2679",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1437615824": {
+      "created_at": "2026-10-28T20:49:13Z",
+      "display": "nicolasholman/kage-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2678",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1437621794": {
+      "created_at": "2026-10-28T20:55:39Z",
+      "display": "krishnacodes9/hanko-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2677",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1437626375": {
+      "created_at": "2026-10-28T21:00:51Z",
+      "display": "robinbanter/kippu-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2676",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1437634185": {
+      "created_at": "2026-10-28T21:09:41Z",
+      "display": "KristenAB/lethe-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2675",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1437636212": {
+      "created_at": "2026-10-28T21:12:08Z",
+      "display": "shinothelegend/koma-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2674",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1437638768": {
+      "created_at": "2026-10-28T21:15:04Z",
+      "display": "thenaradmin/misthos-zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2673",
+      "first_seen_at": "2026-10-28T21:16:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -8563,9 +8659,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-28T16:33:37Z",
-    "forum": "2026-10-28T16:33:37Z",
-    "github": "2026-10-28T16:33:37Z",
-    "zcg": "2026-10-28T16:33:37Z"
+    "fixed_orgs": "2026-10-28T21:16:34Z",
+    "forum": "2026-10-28T21:16:34Z",
+    "github": "2026-10-28T21:16:34Z",
+    "zcg": "2026-10-28T21:16:34Z"
   }
 }
