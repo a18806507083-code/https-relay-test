@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T21:56:15Z",
+    "detected_at": "2026-10-29T00:59:53Z",
+    "display": "A-R-A-on-X/Zecwild",
+    "key": "repo:1437672252",
+    "metadata": {
+      "description": "Zecwild auction platform",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "A-R-A-on-X/Zecwild",
+      "homepage": null,
+      "pushed_at": "2026-10-28T23:47:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437672252,
+    "url": "https://github.com/A-R-A-on-X/Zecwild"
+  },
+  "schema": "zcash-fast-event/1"
+}
