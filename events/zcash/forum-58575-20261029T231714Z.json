@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T19:58:29.335Z",
+    "detected_at": "2026-10-29T23:17:14Z",
+    "display": "58575 Introducing HIDN: A Room Without Names — Anonymous Confessions Built on Zcash",
+    "key": "forum:58575",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "introducing-hidn-a-room-without-names-anonymous-confessions-built-on-zcash",
+      "title": "Introducing HIDN: A Room Without Names — Anonymous Confessions Built on Zcash",
+      "topic_id": 58575
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58575,
+    "url": "https://forum.zcashcommunity.com/t/introducing-hidn-a-room-without-names-anonymous-confessions-built-on-zcash/58575"
+  },
+  "schema": "zcash-fast-event/1"
+}
