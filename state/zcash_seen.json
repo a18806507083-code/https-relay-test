@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-29T13:45:23Z",
+  "last_run_at": "2026-10-29T19:14:10Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-29T06:16:37Z",
+      "cutoff": "2026-10-29T13:15:23Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-29T06:16:37Z",
-      "matches": 1,
+      "cutoff": "2026-10-29T13:15:23Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-29T06:16:37Z",
-      "matches": 4,
+      "cutoff": "2026-10-29T13:15:23Z",
+      "matches": 5,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-29T06:16:37Z",
-      "matches": 0,
+      "cutoff": "2026-10-29T13:15:23Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -1813,6 +1813,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2707",
       "first_seen_at": "2026-10-29T13:45:23Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58571": {
+      "created_at": "2026-10-29T17:09:22.467Z",
+      "display": "58571 We can disagree about grants. There’s no room for hate",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2721",
+      "first_seen_at": "2026-10-29T19:14:10Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8023,6 +8031,46 @@
       "first_seen_at": "2026-10-29T13:45:23Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1438712658": {
+      "created_at": "2026-10-29T16:58:51Z",
+      "display": "S1nus/tachyon-faucet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2722",
+      "first_seen_at": "2026-10-29T19:14:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1438762793": {
+      "created_at": "2026-10-29T17:43:18Z",
+      "display": "actions-marketplace-validations/Ay-obami_ShieldSpec",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2720",
+      "first_seen_at": "2026-10-29T19:14:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1438773512": {
+      "created_at": "2026-10-29T17:53:01Z",
+      "display": "AlekseyKoks-in/qsi-audits",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2719",
+      "first_seen_at": "2026-10-29T19:14:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1438792372": {
+      "created_at": "2026-10-29T18:11:00Z",
+      "display": "iJaack/zcash-client-diversity",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2718",
+      "first_seen_at": "2026-10-29T19:14:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1438831321": {
+      "created_at": "2026-10-29T18:50:00Z",
+      "display": "nickthelegend/koma-zec",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2717",
+      "first_seen_at": "2026-10-29T19:14:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -8806,14 +8854,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2646",
       "first_seen_at": "2026-10-28T03:51:44Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6106577528": {
+      "created_at": "2026-10-29T19:00:36Z",
+      "display": "#521 Grant Application - {Zarcade}",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2716",
+      "first_seen_at": "2026-10-29T19:14:10Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-29T13:45:23Z",
-    "forum": "2026-10-29T13:45:23Z",
-    "github": "2026-10-29T13:45:23Z",
-    "zcg": "2026-10-29T13:45:23Z"
+    "fixed_orgs": "2026-10-29T19:14:10Z",
+    "forum": "2026-10-29T19:14:10Z",
+    "github": "2026-10-29T19:14:10Z",
+    "zcg": "2026-10-29T19:14:10Z"
   }
 }
