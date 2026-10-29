@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T20:44:12.847Z",
+    "detected_at": "2026-10-29T23:17:14Z",
+    "display": "58583 Grant Application - Zynova: Online Zcash Privacy Education and Adoption Programme",
+    "key": "forum:58583",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zynova-online-zcash-privacy-education-and-adoption-programme",
+      "title": "Grant Application - Zynova: Online Zcash Privacy Education and Adoption Programme",
+      "topic_id": 58583
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58583,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zynova-online-zcash-privacy-education-and-adoption-programme/58583"
+  },
+  "schema": "zcash-fast-event/1"
+}
