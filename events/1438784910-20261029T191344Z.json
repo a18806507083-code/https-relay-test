@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T18:03:54Z",
+    "description": "USDG credit, repayment records and fee-backed capital for AI agents on Robinhood Chain.",
+    "detected_at": "2026-10-29T19:13:44Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "MeritReef/merit",
+    "homepage": null,
+    "html_url": "https://github.com/MeritReef/merit",
+    "pushed_at": "2026-10-29T18:16:52Z",
+    "repo_id": 1438784910,
+    "score": 12,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
