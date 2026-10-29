@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T21:23:21Z",
+    "detected_at": "2026-10-29T00:59:53Z",
+    "display": "drizzleshine/Zireh",
+    "key": "repo:1437645745",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "drizzleshine/Zireh",
+      "homepage": null,
+      "pushed_at": "2026-10-28T23:46:31Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437645745,
+    "url": "https://github.com/drizzleshine/Zireh"
+  },
+  "schema": "zcash-fast-event/1"
+}
