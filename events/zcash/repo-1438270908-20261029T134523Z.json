@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T10:34:00Z",
+    "detected_at": "2026-10-29T13:45:23Z",
+    "display": "Andrea756934/pokemon-game-lookalike",
+    "key": "repo:1438270908",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Andrea756934/pokemon-game-lookalike",
+      "homepage": null,
+      "pushed_at": "2026-10-29T10:35:33Z",
+      "tech_signals": [
+        "node/indexer",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1438270908,
+    "url": "https://github.com/Andrea756934/pokemon-game-lookalike"
+  },
+  "schema": "zcash-fast-event/1"
+}
