@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T22:55:21Z",
+    "detected_at": "2026-10-29T00:59:53Z",
+    "display": "Jennivarl/qr-invoice",
+    "key": "repo:1437714865",
+    "metadata": {
+      "description": "Private invoice links for crypto freelancers. Get paid in ZEC or USDC from any chain, settled shielded on Zcash.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "Jennivarl/qr-invoice",
+      "homepage": "https://164-92-130-154.sslip.io",
+      "pushed_at": "2026-10-28T23:28:51Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437714865,
+    "url": "https://github.com/Jennivarl/qr-invoice"
+  },
+  "schema": "zcash-fast-event/1"
+}
