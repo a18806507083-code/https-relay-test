@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T13:34:54.619Z",
+    "detected_at": "2026-10-29T13:45:23Z",
+    "display": "58566 ZCG gets too much ZEC. Here's our plan to fix that. 🛡️",
+    "key": "forum:58566",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcg-gets-too-much-zec-heres-our-plan-to-fix-that",
+      "title": "ZCG gets too much ZEC. Here's our plan to fix that. 🛡️",
+      "topic_id": 58566
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58566,
+    "url": "https://forum.zcashcommunity.com/t/zcg-gets-too-much-zec-heres-our-plan-to-fix-that/58566"
+  },
+  "schema": "zcash-fast-event/1"
+}
