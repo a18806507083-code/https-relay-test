@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T23:24:55Z",
+    "detected_at": "2026-10-29T00:59:53Z",
+    "display": "RafayImraan/zk-hedge",
+    "key": "repo:1437735264",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "RafayImraan/zk-hedge",
+      "homepage": "https://zk-beryl.vercel.app",
+      "pushed_at": "2026-10-28T23:27:33Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437735264,
+    "url": "https://github.com/RafayImraan/zk-hedge"
+  },
+  "schema": "zcash-fast-event/1"
+}
