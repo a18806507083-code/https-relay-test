@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T22:11:37Z",
+    "detected_at": "2026-10-29T23:17:14Z",
+    "display": "ghostswap1/crypto-address-checker",
+    "key": "repo:1439010698",
+    "metadata": {
+      "description": "Offline crypto address checker: real checksum validation for BTC, XMR, ZEC, ETH/EVM, LTC, TRX, SOL and more. No network calls.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "ghostswap1/crypto-address-checker",
+      "homepage": "https://ghostswap.io/tools/crypto-address-checker/",
+      "pushed_at": "2026-10-29T22:11:43Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1439010698,
+    "url": "https://github.com/ghostswap1/crypto-address-checker"
+  },
+  "schema": "zcash-fast-event/1"
+}
