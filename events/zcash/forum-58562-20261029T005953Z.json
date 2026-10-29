@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T21:23:42.228Z",
+    "detected_at": "2026-10-29T00:59:53Z",
+    "display": "58562 ZIP 1016 Grant Proposal: Long-Term Post-Upgrade Growth Strategy for 2027",
+    "key": "forum:58562",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "zip-1016-grant-proposal-long-term-post-upgrade-growth-strategy-for-2027",
+      "title": "ZIP 1016 Grant Proposal: Long-Term Post-Upgrade Growth Strategy for 2027",
+      "topic_id": 58562
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58562,
+    "url": "https://forum.zcashcommunity.com/t/zip-1016-grant-proposal-long-term-post-upgrade-growth-strategy-for-2027/58562"
+  },
+  "schema": "zcash-fast-event/1"
+}
