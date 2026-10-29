@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T21:00:29Z",
+    "detected_at": "2026-10-29T00:59:53Z",
+    "display": "michaelo27/Zekit",
+    "key": "repo:1437626021",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "michaelo27/Zekit",
+      "homepage": "https://playground-pearl-phi.vercel.app",
+      "pushed_at": "2026-10-29T00:02:43Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1437626021,
+    "url": "https://github.com/michaelo27/Zekit"
+  },
+  "schema": "zcash-fast-event/1"
+}
