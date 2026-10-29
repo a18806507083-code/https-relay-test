@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T19:00:36Z",
+    "detected_at": "2026-10-29T19:14:10Z",
+    "display": "#521 Grant Application - {Zarcade}",
+    "key": "zcg:6106577528",
+    "metadata": {
+      "author": "Valorian0108",
+      "issue_number": 521,
+      "labels": [],
+      "title": "Grant Application - {Zarcade}"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6106577528,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/521"
+  },
+  "schema": "zcash-fast-event/1"
+}
