@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T23:13:11Z",
+    "description": "Runehood: Bitcoin Runes launchpad",
+    "detected_at": "2026-10-29T00:59:35Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "RuneHood/runehood-app",
+    "homepage": "https://runehood.fun",
+    "html_url": "https://github.com/RuneHood/runehood-app",
+    "pushed_at": "2026-10-29T00:22:52Z",
+    "repo_id": 1437727054,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock",
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
