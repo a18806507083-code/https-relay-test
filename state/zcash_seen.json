@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-29T06:46:37Z",
+  "last_run_at": "2026-10-29T13:45:23Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-29T00:29:53Z",
+      "cutoff": "2026-10-29T06:16:37Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-29T00:29:53Z",
+      "cutoff": "2026-10-29T06:16:37Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-29T00:29:53Z",
-      "matches": 1,
+      "cutoff": "2026-10-29T06:16:37Z",
+      "matches": 4,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-29T00:29:53Z",
+      "cutoff": "2026-10-29T06:16:37Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -1805,6 +1805,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2700",
       "first_seen_at": "2026-10-29T06:46:37Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58566": {
+      "created_at": "2026-10-29T13:34:54.619Z",
+      "display": "58566 ZCG gets too much ZEC. Here's our plan to fix that. 🛡️",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2707",
+      "first_seen_at": "2026-10-29T13:45:23Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -7983,6 +7991,38 @@
       "first_seen_at": "2026-10-29T06:46:37Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1438181033": {
+      "created_at": "2026-10-29T09:06:25Z",
+      "display": "aidai524/noir_protocol_landing",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2711",
+      "first_seen_at": "2026-10-29T13:45:23Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1438182349": {
+      "created_at": "2026-10-29T09:07:42Z",
+      "display": "nikhilkumar1612/zsync-bench",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2710",
+      "first_seen_at": "2026-10-29T13:45:23Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1438270908": {
+      "created_at": "2026-10-29T10:34:00Z",
+      "display": "Andrea756934/pokemon-game-lookalike",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2709",
+      "first_seen_at": "2026-10-29T13:45:23Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1438415194": {
+      "created_at": "2026-10-29T12:50:40Z",
+      "display": "zcashlabs/zigner",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2708",
+      "first_seen_at": "2026-10-29T13:45:23Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -8771,9 +8811,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-29T06:46:37Z",
-    "forum": "2026-10-29T06:46:37Z",
-    "github": "2026-10-29T06:46:37Z",
-    "zcg": "2026-10-29T06:46:37Z"
+    "fixed_orgs": "2026-10-29T13:45:23Z",
+    "forum": "2026-10-29T13:45:23Z",
+    "github": "2026-10-29T13:45:23Z",
+    "zcg": "2026-10-29T13:45:23Z"
   }
 }
