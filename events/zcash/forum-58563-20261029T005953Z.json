@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-28T23:39:25.112Z",
+    "detected_at": "2026-10-29T00:59:53Z",
+    "display": "58563 Priority-fill block relay: fewer orphans under 25 s blocks, no fork needed (ZECATHON Submission)",
+    "key": "forum:58563",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "priority-fill-block-relay-fewer-orphans-under-25-s-blocks-no-fork-needed-zecathon-submission",
+      "title": "Priority-fill block relay: fewer orphans under 25 s blocks, no fork needed (ZECATHON Submission)",
+      "topic_id": 58563
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58563,
+    "url": "https://forum.zcashcommunity.com/t/priority-fill-block-relay-fewer-orphans-under-25-s-blocks-no-fork-needed-zecathon-submission/58563"
+  },
+  "schema": "zcash-fast-event/1"
+}
