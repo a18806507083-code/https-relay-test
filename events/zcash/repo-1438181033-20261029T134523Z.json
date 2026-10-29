@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T09:06:25Z",
+    "detected_at": "2026-10-29T13:45:23Z",
+    "display": "aidai524/noir_protocol_landing",
+    "key": "repo:1438181033",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "aidai524/noir_protocol_landing",
+      "homepage": null,
+      "pushed_at": "2026-10-29T09:25:32Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1438181033,
+    "url": "https://github.com/aidai524/noir_protocol_landing"
+  },
+  "schema": "zcash-fast-event/1"
+}
