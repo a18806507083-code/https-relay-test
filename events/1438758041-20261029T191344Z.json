@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T17:39:07Z",
+    "description": null,
+    "detected_at": "2026-10-29T19:13:44Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "Rafibinarif1997/Robinhood-jungle",
+    "homepage": null,
+    "html_url": "https://github.com/Rafibinarif1997/Robinhood-jungle",
+    "pushed_at": "2026-10-29T18:56:56Z",
+    "repo_id": 1438758041,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
