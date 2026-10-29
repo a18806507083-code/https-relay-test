@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T04:43:14.775Z",
+    "detected_at": "2026-10-29T06:46:37Z",
+    "display": "58564 Fee divergence between Zebra and Zakura: Questions",
+    "key": "forum:58564",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "fee-divergence-between-zebra-and-zakura-questions",
+      "title": "Fee divergence between Zebra and Zakura: Questions",
+      "topic_id": 58564
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58564,
+    "url": "https://forum.zcashcommunity.com/t/fee-divergence-between-zebra-and-zakura-questions/58564"
+  },
+  "schema": "zcash-fast-event/1"
+}
