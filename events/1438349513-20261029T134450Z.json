@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T11:51:04Z",
+    "description": "Shielded USDG payments on Robinhood Chain, powered by zero-knowledge proofs. Smart contracts, circuits, browser app, relayer, and independent verification tools.",
+    "detected_at": "2026-10-29T13:44:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "Zeronym-Developer/Zeronym",
+    "homepage": "zeronym.lat",
+    "html_url": "https://github.com/Zeronym-Developer/Zeronym",
+    "pushed_at": "2026-10-29T13:20:20Z",
+    "repo_id": 1438349513,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
