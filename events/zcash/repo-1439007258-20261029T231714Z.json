@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T22:06:58Z",
+    "detected_at": "2026-10-29T23:17:14Z",
+    "display": "casten234/demo-video",
+    "key": "repo:1439007258",
+    "metadata": {
+      "description": "Demonstrates how to make a private crypto donation using USDC on Solana, with NEAR Confidential Intents converting it into shielded Zcash for the A Wave for Saleh campaign.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "casten234/demo-video",
+      "homepage": null,
+      "pushed_at": "2026-10-29T22:06:59Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1439007258,
+    "url": "https://github.com/casten234/demo-video"
+  },
+  "schema": "zcash-fast-event/1"
+}
