@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T18:11:00Z",
+    "detected_at": "2026-10-29T19:14:10Z",
+    "display": "iJaack/zcash-client-diversity",
+    "key": "repo:1438792372",
+    "metadata": {
+      "description": "Zcash Client Diversity Dashboard",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "iJaack/zcash-client-diversity",
+      "homepage": "https://zeclens.vercel.app",
+      "pushed_at": "2026-10-29T19:11:39Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1438792372,
+    "url": "https://github.com/iJaack/zcash-client-diversity"
+  },
+  "schema": "zcash-fast-event/1"
+}
