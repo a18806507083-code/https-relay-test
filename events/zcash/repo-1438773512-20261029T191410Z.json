@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-29T17:53:01Z",
+    "detected_at": "2026-10-29T19:14:10Z",
+    "display": "AlekseyKoks-in/qsi-audits",
+    "key": "repo:1438773512",
+    "metadata": {
+      "description": "Signed, reproducible cryptographic inventories of 43 open-source codebases: 2,798 inventory rows, 1,346 Shor-breakable. Verify them yourself — verify.py has no dependencies.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "AlekseyKoks-in/qsi-audits",
+      "homepage": null,
+      "pushed_at": "2026-10-29T18:45:05Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1438773512,
+    "url": "https://github.com/AlekseyKoks-in/qsi-audits"
+  },
+  "schema": "zcash-fast-event/1"
+}
