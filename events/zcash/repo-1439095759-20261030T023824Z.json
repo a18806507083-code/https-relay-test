@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T00:17:01Z",
+    "detected_at": "2026-10-30T02:38:24Z",
+    "display": "nerdcash/zcash-payment-demo-store",
+    "key": "repo:1439095759",
+    "metadata": {
+      "description": "Open-source demo store showing how to accept Zcash with zcash-payment-service",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "nerdcash/zcash-payment-demo-store",
+      "homepage": null,
+      "pushed_at": "2026-10-30T01:35:27Z",
+      "tech_signals": [
+        "wallet/payment",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1439095759,
+    "url": "https://github.com/nerdcash/zcash-payment-demo-store"
+  },
+  "schema": "zcash-fast-event/1"
+}
