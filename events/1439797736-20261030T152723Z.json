@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T13:55:52Z",
+    "description": "Your Wallet. Your Permissions. Building a clearer way to review onchain access. CA: 0xed02ce43b663294a87e0c43dbe2f27e7d38631fe",
+    "detected_at": "2026-10-30T15:27:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "nullo-live/nullo",
+    "homepage": "https://nullo.live",
+    "html_url": "https://github.com/nullo-live/nullo",
+    "pushed_at": "2026-10-30T14:05:05Z",
+    "repo_id": 1439797736,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
