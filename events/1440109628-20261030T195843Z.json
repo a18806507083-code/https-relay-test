@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T18:44:22Z",
+    "description": "Paste a CA. Know if it's a vamp. Vamp-token scanner for Robinhood Chain.",
+    "detected_at": "2026-10-30T19:58:43Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "vampscan/vampscan",
+    "homepage": "https://vampscan.fun",
+    "html_url": "https://github.com/vampscan/vampscan",
+    "pushed_at": "2026-10-30T18:44:30Z",
+    "repo_id": 1440109628,
+    "score": 5,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
