@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T08:42:58Z",
+    "description": null,
+    "detected_at": "2026-10-30T08:56:59Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "pauly-zyz/bellguard2",
+    "homepage": "https://bellguard2.vercel.app",
+    "html_url": "https://github.com/pauly-zyz/bellguard2",
+    "pushed_at": "2026-10-30T08:45:28Z",
+    "repo_id": 1439478723,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
