@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T22:02:40.763Z",
+    "detected_at": "2026-10-30T23:27:07Z",
+    "display": "58636 Zafe multisig is launched (beta), looking for groups to test it",
+    "key": "forum:58636",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zafe-multisig-is-launched-beta-looking-for-groups-to-test-it",
+      "title": "Zafe multisig is launched (beta), looking for groups to test it",
+      "topic_id": 58636
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58636,
+    "url": "https://forum.zcashcommunity.com/t/zafe-multisig-is-launched-beta-looking-for-groups-to-test-it/58636"
+  },
+  "schema": "zcash-fast-event/1"
+}
