@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T15:24:26.995Z",
+    "detected_at": "2026-10-30T15:28:00Z",
+    "display": "58611 Future Dev and Legal Defense Fund ZIP",
+    "key": "forum:58611",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "future-dev-and-legal-defense-fund-zip",
+      "title": "Future Dev and Legal Defense Fund ZIP",
+      "topic_id": 58611
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58611,
+    "url": "https://forum.zcashcommunity.com/t/future-dev-and-legal-defense-fund-zip/58611"
+  },
+  "schema": "zcash-fast-event/1"
+}
