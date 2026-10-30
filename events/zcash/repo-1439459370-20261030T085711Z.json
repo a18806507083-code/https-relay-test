@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T08:21:28Z",
+    "detected_at": "2026-10-30T08:57:11Z",
+    "display": "aidai524/evoui",
+    "key": "repo:1439459370",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "aidai524/evoui",
+      "homepage": null,
+      "pushed_at": "2026-10-30T08:50:31Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1439459370,
+    "url": "https://github.com/aidai524/evoui"
+  },
+  "schema": "zcash-fast-event/1"
+}
