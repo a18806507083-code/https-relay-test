@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T21:10:30Z",
+    "detected_at": "2026-10-30T23:27:07Z",
+    "display": "paranoiddotred/paranoid-gateway",
+    "key": "repo:1440234477",
+    "metadata": {
+      "description": "PARANOID's gateway, running in an Intel TDX confidential VM: the app checks the chip's proof before it seals a question to it.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "paranoiddotred/paranoid-gateway",
+      "homepage": "https://paranoid.red",
+      "pushed_at": "2026-10-30T21:42:17Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1440234477,
+    "url": "https://github.com/paranoiddotred/paranoid-gateway"
+  },
+  "schema": "zcash-fast-event/1"
+}
