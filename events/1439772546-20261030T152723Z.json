@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T13:34:47Z",
+    "description": "Every Claim Has a Source. Claim discovery and eligibility intelligence for Web3. CA: 0xc2f2f279a33ac589f85bd5c6970dce613178e73b",
+    "detected_at": "2026-10-30T15:27:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "recla-lol/recla",
+    "homepage": "https://recla.lol",
+    "html_url": "https://github.com/recla-lol/recla",
+    "pushed_at": "2026-10-30T14:05:11Z",
+    "repo_id": 1439772546,
+    "score": 13,
+    "tech_signals": [
+      "Oracle",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
