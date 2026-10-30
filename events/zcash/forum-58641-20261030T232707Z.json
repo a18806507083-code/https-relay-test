@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T22:11:23.797Z",
+    "detected_at": "2026-10-30T23:27:07Z",
+    "display": "58641 Zecmap The Global Map Of Businesses Accepting Zcash",
+    "key": "forum:58641",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zecmap-the-global-map-of-businesses-accepting-zcash",
+      "title": "Zecmap The Global Map Of Businesses Accepting Zcash",
+      "topic_id": 58641
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58641,
+    "url": "https://forum.zcashcommunity.com/t/zecmap-the-global-map-of-businesses-accepting-zcash/58641"
+  },
+  "schema": "zcash-fast-event/1"
+}
