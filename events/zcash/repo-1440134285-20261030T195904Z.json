@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T19:11:00Z",
+    "detected_at": "2026-10-30T19:59:04Z",
+    "display": "anukulpandey/zcash-faucet",
+    "key": "repo:1440134285",
+    "metadata": {
+      "description": "Zcash testnet coins (TAZ) from your terminal: npx zcash-faucet <address>",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "anukulpandey/zcash-faucet",
+      "homepage": null,
+      "pushed_at": "2026-10-30T19:40:23Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1440134285,
+    "url": "https://github.com/anukulpandey/zcash-faucet"
+  },
+  "schema": "zcash-fast-event/1"
+}
