@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T16:08:23Z",
+    "detected_at": "2026-10-30T19:59:04Z",
+    "display": "ash-ven/Loadout",
+    "key": "repo:1439948161",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "ash-ven/Loadout",
+      "homepage": null,
+      "pushed_at": "2026-10-30T16:19:02Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1439948161,
+    "url": "https://github.com/ash-ven/Loadout"
+  },
+  "schema": "zcash-fast-event/1"
+}
