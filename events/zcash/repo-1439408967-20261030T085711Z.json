@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T07:24:23Z",
+    "detected_at": "2026-10-30T08:57:11Z",
+    "display": "frozeduck/carta-dabisso",
+    "key": "repo:1439408967",
+    "metadata": {
+      "description": "Action RPG subacqueo con un mondo di carta. APK Android offline e prototipo browser.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "frozeduck/carta-dabisso",
+      "homepage": null,
+      "pushed_at": "2026-10-30T08:55:28Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1439408967,
+    "url": "https://github.com/frozeduck/carta-dabisso"
+  },
+  "schema": "zcash-fast-event/1"
+}
