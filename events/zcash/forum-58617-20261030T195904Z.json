@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T17:48:47.738Z",
+    "detected_at": "2026-10-30T19:59:04Z",
+    "display": "58617 Grant Application - Counzil DAO Manager",
+    "key": "forum:58617",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "grant-application-counzil-dao-manager",
+      "title": "Grant Application - Counzil DAO Manager",
+      "topic_id": 58617
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58617,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-counzil-dao-manager/58617"
+  },
+  "schema": "zcash-fast-event/1"
+}
