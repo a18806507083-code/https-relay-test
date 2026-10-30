@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T18:03:00Z",
+    "description": null,
+    "detected_at": "2026-10-30T19:58:43Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ciciliaETH/meme-dex",
+    "homepage": "https://meme-dex-six.vercel.app",
+    "html_url": "https://github.com/ciciliaETH/meme-dex",
+    "pushed_at": "2026-10-30T18:54:22Z",
+    "repo_id": 1440069754,
+    "score": 5,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
