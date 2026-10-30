@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T22:26:11Z",
+    "detected_at": "2026-10-30T23:27:07Z",
+    "display": "jooray/qrencoder",
+    "key": "repo:1440287197",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "jooray/qrencoder",
+      "homepage": null,
+      "pushed_at": "2026-10-30T22:58:41Z",
+      "tech_signals": [
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1440287197,
+    "url": "https://github.com/jooray/qrencoder"
+  },
+  "schema": "zcash-fast-event/1"
+}
