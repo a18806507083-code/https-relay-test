@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T11:38:50.428Z",
+    "detected_at": "2026-10-30T15:28:00Z",
+    "display": "58600 Retroactive Grant Application - Zebra High-Severity Mempool DoS Disclosure (GHSA-7jp4-mq53-4cvq)",
+    "key": "forum:58600",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zebra-high-severity-mempool-dos-disclosure-ghsa-7jp4-mq53-4cvq",
+      "title": "Retroactive Grant Application - Zebra High-Severity Mempool DoS Disclosure (GHSA-7jp4-mq53-4cvq)",
+      "topic_id": 58600
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58600,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zebra-high-severity-mempool-dos-disclosure-ghsa-7jp4-mq53-4cvq/58600"
+  },
+  "schema": "zcash-fast-event/1"
+}
