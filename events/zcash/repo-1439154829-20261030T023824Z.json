@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T01:44:17Z",
+    "detected_at": "2026-10-30T02:38:24Z",
+    "display": "flaviarv/carteiras-sancao-governamental-internacional",
+    "key": "repo:1439154829",
+    "metadata": {
+      "description": "Pipeline de dados que identifica se carteiras estão sancionadas em listas governamentais, como OFAC, Israel, UK e outras. ",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "flaviarv/carteiras-sancao-governamental-internacional",
+      "homepage": null,
+      "pushed_at": "2026-10-30T02:24:19Z",
+      "tech_signals": [
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1439154829,
+    "url": "https://github.com/flaviarv/carteiras-sancao-governamental-internacional"
+  },
+  "schema": "zcash-fast-event/1"
+}
