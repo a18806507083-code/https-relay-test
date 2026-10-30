@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T05:33:50Z",
+    "detected_at": "2026-10-30T08:57:11Z",
+    "display": "johnservil/zip-future-dev-legal-defense-fund",
+    "key": "repo:1439318231",
+    "metadata": {
+      "description": "Draft ZIP: redirect the 8% ZCG stream to a Future Dev and Legal Defense Fund lockbox; ZCG donates 50,000 ZEC to the NSM",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "johnservil/zip-future-dev-legal-defense-fund",
+      "homepage": null,
+      "pushed_at": "2026-10-30T06:01:47Z",
+      "tech_signals": [
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1439318231,
+    "url": "https://github.com/johnservil/zip-future-dev-legal-defense-fund"
+  },
+  "schema": "zcash-fast-event/1"
+}
