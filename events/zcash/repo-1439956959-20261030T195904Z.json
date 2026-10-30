@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T16:16:26Z",
+    "detected_at": "2026-10-30T19:59:04Z",
+    "display": "taellinglin/ling-wallet",
+    "key": "repo:1439956959",
+    "metadata": {
+      "description": "Ling Wallet: a post-quantum privacy-coin wallet, full node and HyperTorus miner for LNG",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "taellinglin/ling-wallet",
+      "homepage": null,
+      "pushed_at": "2026-10-30T16:17:00Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1439956959,
+    "url": "https://github.com/taellinglin/ling-wallet"
+  },
+  "schema": "zcash-fast-event/1"
+}
