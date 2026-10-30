@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T15:35:45.072Z",
+    "detected_at": "2026-10-30T19:59:04Z",
+    "display": "58614 Grant Application - Pasta Assembly Verification Bridge",
+    "key": "forum:58614",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-pasta-assembly-verification-bridge",
+      "title": "Grant Application - Pasta Assembly Verification Bridge",
+      "topic_id": 58614
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58614,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-pasta-assembly-verification-bridge/58614"
+  },
+  "schema": "zcash-fast-event/1"
+}
