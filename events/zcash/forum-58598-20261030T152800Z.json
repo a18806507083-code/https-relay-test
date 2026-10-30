@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T11:17:25.865Z",
+    "detected_at": "2026-10-30T15:28:00Z",
+    "display": "58598 Q4 Coinholder-Directed Retroactive Grant Program - Call for Proposals",
+    "key": "forum:58598",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "q4-coinholder-directed-retroactive-grant-program-call-for-proposals",
+      "title": "Q4 Coinholder-Directed Retroactive Grant Program - Call for Proposals",
+      "topic_id": 58598
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58598,
+    "url": "https://forum.zcashcommunity.com/t/q4-coinholder-directed-retroactive-grant-program-call-for-proposals/58598"
+  },
+  "schema": "zcash-fast-event/1"
+}
