@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T20:42:24Z",
+    "detected_at": "2026-10-30T23:27:07Z",
+    "display": "lopeselio/ths-js",
+    "key": "repo:1440212396",
+    "metadata": {
+      "description": "Programmatic Thus Spoke Zakura: disposable Zcash regtest networks for JavaScript tests",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "lopeselio/ths-js",
+      "homepage": null,
+      "pushed_at": "2026-10-30T21:38:35Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1440212396,
+    "url": "https://github.com/lopeselio/ths-js"
+  },
+  "schema": "zcash-fast-event/1"
+}
