@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T00:32:33.640Z",
+    "detected_at": "2026-10-30T02:38:24Z",
+    "display": "58588 BINANCE HACKED $5 billion or more",
+    "key": "forum:58588",
+    "metadata": {
+      "category_id": 17,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "binance-hacked-5-billion-or-more",
+      "title": "BINANCE HACKED $5 billion or more",
+      "topic_id": 58588
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58588,
+    "url": "https://forum.zcashcommunity.com/t/binance-hacked-5-billion-or-more/58588"
+  },
+  "schema": "zcash-fast-event/1"
+}
