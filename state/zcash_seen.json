@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-30T19:59:04Z",
+  "last_run_at": "2026-10-30T23:27:07Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-30T14:58:00Z",
+      "cutoff": "2026-10-30T19:29:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-30T14:58:00Z",
-      "matches": 3,
+      "cutoff": "2026-10-30T19:29:04Z",
+      "matches": 4,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-30T14:58:00Z",
-      "matches": 5,
+      "cutoff": "2026-10-30T19:29:04Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-30T14:58:00Z",
-      "matches": 1,
+      "cutoff": "2026-10-30T19:29:04Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -1909,6 +1909,38 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2764",
       "first_seen_at": "2026-10-30T19:59:04Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58622": {
+      "created_at": "2026-10-30T20:37:17.495Z",
+      "display": "58622 Retroactive Grant Application - Maya Protocol: Zcash upstream contributions, NU6.2/NU6.3 Ironwood, Zebra migration and ZEC signing hardening",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2777",
+      "first_seen_at": "2026-10-30T23:27:07Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58636": {
+      "created_at": "2026-10-30T22:02:40.763Z",
+      "display": "58636 Zafe multisig is launched (beta), looking for groups to test it",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2773",
+      "first_seen_at": "2026-10-30T23:27:07Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58641": {
+      "created_at": "2026-10-30T22:11:23.797Z",
+      "display": "58641 Zecmap The Global Map Of Businesses Accepting Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2772",
+      "first_seen_at": "2026-10-30T23:27:07Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58642": {
+      "created_at": "2026-10-30T23:19:33.087Z",
+      "display": "58642 Introducing LeekWallet Zcash: a DIY hardware wallet you can build for about $25",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2770",
+      "first_seen_at": "2026-10-30T23:27:07Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8319,6 +8351,30 @@
       "first_seen_at": "2026-10-30T19:59:04Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1440212396": {
+      "created_at": "2026-10-30T20:42:24Z",
+      "display": "lopeselio/ths-js",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2776",
+      "first_seen_at": "2026-10-30T23:27:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1440234477": {
+      "created_at": "2026-10-30T21:10:30Z",
+      "display": "paranoiddotred/paranoid-gateway",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2775",
+      "first_seen_at": "2026-10-30T23:27:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1440287197": {
+      "created_at": "2026-10-30T22:26:11Z",
+      "display": "jooray/qrencoder",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2771",
+      "first_seen_at": "2026-10-30T23:27:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9134,14 +9190,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2765",
       "first_seen_at": "2026-10-30T19:59:04Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6126415877": {
+      "created_at": "2026-10-30T20:24:19Z",
+      "display": "#525 Grant Application - Block explorer + Testnet infrastructure 2026-27",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2778",
+      "first_seen_at": "2026-10-30T23:27:07Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6127582034": {
+      "created_at": "2026-10-30T21:57:20Z",
+      "display": "#526 Zecmap   The Global Map Of Businesses Accepting Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2774",
+      "first_seen_at": "2026-10-30T23:27:07Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-30T19:59:04Z",
-    "forum": "2026-10-30T19:59:04Z",
-    "github": "2026-10-30T19:59:04Z",
-    "zcg": "2026-10-30T19:59:04Z"
+    "fixed_orgs": "2026-10-30T23:27:07Z",
+    "forum": "2026-10-30T23:27:07Z",
+    "github": "2026-10-30T23:27:07Z",
+    "zcg": "2026-10-30T23:27:07Z"
   }
 }
