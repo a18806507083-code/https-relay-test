@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-10-30T08:57:11Z",
+  "last_run_at": "2026-10-30T15:28:00Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-30T02:08:24Z",
+      "cutoff": "2026-10-30T08:27:11Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-30T02:08:24Z",
-      "matches": 1,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-10-30T02:08:24Z",
+      "cutoff": "2026-10-30T08:27:11Z",
       "matches": 5,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-10-30T08:27:11Z",
+      "matches": 9,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-10-30T02:08:24Z",
+      "cutoff": "2026-10-30T08:27:11Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -1853,6 +1853,46 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2737",
       "first_seen_at": "2026-10-30T08:57:11Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58598": {
+      "created_at": "2026-10-30T11:17:25.865Z",
+      "display": "58598 Q4 Coinholder-Directed Retroactive Grant Program - Call for Proposals",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2757",
+      "first_seen_at": "2026-10-30T15:28:00Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58600": {
+      "created_at": "2026-10-30T11:38:50.428Z",
+      "display": "58600 Retroactive Grant Application - Zebra High-Severity Mempool DoS Disclosure (GHSA-7jp4-mq53-4cvq)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2756",
+      "first_seen_at": "2026-10-30T15:28:00Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58606": {
+      "created_at": "2026-10-30T12:59:46.390Z",
+      "display": "58606 Looking for a security reviewer: a small zero-knowledge age gate with shielded testnet payments",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2753",
+      "first_seen_at": "2026-10-30T15:28:00Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58610": {
+      "created_at": "2026-10-30T14:42:46.021Z",
+      "display": "58610 Time to end the Zcash Development Fund",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2749",
+      "first_seen_at": "2026-10-30T15:28:00Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58611": {
+      "created_at": "2026-10-30T15:24:26.995Z",
+      "display": "58611 Future Dev and Legal Defense Fund ZIP",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2747",
+      "first_seen_at": "2026-10-30T15:28:00Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8175,6 +8215,62 @@
       "first_seen_at": "2026-10-30T08:57:11Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1439620378": {
+      "created_at": "2026-10-30T11:09:02Z",
+      "display": "starlabman/testttttttttttttttttt",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2758",
+      "first_seen_at": "2026-10-30T15:28:00Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1439664580": {
+      "created_at": "2026-10-30T11:54:28Z",
+      "display": "Skinny001/Zchain",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2755",
+      "first_seen_at": "2026-10-30T15:28:00Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1439711400": {
+      "created_at": "2026-10-30T12:39:51Z",
+      "display": "Skinny001/zpayreq",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2754",
+      "first_seen_at": "2026-10-30T15:28:00Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1439774738": {
+      "created_at": "2026-10-30T13:36:39Z",
+      "display": "Ay-obami/zaddrcheck",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2752",
+      "first_seen_at": "2026-10-30T15:28:00Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1439790845": {
+      "created_at": "2026-10-30T13:50:25Z",
+      "display": "Ay-obami/zchain",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2751",
+      "first_seen_at": "2026-10-30T15:28:00Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1439804646": {
+      "created_at": "2026-10-30T14:02:05Z",
+      "display": "Ay-obami/zpayreq",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2750",
+      "first_seen_at": "2026-10-30T15:28:00Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1439880744": {
+      "created_at": "2026-10-30T15:08:08Z",
+      "display": "vinu225/FedZero_nemitron",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2748",
+      "first_seen_at": "2026-10-30T15:28:00Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -8987,9 +9083,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-30T08:57:11Z",
-    "forum": "2026-10-30T08:57:11Z",
-    "github": "2026-10-30T08:57:11Z",
-    "zcg": "2026-10-30T08:57:11Z"
+    "fixed_orgs": "2026-10-30T15:28:00Z",
+    "forum": "2026-10-30T15:28:00Z",
+    "github": "2026-10-30T15:28:00Z",
+    "zcg": "2026-10-30T15:28:00Z"
   }
 }
