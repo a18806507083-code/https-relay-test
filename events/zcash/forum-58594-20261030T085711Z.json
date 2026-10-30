@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T07:28:44.662Z",
+    "detected_at": "2026-10-30T08:57:11Z",
+    "display": "58594 Can I Shield? A live, re-checkable list of where shielded ZEC actually works (+ a live NU7 countdown)",
+    "key": "forum:58594",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "can-i-shield-a-live-re-checkable-list-of-where-shielded-zec-actually-works-a-live-nu7-countdown",
+      "title": "Can I Shield? A live, re-checkable list of where shielded ZEC actually works (+ a live NU7 countdown)",
+      "topic_id": 58594
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58594,
+    "url": "https://forum.zcashcommunity.com/t/can-i-shield-a-live-re-checkable-list-of-where-shielded-zec-actually-works-a-live-nu7-countdown/58594"
+  },
+  "schema": "zcash-fast-event/1"
+}
