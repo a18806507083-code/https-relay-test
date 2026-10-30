@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T05:39:16Z",
+    "detected_at": "2026-10-30T08:57:11Z",
+    "display": "Himess/seam",
+    "key": "repo:1439322121",
+    "metadata": {
+      "description": "A Zcash light client for EVM chains: Base checks Zcash headers itself (Equihash, difficulty, most work).",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Himess/seam",
+      "homepage": null,
+      "pushed_at": "2026-10-30T05:39:22Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1439322121,
+    "url": "https://github.com/Himess/seam"
+  },
+  "schema": "zcash-fast-event/1"
+}
