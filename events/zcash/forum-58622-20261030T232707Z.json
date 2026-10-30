@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T20:37:17.495Z",
+    "detected_at": "2026-10-30T23:27:07Z",
+    "display": "58622 Retroactive Grant Application - Maya Protocol: Zcash upstream contributions, NU6.2/NU6.3 Ironwood, Zebra migration and ZEC signing hardening",
+    "key": "forum:58622",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-maya-protocol-zcash-upstream-contributions-nu6-2-nu6-3-ironwood-zebra-migration-and-zec-signing-hardening",
+      "title": "Retroactive Grant Application - Maya Protocol: Zcash upstream contributions, NU6.2/NU6.3 Ironwood, Zebra migration and ZEC signing hardening",
+      "topic_id": 58622
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58622,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-maya-protocol-zcash-upstream-contributions-nu6-2-nu6-3-ironwood-zebra-migration-and-zec-signing-hardening/58622"
+  },
+  "schema": "zcash-fast-event/1"
+}
