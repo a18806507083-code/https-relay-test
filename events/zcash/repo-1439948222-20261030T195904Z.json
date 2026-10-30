@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-30T16:08:27Z",
+    "detected_at": "2026-10-30T19:59:04Z",
+    "display": "lomiafrica/cosigner",
+    "key": "repo:1439948222",
+    "metadata": {
+      "description": "FROST 2-of-3 co-signer so a Zcash agent cannot outspend its mandate.",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "lomiafrica/cosigner",
+      "homepage": null,
+      "pushed_at": "2026-10-30T16:08:32Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1439948222,
+    "url": "https://github.com/lomiafrica/cosigner"
+  },
+  "schema": "zcash-fast-event/1"
+}
