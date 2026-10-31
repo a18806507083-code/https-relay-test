@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T18:12:20.118Z",
+    "detected_at": "2026-10-31T18:49:12Z",
+    "display": "58657 Retroactive Grant Application - Critical Zebra Block Discovery DoS (CVE-2026-44499)",
+    "key": "forum:58657",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-critical-zebra-block-discovery-dos-cve-2026-44499",
+      "title": "Retroactive Grant Application - Critical Zebra Block Discovery DoS (CVE-2026-44499)",
+      "topic_id": 58657
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58657,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-critical-zebra-block-discovery-dos-cve-2026-44499/58657"
+  },
+  "schema": "zcash-fast-event/1"
+}
