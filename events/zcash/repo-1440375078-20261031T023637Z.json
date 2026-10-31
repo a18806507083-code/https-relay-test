@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T00:52:57Z",
+    "detected_at": "2026-10-31T02:36:37Z",
+    "display": "Mirrorisor/zWatchtower",
+    "key": "repo:1440375078",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Mirrorisor/zWatchtower",
+      "homepage": null,
+      "pushed_at": "2026-10-31T00:56:17Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1440375078,
+    "url": "https://github.com/Mirrorisor/zWatchtower"
+  },
+  "schema": "zcash-fast-event/1"
+}
