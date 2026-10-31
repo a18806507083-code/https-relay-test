@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T09:12:18.765Z",
+    "detected_at": "2026-10-31T14:48:54Z",
+    "display": "58647 Zcash-faucet: testnet TAZ from your terminal with npx zcash-faucet <address>",
+    "key": "forum:58647",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "zcash-faucet-testnet-taz-from-your-terminal-with-npx-zcash-faucet-address",
+      "title": "Zcash-faucet: testnet TAZ from your terminal with npx zcash-faucet <address>",
+      "topic_id": 58647
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58647,
+    "url": "https://forum.zcashcommunity.com/t/zcash-faucet-testnet-taz-from-your-terminal-with-npx-zcash-faucet-address/58647"
+  },
+  "schema": "zcash-fast-event/1"
+}
