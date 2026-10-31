@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-31T08:48:56Z",
+  "last_run_at": "2026-10-31T14:48:54Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-31T02:06:37Z",
-      "matches": 1,
+      "cutoff": "2026-10-31T08:18:56Z",
+      "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-31T02:06:37Z",
+      "cutoff": "2026-10-31T08:18:56Z",
       "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-31T02:06:37Z",
-      "matches": 4,
+      "cutoff": "2026-10-31T08:18:56Z",
+      "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-31T02:06:37Z",
-      "matches": 2,
+      "cutoff": "2026-10-31T08:18:56Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -1957,6 +1957,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2789",
       "first_seen_at": "2026-10-31T08:48:56Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58647": {
+      "created_at": "2026-10-31T09:12:18.765Z",
+      "display": "58647 Zcash-faucet: testnet TAZ from your terminal with npx zcash-faucet <address>",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2799",
+      "first_seen_at": "2026-10-31T14:48:54Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58652": {
+      "created_at": "2026-10-31T14:08:04.160Z",
+      "display": "58652 Zynova: A Community-Driven Quest Platform for the Zcash Ecosystem",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2798",
+      "first_seen_at": "2026-10-31T14:48:54Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -9291,9 +9307,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-31T08:48:56Z",
-    "forum": "2026-10-31T08:48:56Z",
-    "github": "2026-10-31T08:48:56Z",
-    "zcg": "2026-10-31T08:48:56Z"
+    "fixed_orgs": "2026-10-31T14:48:54Z",
+    "forum": "2026-10-31T14:48:54Z",
+    "github": "2026-10-31T14:48:54Z",
+    "zcg": "2026-10-31T14:48:54Z"
   }
 }
