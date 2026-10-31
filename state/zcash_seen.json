@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-31T14:48:54Z",
+  "last_run_at": "2026-10-31T18:49:12Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-31T08:18:56Z",
+      "cutoff": "2026-10-31T14:18:54Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-31T08:18:56Z",
-      "matches": 2,
+      "cutoff": "2026-10-31T14:18:54Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-31T08:18:56Z",
-      "matches": 0,
+      "cutoff": "2026-10-31T14:18:54Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-31T08:18:56Z",
-      "matches": 0,
+      "cutoff": "2026-10-31T14:18:54Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -1973,6 +1973,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2798",
       "first_seen_at": "2026-10-31T14:48:54Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58654": {
+      "created_at": "2026-10-31T15:17:29.147Z",
+      "display": "58654 Reflections on Zcon + the Community Forum",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2805",
+      "first_seen_at": "2026-10-31T18:49:12Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58656": {
+      "created_at": "2026-10-31T18:04:48.490Z",
+      "display": "58656 Zcash Adoption Pool (ZAP)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2803",
+      "first_seen_at": "2026-10-31T18:49:12Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58657": {
+      "created_at": "2026-10-31T18:12:20.118Z",
+      "display": "58657 Retroactive Grant Application - Critical Zebra Block Discovery DoS (CVE-2026-44499)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2802",
+      "first_seen_at": "2026-10-31T18:49:12Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8455,6 +8479,22 @@
       "first_seen_at": "2026-10-31T08:48:56Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1440969064": {
+      "created_at": "2026-10-31T15:04:25Z",
+      "display": "predgeAI/zcash-escrow",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2807",
+      "first_seen_at": "2026-10-31T18:49:12Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1441070556": {
+      "created_at": "2026-10-31T17:00:06Z",
+      "display": "api-evangelist/sochain-com",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2804",
+      "first_seen_at": "2026-10-31T18:49:12Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9302,14 +9342,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2790",
       "first_seen_at": "2026-10-31T08:48:56Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6136315151": {
+      "created_at": "2026-10-31T15:04:46Z",
+      "display": "#529 Grant Application - Shielded 2-of-3 FROST escrow for P2P commerce",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2806",
+      "first_seen_at": "2026-10-31T18:49:12Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-31T14:48:54Z",
-    "forum": "2026-10-31T14:48:54Z",
-    "github": "2026-10-31T14:48:54Z",
-    "zcg": "2026-10-31T14:48:54Z"
+    "fixed_orgs": "2026-10-31T18:49:12Z",
+    "forum": "2026-10-31T18:49:12Z",
+    "github": "2026-10-31T18:49:12Z",
+    "zcg": "2026-10-31T18:49:12Z"
   }
 }
