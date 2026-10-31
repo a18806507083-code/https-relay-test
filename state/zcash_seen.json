@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-30T23:27:07Z",
+  "last_run_at": "2026-10-31T02:36:37Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-30T19:29:04Z",
+      "cutoff": "2026-10-30T22:57:07Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-30T19:29:04Z",
-      "matches": 4,
+      "cutoff": "2026-10-30T22:57:07Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-30T19:29:04Z",
-      "matches": 3,
+      "cutoff": "2026-10-30T22:57:07Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-30T19:29:04Z",
-      "matches": 2,
+      "cutoff": "2026-10-30T22:57:07Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -8375,6 +8375,22 @@
       "first_seen_at": "2026-10-30T23:27:07Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1440375078": {
+      "created_at": "2026-10-31T00:52:57Z",
+      "display": "Mirrorisor/zWatchtower",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2783",
+      "first_seen_at": "2026-10-31T02:36:37Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1440407042": {
+      "created_at": "2026-10-31T01:48:58Z",
+      "display": "cryppit/shield-receipt",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2782",
+      "first_seen_at": "2026-10-31T02:36:37Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9211,9 +9227,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-30T23:27:07Z",
-    "forum": "2026-10-30T23:27:07Z",
-    "github": "2026-10-30T23:27:07Z",
-    "zcg": "2026-10-30T23:27:07Z"
+    "fixed_orgs": "2026-10-31T02:36:37Z",
+    "forum": "2026-10-31T02:36:37Z",
+    "github": "2026-10-31T02:36:37Z",
+    "zcg": "2026-10-31T02:36:37Z"
   }
 }
