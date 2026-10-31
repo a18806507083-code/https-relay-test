@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T14:08:04.160Z",
+    "detected_at": "2026-10-31T14:48:54Z",
+    "display": "58652 Zynova: A Community-Driven Quest Platform for the Zcash Ecosystem",
+    "key": "forum:58652",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zynova-a-community-driven-quest-platform-for-the-zcash-ecosystem",
+      "title": "Zynova: A Community-Driven Quest Platform for the Zcash Ecosystem",
+      "topic_id": 58652
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58652,
+    "url": "https://forum.zcashcommunity.com/t/zynova-a-community-driven-quest-platform-for-the-zcash-ecosystem/58652"
+  },
+  "schema": "zcash-fast-event/1"
+}
