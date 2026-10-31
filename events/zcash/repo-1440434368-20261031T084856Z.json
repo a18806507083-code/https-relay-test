@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T02:37:22Z",
+    "detected_at": "2026-10-31T08:48:56Z",
+    "display": "ZcashFoundation/zebra-benchmarks",
+    "key": "repo:1440434368",
+    "metadata": {
+      "description": "Workloads, fixtures and analysis behind Zebra's published performance measurements",
+      "fixed_owner": "ZcashFoundation",
+      "full_name": "ZcashFoundation/zebra-benchmarks",
+      "homepage": null,
+      "pushed_at": "2026-10-31T03:12:24Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1440434368,
+    "url": "https://github.com/ZcashFoundation/zebra-benchmarks"
+  },
+  "schema": "zcash-fast-event/1"
+}
