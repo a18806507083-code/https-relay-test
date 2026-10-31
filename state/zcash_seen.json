@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-31T02:36:37Z",
+  "last_run_at": "2026-10-31T08:48:56Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-30T22:57:07Z",
-      "matches": 0,
-      "status": "PASS"
-    },
-    "forum": {
-      "cutoff": "2026-10-30T22:57:07Z",
+      "cutoff": "2026-10-31T02:06:37Z",
       "matches": 1,
       "status": "PASS"
     },
-    "github": {
-      "cutoff": "2026-10-30T22:57:07Z",
+    "forum": {
+      "cutoff": "2026-10-31T02:06:37Z",
       "matches": 2,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-10-31T02:06:37Z",
+      "matches": 4,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-10-30T22:57:07Z",
-      "matches": 0,
+      "cutoff": "2026-10-31T02:06:37Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -1941,6 +1941,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2770",
       "first_seen_at": "2026-10-30T23:27:07Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58643": {
+      "created_at": "2026-10-31T03:54:42.974Z",
+      "display": "58643 Zebra Ándale: The Fastest Zebra Yet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2791",
+      "first_seen_at": "2026-10-31T08:48:56Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58646": {
+      "created_at": "2026-10-31T07:31:43.261Z",
+      "display": "58646 Grant Application — Shielded Quest 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2789",
+      "first_seen_at": "2026-10-31T08:48:56Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8391,6 +8407,38 @@
       "first_seen_at": "2026-10-31T02:36:37Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1440434368": {
+      "created_at": "2026-10-31T02:37:22Z",
+      "display": "ZcashFoundation/zebra-benchmarks",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2795",
+      "first_seen_at": "2026-10-31T08:48:56Z",
+      "source": "FIXED_ORG_NEW_REPO"
+    },
+    "repo:1440437764": {
+      "created_at": "2026-10-31T02:42:31Z",
+      "display": "neinsnitzil-a11y/CryptoIRC",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2794",
+      "first_seen_at": "2026-10-31T08:48:56Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1440441910": {
+      "created_at": "2026-10-31T02:49:19Z",
+      "display": "ABerkeBora/heka-second-order",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2793",
+      "first_seen_at": "2026-10-31T08:48:56Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1440649435": {
+      "created_at": "2026-10-31T08:14:17Z",
+      "display": "principlezerolabs/lanternzero",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2788",
+      "first_seen_at": "2026-10-31T08:48:56Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9222,14 +9270,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2774",
       "first_seen_at": "2026-10-30T23:27:07Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6130605271": {
+      "created_at": "2026-10-31T03:25:37Z",
+      "display": "#527 Grant Application - Canadian Zcash Community and red·bridge public testnet launch",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2792",
+      "first_seen_at": "2026-10-31T08:48:56Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6132350000": {
+      "created_at": "2026-10-31T07:20:23Z",
+      "display": "#528 Grant Proposal: Shielded Quest 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2790",
+      "first_seen_at": "2026-10-31T08:48:56Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-31T02:36:37Z",
-    "forum": "2026-10-31T02:36:37Z",
-    "github": "2026-10-31T02:36:37Z",
-    "zcg": "2026-10-31T02:36:37Z"
+    "fixed_orgs": "2026-10-31T08:48:56Z",
+    "forum": "2026-10-31T08:48:56Z",
+    "github": "2026-10-31T08:48:56Z",
+    "zcg": "2026-10-31T08:48:56Z"
   }
 }
