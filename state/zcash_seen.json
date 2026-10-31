@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-10-31T18:49:12Z",
+  "last_run_at": "2026-10-31T21:55:01Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-10-31T14:18:54Z",
+      "cutoff": "2026-10-31T18:19:12Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-10-31T14:18:54Z",
-      "matches": 3,
+      "cutoff": "2026-10-31T18:19:12Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-10-31T14:18:54Z",
-      "matches": 2,
+      "cutoff": "2026-10-31T18:19:12Z",
+      "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-10-31T14:18:54Z",
-      "matches": 1,
+      "cutoff": "2026-10-31T18:19:12Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -1997,6 +1997,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2802",
       "first_seen_at": "2026-10-31T18:49:12Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58661": {
+      "created_at": "2026-10-31T20:58:25.000Z",
+      "display": "58661 ZecLearn: a free live quiz tool for Zcash meetups and classes",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2810",
+      "first_seen_at": "2026-10-31T21:55:01Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -9355,9 +9363,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-10-31T18:49:12Z",
-    "forum": "2026-10-31T18:49:12Z",
-    "github": "2026-10-31T18:49:12Z",
-    "zcg": "2026-10-31T18:49:12Z"
+    "fixed_orgs": "2026-10-31T21:55:01Z",
+    "forum": "2026-10-31T21:55:01Z",
+    "github": "2026-10-31T21:55:01Z",
+    "zcg": "2026-10-31T21:55:01Z"
   }
 }
