@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T02:49:19Z",
+    "detected_at": "2026-10-31T08:48:56Z",
+    "display": "ABerkeBora/heka-second-order",
+    "key": "repo:1440441910",
+    "metadata": {
+      "description": "Bounded agent-funded AND/OR outcome baskets with on-chain AirnodeHub verification.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "ABerkeBora/heka-second-order",
+      "homepage": null,
+      "pushed_at": "2026-10-31T04:21:24Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1440441910,
+    "url": "https://github.com/ABerkeBora/heka-second-order"
+  },
+  "schema": "zcash-fast-event/1"
+}
