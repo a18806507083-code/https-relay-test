@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T18:36:20Z",
+    "description": "Conditional USDG payments on Robinhood Chain: escrow contracts, API and Telegram bot.",
+    "detected_at": "2026-10-31T18:48:56Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "ifsodev/ifso",
+    "homepage": null,
+    "html_url": "https://github.com/ifsodev/ifso",
+    "pushed_at": "2026-10-31T18:36:59Z",
+    "repo_id": 1441150404,
+    "score": 15,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
