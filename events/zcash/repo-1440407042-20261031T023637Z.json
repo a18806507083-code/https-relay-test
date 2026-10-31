@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T01:48:58Z",
+    "detected_at": "2026-10-31T02:36:37Z",
+    "display": "cryppit/shield-receipt",
+    "key": "repo:1440407042",
+    "metadata": {
+      "description": "Did your ZEC withdrawal land shielded? Paste the txid and the address you gave. Keyless, read-only.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "cryppit/shield-receipt",
+      "homepage": "https://cryppit.github.io/shield-receipt/",
+      "pushed_at": "2026-10-31T01:49:02Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1440407042,
+    "url": "https://github.com/cryppit/shield-receipt"
+  },
+  "schema": "zcash-fast-event/1"
+}
