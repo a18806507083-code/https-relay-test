@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T03:54:42.974Z",
+    "detected_at": "2026-10-31T08:48:56Z",
+    "display": "58643 Zebra Ándale: The Fastest Zebra Yet",
+    "key": "forum:58643",
+    "metadata": {
+      "category_id": 21,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zebra-andale-the-fastest-zebra-yet",
+      "title": "Zebra Ándale: The Fastest Zebra Yet",
+      "topic_id": 58643
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58643,
+    "url": "https://forum.zcashcommunity.com/t/zebra-andale-the-fastest-zebra-yet/58643"
+  },
+  "schema": "zcash-fast-event/1"
+}
