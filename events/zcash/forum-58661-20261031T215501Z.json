@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T20:58:25.000Z",
+    "detected_at": "2026-10-31T21:55:01Z",
+    "display": "58661 ZecLearn: a free live quiz tool for Zcash meetups and classes",
+    "key": "forum:58661",
+    "metadata": {
+      "category_id": 41,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "zeclearn-a-free-live-quiz-tool-for-zcash-meetups-and-classes",
+      "title": "ZecLearn: a free live quiz tool for Zcash meetups and classes",
+      "topic_id": 58661
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58661,
+    "url": "https://forum.zcashcommunity.com/t/zeclearn-a-free-live-quiz-tool-for-zcash-meetups-and-classes/58661"
+  },
+  "schema": "zcash-fast-event/1"
+}
