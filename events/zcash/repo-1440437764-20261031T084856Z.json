@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T02:42:31Z",
+    "detected_at": "2026-10-31T08:48:56Z",
+    "display": "neinsnitzil-a11y/CryptoIRC",
+    "key": "repo:1440437764",
+    "metadata": {
+      "description": "this is a har/software crypto wallet builder with over 30 diffrent supported currencies manage and send crypto along with a built in IRC chat",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "neinsnitzil-a11y/CryptoIRC",
+      "homepage": null,
+      "pushed_at": "2026-10-31T04:19:34Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1440437764,
+    "url": "https://github.com/neinsnitzil-a11y/CryptoIRC"
+  },
+  "schema": "zcash-fast-event/1"
+}
