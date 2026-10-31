@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T01:50:59Z",
+    "description": "WARBAND: a NEAR memecoin where holders level up the longer they hold, with a rule-bound war chest run by a Sputnik DAO (NEAR HACKATHON 2026)",
+    "detected_at": "2026-10-31T02:36:22Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "alibenyezza/warband-near",
+    "homepage": null,
+    "html_url": "https://github.com/alibenyezza/warband-near",
+    "pushed_at": "2026-10-31T02:20:00Z",
+    "repo_id": 1440408240,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
