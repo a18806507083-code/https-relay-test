@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T00:19:38Z",
+    "description": "Simultaneous token launcher on Solana (Pump.fun via Jito MEV) and Robinhood Chain (Pons via Native ETH)",
+    "detected_at": "2026-11-01T00:30:19Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Pahan4ek/dual-launch",
+    "homepage": null,
+    "html_url": "https://github.com/Pahan4ek/dual-launch",
+    "pushed_at": "2026-11-01T00:28:03Z",
+    "repo_id": 1441359707,
+    "score": 10,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
