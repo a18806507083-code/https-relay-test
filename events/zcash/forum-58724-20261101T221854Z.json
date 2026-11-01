@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T21:49:53.869Z",
+    "detected_at": "2026-11-01T22:18:54Z",
+    "display": "58724 Retroactive Grant Application - zcashd Medium Severity V4 Sapling Parsing Mismatch (GHSA-3jg6-49c6-q99v)",
+    "key": "forum:58724",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zcashd-medium-severity-v4-sapling-parsing-mismatch-ghsa-3jg6-49c6-q99v",
+      "title": "Retroactive Grant Application - zcashd Medium Severity V4 Sapling Parsing Mismatch (GHSA-3jg6-49c6-q99v)",
+      "topic_id": 58724
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58724,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zcashd-medium-severity-v4-sapling-parsing-mismatch-ghsa-3jg6-49c6-q99v/58724"
+  },
+  "schema": "zcash-fast-event/1"
+}
