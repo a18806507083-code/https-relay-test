@@ -6658,7 +6658,10 @@
       "next_check_at": "2026-11-01T19:00:00+00:00",
       "last_check_at": "2026-11-01T18:55:07.673075+00:00",
       "repo_id": 1361991645,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "c5dc085ea59f0a6643eaa679dd667ec0a65ae002212914b2baf040eb693047f0",
+      "verified_fingerprint": "c5dc085ea59f0a6643eaa679dd667ec0a65ae002212914b2baf040eb693047f0"
     },
     "repo:s1nus/tachyscan": {
       "source": "repo",
@@ -6678,7 +6681,10 @@
       "next_check_at": "2026-11-01T19:00:00+00:00",
       "last_check_at": "2026-11-01T18:55:08.712795+00:00",
       "repo_id": 1370192994,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "2f108fb6b5caaea1f4ad2d2c46809a2e0c452b3c4d11679ade444c53e5076021",
+      "verified_fingerprint": "2f108fb6b5caaea1f4ad2d2c46809a2e0c452b3c4d11679ade444c53e5076021"
     }
   },
   "last_collect_at": "2026-11-01T18:56:02.969127+00:00",
