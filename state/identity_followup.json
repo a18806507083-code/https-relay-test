@@ -1417,8 +1417,8 @@
           "quote": "The loxley.dev landing page."
         }
       ],
-      "claims_fingerprint": "97086bbfca6f617c550cb9e7e8ef6b13123f742ecb34764ac1278c68d4efe7ac",
-      "verified_fingerprint": "97086bbfca6f617c550cb9e7e8ef6b13123f742ecb34764ac1278c68d4efe7ac"
+      "claims_fingerprint": "0999ffa69ddef67cf512adadbce9631b353ad66198a02e23b85939a9abbf9835",
+      "verified_fingerprint": "0999ffa69ddef67cf512adadbce9631b353ad66198a02e23b85939a9abbf9835"
     },
     "repo:topoliquidity/topo-liquidity": {
       "source": "repo",
@@ -2084,8 +2084,8 @@
       "repo_id": 1356845105,
       "file_cursor": 0,
       "claims": [],
-      "claims_fingerprint": "4a97ac4ce3ca4a78dfc04ce09e8357e919ed8a7e02694a960dcf86f9f02d4483",
-      "verified_fingerprint": "4a97ac4ce3ca4a78dfc04ce09e8357e919ed8a7e02694a960dcf86f9f02d4483"
+      "claims_fingerprint": "6ec9d5bf2d3ae8ca071fe1bd1725225855fea3205104c601161f230b19279926",
+      "verified_fingerprint": "6ec9d5bf2d3ae8ca071fe1bd1725225855fea3205104c601161f230b19279926"
     },
     "repo:kealabama/midcap-random-index": {
       "source": "repo",
@@ -4083,8 +4083,8 @@
       "repo_id": 1358682417,
       "file_cursor": 25,
       "claims": [],
-      "claims_fingerprint": "15c94675a638f2a556d5db93c640a9bf67d31e5caa34be27b75edcac0e760d9f",
-      "verified_fingerprint": "15c94675a638f2a556d5db93c640a9bf67d31e5caa34be27b75edcac0e760d9f"
+      "claims_fingerprint": "4a564e88d342043c47879cb71bc69b16ee10c0746ee5c02b75493f201543fed6",
+      "verified_fingerprint": "4a564e88d342043c47879cb71bc69b16ee10c0746ee5c02b75493f201543fed6"
     },
     "repo:nativ3ai/robinhood-terminal": {
       "source": "repo",
@@ -4592,8 +4592,8 @@
       "repo_id": 1358970900,
       "file_cursor": 0,
       "claims": [],
-      "claims_fingerprint": "d46023eb9327963ac4b057bf3a488070018a03981d4deb61a0a8dc6c639f3ba6",
-      "verified_fingerprint": "d46023eb9327963ac4b057bf3a488070018a03981d4deb61a0a8dc6c639f3ba6"
+      "claims_fingerprint": "f8dbfd7f55752bedc8d7d35c783f7456f8c380bbc97c1375a867e401752dd855",
+      "verified_fingerprint": "f8dbfd7f55752bedc8d7d35c783f7456f8c380bbc97c1375a867e401752dd855"
     },
     "repo:quantumcoinputer/quantum-cats": {
       "source": "repo",
@@ -5468,8 +5468,8 @@
       "repo_id": 1359686762,
       "file_cursor": 14,
       "claims": [],
-      "claims_fingerprint": "bc79c83838d4f770dd2f0705b5968e7dbffd604f87dff3fc699e4d5e54b6fc82",
-      "verified_fingerprint": "bc79c83838d4f770dd2f0705b5968e7dbffd604f87dff3fc699e4d5e54b6fc82"
+      "claims_fingerprint": "fba05eb4ee9528313def90ddee987f20ce2894153bc21c9d46fe7876f2a873fc",
+      "verified_fingerprint": "fba05eb4ee9528313def90ddee987f20ce2894153bc21c9d46fe7876f2a873fc"
     },
     "repo:abysshopper/black-market-python-sdk": {
       "source": "repo",
@@ -5967,8 +5967,8 @@
       "repo_id": 1360686266,
       "file_cursor": 5,
       "claims": [],
-      "claims_fingerprint": "5f266d0f5ead425606175d050c5dcb7c61d1605e1a77adf9b53ef35244a25b76",
-      "verified_fingerprint": "5f266d0f5ead425606175d050c5dcb7c61d1605e1a77adf9b53ef35244a25b76"
+      "claims_fingerprint": "e7768ca9d88e00b4af7e7da8580c135adbbdcedbe7fea4d522afa5b7258df504",
+      "verified_fingerprint": "e7768ca9d88e00b4af7e7da8580c135adbbdcedbe7fea4d522afa5b7258df504"
     },
     "repo:trixen-ai/yield": {
       "source": "repo",
@@ -6430,7 +6430,10 @@
       "next_check_at": "2026-11-01T07:00:00+00:00",
       "last_check_at": "2026-11-01T06:00:05.820443+00:00",
       "repo_id": 1361573981,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "c1e0e04b88818d544be49a65913f73ab93a1f5e160b60d89a5b050696ef2e86d",
+      "verified_fingerprint": "c1e0e04b88818d544be49a65913f73ab93a1f5e160b60d89a5b050696ef2e86d"
     },
     "repo:robicbobic/basisdotfun": {
       "source": "repo",
@@ -6483,7 +6486,10 @@
       "next_check_at": "2026-11-01T07:00:00+00:00",
       "last_check_at": "2026-11-01T06:00:04.231127+00:00",
       "repo_id": 1361740810,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "bb1c7386444f1a5aafe6efa4bb22e53abf441eef45dd61079db52d588c95ff64",
+      "verified_fingerprint": "bb1c7386444f1a5aafe6efa4bb22e53abf441eef45dd61079db52d588c95ff64"
     },
     "repo:undefined-ui/launchbrain": {
       "source": "repo",
@@ -6499,6 +6505,5 @@
   },
   "last_collect_at": "2026-11-01T06:01:16.756974+00:00",
   "last_errors": [],
-  "last_verify_errors": [],
-  "quota_next_probe_at": "2026-10-29T21:04:54.686635+00:00"
+  "last_verify_errors": []
 }
