@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-01T13:45:16Z",
+  "last_run_at": "2026-11-01T18:35:32Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-01T06:08:18Z",
+      "cutoff": "2026-11-01T13:15:16Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-01T06:08:18Z",
-      "matches": 2,
+      "cutoff": "2026-11-01T13:15:16Z",
+      "matches": 5,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-01T06:08:18Z",
+      "cutoff": "2026-11-01T13:15:16Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-01T06:08:18Z",
-      "matches": 1,
+      "cutoff": "2026-11-01T13:15:16Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -2037,6 +2037,38 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2823",
       "first_seen_at": "2026-11-01T13:45:16Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58712": {
+      "created_at": "2026-11-01T13:59:29.082Z",
+      "display": "58712 Block explorer + Testnet infrastructure 2026-27",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2831",
+      "first_seen_at": "2026-11-01T18:35:32Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58713": {
+      "created_at": "2026-11-01T14:56:36.865Z",
+      "display": "58713 Global Ambassador Elzz October 2026 Report",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2830",
+      "first_seen_at": "2026-11-01T18:35:32Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58714": {
+      "created_at": "2026-11-01T15:03:42.189Z",
+      "display": "58714 Grant Application - Shielded 2-of-3 FROST escrow for P2P commerce",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2829",
+      "first_seen_at": "2026-11-01T18:35:32Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58716": {
+      "created_at": "2026-11-01T16:14:15.806Z",
+      "display": "58716 The Forge Report #004: Change!",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2828",
+      "first_seen_at": "2026-11-01T18:35:32Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8567,6 +8599,14 @@
       "first_seen_at": "2026-11-01T13:45:16Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1441849333": {
+      "created_at": "2026-11-01T13:30:34Z",
+      "display": "hoffo1987/Last-One-Standing",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2832",
+      "first_seen_at": "2026-11-01T18:35:32Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9435,9 +9475,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-01T13:45:16Z",
-    "forum": "2026-11-01T13:45:16Z",
-    "github": "2026-11-01T13:45:16Z",
-    "zcg": "2026-11-01T13:45:16Z"
+    "fixed_orgs": "2026-11-01T18:35:32Z",
+    "forum": "2026-11-01T18:35:32Z",
+    "github": "2026-11-01T18:35:32Z",
+    "zcg": "2026-11-01T18:35:32Z"
   }
 }
