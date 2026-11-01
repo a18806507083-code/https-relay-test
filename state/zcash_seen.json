@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-01T06:38:18Z",
+  "last_run_at": "2026-11-01T13:45:16Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-01T00:00:34Z",
+      "cutoff": "2026-11-01T06:08:18Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-01T00:00:34Z",
-      "matches": 1,
+      "cutoff": "2026-11-01T06:08:18Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-01T00:00:34Z",
+      "cutoff": "2026-11-01T06:08:18Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-01T00:00:34Z",
-      "matches": 0,
+      "cutoff": "2026-11-01T06:08:18Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -2021,6 +2021,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2817",
       "first_seen_at": "2026-11-01T06:38:18Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58709": {
+      "created_at": "2026-11-01T13:04:00.977Z",
+      "display": "58709 Daily-radbro",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2824",
+      "first_seen_at": "2026-11-01T13:45:16Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58710": {
+      "created_at": "2026-11-01T13:17:07.973Z",
+      "display": "58710 Large shield into Sapling",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2823",
+      "first_seen_at": "2026-11-01T13:45:16Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8543,6 +8559,14 @@
       "first_seen_at": "2026-11-01T06:38:18Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1441587054": {
+      "created_at": "2026-11-01T07:32:25Z",
+      "display": "Secretum234/Secretum",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2826",
+      "first_seen_at": "2026-11-01T13:45:16Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9398,14 +9422,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2806",
       "first_seen_at": "2026-10-31T18:49:12Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6147011127": {
+      "created_at": "2026-11-01T12:42:47Z",
+      "display": "#530 Grant Application - ZecOne",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2825",
+      "first_seen_at": "2026-11-01T13:45:16Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-01T06:38:18Z",
-    "forum": "2026-11-01T06:38:18Z",
-    "github": "2026-11-01T06:38:18Z",
-    "zcg": "2026-11-01T06:38:18Z"
+    "fixed_orgs": "2026-11-01T13:45:16Z",
+    "forum": "2026-11-01T13:45:16Z",
+    "github": "2026-11-01T13:45:16Z",
+    "zcg": "2026-11-01T13:45:16Z"
   }
 }
