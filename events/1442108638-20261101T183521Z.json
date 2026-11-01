@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T18:20:47Z",
+    "description": null,
+    "detected_at": "2026-11-01T18:35:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "White-Lotus-Labs/iroh-case-shop",
+    "homepage": null,
+    "html_url": "https://github.com/White-Lotus-Labs/iroh-case-shop",
+    "pushed_at": "2026-11-01T18:21:39Z",
+    "repo_id": 1442108638,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
