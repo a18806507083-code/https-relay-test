@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T20:41:56.100Z",
+    "detected_at": "2026-11-01T22:18:54Z",
+    "display": "58723 Retroactive Grant Application - Zebra High Severity Consensus Vulnerability (CVE-2026-40880)",
+    "key": "forum:58723",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zebra-high-severity-consensus-vulnerability-cve-2026-40880",
+      "title": "Retroactive Grant Application - Zebra High Severity Consensus Vulnerability (CVE-2026-40880)",
+      "topic_id": 58723
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58723,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zebra-high-severity-consensus-vulnerability-cve-2026-40880/58723"
+  },
+  "schema": "zcash-fast-event/1"
+}
