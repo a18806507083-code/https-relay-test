@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T07:32:25Z",
+    "detected_at": "2026-11-01T13:45:16Z",
+    "display": "Secretum234/Secretum",
+    "key": "repo:1441587054",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Secretum234/Secretum",
+      "homepage": null,
+      "pushed_at": "2026-11-01T09:05:25Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1441587054,
+    "url": "https://github.com/Secretum234/Secretum"
+  },
+  "schema": "zcash-fast-event/1"
+}
