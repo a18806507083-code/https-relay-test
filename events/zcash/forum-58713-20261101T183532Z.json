@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T14:56:36.865Z",
+    "detected_at": "2026-11-01T18:35:32Z",
+    "display": "58713 Global Ambassador Elzz October 2026 Report",
+    "key": "forum:58713",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "global-ambassador-elzz-october-2026-report",
+      "title": "Global Ambassador Elzz October 2026 Report",
+      "topic_id": 58713
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58713,
+    "url": "https://forum.zcashcommunity.com/t/global-ambassador-elzz-october-2026-report/58713"
+  },
+  "schema": "zcash-fast-event/1"
+}
