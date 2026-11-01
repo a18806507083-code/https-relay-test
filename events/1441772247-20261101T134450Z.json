@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T11:58:53Z",
+    "description": "One page for all of Tacit: Bitcoin envelopes, the confidential pools, the bridge and what stays hidden. Live mainnet data, checked against the chain in your browser.",
+    "detected_at": "2026-11-01T13:44:50Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "swiftbotlab/tacit-seam",
+    "homepage": "https://swiftbotlab.github.io/tacit-seam/",
+    "html_url": "https://github.com/swiftbotlab/tacit-seam",
+    "pushed_at": "2026-11-01T12:59:46Z",
+    "repo_id": 1441772247,
+    "score": 5,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
