@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T13:17:07.973Z",
+    "detected_at": "2026-11-01T13:45:16Z",
+    "display": "58710 Large shield into Sapling",
+    "key": "forum:58710",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "large-shield-into-sapling",
+      "title": "Large shield into Sapling",
+      "topic_id": 58710
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58710,
+    "url": "https://forum.zcashcommunity.com/t/large-shield-into-sapling/58710"
+  },
+  "schema": "zcash-fast-event/1"
+}
