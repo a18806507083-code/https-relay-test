@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T13:10:29Z",
+    "description": null,
+    "detected_at": "2026-11-01T13:44:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "LendrMarkets/LendrMarkets-protocol",
+    "homepage": null,
+    "html_url": "https://github.com/LendrMarkets/LendrMarkets-protocol",
+    "pushed_at": "2026-11-01T13:14:27Z",
+    "repo_id": 1441831602,
+    "score": 9,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
