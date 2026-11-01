@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T11:52:55Z",
+    "description": "Read-only multi-chain LP position monitor for EVM wallets \u2014 Uniswap v3/v4, PancakeSwap v3, Aerodrome/Velodrome, SushiSwap v3",
+    "detected_at": "2026-11-01T13:44:50Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "sitimas9/lp-tracker",
+    "homepage": "",
+    "html_url": "https://github.com/sitimas9/lp-tracker",
+    "pushed_at": "2026-11-01T11:57:02Z",
+    "repo_id": 1441767723,
+    "score": 5,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
