@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T03:01:59Z",
+    "detected_at": "2026-11-01T06:38:18Z",
+    "display": "swirl-cash/cipherpay-web",
+    "key": "repo:1441438298",
+    "metadata": {
+      "description": "SWIRL website and web wallet — privacy for Bitcoin & EVM",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "swirl-cash/cipherpay-web",
+      "homepage": null,
+      "pushed_at": "2026-11-01T04:17:39Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1441438298,
+    "url": "https://github.com/swirl-cash/cipherpay-web"
+  },
+  "schema": "zcash-fast-event/1"
+}
