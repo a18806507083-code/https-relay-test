@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-10-31T23:17:56Z",
+    "detected_at": "2026-11-01T00:30:34Z",
+    "display": "lopeselio/create-zcash-app",
+    "key": "repo:1441330615",
+    "metadata": {
+      "description": "Create a Next.js app that accepts shielded Zcash payments, with a local regtest network for development and tests",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "lopeselio/create-zcash-app",
+      "homepage": null,
+      "pushed_at": "2026-10-31T23:18:01Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1441330615,
+    "url": "https://github.com/lopeselio/create-zcash-app"
+  },
+  "schema": "zcash-fast-event/1"
+}
