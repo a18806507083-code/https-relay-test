@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T23:53:16Z",
+    "description": null,
+    "detected_at": "2026-11-02T01:33:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "GossipProtocol/starter-protocol-game",
+    "homepage": null,
+    "html_url": "https://github.com/GossipProtocol/starter-protocol-game",
+    "pushed_at": "2026-11-01T23:53:21Z",
+    "repo_id": 1442330936,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
