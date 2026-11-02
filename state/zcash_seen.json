@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-02T08:10:52Z",
+  "last_run_at": "2026-11-02T18:15:25Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-02T01:03:38Z",
+      "cutoff": "2026-11-02T07:40:52Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-02T01:03:38Z",
-      "matches": 1,
+      "cutoff": "2026-11-02T07:40:52Z",
+      "matches": 9,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-02T01:03:38Z",
-      "matches": 1,
+      "cutoff": "2026-11-02T07:40:52Z",
+      "matches": 6,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-02T01:03:38Z",
-      "matches": 0,
+      "cutoff": "2026-11-02T07:40:52Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -2125,6 +2125,46 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2849",
       "first_seen_at": "2026-11-02T08:10:52Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58756": {
+      "created_at": "2026-11-02T12:13:13.986Z",
+      "display": "58756 Grant Application - Kestrel: Native Mobile WalletConnect for Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2863",
+      "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58758": {
+      "created_at": "2026-11-02T13:37:56.713Z",
+      "display": "58758 How can I verify that my Zebra node is serving block data to other peers?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2861",
+      "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58762": {
+      "created_at": "2026-11-02T14:47:47.161Z",
+      "display": "58762 Retroactive Grant Application - Void Market",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2860",
+      "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58764": {
+      "created_at": "2026-11-02T16:43:33.212Z",
+      "display": "58764 Coinholder grants need to fund ecosystem work",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2856",
+      "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58768": {
+      "created_at": "2026-11-02T17:14:58.118Z",
+      "display": "58768 Introducing Coinperson Voting: One vote per coinholder",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2854",
+      "first_seen_at": "2026-11-02T18:15:25Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8679,6 +8719,46 @@
       "first_seen_at": "2026-11-02T08:10:52Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1442965325": {
+      "created_at": "2026-11-02T12:55:25Z",
+      "display": "kaikai-cao/zcash-orchard-engineering",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2862",
+      "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1443092497": {
+      "created_at": "2026-11-02T14:48:50Z",
+      "display": "mttgrb/TBHManager",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2859",
+      "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1443146434": {
+      "created_at": "2026-11-02T15:36:08Z",
+      "display": "Thomasseri/gpTommy-32k",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2858",
+      "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1443146950": {
+      "created_at": "2026-11-02T15:36:33Z",
+      "display": "craftsoldier/zcash-sighash-lean",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2857",
+      "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1443230939": {
+      "created_at": "2026-11-02T16:50:37Z",
+      "display": "pamaldi/aioisity-doc",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2855",
+      "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9550,14 +9630,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2843",
       "first_seen_at": "2026-11-02T01:33:38Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6162189293": {
+      "created_at": "2026-11-02T12:04:35Z",
+      "display": "#532 Grant Application - Kestrel: Native Mobile WalletConnect for Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2864",
+      "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6167405747": {
+      "created_at": "2026-11-02T17:17:39Z",
+      "display": "#533 Grant Application - Forg3t Shield for Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2853",
+      "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-02T08:10:52Z",
-    "forum": "2026-11-02T08:10:52Z",
-    "github": "2026-11-02T08:10:52Z",
-    "zcg": "2026-11-02T08:10:52Z"
+    "fixed_orgs": "2026-11-02T18:15:25Z",
+    "forum": "2026-11-02T18:15:25Z",
+    "github": "2026-11-02T18:15:25Z",
+    "zcg": "2026-11-02T18:15:25Z"
   }
 }
