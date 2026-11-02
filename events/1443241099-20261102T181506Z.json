@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T16:59:50Z",
+    "description": "Your Robinhood Chain bag, live in your Claude Code status line. Read-only.",
+    "detected_at": "2026-11-02T18:15:06Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "caretbag/caretbag",
+    "homepage": "https://caretbag.pro",
+    "html_url": "https://github.com/caretbag/caretbag",
+    "pushed_at": "2026-11-02T17:22:52Z",
+    "repo_id": 1443241099,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
