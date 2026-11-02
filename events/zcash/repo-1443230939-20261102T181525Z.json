@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T16:50:37Z",
+    "detected_at": "2026-11-02T18:15:25Z",
+    "display": "pamaldi/aioisity-doc",
+    "key": "repo:1443230939",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "pamaldi/aioisity-doc",
+      "homepage": null,
+      "pushed_at": "2026-11-02T16:54:56Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1443230939,
+    "url": "https://github.com/pamaldi/aioisity-doc"
+  },
+  "schema": "zcash-fast-event/1"
+}
