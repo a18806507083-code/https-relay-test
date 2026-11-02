@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T12:13:13.986Z",
+    "detected_at": "2026-11-02T18:15:25Z",
+    "display": "58756 Grant Application - Kestrel: Native Mobile WalletConnect for Zcash",
+    "key": "forum:58756",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-kestrel-native-mobile-walletconnect-for-zcash",
+      "title": "Grant Application - Kestrel: Native Mobile WalletConnect for Zcash",
+      "topic_id": 58756
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58756,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-kestrel-native-mobile-walletconnect-for-zcash/58756"
+  },
+  "schema": "zcash-fast-event/1"
+}
