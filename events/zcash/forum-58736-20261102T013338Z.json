@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T00:23:35.019Z",
+    "detected_at": "2026-11-02T01:33:38Z",
+    "display": "58736 Zondax shielded will STOP working soon",
+    "key": "forum:58736",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zondax-shielded-will-stop-working-soon",
+      "title": "Zondax shielded will STOP working soon",
+      "topic_id": 58736
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58736,
+    "url": "https://forum.zcashcommunity.com/t/zondax-shielded-will-stop-working-soon/58736"
+  },
+  "schema": "zcash-fast-event/1"
+}
