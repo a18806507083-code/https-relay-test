@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-01T23:15:40.098Z",
+    "detected_at": "2026-11-02T01:33:38Z",
+    "display": "58725 Retroactive Grant Application - Zcash Community Mining Lab: Powering Privacy Infrastructure + Youth Leadership",
+    "key": "forum:58725",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zcash-community-mining-lab-powering-privacy-infrastructure-youth-leadership",
+      "title": "Retroactive Grant Application - Zcash Community Mining Lab: Powering Privacy Infrastructure + Youth Leadership",
+      "topic_id": 58725
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58725,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zcash-community-mining-lab-powering-privacy-infrastructure-youth-leadership/58725"
+  },
+  "schema": "zcash-fast-event/1"
+}
