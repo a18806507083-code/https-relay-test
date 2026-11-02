@@ -5383,19 +5383,13 @@
       "claims": [
         {
           "kind": "website",
-          "value": "https://rhairdrop.gmgnrepeat.com/",
+          "value": "rhairdrop.gmgnrepeat.com",
           "source": "README.md",
-          "quote": "**BulkSend** | send an NFT or a token to hundreds of wallets in a few transactions | [rhairdrop.gmgnrepeat.com](https://rhairdrop.gmgnrepeat.com/)"
-        },
-        {
-          "kind": "website",
-          "value": "https://rhcheck.gmgnrepeat.com/",
-          "source": "README.md",
-          "quote": "**Check** | read a transaction or a contract in plain English before you sign it | [rhcheck.gmgnrepeat.com](https://rhcheck.gmgnrepeat.com/)"
+          "quote": "[rhairdrop.gmgnrepeat.com](https://rhairdrop.gmgnrepeat.com/)"
         }
       ],
-      "claims_fingerprint": "e401641ff6e2eec1b63be30309ca3715f90c6092f05cf843efc519867e904c0e",
-      "verified_fingerprint": "e401641ff6e2eec1b63be30309ca3715f90c6092f05cf843efc519867e904c0e"
+      "claims_fingerprint": "bf4447a0706f48f2bfb07354959658ca729d12c99fdb3d59d00f90cbeb42fc92",
+      "verified_fingerprint": "bf4447a0706f48f2bfb07354959658ca729d12c99fdb3d59d00f90cbeb42fc92"
     },
     "repo:kili-lol/kili": {
       "source": "repo",
@@ -6944,7 +6938,7 @@
       "repo": "OlamideAfunsho/argos",
       "name": "OlamideAfunsho/argos",
       "pr": 796,
-      "status": "tracking",
+      "status": "found",
       "registered_at": "2026-11-02T11:00:46.410405+00:00",
       "first_report_sha256": "2316fcf671943ee8e2fc71798ea6a4ac6335809494b0e6ae76f314b3f3e6ffa4",
       "files": {
@@ -7047,7 +7041,29 @@
       "next_check_at": "2026-11-02T12:00:00+00:00",
       "last_check_at": "2026-11-02T11:01:04.257027+00:00",
       "repo_id": 1372387645,
-      "file_cursor": 18
+      "file_cursor": 18,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "argos.sovright.com",
+          "source": "site/README.md",
+          "quote": "GitHub Pages custom-domain hint for `argos.sovright.com`",
+          "official_project": true
+        }
+      ],
+      "claims_fingerprint": "efeffb7f7cbf9e2757a7f2538473fb442750aff7c0be0aa903bbe1ecabcdb69d",
+      "identities": [
+        {
+          "kind": "website",
+          "value": "https://argos.sovright.com",
+          "source": "site/README.md",
+          "quote": "GitHub Pages custom-domain hint for `argos.sovright.com`",
+          "official_project": true,
+          "source_url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/site/README.md"
+        }
+      ],
+      "notified_at": "2026-11-02T11:02:48.603536+00:00",
+      "verified_fingerprint": "efeffb7f7cbf9e2757a7f2538473fb442750aff7c0be0aa903bbe1ecabcdb69d"
     },
     "zcg:5472882954": {
       "source": "ZCG_NEW_ISSUE",
