@@ -5408,13 +5408,13 @@
       "claims": [
         {
           "kind": "website",
-          "value": "rhairdrop.gmgnrepeat.com",
+          "value": "https://rhairdrop.gmgnrepeat.com/",
           "source": "README.md",
           "quote": "[rhairdrop.gmgnrepeat.com](https://rhairdrop.gmgnrepeat.com/)"
         }
       ],
-      "claims_fingerprint": "bf4447a0706f48f2bfb07354959658ca729d12c99fdb3d59d00f90cbeb42fc92",
-      "verified_fingerprint": "bf4447a0706f48f2bfb07354959658ca729d12c99fdb3d59d00f90cbeb42fc92"
+      "claims_fingerprint": "9c6e6da59b263842d03085deb85717ca8e3117fa104c4b9fbb38b39ab0c71414",
+      "verified_fingerprint": "9c6e6da59b263842d03085deb85717ca8e3117fa104c4b9fbb38b39ab0c71414"
     },
     "repo:kili-lol/kili": {
       "source": "repo",
@@ -6757,8 +6757,8 @@
       "repo_id": 1370192994,
       "file_cursor": 0,
       "claims": [],
-      "claims_fingerprint": "2f108fb6b5caaea1f4ad2d2c46809a2e0c452b3c4d11679ade444c53e5076021",
-      "verified_fingerprint": "2f108fb6b5caaea1f4ad2d2c46809a2e0c452b3c4d11679ade444c53e5076021"
+      "claims_fingerprint": "86e004c3378c2bf24097e52cc576cbf44d7f8a21e368dee5e0276a9c75889922",
+      "verified_fingerprint": "86e004c3378c2bf24097e52cc576cbf44d7f8a21e368dee5e0276a9c75889922"
     },
     "repo:inkfrogs764-ui/games": {
       "source": "repo",
@@ -7254,7 +7254,10 @@
       "next_check_at": "2026-11-02T21:00:00+00:00",
       "last_check_at": "2026-11-02T20:45:32.439846+00:00",
       "repo_id": 1373684710,
-      "file_cursor": 18
+      "file_cursor": 18,
+      "claims": [],
+      "claims_fingerprint": "be8a20146f989b5a7a0324e3f3664ba07e3224342c424d51d8614a7d1964a8a2",
+      "verified_fingerprint": "be8a20146f989b5a7a0324e3f3664ba07e3224342c424d51d8614a7d1964a8a2"
     }
   },
   "last_collect_at": "2026-11-02T20:46:44.179130+00:00",
