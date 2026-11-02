@@ -6782,7 +6782,10 @@
       "next_check_at": "2026-11-02T03:00:00+00:00",
       "last_check_at": "2026-11-02T02:29:29.833682+00:00",
       "repo_id": 1362351387,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "8ef7d851a06e7373b9d1920af8c75dc503bc980c0bfc6d71a94e99ba90b76202",
+      "verified_fingerprint": "8ef7d851a06e7373b9d1920af8c75dc503bc980c0bfc6d71a94e99ba90b76202"
     },
     "repo:pegasusmalar/threshold-vrf-bn254": {
       "source": "repo",
@@ -6877,7 +6880,10 @@
       "next_check_at": "2026-11-02T03:00:00+00:00",
       "last_check_at": "2026-11-02T02:29:32.310033+00:00",
       "repo_id": 1362678022,
-      "file_cursor": 3
+      "file_cursor": 3,
+      "claims": [],
+      "claims_fingerprint": "60176c25fbf993a26bf9e2a35729f5b13eac57e895897b845c8205ab9047e49c",
+      "verified_fingerprint": "60176c25fbf993a26bf9e2a35729f5b13eac57e895897b845c8205ab9047e49c"
     },
     "repo:meg0302/dungeon-knights": {
       "source": "repo",
