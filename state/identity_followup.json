@@ -945,6 +945,21 @@
       "project": "forum:57621",
       "all_missing": false,
       "parser_version": 3
+    },
+    "467": {
+      "project": "repo:fondrfi/fondrfi",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "796": {
+      "project": "repo:olamideafunsho/argos",
+      "all_missing": true,
+      "parser_version": 3
+    },
+    "801": {
+      "project": "zcg:5472882954",
+      "all_missing": false,
+      "parser_version": 3
     }
   },
   "projects": {
@@ -998,8 +1013,8 @@
           "url": "https://github.com/runesleo/meme-cohort-observatory/blob/ad5444fd86010fd7a4ded2f4fae663aee719703e/docs/ROBICOP_SHADOW.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:31:01.290213+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:27.002327+00:00",
       "repo_id": 1356051016,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1049,10 +1064,10 @@
           "url": "https://github.com/realdeanai/golden--trader/blob/cb1b89504a2bc6294da2ddcc600751de811635ef/development/wallet-monitor/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:15.721230+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:46.250875+00:00",
       "repo_id": 1356082615,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "verified_fingerprint": "5e05e3c551c4fcca49198c17c9185bd87e66d3774a4e908305dd8673fa62fdfe"
     },
     "repo:voxelithicag/mcp": {
@@ -1086,8 +1101,8 @@
           "url": "https://github.com/ReddAgentRH/redd/blob/938adaa0b90e22e8eaf1d4fab79ad32ab656f8cb/contract/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:17.815909+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:47.832314+00:00",
       "repo_id": 1356143612,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1152,8 +1167,8 @@
           "url": "https://github.com/Rizkijack/gashood/blob/853edd0a271357936dfddcd2a858dfa5969c9dd7/docs/WORKFLOW.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:31:02.902443+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:28.414111+00:00",
       "repo_id": 1356167900,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1231,8 +1246,8 @@
           "url": "https://github.com/travisiol/hedge/blob/3bd37a63234bcca0bb5bc56d50990857998fb187/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:31:04.186243+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:29.700953+00:00",
       "repo_id": 1356225163,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1359,8 +1374,8 @@
           "url": "https://github.com/snobistisch/stock-lp-radar/blob/590dc2bc4b8e98f3303c3ebece3fdea54a235f80/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:31:05.643357+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:30.943166+00:00",
       "repo_id": 1356269686,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1487,10 +1502,10 @@
           "url": "https://github.com/nirholas/loxley/blob/afd42677c3333bdbb7689852872e838d732e4e89/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:19.343847+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:49.089654+00:00",
       "repo_id": 1356333517,
-      "file_cursor": 10,
+      "file_cursor": 9,
       "failed_fingerprints": {
         "4cd72aa43fb1e32ca7340d6179028e9795aab4ce5cc71f4f5409a55a839983c2": 1
       },
@@ -1531,8 +1546,8 @@
           "url": "https://github.com/vern-sh/vernagent/blob/95d5ffff949efa04c76065d5d8241ccf3fdb4a86/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:20.852783+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:50.205350+00:00",
       "repo_id": 1356364734,
       "file_cursor": 0,
       "claims": [],
@@ -1596,10 +1611,10 @@
           "url": "https://github.com/Ali213112/Agentic-on-bot-chain-/blob/dc6f15d0a837849cd10e16db657132fdf912e57c/src/lib/deployed.ts"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:22.335904+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:51.468401+00:00",
       "repo_id": 1356397498,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "claims": [],
       "claims_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83",
       "verified_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83"
@@ -1624,8 +1639,8 @@
           "url": "https://github.com/QorbQuant/fomo-robinhood-copy/blob/c4ef852b5483af691df5411fc01c03a1899272b6/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:23.944956+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:52.621088+00:00",
       "repo_id": 1356394695,
       "file_cursor": 0,
       "claims": [],
@@ -1747,10 +1762,10 @@
           "url": "https://github.com/heirlabs/famcash-contracts/blob/052b8c4ce6aa6f455d8ad155f4ae4fa1734c4427/scripts/deploy-mock-tokens.js"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:25.478903+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:53.915912+00:00",
       "repo_id": 1356497199,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "claims": [
         {
           "kind": "website",
@@ -1907,8 +1922,8 @@
           "url": "https://github.com/ClankRace/clankrace-v4/blob/4615160fcf6ad4afa7109f1d7d216a54a05f1b14/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:26.976016+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:55.183436+00:00",
       "repo_id": 1356715579,
       "file_cursor": 0,
       "claims": [],
@@ -2040,10 +2055,10 @@
           "url": "https://github.com/MeiYanDong/robinhood-pair-grid/blob/73db09b73dcfc67b04b87033f2240104174df87c/docs/adr/0008-hard-floor-and-rpc-consensus.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:28.367262+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:56.738799+00:00",
       "repo_id": 1356750466,
-      "file_cursor": 2,
+      "file_cursor": 20,
       "claims": [],
       "claims_fingerprint": "6c4681884806c00a83adc613be54db3ebebc5141555aac80922c5fb8353b1641",
       "verified_fingerprint": "6c4681884806c00a83adc613be54db3ebebc5141555aac80922c5fb8353b1641"
@@ -2164,8 +2179,8 @@
           "url": "https://github.com/nirholas/sherwood/blob/2dbd22d6a8e0f78ba2f83a589733a67ffbca5acd/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:29.835083+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:58.374946+00:00",
       "repo_id": 1356845105,
       "file_cursor": 0,
       "claims": [],
@@ -2202,8 +2217,8 @@
           "url": "https://github.com/kealabama/midcap-random-index/blob/8bc8400cd23c3f0907d8f07deccc39b230bf1728/docs/VERIFIER.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:31.381781+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:59.610697+00:00",
       "repo_id": 1356858272,
       "file_cursor": 0,
       "claims": [],
@@ -2235,8 +2250,8 @@
           "url": "https://github.com/MonkiiLabs/MonkiiLabsApp/blob/84d035308c0053798992b803a710ba528a4ca385/contracts/deployed_address.json"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:32.963181+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:00.935102+00:00",
       "repo_id": 1356847100,
       "file_cursor": 0,
       "claims": [],
@@ -2345,8 +2360,8 @@
           "url": "https://github.com/FLock-io/flock-v4-hook/blob/b8098bd9ad58b776c7c92839a0980a222a4c2a06/script/testing/00_DeployV4.s.sol"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:34.570099+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:02.768771+00:00",
       "repo_id": 1356947738,
       "file_cursor": 0,
       "claims": [],
@@ -2424,8 +2439,8 @@
           "url": "https://github.com/yafieae/morpho-toolkit/blob/0260e804d65da84d15bb13df88fd42e1216594da/tools/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:36.045486+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:04.189229+00:00",
       "repo_id": 1356964162,
       "file_cursor": 0,
       "claims": [],
@@ -2458,8 +2473,8 @@
           "url": "https://github.com/thesoloycoder/OmniLauncher/blob/7984ba04eb4451dae3205ddc15eda8ba0edd5a51/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:00.848039+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:33.475580+00:00",
       "repo_id": 1357020146,
       "file_cursor": 0,
       "claims": [],
@@ -2649,8 +2664,8 @@
           "url": "https://github.com/bruisedhacksa/pulse/blob/9ffb7047778ddb030c832826f95c309389c68cb6/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:37.329737+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:05.494514+00:00",
       "repo_id": 1357231201,
       "file_cursor": 0,
       "claims": [],
@@ -2672,8 +2687,8 @@
           "url": "https://github.com/florityswap/meridian-robinhood/blob/cb7d1b04ad8ed9456dcf25971592dc13f125cdda/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:38.983510+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:06.831960+00:00",
       "repo_id": 1357293588,
       "file_cursor": 0
     },
@@ -2697,8 +2712,8 @@
           "url": "https://github.com/florityswap/unicrit/blob/7eb691e95684bdcd10ba4b5b426ec32f0adf78f0/scripts/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:40.611580+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:08.296497+00:00",
       "repo_id": 1357293353,
       "file_cursor": 0,
       "claims": [],
@@ -2792,10 +2807,10 @@
           "url": "https://github.com/arcafi/arca/blob/2f6091f6e5ba25ae78c8933acdbed64b265d7755/web/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:42.189446+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:09.675340+00:00",
       "repo_id": 1357452361,
-      "file_cursor": 0,
+      "file_cursor": 4,
       "claims": [
         {
           "kind": "x",
@@ -2862,10 +2877,10 @@
           "url": "https://github.com/memeticstate/ms-v1/blob/7e8e071b0a52e6229ca6efa4ae480d3c7497bd2e/docs/mvp-architecture.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:43.488234+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:11.565042+00:00",
       "repo_id": 1357414038,
-      "file_cursor": 4
+      "file_cursor": 6
     },
     "repo:shellr-packs/shellr-web": {
       "source": "repo",
@@ -2940,8 +2955,8 @@
           "url": "https://github.com/Nar-123/lpbot-new/blob/bdf13f4e573ba6d1d4c700776bdf00a3ee5b3c60/scripts/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:45.009149+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:12.934537+00:00",
       "repo_id": 1357484187,
       "file_cursor": 0,
       "claims": [],
@@ -3028,8 +3043,8 @@
           "url": "https://github.com/galaxydestroyer0000/button/blob/b9c73bfcdd110dd88bee175a254a142cf3880181/docs/superpowers/specs/2026-09-03-frontend-rebuild-design.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:46.876910+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:14.618526+00:00",
       "repo_id": 1357556366,
       "file_cursor": 0,
       "claims": [],
@@ -3051,8 +3066,8 @@
           "url": "https://github.com/TICKRMARKETS/tickr-markets/blob/2975a167061cc90a19ac92bb21d6e3a1f1864f57/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:48.470239+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:15.904841+00:00",
       "repo_id": 1357604173,
       "file_cursor": 0,
       "claims": [],
@@ -3109,10 +3124,10 @@
           "url": "https://github.com/novenrizkia856-ui/Roxy-contract/blob/f78052bf2dc56f335f4e9cd53880baab9eeebfc8/script/DeployTestnet.s.sol"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:50.301985+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:17.599692+00:00",
       "repo_id": 1357694785,
-      "file_cursor": 0,
+      "file_cursor": 4,
       "claims": [],
       "claims_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675",
       "verified_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675"
@@ -3142,8 +3157,8 @@
           "url": "https://github.com/xlabsg/fomo-copy-bot/blob/837b5c8fe49395ac8348ecb8a60e39e4394f0e53/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:51.699808+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:18.939846+00:00",
       "repo_id": 1357743987,
       "file_cursor": 0,
       "claims": [],
@@ -3220,10 +3235,10 @@
           "url": "https://github.com/basisinvestments/basis/blob/f83e52be9d35b0cf0e11885fa90c79ee9df5f741/docs/use-cases.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:53.044603+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:20.011081+00:00",
       "repo_id": 1357917659,
-      "file_cursor": 1,
+      "file_cursor": 8,
       "claims": [
         {
           "kind": "website",
@@ -3250,8 +3265,8 @@
           "url": "https://github.com/cocainebit/float-docs/blob/4717d162ad8d98bcb381e3e9df398d96d4e9fdee/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:54.859108+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:21.512933+00:00",
       "repo_id": 1357819964,
       "file_cursor": 0,
       "claims": [],
@@ -3328,8 +3343,8 @@
           "url": "https://github.com/cony-horizon/rhbot/blob/ec827ebc1598867b94b472a3af8b6a03070b60f8/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:56.262797+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:22.659767+00:00",
       "repo_id": 1358070563,
       "file_cursor": 0,
       "claims": [],
@@ -3394,8 +3409,8 @@
       "registered_at": "2026-09-06T10:22:46.608671+00:00",
       "first_report_sha256": "8fcc2582361e9d54505aa2746ea0af6480e2d422b38b44c57b674234b3e58207",
       "files": {},
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:57.890589+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:24.169171+00:00",
       "linked_repositories": {}
     },
     "repo:aomi-labs/hoodit-apps": {
@@ -3648,8 +3663,8 @@
           "url": "https://github.com/efsanedizzy/wick5market/blob/51f7dffcd4b6de64a2df41f35e96121e90bdc97b/DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:58.236559+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:24.397470+00:00",
       "repo_id": 1358518390,
       "file_cursor": 0,
       "claims": [
@@ -3809,10 +3824,10 @@
           "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/8f96593a6fcda9892f1f508cb8d854e7b4a47d3a/src/wallet_privacy_testkit/example/privacy-manifest.json"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:02.618848+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:34.976532+00:00",
       "repo_id": 1358522089,
-      "file_cursor": 18,
+      "file_cursor": 12,
       "claims": [],
       "claims_fingerprint": "01fbc5310d0d249f85327f5735ff973cce60e3a089e43db3ae12c9e56552b20c",
       "verified_fingerprint": "01fbc5310d0d249f85327f5735ff973cce60e3a089e43db3ae12c9e56552b20c"
@@ -3888,8 +3903,8 @@
           "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/site/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:59.711777+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:02:25.719261+00:00",
       "repo_id": 1358614318,
       "file_cursor": 0,
       "claims": [],
@@ -3933,8 +3948,8 @@
           "url": "https://github.com/Auditchain/audt-supply/blob/1524d5877b67a34be93ed2af8ba1e3da21c89d77/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:14.203075+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:45.043788+00:00",
       "repo_id": 1358626962,
       "file_cursor": 0,
       "claims": [],
@@ -4163,10 +4178,10 @@
           "url": "https://github.com/boyfromcave/ycash-dd/blob/a83c3e050de9977b3b446ce7e754b1155e6ee401/contrib/bootstrap/testdata/testnet-prefix-v1/manifest.json"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:04.592915+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:36.572597+00:00",
       "repo_id": 1358682417,
-      "file_cursor": 25,
+      "file_cursor": 7,
       "claims": [],
       "claims_fingerprint": "4a564e88d342043c47879cb71bc69b16ee10c0746ee5c02b75493f201543fed6",
       "verified_fingerprint": "4a564e88d342043c47879cb71bc69b16ee10c0746ee5c02b75493f201543fed6"
@@ -4512,8 +4527,8 @@
           "url": "https://github.com/Harkor421/costco-back/blob/e718643f14e8daa323a584d32fa8df0c89a9ba27/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:06.775739+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:38.551378+00:00",
       "repo_id": 1358634709,
       "file_cursor": 0,
       "claims": [],
@@ -4540,8 +4555,8 @@
           "url": "https://github.com/kiattisakph/robinhood-wallet-alert-bot/blob/91dae85e2cd97fa67b12db1ef1177b96ce367ecb/docs/robinhood_realtime_telegram_bot_cursor_spec.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:09.289411+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:40.628865+00:00",
       "repo_id": 1358885217,
       "file_cursor": 0,
       "claims": [],
@@ -4622,8 +4637,8 @@
           "url": "https://github.com/33hodl/rh-chain-wallet-lens/blob/00fcbfd2a072ad4f7c0ac709912b68184ff8d0e9/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:11.120916+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:42.014073+00:00",
       "repo_id": 1358940529,
       "file_cursor": 0,
       "claims": [],
@@ -4672,8 +4687,8 @@
           "url": "https://github.com/seanbc618-tech/robinhood-meme-bot/blob/b1d2cd19347d4eadf1a5c900d7a22be46b69bf4a/tasks/VPS_FX_WATCH_DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:30:12.620218+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:43.434304+00:00",
       "repo_id": 1358970900,
       "file_cursor": 0,
       "claims": [],
@@ -4925,10 +4940,10 @@
           "url": "https://github.com/0xRadikal/pons-launchpad-forensics/blob/7dfb7d97c9e4409161308279599f6ed9893c8d23/docs/SERIAL_LAUNCHING.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:59.368522+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:32.231866+00:00",
       "repo_id": 1359317759,
-      "file_cursor": 1,
+      "file_cursor": 5,
       "claims": [],
       "claims_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d",
       "verified_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d"
@@ -4970,8 +4985,8 @@
           "url": "https://github.com/idotmy/IDEX-Contracts/blob/ba7e0453b1c679418a8836d5598b10cd652dc5c6/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:57.745144+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:30.851190+00:00",
       "repo_id": 1359388343,
       "file_cursor": 0,
       "claims": [],
@@ -5354,12 +5369,17 @@
           "sha": "857c0382c0b5ac5a5ae9cd082a855ddcf952f6cd",
           "text": "",
           "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/7fee2195efb7f1c630db5e92e44ff23d2e9bfb05/docs/verification-2026-09-13/mainnet-chain.json"
+        },
+        "docs/credit-budget.md": {
+          "sha": "701c8ae191b07efc363958c9861d252ea3cec38f",
+          "text": "\nThe free PRO plan is 100K credits a day and 5 requests a second; the counter resets at 00:00 UTC\n(<https://docs.blockscout.com/rate-limits>). Endpoints not in the published price table cost 20 credits, and the\nmodule calls the Worker makes (`getTokenHolders`, `tokennfttx`, `gettxinfo`, `getsourcecode`) are not in it, so\nthe working figure is **about 5,000 upstream calls a day**, not 100,000. The docs do not name the status code for\n\nRotate the key if a Cloudflare log is ever exported (round eighteen S-7). To see the balance without the\nWorker: `curl -sI \"https://api.blockscout.com/v2/api?chain_id=4663&module=block&action=eth_block_number&apikey=$KEY\"`\nand read `x-credits-remaining`; it costs one call.",
+          "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/0261ebb47a36baf9a70e87dbb877f9dbdccb0e71/docs/credit-budget.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:56.107566+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:29.123194+00:00",
       "repo_id": 1359490952,
-      "file_cursor": 5,
+      "file_cursor": 23,
       "claims": [
         {
           "kind": "website",
@@ -5450,10 +5470,10 @@
           "url": "https://github.com/andperez123/ball-robinhood/blob/e37d7aa713b95530bdbb28a2a2a15d97c3b23ebc/docs/ORACLE.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:54.641445+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:27.755175+00:00",
       "repo_id": 1359613654,
-      "file_cursor": 4,
+      "file_cursor": 2,
       "claims": [],
       "claims_fingerprint": "27397bf52428f27403422a03ee7e1d993854cb80cc38a351d394e639c86e15f0",
       "verified_fingerprint": "27397bf52428f27403422a03ee7e1d993854cb80cc38a351d394e639c86e15f0"
@@ -5548,10 +5568,10 @@
           "url": "https://github.com/abysshopper/black-market-node-sdk/blob/1ef46f968ce6fb6f6041075575824a593a13a952/src/lifecycle/deployments/raeto-fixed-pool-v1-20261029.ts"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:51.294586+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:25.129728+00:00",
       "repo_id": 1359686762,
-      "file_cursor": 11,
+      "file_cursor": 14,
       "claims": [],
       "claims_fingerprint": "fba05eb4ee9528313def90ddee987f20ce2894153bc21c9d46fe7876f2a873fc",
       "verified_fingerprint": "fba05eb4ee9528313def90ddee987f20ce2894153bc21c9d46fe7876f2a873fc"
@@ -5587,8 +5607,8 @@
           "url": "https://github.com/perfectingcodes/perfectingbot/blob/1b1d9454657762521556f2b1e8630a24395ffa10/public/assets/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:53.080209+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:26.543041+00:00",
       "repo_id": 1359590900,
       "file_cursor": 0,
       "claims": [],
@@ -5891,10 +5911,10 @@
           "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/range/RangeDeployers.sol"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:49.692063+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:23.852501+00:00",
       "repo_id": 1359602220,
-      "file_cursor": 23,
+      "file_cursor": 41,
       "claims": [
         {
           "kind": "website",
@@ -6047,10 +6067,10 @@
           "url": "https://github.com/nirholas/techdollar/blob/e12159c582d25e7ec2ee05849bead2ca1b028ee2/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:48.209604+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:22.528381+00:00",
       "repo_id": 1360686266,
-      "file_cursor": 12,
+      "file_cursor": 4,
       "claims": [],
       "claims_fingerprint": "e7768ca9d88e00b4af7e7da8580c135adbbdcedbe7fea4d522afa5b7258df504",
       "verified_fingerprint": "e7768ca9d88e00b4af7e7da8580c135adbbdcedbe7fea4d522afa5b7258df504"
@@ -6330,10 +6350,10 @@
           "url": "https://github.com/whatnotbot/zalkanes/blob/2243878f5f97e75a23c49b26c3280d63c7e66a22/fuzz/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:46.637567+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:21.083278+00:00",
       "repo_id": 1363625593,
-      "file_cursor": 4,
+      "file_cursor": 22,
       "claims": [],
       "claims_fingerprint": "1321517eded0714e3b5b597f5edd70b8b409a1ea4f946e47282961bcc4e37ebb",
       "verified_fingerprint": "1321517eded0714e3b5b597f5edd70b8b409a1ea4f946e47282961bcc4e37ebb"
@@ -6379,10 +6399,10 @@
           "url": "https://github.com/Nar-123/lunex-bot/blob/cde2ba8a2a3393dfedf795a8f571b174e337380d/ops/lunex-ai/DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:44.972020+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:19.576999+00:00",
       "repo_id": 1360905998,
-      "file_cursor": 2,
+      "file_cursor": 0,
       "claims": [],
       "claims_fingerprint": "5d5c6abf21809c5e4635e6cd2e798e8af64861359f508a4845b308482ff0072c",
       "verified_fingerprint": "5d5c6abf21809c5e4635e6cd2e798e8af64861359f508a4845b308482ff0072c"
@@ -6512,8 +6532,8 @@
           "url": "https://github.com/rohitchangediya/robinhood-bot/blob/30811cbbf17efb8e503a69e7c47a51d51dd2f0c5/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:43.371007+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:18.132533+00:00",
       "repo_id": 1361573981,
       "file_cursor": 0,
       "claims": [],
@@ -6568,8 +6588,8 @@
           "url": "https://github.com/plutos-eth/banana/blob/1e25c43df91cfc5dd601d60429744c6759426e99/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:41.875755+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:16.746287+00:00",
       "repo_id": 1361740810,
       "file_cursor": 0,
       "claims": [],
@@ -6690,8 +6710,8 @@
           "url": "https://github.com/Foreveranka/real-stock/blob/e8a2ac80c4613eebf5896c9bdc21621b850e0ac3/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:38.883336+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:13.857768+00:00",
       "repo_id": 1361991645,
       "file_cursor": 0,
       "claims": [],
@@ -6713,8 +6733,8 @@
           "url": "https://github.com/S1nus/tachyscan/blob/7e93b0b2400e0c2a3c251908d17e3667068e26e5/README.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:40.371891+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:15.370226+00:00",
       "repo_id": 1370192994,
       "file_cursor": 0,
       "claims": [],
@@ -6779,8 +6799,8 @@
           "url": "https://github.com/BitBanknz/bitbankrobinhood/blob/961b137133bc91e2e849bcdb6146e19694598246/docs/validation.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:29.833682+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:10.303915+00:00",
       "repo_id": 1362351387,
       "file_cursor": 0,
       "claims": [],
@@ -6877,10 +6897,10 @@
           "url": "https://github.com/PegasusMalar/threshold-vrf-bn254/blob/d19b3c64246d4ba8ad938e00d02bf2532840b6d1/docs/operator.md"
         }
       },
-      "next_check_at": "2026-11-02T03:00:00+00:00",
-      "last_check_at": "2026-11-02T02:29:32.310033+00:00",
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:11.804611+00:00",
       "repo_id": 1362678022,
-      "file_cursor": 3,
+      "file_cursor": 6,
       "claims": [],
       "claims_fingerprint": "60176c25fbf993a26bf9e2a35729f5b13eac57e895897b845c8205ab9047e49c",
       "verified_fingerprint": "60176c25fbf993a26bf9e2a35729f5b13eac57e895897b845c8205ab9047e49c"
@@ -6907,9 +6927,142 @@
       "first_report_sha256": "1367b4ec239eedcc310f921f8ae26021d89f2e321dce28b55586b16f59b237d7",
       "files": {},
       "next_check_at": null
+    },
+    "repo:fondrfi/fondrfi": {
+      "source": "repo",
+      "repo": "FondrFi/FondrFi",
+      "name": "FondrFi/FondrFi",
+      "pr": 467,
+      "status": "excluded",
+      "registered_at": "2026-11-02T11:00:43.435454+00:00",
+      "first_report_sha256": "b54d9ad48df76e4da126b23b217c43bb8e6c1b4c5fa3177c77c5d11352f81967",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:olamideafunsho/argos": {
+      "source": "repo",
+      "repo": "OlamideAfunsho/argos",
+      "name": "OlamideAfunsho/argos",
+      "pr": 796,
+      "status": "tracking",
+      "registered_at": "2026-11-02T11:00:46.410405+00:00",
+      "first_report_sha256": "2316fcf671943ee8e2fc71798ea6a4ac6335809494b0e6ae76f314b3f3e6ffa4",
+      "files": {
+        "README.md": {
+          "sha": "b14b09692500521cbb139267f3fbad43b188011e",
+          "text": "## Security audit\n\nArgos was independently audited by [Least Authority](https://leastauthority.com). The audit\ncovered the Rust core, CLI, and Tauri GUI, and reviewed the project [threat model](docs/THREAT_MODEL.md).\n\n## Installing on Windows\n\n**The prebuilt installer is the supported Windows path.** Download the `.exe` from the [Releases page](https://github.com/sovright/argos/releases), verify its build provenance with `gh attestation verify` (see [Verifying release provenance](#verifying-release-provenance) below), and run the installer. No additional dependencies are required.\n\nBuilding from source is an advanced/auditor path and is supported on **Windows x64** only. Windows on ARM (aarch64-pc-windows-msvc) is not currently a supported build target; ARM64 Windows users should use the prebuilt binary.\n**This is the primary, recommended verification step.** It is the only check that defends against a tampered release, because it validates the artifact independently of the release page it was downloaded from.\n\nEach tagged release publishes a [SLSA Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) build-provenance attestation for every binary, generated by GitHub's first-party [`actions/attest-build-provenance`](https://github.com/actions/attest-build-provenance). The attestation is Sigstore-signed (no long-lived key — anchored to the GitHub Actions OIDC identity of this repository) and proves that the exact bytes of a release artifact were produced by `.github/workflows/release.yml` at the tagged commit.\n\nTo verify a downloaded artifact, run this before installing or running it:\n\n- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or\n  <http://www.apache.org/licenses/LICENSE-2.0>)\n- MIT license ([LICENSE-MIT](LICENSE-MIT) or\n  <http://opensource.org/licenses/MIT>)\n\nat your option.",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/README.md"
+        },
+        ".github/workflows/deploy-site.yml": {
+          "sha": "42999e898d3f7a29876edfb6b19a1024c65775ef",
+          "text": "      contents: read\n    steps:\n      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4\n        with:\n          persist-credentials: false\n\n      - name: Deploy site/ to Cloudflare Pages (production)\n        uses: cloudflare/wrangler-action@ebbaa1584979971c8614a24965b4405ff95890e0 # v4.0.0\n        # Pass credentials via env too: the underlying `wrangler pages deploy`\n        # reads CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID directly, and in a",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/.github/workflows/deploy-site.yml"
+        },
+        "crates/argos-wallet-import/fuzz/README.md": {
+          "sha": "e285b335e6581c923cf95f6b825ca3ba895a3861",
+          "text": "",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/crates/argos-wallet-import/fuzz/README.md"
+        },
+        "docs/address-discovery-profiles.md": {
+          "sha": "42ed2dd7f1c87e9dbfb6477ace12fd017330bb1a",
+          "text": "## Sources\n\n- [ZecWallet Lite address creation](https://github.com/adityapk00/zecwallet-light-cli/blob/fd5d11f0f28e0f1628ea8fdad0cce16d50e6bb98/lib/src/lightwallet/keys.rs)\n- [ZecWallet Lite transparent derivation](https://github.com/adityapk00/zecwallet-light-cli/blob/fd5d11f0f28e0f1628ea8fdad0cce16d50e6bb98/lib/src/lightwallet/wallettkey.rs)\n- [ZIP32: shielded hierarchical deterministic wallets](https://github.com/zcash/zips/blob/main/zips/zip-0032.rst)\n- [BIP44 account and change structure](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)\n- [BIP39 mnemonic and optional passphrase](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)\n\nTests use public synthetic seeds. They establish derivation, handoff, and",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/address-discovery-profiles.md"
+        },
+        "docs/address-discovery-review.md": {
+          "sha": "efd52e28bdde036dc3226ab56d83e705e3a6fedb",
+          "text": "",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/address-discovery-review.md"
+        },
+        "docs/dependency-review-rustls-2026-09.md": {
+          "sha": "0fb1653d40c05c50be529abbc53800895752bb56",
+          "text": "",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/dependency-review-rustls-2026-09.md"
+        },
+        "docs/secret-memory-evaluation.md": {
+          "sha": "2ab5e685bc2c688d897ca8bd4ae2fa16c2d96a05",
+          "text": "before it is dropped.\n\n## Candidates (data as of 2026-06-22, crates.io)\n\n| Crate | Version | Downloads (recent) | Last release | Memory protection | Extra deps |",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/secret-memory-evaluation.md"
+        },
+        "docs/superpowers/plans/2026-05-27-donation-flow.md": {
+          "sha": "3984f4d95e4f688cd16e0127e2ec4b252dc0e882",
+          "text": "    #[test]\n    fn memo_appends_email_line_when_present() {\n        let body = donation_memo_body(Some(\"a@b.com\"));\n        assert_eq!(body, format!(\"{DONATION_MEMO_TAG}\\na@b.com\"));\n    }\n\n        assert!(validate_donor_email(None).is_ok());\n        assert!(validate_donor_email(Some(\"\")).is_ok()); // treated as absent\n        assert!(validate_donor_email(Some(\"a@b.com\")).is_ok());\n        assert!(validate_donor_email(Some(\"notanemail\")).is_err());\n    }\n        max_fee_zatoshis: None,\n        donation_rate: Some(0.10),\n        donor_email: Some(\"donor@example.com\".to_owned()),\n    };\n    // network = Mainnet, donation feature assumed enabled in this test\n6. Update `propose_sweep` (and the `execute_sweep` precheck call at ~236) to fetch network + pass the constant:\n   ```rust\n   let network = self.session(handle).await?.runtime.network; // confirm field path\n   build_sweep_proposal(&progress, request, network, donation::DONATION_ADDRESS)\n   ```\n// amount and its fee, without broadcasting.\nlet max_proposal = propose_send_max_transfer::<_, _, _, Infallible>(\n    &mut wallet_db, &consensus_network(ctx.network), tracked_account.wallet_account_id,\n    &[ShieldedProtocol::Sapling, ShieldedProtocol::Orchard], &StandardFeeRule::Zip317,\n    destination_address.clone(), memo_bytes.clone(), MaxSpendMode::MaxSpendable,\n    <label class=\"field\">\n      <span>Email for receipt (optional)</span>\n      <input id=\"donate-email\" type=\"email\" placeholder=\"you@example.com\" />\n    </label>\n    <p class=\"status-line\" id=\"donate-amount-preview\"></p>\n- [ ] **Step 4: Hide the whole form on testnet**\n\nThe network lives at `state.scanConfig.network` (see the existing `state.scanConfig?.network` usage around main.js:960), **not** `state.network`. Hide `#donate-form` when testnet, after the scan config is set:\n\n```js",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/superpowers/plans/2026-05-27-donation-flow.md"
+        },
+        "docs/superpowers/plans/2026-06-01-donation-tip-checkout.md": {
+          "sha": "8a74c818144320bc607944ecf6bcde1f3b265850",
+          "text": "            <label class=\"field\" id=\"donate-email-field\">\n              <span>Email for receipt (optional)</span>\n              <input id=\"donate-email\" type=\"email\" placeholder=\"you@example.com\" />\n            </label>\n            <p class=\"status-line\" id=\"donate-amount-preview\" style=\"margin-top:8px\"></p>",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/superpowers/plans/2026-06-01-donation-tip-checkout.md"
+        },
+        "docs/superpowers/plans/2026-08-24-sapling-key-string.md": {
+          "sha": "c11c21381b4e3f5a0e51114b59598f7cad131e25",
+          "text": "        let typed = argos_core::sapling_key::keys_from_sapling_strings(\n            &config.sapling_keys,\n            config.network,\n        )\n        .map_err(|err| err.to_string())?;",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/superpowers/plans/2026-08-24-sapling-key-string.md"
+        },
+        "docs/superpowers/specs/2026-05-04-incomplete-session-detection-design.md": {
+          "sha": "16793f5b6bca913f7873f887bd91ba3d8d4cfc9a",
+          "text": "",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/superpowers/specs/2026-05-04-incomplete-session-detection-design.md"
+        },
+        "docs/superpowers/specs/2026-05-27-donation-flow-design.md": {
+          "sha": "69cf4464cb49cabb1315697939271184c50db8ec",
+          "text": "",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/superpowers/specs/2026-05-27-donation-flow-design.md"
+        },
+        "docs/superpowers/specs/2026-06-01-donation-tip-checkout-design.md": {
+          "sha": "10d93f8a9f1f84e208199944f35c8c46808745d9",
+          "text": "",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/superpowers/specs/2026-06-01-donation-tip-checkout-design.md"
+        },
+        "docs/superpowers/specs/2026-07-30-walletdat-import-design.md": {
+          "sha": "1a186e04570fc46eb9416e257b249deb104eaf56",
+          "text": "",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/superpowers/specs/2026-07-30-walletdat-import-design.md"
+        },
+        "docs/superpowers/specs/2026-08-24-sapling-key-string-design.md": {
+          "sha": "90aca90010897d36921fa58bdca4d8006fcf8888",
+          "text": "",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/superpowers/specs/2026-08-24-sapling-key-string-design.md"
+        },
+        "docs/superpowers/test-plans/recovery-resilience.md": {
+          "sha": "c47e41eb284406bbcc5359ba0531e9f06c32c19e",
+          "text": "| R-N5 | `ftp://` and `file://` schemes rejected | C1 | ➕ added in this branch |\n| R-N6 | IPv6 loopback `[::1]` over http allowed (local testing) | C1 | ➕ added in this branch |\n| R-N7 | URL with embedded credentials (`https://u:p@host:port`) — documented behaviour | C1 | ➕ added in this branch |\n| R-N8 | GoAway frame mid-scan triggers reconnect, no duplicate emissions | C2 | ✅ implemented (FakeLightwalletd injects `Status::unavailable(\"h2 protocol error: GoAway ...\")` after N blocks; asserts baseline-equivalent `synced_to_height` and discovery dedup) |\n| R-N9 | Hostile compact block rejected, scan errors cleanly | C2 | ✅ implemented (FakeLightwalletd XORs `prev_hash` at a configured height; asserts scan ends in Error not panic, then a fresh-workspace rescan reaches baseline) |\n- A `lightwalletd` instance pointed at that node.\n- An environment variable `ARGOS_REGTEST_LIGHTWALLETD_URL` set to the\n  `https://localhost:PORT` endpoint.\n- A funded seed available in the regtest node — generated and miner-funded\n  by a helper script (out of scope for this PR; a separate \"regtest harness\"",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/docs/superpowers/test-plans/recovery-resilience.md"
+        },
+        "gui/src-tauri/gen/schemas/acl-manifests.json": {
+          "sha": "529764e87d6e52d3cf06d12f390031a8c08042bf",
+          "text": "{\"core\":{\"default_permission\":{\"identifier\":\"default\",\"description\":\"Default core plugins set.\",\"permissions\":[\"core:path:default\",\"core:event:default\",\"core:window:default\",\"core:webview:default\",\"core:app:default\",\"core:image:default\",\"core:resources:default\",\"core:menu:default\",\"core:tray:default\"]},\"permissions\":{},\"permission_sets\":{},\"global_scope_schema\":null},\"core:app\":{\"default_permission\":{\"identifier\":\"default\",\"description\":\"Default permissions for the plugin.\",\"permissions\":[\"allow-version\",\"allow-name\",\"allow-tauri-version\",\"allow-identifier\",\"allow-bundle-type\",\"allow-register-listener\",\"allow-remove-listener\"]},\"permissions\":{\"allow-app-hide\":{\"identifier\":\"allow-app-hide\",\"description\":\"Enables the app_hide command without any pre-configured scope.\",\"commands\":{\"allow\":[\"app_hide\"],\"deny\":[]}},\"allow-app-show\":{\"identifier\":\"allow-app-show\",\"description\":\"Enables the app_show command without any pre-configured scope.\",\"commands\":{\"allow\":[\"app_show\"],\"deny\":[]}},\"allow-bundle-type\":{\"identifier\":\"allow-bundle-type\",\"description\":\"Enables the bundle_type command without any pre-configured scope.\",\"commands\":{\"allow\":[\"bundle_type\"],\"deny\":[]}},\"allow-default-window-icon\":{\"identifier\":\"allow-default-window-icon\",\"description\":\"Enables the default_window_icon command without any pre-configured scope.\",\"commands\":{\"allow\":[\"default_window_icon\"],\"deny\":[]}},\"allow-fetch-data-store-identifiers\":{\"identifier\":\"allow-fetch-data-store-identifiers\",\"description\":\"Enables the fetch_data_store_identifiers command without any pre-configured scope.\",\"commands\":{\"allow\":[\"fetch_data_store_identifiers\"],\"deny\":[]}},\"allow-identifier\":{\"identifier\":\"allow-identifier\",\"description\":\"Enables the identifier command without any pre-configured scope.\",\"commands\":{\"allow\":[\"identifier\"],\"deny\":[]}},\"allow-name\":{\"identifier\":\"allow-name\",\"description\":\"Enables the name command without any pre-configured scope.\",\"commands\":{\"allow\":[\"name\"],\"deny\":[]}},\"allow-register-listener\":{\"identifier\":\"allow-register-listener\",\"description\":\"Enables the register_listener command without any pre-configured scope.\",\"commands\":{\"allow\":[\"register_listener\"],\"deny\":[]}},\"allow-remove-data-store\":{\"identifier\":\"allow-remove-data-store\",\"description\":\"Enables the remove_data_store command without any pre-configured scope.\",\"commands\":{\"allow\":[\"remove_data_store\"],\"deny\":[]}},\"allow-remove-listener\":{\"identifier\":\"allow-remove-listener\",\"description\":\"Enables the remove_listener command without any pre-configured scope.\",\"commands\":{\"allow\":[\"remove_listener\"],\"deny\":[]}},\"allow-set-app-theme\":{\"identifier\":\"allow-set-app-theme\",\"description\":\"Enables the set_app_theme command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_app_theme\"],\"deny\":[]}},\"allow-set-dock-visibility\":{\"identifier\":\"allow-set-dock-visibility\",\"description\":\"Enables the set_dock_visibility command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_dock_visibility\"],\"deny\":[]}},\"allow-tauri-version\":{\"identifier\":\"allow-tauri-version\",\"description\":\"Enables the tauri_version command without any pre-configured scope.\",\"commands\":{\"allow\":[\"tauri_version\"],\"deny\":[]}},\"allow-version\":{\"identifier\":\"allow-version\",\"description\":\"Enables the version command without any pre-configured scope.\",\"commands\":{\"allow\":[\"version\"],\"deny\":[]}},\"deny-app-hide\":{\"identifier\":\"deny-app-hide\",\"description\":\"Denies the app_hide command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"app_hide\"]}},\"deny-app-show\":{\"identifier\":\"deny-app-show\",\"description\":\"Denies the app_show command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"app_show\"]}},\"deny-bundle-type\":{\"identifier\":\"deny-bundle-type\",\"description\":\"Denies the bundle_type command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"bundle_type\"]}},\"deny-default-window-icon\":{\"identifier\":\"deny-default-window-icon\",\"description\":\"Denies the default_window_icon command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"default_window_icon\"]}},\"deny-fetch-data-store-identifiers\":{\"identifier\":\"deny-fetch-data-store-identifiers\",\"description\":\"Denies the fetch_data_store_identifiers command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"fetch_data_store_identifiers\"]}},\"deny-identifier\":{\"identifier\":\"deny-identifier\",\"description\":\"Denies the identifier command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"identifier\"]}},\"deny-name\":{\"identifier\":\"deny-name\",\"description\":\"Denies the name command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"name\"]}},\"deny-register-listener\":{\"identifier\":\"deny-register-listener\",\"description\":\"Denies the register_listener command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"register_listener\"]}},\"deny-remove-data-store\":{\"identifier\":\"deny-remove-data-store\",\"description\":\"Denies the remove_data_store command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"remove_data_store\"]}},\"deny-remove-listener\":{\"identifier\":\"deny-remove-listener\",\"description\":\"Denies the remove_listener command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"remove_listener\"]}},\"deny-set-app-theme\":{\"identifier\":\"deny-set-app-theme\",\"description\":\"Denies the set_app_theme command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"set_app_theme\"]}},\"deny-set-dock-visibility\":{\"identifier\":\"deny-set-dock-visibility\",\"description\":\"Denies the set_dock_visibility command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"set_dock_visibility\"]}},\"deny-tauri-version\":{\"identifier\":\"deny-tauri-version\",\"description\":\"Denies the tauri_version command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"tauri_version\"]}},\"deny-version\":{\"identifier\":\"deny-version\",\"description\":\"Denies the version command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"version\"]}}},\"permission_sets\":{},\"global_scope_schema\":null},\"core:event\":{\"default_permission\":{\"identifier\":\"default\",\"description\":\"Default permissions for the plugin, which enables all commands.\",\"permissions\":[\"allow-listen\",\"allow-unlisten\",\"allow-emit\",\"allow-emit-to\"]},\"permissions\":{\"allow-emit\":{\"identifier\":\"allow-emit\",\"description\":\"Enables the emit command without any pre-configured scope.\",\"commands\":{\"allow\":[\"emit\"],\"deny\":[]}},\"allow-emit-to\":{\"identifier\":\"allow-emit-to\",\"description\":\"Enables the emit_to command without any pre-configured scope.\",\"commands\":{\"allow\":[\"emit_to\"],\"deny\":[]}},\"allow-listen\":{\"identifier\":\"allow-listen\",\"description\":\"Enables the listen command without any pre-configured scope.\",\"commands\":{\"allow\":[\"listen\"],\"deny\":[]}},\"allow-unlisten\":{\"identifier\":\"allow-unlisten\",\"description\":\"Enables the unlisten command without any pre-configured scope.\",\"commands\":{\"allow\":[\"unlisten\"],\"deny\":[]}},\"deny-emit\":{\"identifier\":\"deny-emit\",\"description\":\"Denies the emit command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"emit\"]}},\"deny-emit-to\":{\"identifier\":\"deny-emit-to\",\"description\":\"Denies the emit_to command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"emit_to\"]}},\"deny-listen\":{\"identifier\":\"deny-listen\",\"description\":\"Denies the listen command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"listen\"]}},\"deny-unlisten\":{\"identifier\":\"deny-unlisten\",\"description\":\"Denies the unlisten command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"unlisten\"]}}},\"permission_sets\":{},\"global_scope_schema\":null},\"core:image\":{\"default_permission\":{\"identifier\":\"default\",\"description\":\"Default permissions for the plugin, which enables all commands.\",\"permissions\":[\"allow-new\",\"allow-from-bytes\",\"allow-from-path\",\"allow-rgba\",\"allow-size\"]},\"permissions\":{\"allow-from-bytes\":{\"identifier\":\"allow-from-bytes\",\"description\":\"Enables the from_bytes command without any pre-configured scope.\",\"commands\":{\"allow\":[\"from_bytes\"],\"deny\":[]}},\"allow-from-path\":{\"identifier\":\"allow-from-path\",\"description\":\"Enables the from_path command without any pre-configured scope.\",\"commands\":{\"allow\":[\"from_path\"],\"deny\":[]}},\"allow-new\":{\"identifier\":\"allow-new\",\"description\":\"Enables the new command without any pre-configured scope.\",\"commands\":{\"allow\":[\"new\"],\"deny\":[]}},\"allow-rgba\":{\"identifier\":\"allow-rgba\",\"description\":\"Enables the rgba command without any pre-configured scope.\",\"commands\":{\"allow\":[\"rgba\"],\"deny\":[]}},\"allow-size\":{\"identifier\":\"allow-size\",\"description\":\"Enables the size command without any pre-configured scope.\",\"commands\":{\"allow\":[\"size\"],\"deny\":[]}},\"deny-from-bytes\":{\"identifier\":\"deny-from-bytes\",\"description\":\"Denies the from_bytes command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"from_bytes\"]}},\"deny-from-path\":{\"identifier\":\"deny-from-path\",\"description\":\"Denies the from_path command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"from_path\"]}},\"deny-new\":{\"identifier\":\"deny-new\",\"description\":\"Denies the new command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"new\"]}},\"deny-rgba\":{\"identifier\":\"deny-rgba\",\"description\":\"Denies the rgba command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"rgba\"]}},\"deny-size\":{\"identifier\":\"deny-size\",\"description\":\"Denies the size command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"size\"]}}},\"permission_sets\":{},\"global_scope_schema\":null},\"core:menu\":{\"default_permission\":{\"identifier\":\"default\",\"description\":\"Default permissions for the plugin, which enables all commands.\",\"permissions\":[\"allow-new\",\"allow-append\",\"allow-prepend\",\"allow-insert\",\"allow-remove\",\"allow-remove-at\",\"allow-items\",\"allow-get\",\"allow-popup\",\"allow-create-default\",\"allow-set-as-app-menu\",\"allow-set-as-window-menu\",\"allow-text\",\"allow-set-text\",\"allow-is-enabled\",\"allow-set-enabled\",\"allow-set-accelerator\",\"allow-set-as-windows-menu-for-nsapp\",\"allow-set-as-help-menu-for-nsapp\",\"allow-is-checked\",\"allow-set-checked\",\"allow-set-icon\"]},\"permissions\":{\"allow-append\":{\"identifier\":\"allow-append\",\"description\":\"Enables the append command without any pre-configured scope.\",\"commands\":{\"allow\":[\"append\"],\"deny\":[]}},\"allow-create-default\":{\"identifier\":\"allow-create-default\",\"description\":\"Enables the create_default command without any pre-configured scope.\",\"commands\":{\"allow\":[\"create_default\"],\"deny\":[]}},\"allow-get\":{\"identifier\":\"allow-get\",\"description\":\"Enables the get command without any pre-configured scope.\",\"commands\":{\"allow\":[\"get\"],\"deny\":[]}},\"allow-insert\":{\"identifier\":\"allow-insert\",\"description\":\"Enables the insert command without any pre-configured scope.\",\"commands\":{\"allow\":[\"insert\"],\"deny\":[]}},\"allow-is-checked\":{\"identifier\":\"allow-is-checked\",\"description\":\"Enables the is_checked command without any pre-configured scope.\",\"commands\":{\"allow\":[\"is_checked\"],\"deny\":[]}},\"allow-is-enabled\":{\"identifier\":\"allow-is-enabled\",\"description\":\"Enables the is_enabled command without any pre-configured scope.\",\"commands\":{\"allow\":[\"is_enabled\"],\"deny\":[]}},\"allow-items\":{\"identifier\":\"allow-items\",\"description\":\"Enables the items command without any pre-configured scope.\",\"commands\":{\"allow\":[\"items\"],\"deny\":[]}},\"allow-new\":{\"identifier\":\"allow-new\",\"description\":\"Enables the new command without any pre-configured scope.\",\"commands\":{\"allow\":[\"new\"],\"deny\":[]}},\"allow-popup\":{\"identifier\":\"allow-popup\",\"description\":\"Enables the popup command without any pre-configured scope.\",\"commands\":{\"allow\":[\"popup\"],\"deny\":[]}},\"allow-prepend\":{\"identifier\":\"allow-prepend\",\"description\":\"Enables the prepend command without any pre-configured scope.\",\"commands\":{\"allow\":[\"prepend\"],\"deny\":[]}},\"allow-remove\":{\"identifier\":\"allow-remove\",\"description\":\"Enables the remove command without any pre-configured scope.\",\"commands\":{\"allow\":[\"remove\"],\"deny\":[]}},\"allow-remove-at\":{\"identifier\":\"allow-remove-at\",\"description\":\"Enables the remove_at command without any pre-configured scope.\",\"commands\":{\"allow\":[\"remove_at\"],\"deny\":[]}},\"allow-set-accelerator\":{\"identifier\":\"allow-set-accelerator\",\"description\":\"Enables the set_accelerator command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_accelerator\"],\"deny\":[]}},\"allow-set-as-app-menu\":{\"identifier\":\"allow-set-as-app-menu\",\"description\":\"Enables the set_as_app_menu command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_as_app_menu\"],\"deny\":[]}},\"allow-set-as-help-menu-for-nsapp\":{\"identifier\":\"allow-set-as-help-menu-for-nsapp\",\"description\":\"Enables the set_as_help_menu_for_nsapp command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_as_help_menu_for_nsapp\"],\"deny\":[]}},\"allow-set-as-window-menu\":{\"identifier\":\"allow-set-as-window-menu\",\"description\":\"Enables the set_as_window_menu command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_as_window_menu\"],\"deny\":[]}},\"allow-set-as-windows-menu-for-nsapp\":{\"identifier\":\"allow-set-as-windows-menu-for-nsapp\",\"description\":\"Enables the set_as_windows_menu_for_nsapp command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_as_windows_menu_for_nsapp\"],\"deny\":[]}},\"allow-set-checked\":{\"identifier\":\"allow-set-checked\",\"description\":\"Enables the set_checked command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_checked\"],\"deny\":[]}},\"allow-set-enabled\":{\"identifier\":\"allow-set-enabled\",\"description\":\"Enables the set_enabled command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_enabled\"],\"deny\":[]}},\"allow-set-icon\":{\"identifier\":\"allow-set-icon\",\"description\":\"Enables the set_icon command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_icon\"],\"deny\":[]}},\"allow-set-text\":{\"identifier\":\"allow-set-text\",\"description\":\"Enables the set_text command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_text\"],\"deny\":[]}},\"allow-text\":{\"identifier\":\"allow-text\",\"description\":\"Enables the text command without any pre-configured scope.\",\"commands\":{\"allow\":[\"text\"],\"deny\":[]}},\"deny-append\":{\"identifier\":\"deny-append\",\"description\":\"Denies the append command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"append\"]}},\"deny-create-default\":{\"identifier\":\"deny-create-default\",\"description\":\"Denies the create_default command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"create_default\"]}},\"deny-get\":{\"identifier\":\"deny-get\",\"description\":\"Denies the get command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"get\"]}},\"deny-insert\":{\"identifier\":\"deny-insert\",\"description\":\"Denies the insert command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"insert\"]}},\"deny-is-checked\":{\"identifier\":\"deny-is-checked\",\"description\":\"Denies the is_checked command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"is_checked\"]}},\"deny-is-enabled\":{\"identifier\":\"deny-is-enabled\",\"description\":\"Denies the is_enabled command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"is_enabled\"]}},\"deny-items\":{\"identifier\":\"deny-items\",\"description\":\"Denies the items command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"items\"]}},\"deny-new\":{\"identifier\":\"deny-new\",\"description\":\"Denies the new command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"new\"]}},\"deny-popup\":{\"identifier\":\"deny-popup\",\"description\":\"Denies the popup command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"popup\"]}},\"deny-prepend\":{\"identifier\":\"deny-prepend\",\"description\":\"Denies the prepend command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"prepend\"]}},\"deny-remove\":{\"identifier\":\"deny-remove\",\"description\":\"Denies the remove command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"remove\"]}},\"deny-remove-at\":{\"identifier\":\"deny-remove-at\",\"description\":\"Denies the remove_at command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"remove_at\"]}},\"deny-set-accelerator\":{\"identifier\":\"deny-set-accelerator\",\"description\":\"Denies the set_accelerator command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"set_accelerator\"]}},\"deny-set-as-app-menu\":{\"identifier\":\"deny-set-as-app-menu\",\"description\":\"Denies the set_as_app_menu command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"set_as_app_menu\"]}},\"deny-set-as-help-menu-for-nsapp\":{\"identifier\":\"deny-set-as-help-menu-for-nsapp\",\"description\":\"Denies the set_as_help_menu_for_nsapp command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"set_as_help_menu_for_nsapp\"]}},\"deny-set-as-window-menu\":{\"identifier\":\"deny-set-as-window-menu\",\"description\":\"Denies the set_as_window_menu command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"set_as_window_menu\"]}},\"deny-set-as-windows-menu-for-nsapp\":{\"identifier\":\"deny-set-as-windows-menu-for-nsapp\",\"description\":\"Denies the set_as_windows_menu_for_nsapp command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"set_as_windows_menu_for_nsapp\"]}},\"deny-set-checked\":{\"identifier\":\"deny-set-checked\",\"description\":\"Denies the set_checked command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"set_checked\"]}},\"deny-set-enabled\":{\"identifier\":\"deny-set-enabled\",\"description\":\"Denies the set_enabled command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"set_enabled\"]}},\"deny-set-icon\":{\"identifier\":\"deny-set-icon\",\"description\":\"Denies the set_icon command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"set_icon\"]}},\"deny-set-text\":{\"identifier\":\"deny-set-text\",\"description\":\"Denies the set_text command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"set_text\"]}},\"deny-text\":{\"identifier\":\"deny-text\",\"description\":\"Denies the text command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"text\"]}}},\"permission_sets\":{},\"global_scope_schema\":null},\"core:path\":{\"default_permission\":{\"identifier\":\"default\",\"description\":\"Default permissions for the plugin, which enables all commands.\",\"permissions\":[\"allow-resolve-directory\",\"allow-resolve\",\"allow-normalize\",\"allow-join\",\"allow-dirname\",\"allow-extname\",\"allow-basename\",\"allow-is-absolute\"]},\"permissions\":{\"allow-basename\":{\"identifier\":\"allow-basename\",\"description\":\"Enables the basename command without any pre-configured scope.\",\"commands\":{\"allow\":[\"basename\"],\"deny\":[]}},\"allow-dirname\":{\"identifier\":\"allow-dirname\",\"description\":\"Enables the dirname command without any pre-configured scope.\",\"commands\":{\"allow\":[\"dirname\"],\"deny\":[]}},\"allow-extname\":{\"identifier\":\"allow-extname\",\"description\":\"Enables the extname command without any pre-configured scope.\",\"commands\":{\"allow\":[\"extname\"],\"deny\":[]}},\"allow-is-absolute\":{\"identifier\":\"allow-is-absolute\",\"description\":\"Enables the is_absolute command without any pre-configured scope.\",\"commands\":{\"allow\":[\"is_absolute\"],\"deny\":[]}},\"allow-join\":{\"identifier\":\"allow-join\",\"description\":\"Enables the join command without any pre-configured scope.\",\"commands\":{\"allow\":[\"join\"],\"deny\":[]}},\"allow-normalize\":{\"identifier\":\"allow-normalize\",\"description\":\"Enables the normalize command without any pre-configured scope.\",\"commands\":{\"allow\":[\"normalize\"],\"deny\":[]}},\"allow-resolve\":{\"identifier\":\"allow-resolve\",\"description\":\"Enables the resolve command without any pre-configured scope.\",\"commands\":{\"allow\":[\"resolve\"],\"deny\":[]}},\"allow-resolve-directory\":{\"identifier\":\"allow-resolve-directory\",\"description\":\"Enables the resolve_directory command without any pre-configured scope.\",\"commands\":{\"allow\":[\"resolve_directory\"],\"deny\":[]}},\"deny-basename\":{\"identifier\":\"deny-basename\",\"description\":\"Denies the basename command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"basename\"]}},\"deny-dirname\":{\"identifier\":\"deny-dirname\",\"description\":\"Denies the dirname command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"dirname\"]}},\"deny-extname\":{\"identifier\":\"deny-extname\",\"description\":\"Denies the extname command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"extname\"]}},\"deny-is-absolute\":{\"identifier\":\"deny-is-absolute\",\"description\":\"Denies the is_absolute command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"is_absolute\"]}},\"deny-join\":{\"identifier\":\"deny-join\",\"description\":\"Denies the join command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"join\"]}},\"deny-normalize\":{\"identifier\":\"deny-normalize\",\"description\":\"Denies the normalize command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"normalize\"]}},\"deny-resolve\":{\"identifier\":\"deny-resolve\",\"description\":\"Denies the resolve command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"resolve\"]}},\"deny-resolve-directory\":{\"identifier\":\"deny-resolve-directory\",\"description\":\"Denies the resolve_directory command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"resolve_directory\"]}}},\"permission_sets\":{},\"global_scope_schema\":null},\"core:resources\":{\"default_permission\":{\"identifier\":\"default\",\"description\":\"Default permissions for the plugin, which enables all commands.\",\"permissions\":[\"allow-close\"]},\"permissions\":{\"allow-close\":{\"identifier\":\"allow-close\",\"description\":\"Enables the close command without any pre-configured scope.\",\"commands\":{\"allow\":[\"close\"],\"deny\":[]}},\"deny-close\":{\"identifier\":\"deny-close\",\"description\":\"Denies the close command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"close\"]}}},\"permission_sets\":{},\"global_scope_schema\":null},\"core:tray\":{\"default_permission\":{\"identifier\":\"default\",\"description\":\"Default permissions for the plugin, which enables all commands.\",\"permissions\":[\"allow-new\",\"allow-get-by-id\",\"allow-remove-by-id\",\"allow-set-icon\",\"allow-set-menu\",\"allow-set-tooltip\",\"allow-set-title\",\"allow-set-visible\",\"allow-set-temp-dir-path\",\"allow-set-icon-as-template\",\"allow-set-show-menu-on-left-click\"]},\"permissions\":{\"allow-get-by-id\":{\"identifier\":\"allow-get-by-id\",\"description\":\"Enables the get_by_id command without any pre-configured scope.\",\"commands\":{\"allow\":[\"get_by_id\"],\"deny\":[]}},\"allow-new\":{\"identifier\":\"allow-new\",\"description\":\"Enables the new command without any pre-configured scope.\",\"commands\":{\"allow\":[\"new\"],\"deny\":[]}},\"allow-remove-by-id\":{\"identifier\":\"allow-remove-by-id\",\"description\":\"Enables the remove_by_id command without any pre-configured scope.\",\"commands\":{\"allow\":[\"remove_by_id\"],\"deny\":[]}},\"allow-set-icon\":{\"identifier\":\"allow-set-icon\",\"description\":\"Enables the set_icon command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_icon\"],\"deny\":[]}},\"allow-set-icon-as-template\":{\"identifier\":\"allow-set-icon-as-template\",\"description\":\"Enables the set_icon_as_template command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_icon_as_template\"],\"deny\":[]}},\"allow-set-menu\":{\"identifier\":\"allow-set-menu\",\"description\":\"Enables the set_menu command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_menu\"],\"deny\":[]}},\"allow-set-show-menu-on-left-click\":{\"identifier\":\"allow-set-show-menu-on-left-click\",\"description\":\"Enables the set_show_menu_on_left_click command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_show_menu_on_left_click\"],\"deny\":[]}},\"allow-set-temp-dir-path\":{\"identifier\":\"allow-set-temp-dir-path\",\"description\":\"Enables the set_temp_dir_path command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_temp_dir_path\"],\"deny\":[]}},\"allow-set-title\":{\"identifier\":\"allow-set-title\",\"description\":\"Enables the set_title command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_title\"],\"deny\":[]}},\"allow-set-tooltip\":{\"identifier\":\"allow-set-tooltip\",\"description\":\"Enables the set_tooltip command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_tooltip\"],\"deny\":[]}},\"allow-set-visible\":{\"identifier\":\"allow-set-visible\",\"description\":\"Enables the set_visible command without any pre-configured scope.\",\"commands\":{\"allow\":[\"set_visible\"],\"deny\":[]}},\"deny-get-by-id\":{\"identifier\":\"deny-get-by-id\",\"description\":\"Denies the get_by_id command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"get_by_id\"]}},\"deny-new\":{\"identifier\":\"deny-new\",\"description\":\"Denies the new command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"new\"]}},\"deny-remove-by-id\":{\"identifier\":\"deny-remove-by-id\",\"description\":\"Denies the remove_by_id command without any pre-configured scope.\",\"commands\":{\"allow\":[],\"deny\":[\"remove_by_id\"]}},\"deny-set-icon\":{\"identifier\":\"deny-set-icon\",\"description\":\"Denies the set_icon command without any pre-configured scope.\",\"commands\":{\"all",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/gui/src-tauri/gen/schemas/acl-manifests.json"
+        },
+        "gui/src/address-search.js": {
+          "sha": "7739bca25f5711dd41fa9f666ea5f6c6f9056d31",
+          "text": "    const lastAccount = snapshot.account_start + snapshot.account_count - 1;\n    const lastIndex = snapshot.index_start + snapshot.index_count - 1;\n    return `${snapshot.network} · ${snapshot.profile === \"zecwallet_lite\" ? \"ZecWallet Lite\" : \"Advanced BIP44 accounts\"} · accounts ${snapshot.account_start}–${lastAccount} · address/diversifier indexes ${snapshot.index_start}–${lastIndex}, ${branch}`;\n  }\n\n      searchId = started.id;\n      publicScope = {\n        target: input.target, network: input.network, profile: input.profile,\n        account_start: input.account_start, account_count: input.account_count,\n        index_start: input.index_start, index_count: input.index_count,",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/gui/src/address-search.js"
+        },
+        "site/README.md": {
+          "sha": "cb3c801507593e6c5c49e78292b53b766918398e",
+          "text": "- `assets/zeck-og.png`: 1200x630 Open Graph and Twitter Card preview image\n- `assets/zeck-og.svg`: editable source for the social preview image\n- `CNAME`: GitHub Pages custom-domain hint for `argos.sovright.com`\n\n## Hosting\nPages, publish the `site/` directory and keep `CNAME` set to the target\nsubdomain. For Cloudflare Pages, Netlify, or Vercel, set the publish directory\nto `site` and configure the DNS record for `argos.sovright.com`.\n\nThe platform cards in `index.html` lead to the GitHub releases page so they do",
+          "url": "https://github.com/OlamideAfunsho/argos/blob/9f6c3a4b4415f0a93c8b957e708ca0fa43c90e6c/site/README.md"
+        }
+      },
+      "next_check_at": "2026-11-02T12:00:00+00:00",
+      "last_check_at": "2026-11-02T11:01:04.257027+00:00",
+      "repo_id": 1372387645,
+      "file_cursor": 18
+    },
+    "zcg:5472882954": {
+      "source": "ZCG_NEW_ISSUE",
+      "id": 5472882954,
+      "name": "#427 Grant Application - Argos: zcashd Emergency Recovery Phrase Support",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/427",
+      "pr": 801,
+      "status": "excluded",
+      "registered_at": "2026-11-02T11:00:46.767379+00:00",
+      "first_report_sha256": "81f0159779e46375d7e4e3d3fe3d3e27d3838a627d089c01f44db39d79d7b99c",
+      "files": {},
+      "next_check_at": null
     }
   },
-  "last_collect_at": "2026-11-02T02:31:07.186785+00:00",
+  "last_collect_at": "2026-11-02T11:02:32.263933+00:00",
   "last_errors": [],
   "last_verify_errors": []
 }
