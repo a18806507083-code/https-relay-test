@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T00:03:56.464Z",
+    "detected_at": "2026-11-02T01:33:38Z",
+    "display": "58731 Retroactive Grant Application - ZecHub Bounty Board security & maintenance",
+    "key": "forum:58731",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zechub-bounty-board-security-maintenance",
+      "title": "Retroactive Grant Application - ZecHub Bounty Board security & maintenance",
+      "topic_id": 58731
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58731,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zechub-bounty-board-security-maintenance/58731"
+  },
+  "schema": "zcash-fast-event/1"
+}
