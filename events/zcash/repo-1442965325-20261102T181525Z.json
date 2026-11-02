@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T12:55:25Z",
+    "detected_at": "2026-11-02T18:15:25Z",
+    "display": "kaikai-cao/zcash-orchard-engineering",
+    "key": "repo:1442965325",
+    "metadata": {
+      "description": "Engineering experiments and performance analysis for Zcash Orchard and Halo2.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "kaikai-cao/zcash-orchard-engineering",
+      "homepage": null,
+      "pushed_at": "2026-11-02T12:55:28Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1442965325,
+    "url": "https://github.com/kaikai-cao/zcash-orchard-engineering"
+  },
+  "schema": "zcash-fast-event/1"
+}
