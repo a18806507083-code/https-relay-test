@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T04:25:29.738Z",
+    "detected_at": "2026-11-02T08:10:52Z",
+    "display": "58739 Looking for a Introduction for integration",
+    "key": "forum:58739",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "looking-for-a-introduction-for-integration",
+      "title": "Looking for a Introduction for integration",
+      "topic_id": 58739
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58739,
+    "url": "https://forum.zcashcommunity.com/t/looking-for-a-introduction-for-integration/58739"
+  },
+  "schema": "zcash-fast-event/1"
+}
