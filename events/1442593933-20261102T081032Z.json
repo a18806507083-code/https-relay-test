@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T06:29:28Z",
+    "description": "\u7f57\u5bbe\u732b\u54e8\u5175 RobinCat Sentinel\uff1aBNB Chain / Robinhood Chain \u672c\u5730\u76d1\u6d4b\u3001\u81ea\u52a8\u94f8\u9020\u4e0e\u9632\u76d7\u5de5\u5177",
+    "detected_at": "2026-11-02T08:10:32Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "nancyc0813-maker/robincat-sentinel",
+    "homepage": null,
+    "html_url": "https://github.com/nancyc0813-maker/robincat-sentinel",
+    "pushed_at": "2026-11-02T08:04:06Z",
+    "repo_id": 1442593933,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
