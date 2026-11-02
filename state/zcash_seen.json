@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-01T22:18:54Z",
+  "last_run_at": "2026-11-02T01:33:38Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-01T18:05:32Z",
+      "cutoff": "2026-11-01T21:48:54Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-01T18:05:32Z",
-      "matches": 2,
+      "cutoff": "2026-11-01T21:48:54Z",
+      "matches": 5,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-01T18:05:32Z",
-      "matches": 0,
+      "cutoff": "2026-11-01T21:48:54Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-01T18:05:32Z",
-      "matches": 0,
+      "cutoff": "2026-11-01T21:48:54Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -2085,6 +2085,38 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2834",
       "first_seen_at": "2026-11-01T22:18:54Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58725": {
+      "created_at": "2026-11-01T23:15:40.098Z",
+      "display": "58725 Retroactive Grant Application - Zcash Community Mining Lab: Powering Privacy Infrastructure + Youth Leadership",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2844",
+      "first_seen_at": "2026-11-02T01:33:38Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58731": {
+      "created_at": "2026-11-02T00:03:56.464Z",
+      "display": "58731 Retroactive Grant Application - ZecHub Bounty Board security & maintenance",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2842",
+      "first_seen_at": "2026-11-02T01:33:38Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58733": {
+      "created_at": "2026-11-02T00:05:31.160Z",
+      "display": "58733 Zcash Privacy Developers Residency - December 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2841",
+      "first_seen_at": "2026-11-02T01:33:38Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58736": {
+      "created_at": "2026-11-02T00:23:35.019Z",
+      "display": "58736 Zondax shielded will STOP working soon",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2840",
+      "first_seen_at": "2026-11-02T01:33:38Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8623,6 +8655,14 @@
       "first_seen_at": "2026-11-01T18:35:32Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1442358696": {
+      "created_at": "2026-11-02T00:44:05Z",
+      "display": "crypteo-io/crypteo",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2839",
+      "first_seen_at": "2026-11-02T01:33:38Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9486,14 +9526,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2825",
       "first_seen_at": "2026-11-01T13:45:16Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6153638608": {
+      "created_at": "2026-11-01T23:56:52Z",
+      "display": "#531 Zcash Privacy Developers Residency - December 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2843",
+      "first_seen_at": "2026-11-02T01:33:38Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-01T22:18:54Z",
-    "forum": "2026-11-01T22:18:54Z",
-    "github": "2026-11-01T22:18:54Z",
-    "zcg": "2026-11-01T22:18:54Z"
+    "fixed_orgs": "2026-11-02T01:33:38Z",
+    "forum": "2026-11-02T01:33:38Z",
+    "github": "2026-11-02T01:33:38Z",
+    "zcg": "2026-11-02T01:33:38Z"
   }
 }
