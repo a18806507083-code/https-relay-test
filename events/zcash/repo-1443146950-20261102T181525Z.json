@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T15:36:33Z",
+    "detected_at": "2026-11-02T18:15:25Z",
+    "display": "craftsoldier/zcash-sighash-lean",
+    "key": "repo:1443146950",
+    "metadata": {
+      "description": "Lean 4 formal verification of Zcash's transaction digests (ZIP 143, 243, 244, 229) in librustzcash and Zakura",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash"
+      ],
+      "full_name": "craftsoldier/zcash-sighash-lean",
+      "homepage": null,
+      "pushed_at": "2026-11-02T15:36:40Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1443146950,
+    "url": "https://github.com/craftsoldier/zcash-sighash-lean"
+  },
+  "schema": "zcash-fast-event/1"
+}
