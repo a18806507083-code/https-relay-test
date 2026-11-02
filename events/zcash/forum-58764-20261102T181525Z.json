@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T16:43:33.212Z",
+    "detected_at": "2026-11-02T18:15:25Z",
+    "display": "58764 Coinholder grants need to fund ecosystem work",
+    "key": "forum:58764",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "coinholder-grants-need-to-fund-ecosystem-work",
+      "title": "Coinholder grants need to fund ecosystem work",
+      "topic_id": 58764
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58764,
+    "url": "https://forum.zcashcommunity.com/t/coinholder-grants-need-to-fund-ecosystem-work/58764"
+  },
+  "schema": "zcash-fast-event/1"
+}
