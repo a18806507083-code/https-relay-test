@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T13:37:56.713Z",
+    "detected_at": "2026-11-02T18:15:25Z",
+    "display": "58758 How can I verify that my Zebra node is serving block data to other peers?",
+    "key": "forum:58758",
+    "metadata": {
+      "category_id": 12,
+      "posters": [
+        "Original Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "how-can-i-verify-that-my-zebra-node-is-serving-block-data-to-other-peers",
+      "title": "How can I verify that my Zebra node is serving block data to other peers?",
+      "topic_id": 58758
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58758,
+    "url": "https://forum.zcashcommunity.com/t/how-can-i-verify-that-my-zebra-node-is-serving-block-data-to-other-peers/58758"
+  },
+  "schema": "zcash-fast-event/1"
+}
