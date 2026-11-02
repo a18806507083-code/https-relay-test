@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T14:47:47.161Z",
+    "detected_at": "2026-11-02T18:15:25Z",
+    "display": "58762 Retroactive Grant Application - Void Market",
+    "key": "forum:58762",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-void-market",
+      "title": "Retroactive Grant Application - Void Market",
+      "topic_id": 58762
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58762,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-void-market/58762"
+  },
+  "schema": "zcash-fast-event/1"
+}
