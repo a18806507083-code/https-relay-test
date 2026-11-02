@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T00:33:24Z",
+    "description": "Company profile (portfolio lead) \u2014 Arctic",
+    "detected_at": "2026-11-02T01:33:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "api-evangelist/arctic-qpon",
+    "homepage": null,
+    "html_url": "https://github.com/api-evangelist/arctic-qpon",
+    "pushed_at": "2026-11-02T00:33:48Z",
+    "repo_id": 1442352663,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
