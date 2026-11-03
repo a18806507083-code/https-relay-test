@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T01:22:49.327Z",
+    "detected_at": "2026-11-03T07:30:44Z",
+    "display": "58789 Retroactive Grant Application - Zebra Vulnerability Bounty: Reporter Share of High-Severity Advisory GHSA-j4cw-58mj-7w6v",
+    "key": "forum:58789",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zebra-vulnerability-bounty-reporter-share-of-high-severity-advisory-ghsa-j4cw-58mj-7w6v",
+      "title": "Retroactive Grant Application - Zebra Vulnerability Bounty: Reporter Share of High-Severity Advisory GHSA-j4cw-58mj-7w6v",
+      "topic_id": 58789
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58789,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zebra-vulnerability-bounty-reporter-share-of-high-severity-advisory-ghsa-j4cw-58mj-7w6v/58789"
+  },
+  "schema": "zcash-fast-event/1"
+}
