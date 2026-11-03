@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T06:16:56Z",
+    "description": null,
+    "detected_at": "2026-11-03T07:30:32Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "gasrescue/gasrescue-mcp",
+    "homepage": null,
+    "html_url": "https://github.com/gasrescue/gasrescue-mcp",
+    "pushed_at": "2026-11-03T06:32:14Z",
+    "repo_id": 1443889934,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
