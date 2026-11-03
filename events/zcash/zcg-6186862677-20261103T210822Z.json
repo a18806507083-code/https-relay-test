@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T16:32:33Z",
+    "detected_at": "2026-11-03T21:08:22Z",
+    "display": "#537 Grant Application - Axelar Integration, Common Prefix Research",
+    "key": "zcg:6186862677",
+    "metadata": {
+      "author": "themicp",
+      "issue_number": 537,
+      "labels": [
+        "📋 Grant Application",
+        "👀 Ready For ZCG Review"
+      ],
+      "title": "Grant Application - Axelar Integration, Common Prefix Research"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6186862677,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/537"
+  },
+  "schema": "zcash-fast-event/1"
+}
