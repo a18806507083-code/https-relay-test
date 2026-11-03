@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T18:43:25Z",
+    "detected_at": "2026-11-03T00:58:29Z",
+    "display": "VladFlutt/cryptocube",
+    "key": "repo:1443350294",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "VladFlutt/cryptocube",
+      "homepage": null,
+      "pushed_at": "2026-11-02T20:29:21Z",
+      "tech_signals": [
+        "SDK/library",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1443350294,
+    "url": "https://github.com/VladFlutt/cryptocube"
+  },
+  "schema": "zcash-fast-event/1"
+}
