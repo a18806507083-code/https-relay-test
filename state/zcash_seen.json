@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-02T18:15:25Z",
+  "last_run_at": "2026-11-03T00:58:29Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-02T07:40:52Z",
+      "cutoff": "2026-11-02T17:45:25Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-02T07:40:52Z",
-      "matches": 9,
+      "cutoff": "2026-11-02T17:45:25Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-02T07:40:52Z",
+      "cutoff": "2026-11-02T17:45:25Z",
       "matches": 6,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-02T07:40:52Z",
-      "matches": 2,
+      "cutoff": "2026-11-02T17:45:25Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -2165,6 +2165,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2854",
       "first_seen_at": "2026-11-02T18:15:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58771": {
+      "created_at": "2026-11-02T19:25:38.043Z",
+      "display": "58771 Seeking Zcash Advocates Outside the U.S",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2874",
+      "first_seen_at": "2026-11-03T00:58:29Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58780": {
+      "created_at": "2026-11-02T23:57:26.724Z",
+      "display": "58780 Canadian Zcash Community and red·bridge public testnet launch",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2869",
+      "first_seen_at": "2026-11-03T00:58:29Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58784": {
+      "created_at": "2026-11-03T00:28:47.847Z",
+      "display": "58784 Grant Application: Forg3t Shield for Zcash (keep seed phrases, keys and addresses out of AI chats and public bug reports)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2868",
+      "first_seen_at": "2026-11-03T00:58:29Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8759,6 +8783,54 @@
       "first_seen_at": "2026-11-02T18:15:25Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1443345154": {
+      "created_at": "2026-11-02T18:38:09Z",
+      "display": "bounty-bunny/kalshibot",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2876",
+      "first_seen_at": "2026-11-03T00:58:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1443350294": {
+      "created_at": "2026-11-02T18:43:25Z",
+      "display": "VladFlutt/cryptocube",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2875",
+      "first_seen_at": "2026-11-03T00:58:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1443458530": {
+      "created_at": "2026-11-02T20:35:49Z",
+      "display": "tartuffeme/zcash-agora-mirror",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2873",
+      "first_seen_at": "2026-11-03T00:58:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1443497148": {
+      "created_at": "2026-11-02T21:18:35Z",
+      "display": "SortyLorty/kem",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2872",
+      "first_seen_at": "2026-11-03T00:58:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1443595494": {
+      "created_at": "2026-11-02T23:27:27Z",
+      "display": "taxigianpippo-commits/NEGOZIO-DI-TUTTO-UN-PO",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2871",
+      "first_seen_at": "2026-11-03T00:58:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1443645868": {
+      "created_at": "2026-11-03T00:43:23Z",
+      "display": "DatBigDev/WalletBoard",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2867",
+      "first_seen_at": "2026-11-03T00:58:29Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9646,14 +9718,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2853",
       "first_seen_at": "2026-11-02T18:15:25Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6173014756": {
+      "created_at": "2026-11-02T23:33:00Z",
+      "display": "#534 Zethora - Orchard Integration Audit & ZEC Bridging",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2870",
+      "first_seen_at": "2026-11-03T00:58:29Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-02T18:15:25Z",
-    "forum": "2026-11-02T18:15:25Z",
-    "github": "2026-11-02T18:15:25Z",
-    "zcg": "2026-11-02T18:15:25Z"
+    "fixed_orgs": "2026-11-03T00:58:29Z",
+    "forum": "2026-11-03T00:58:29Z",
+    "github": "2026-11-03T00:58:29Z",
+    "zcg": "2026-11-03T00:58:29Z"
   }
 }
