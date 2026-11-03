@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T00:28:47.847Z",
+    "detected_at": "2026-11-03T00:58:29Z",
+    "display": "58784 Grant Application: Forg3t Shield for Zcash (keep seed phrases, keys and addresses out of AI chats and public bug reports)",
+    "key": "forum:58784",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-forg3t-shield-for-zcash-keep-seed-phrases-keys-and-addresses-out-of-ai-chats-and-public-bug-reports",
+      "title": "Grant Application: Forg3t Shield for Zcash (keep seed phrases, keys and addresses out of AI chats and public bug reports)",
+      "topic_id": 58784
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58784,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-forg3t-shield-for-zcash-keep-seed-phrases-keys-and-addresses-out-of-ai-chats-and-public-bug-reports/58784"
+  },
+  "schema": "zcash-fast-event/1"
+}
