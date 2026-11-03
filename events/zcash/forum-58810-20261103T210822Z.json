@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T15:43:16.699Z",
+    "detected_at": "2026-11-03T21:08:22Z",
+    "display": "58810 [Grant Application] create-zcash-app: Zero-to-Shielded Browser Scaffolder & Developer Toolkit",
+    "key": "forum:58810",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-create-zcash-app-zero-to-shielded-browser-scaffolder-developer-toolkit",
+      "title": "[Grant Application] create-zcash-app: Zero-to-Shielded Browser Scaffolder & Developer Toolkit",
+      "topic_id": 58810
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58810,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-create-zcash-app-zero-to-shielded-browser-scaffolder-developer-toolkit/58810"
+  },
+  "schema": "zcash-fast-event/1"
+}
