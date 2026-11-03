@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-03T15:25:25Z",
+  "last_run_at": "2026-11-03T21:08:22Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-03T07:00:44Z",
+      "cutoff": "2026-11-03T14:55:25Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-03T07:00:44Z",
-      "matches": 2,
+      "cutoff": "2026-11-03T14:55:25Z",
+      "matches": 9,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-03T07:00:44Z",
-      "matches": 6,
+      "cutoff": "2026-11-03T14:55:25Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-03T07:00:44Z",
-      "matches": 1,
+      "cutoff": "2026-11-03T14:55:25Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -2221,6 +2221,62 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2890",
       "first_seen_at": "2026-11-03T15:25:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58810": {
+      "created_at": "2026-11-03T15:43:16.699Z",
+      "display": "58810 [Grant Application] create-zcash-app: Zero-to-Shielded Browser Scaffolder & Developer Toolkit",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2911",
+      "first_seen_at": "2026-11-03T21:08:22Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58813": {
+      "created_at": "2026-11-03T15:59:25.096Z",
+      "display": "58813 Draft ZIP: Lock-weighted Coinholder Polling",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2910",
+      "first_seen_at": "2026-11-03T21:08:22Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58819": {
+      "created_at": "2026-11-03T16:43:48.928Z",
+      "display": "58819 [Grant Application] Axelar Integration, Common Prefix Research",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2906",
+      "first_seen_at": "2026-11-03T21:08:22Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58823": {
+      "created_at": "2026-11-03T16:45:55.184Z",
+      "display": "58823 ZF Engineering Update: October 20 - November 2, 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2905",
+      "first_seen_at": "2026-11-03T21:08:22Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58825": {
+      "created_at": "2026-11-03T19:06:11.382Z",
+      "display": "58825 A Grant Can Be Completed and Still Fail Zcash. How Do We Measure Real Impact?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2904",
+      "first_seen_at": "2026-11-03T21:08:22Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58826": {
+      "created_at": "2026-11-03T20:06:10.403Z",
+      "display": "58826 Zcash Labs - Adoption Events Update",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2902",
+      "first_seen_at": "2026-11-03T21:08:22Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58827": {
+      "created_at": "2026-11-03T20:40:01.801Z",
+      "display": "58827 Retroactive Grant Application - The Zcash Daily",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2901",
+      "first_seen_at": "2026-11-03T21:08:22Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8927,6 +8983,22 @@
       "first_seen_at": "2026-11-03T15:25:25Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1444564443": {
+      "created_at": "2026-11-03T16:43:06Z",
+      "display": "jaycarson373-tech/Zenero",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2907",
+      "first_seen_at": "2026-11-03T21:08:22Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1444742986": {
+      "created_at": "2026-11-03T19:30:17Z",
+      "display": "riccardogennari/dino_web_game",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2903",
+      "first_seen_at": "2026-11-03T21:08:22Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9830,14 +9902,30 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2894",
       "first_seen_at": "2026-11-03T15:25:25Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6186693125": {
+      "created_at": "2026-11-03T16:22:40Z",
+      "display": "#536 Zcash East Africa Developer Workshop Session",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2909",
+      "first_seen_at": "2026-11-03T21:08:22Z",
+      "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6186862677": {
+      "created_at": "2026-11-03T16:32:33Z",
+      "display": "#537 Grant Application - Axelar Integration, Common Prefix Research",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2908",
+      "first_seen_at": "2026-11-03T21:08:22Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-03T15:25:25Z",
-    "forum": "2026-11-03T15:25:25Z",
-    "github": "2026-11-03T15:25:25Z",
-    "zcg": "2026-11-03T15:25:25Z"
+    "fixed_orgs": "2026-11-03T21:08:22Z",
+    "forum": "2026-11-03T21:08:22Z",
+    "github": "2026-11-03T21:08:22Z",
+    "zcg": "2026-11-03T21:08:22Z"
   }
 }
