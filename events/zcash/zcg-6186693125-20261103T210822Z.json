@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T16:22:40Z",
+    "detected_at": "2026-11-03T21:08:22Z",
+    "display": "#536 Zcash East Africa Developer Workshop Session",
+    "key": "zcg:6186693125",
+    "metadata": {
+      "author": "ZcashEA",
+      "issue_number": 536,
+      "labels": [],
+      "title": "Zcash East Africa Developer Workshop Session"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6186693125,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/536"
+  },
+  "schema": "zcash-fast-event/1"
+}
