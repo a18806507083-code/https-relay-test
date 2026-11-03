@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T15:59:25.096Z",
+    "detected_at": "2026-11-03T21:08:22Z",
+    "display": "58813 Draft ZIP: Lock-weighted Coinholder Polling",
+    "key": "forum:58813",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster",
+        "Frequent Poster",
+        "Frequent Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "draft-zip-lock-weighted-coinholder-polling",
+      "title": "Draft ZIP: Lock-weighted Coinholder Polling",
+      "topic_id": 58813
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58813,
+    "url": "https://forum.zcashcommunity.com/t/draft-zip-lock-weighted-coinholder-polling/58813"
+  },
+  "schema": "zcash-fast-event/1"
+}
