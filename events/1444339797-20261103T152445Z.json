@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T13:37:53Z",
+    "description": "Stealth BC: the Just Stealth It bonding-curve launch program on Solana. Coming soon. Graduates to the Stealth AMM, Raydium, PumpSwap or Meteora.",
+    "detected_at": "2026-11-03T15:24:45Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "juststealthit/Solana-BC",
+    "homepage": null,
+    "html_url": "https://github.com/juststealthit/Solana-BC",
+    "pushed_at": "2026-11-03T13:38:01Z",
+    "repo_id": 1444339797,
+    "score": 7,
+    "tech_signals": [
+      "Lending/Vault",
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
