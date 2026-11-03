@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-03T00:58:29Z",
+  "last_run_at": "2026-11-03T07:30:44Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-02T17:45:25Z",
+      "cutoff": "2026-11-03T00:28:29Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-02T17:45:25Z",
+      "cutoff": "2026-11-03T00:28:29Z",
       "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-02T17:45:25Z",
-      "matches": 6,
+      "cutoff": "2026-11-03T00:28:29Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-02T17:45:25Z",
-      "matches": 1,
+      "cutoff": "2026-11-03T00:28:29Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -2189,6 +2189,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2868",
       "first_seen_at": "2026-11-03T00:58:29Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58789": {
+      "created_at": "2026-11-03T01:22:49.327Z",
+      "display": "58789 Retroactive Grant Application - Zebra Vulnerability Bounty: Reporter Share of High-Severity Advisory GHSA-j4cw-58mj-7w6v",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2882",
+      "first_seen_at": "2026-11-03T07:30:44Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58795": {
+      "created_at": "2026-11-03T02:45:11.469Z",
+      "display": "58795 Retroactive Grant Application - Nerdbank.Cryptocurrencies upkeep and librustzcash fork improvements",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2881",
+      "first_seen_at": "2026-11-03T07:30:44Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8831,6 +8847,22 @@
       "first_seen_at": "2026-11-03T00:58:29Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1443747725": {
+      "created_at": "2026-11-03T03:06:42Z",
+      "display": "Lwa-of-Crypto/cross-chain-desk",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2880",
+      "first_seen_at": "2026-11-03T07:30:44Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1443847490": {
+      "created_at": "2026-11-03T05:22:10Z",
+      "display": "mango-jeongi/awesome-gaussian-splatting",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2879",
+      "first_seen_at": "2026-11-03T07:30:44Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9731,9 +9763,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-03T00:58:29Z",
-    "forum": "2026-11-03T00:58:29Z",
-    "github": "2026-11-03T00:58:29Z",
-    "zcg": "2026-11-03T00:58:29Z"
+    "fixed_orgs": "2026-11-03T07:30:44Z",
+    "forum": "2026-11-03T07:30:44Z",
+    "github": "2026-11-03T07:30:44Z",
+    "zcg": "2026-11-03T07:30:44Z"
   }
 }
