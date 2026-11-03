@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T00:43:23Z",
+    "detected_at": "2026-11-03T00:58:29Z",
+    "display": "DatBigDev/WalletBoard",
+    "key": "repo:1443645868",
+    "metadata": {
+      "description": "Offline wallet generator for BTC, ETH, SOL, XMR and ZEC, with vanity addresses. Temporary home of WalletBoard.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "DatBigDev/WalletBoard",
+      "homepage": null,
+      "pushed_at": "2026-11-03T00:43:53Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1443645868,
+    "url": "https://github.com/DatBigDev/WalletBoard"
+  },
+  "schema": "zcash-fast-event/1"
+}
