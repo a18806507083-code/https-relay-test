@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T16:43:48.928Z",
+    "detected_at": "2026-11-03T21:08:22Z",
+    "display": "58819 [Grant Application] Axelar Integration, Common Prefix Research",
+    "key": "forum:58819",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-axelar-integration-common-prefix-research",
+      "title": "[Grant Application] Axelar Integration, Common Prefix Research",
+      "topic_id": 58819
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58819,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-axelar-integration-common-prefix-research/58819"
+  },
+  "schema": "zcash-fast-event/1"
+}
