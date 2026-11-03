@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T21:18:35Z",
+    "detected_at": "2026-11-03T00:58:29Z",
+    "display": "SortyLorty/kem",
+    "key": "repo:1443497148",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "SortyLorty/kem",
+      "homepage": null,
+      "pushed_at": "2026-11-02T21:19:21Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1443497148,
+    "url": "https://github.com/SortyLorty/kem"
+  },
+  "schema": "zcash-fast-event/1"
+}
