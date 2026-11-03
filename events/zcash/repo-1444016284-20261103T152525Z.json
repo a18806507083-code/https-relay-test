@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T08:34:18Z",
+    "detected_at": "2026-11-03T15:25:25Z",
+    "display": "nikkolasg/zcash-agora-mirror",
+    "key": "repo:1444016284",
+    "metadata": {
+      "description": "The public log of Zcash Agora polls: every registration, ballot, checkpoint and tally, plus the circuits. Written by the ingest, read by browsers and auditors.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "nikkolasg/zcash-agora-mirror",
+      "homepage": null,
+      "pushed_at": "2026-11-03T15:23:52Z",
+      "tech_signals": [
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1444016284,
+    "url": "https://github.com/nikkolasg/zcash-agora-mirror"
+  },
+  "schema": "zcash-fast-event/1"
+}
