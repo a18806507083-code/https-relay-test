@@ -7376,8 +7376,8 @@
       "repo_id": 1373684710,
       "file_cursor": 36,
       "claims": [],
-      "claims_fingerprint": "be8a20146f989b5a7a0324e3f3664ba07e3224342c424d51d8614a7d1964a8a2",
-      "verified_fingerprint": "be8a20146f989b5a7a0324e3f3664ba07e3224342c424d51d8614a7d1964a8a2"
+      "claims_fingerprint": "be3a38c5793ee26e8c774e49ed1b9bd4467e1d32ecb9c37d84b89a1d9188ea78",
+      "verified_fingerprint": "be3a38c5793ee26e8c774e49ed1b9bd4467e1d32ecb9c37d84b89a1d9188ea78"
     },
     "repo:mnemosphere-org/mnemosphere-protocol": {
       "source": "repo",
@@ -7543,7 +7543,10 @@
       "next_check_at": "2026-11-03T03:00:00+00:00",
       "last_check_at": "2026-11-03T02:54:45.360234+00:00",
       "repo_id": 1374338548,
-      "file_cursor": 18
+      "file_cursor": 18,
+      "claims": [],
+      "claims_fingerprint": "030bafa4a2e041953ff23e2c10bbf0af3da799b7802b31ef1ab0208340a8061a",
+      "verified_fingerprint": "030bafa4a2e041953ff23e2c10bbf0af3da799b7802b31ef1ab0208340a8061a"
     }
   },
   "last_collect_at": "2026-11-03T02:56:31.747832+00:00",
