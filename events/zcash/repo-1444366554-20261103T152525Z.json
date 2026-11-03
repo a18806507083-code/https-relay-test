@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T13:59:38Z",
+    "detected_at": "2026-11-03T15:25:25Z",
+    "display": "tzarebczan/crosslink-snomp",
+    "key": "repo:1444366554",
+    "metadata": {
+      "description": "s-nomp stratum bridge for a Crosslink featurenet node (Equihash 200,9, fat pointer)",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "tzarebczan/crosslink-snomp",
+      "homepage": null,
+      "pushed_at": "2026-11-03T14:02:04Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1444366554,
+    "url": "https://github.com/tzarebczan/crosslink-snomp"
+  },
+  "schema": "zcash-fast-event/1"
+}
