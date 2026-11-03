@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T23:27:27Z",
+    "detected_at": "2026-11-03T00:58:29Z",
+    "display": "taxigianpippo-commits/NEGOZIO-DI-TUTTO-UN-PO",
+    "key": "repo:1443595494",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "taxigianpippo-commits/NEGOZIO-DI-TUTTO-UN-PO",
+      "homepage": "",
+      "pushed_at": "2026-11-02T23:28:12Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1443595494,
+    "url": "https://github.com/taxigianpippo-commits/NEGOZIO-DI-TUTTO-UN-PO"
+  },
+  "schema": "zcash-fast-event/1"
+}
