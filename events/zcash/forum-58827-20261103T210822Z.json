@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T20:40:01.801Z",
+    "detected_at": "2026-11-03T21:08:22Z",
+    "display": "58827 Retroactive Grant Application - The Zcash Daily",
+    "key": "forum:58827",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-the-zcash-daily",
+      "title": "Retroactive Grant Application - The Zcash Daily",
+      "topic_id": 58827
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58827,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-the-zcash-daily/58827"
+  },
+  "schema": "zcash-fast-event/1"
+}
