@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-09-19T11:51:44Z",
+    "description": "Latency benchmark for Robinhood Chain feeds: connects to the official Nitro feed, Eira Pulse gRPC and any JSON WebSocket feed from one host, stamps every message on arrival and reports who was first per block and per transaction (p50/p90/p99, pairwise, by block size).",
+    "detected_at": "2026-09-19T13:05:41Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "qskateboard/robinhood-feed-bench",
+    "homepage": null,
+    "html_url": "https://github.com/qskateboard/robinhood-feed-bench",
+    "pushed_at": "2026-09-19T11:55:20Z",
+    "repo_id": 1377094446,
+    "score": 8,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
