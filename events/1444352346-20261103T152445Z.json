@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T13:48:11Z",
+    "description": "Proof of Ship on NEAR: a USDC bounty escrow that pays a builder when Hey Research Lab signs that the project shipped, verified on chain with ecrecover",
+    "detected_at": "2026-11-03T15:24:45Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "hey-research-lab/proof-of-ship-near",
+    "homepage": "https://heyresearch.xyz",
+    "html_url": "https://github.com/hey-research-lab/proof-of-ship-near",
+    "pushed_at": "2026-11-03T13:48:17Z",
+    "repo_id": 1444352346,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
