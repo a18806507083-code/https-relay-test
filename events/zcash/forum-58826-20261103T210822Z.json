@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T20:06:10.403Z",
+    "detected_at": "2026-11-03T21:08:22Z",
+    "display": "58826 Zcash Labs - Adoption Events Update",
+    "key": "forum:58826",
+    "metadata": {
+      "category_id": 31,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "zcash-labs-adoption-events-update",
+      "title": "Zcash Labs - Adoption Events Update",
+      "topic_id": 58826
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58826,
+    "url": "https://forum.zcashcommunity.com/t/zcash-labs-adoption-events-update/58826"
+  },
+  "schema": "zcash-fast-event/1"
+}
