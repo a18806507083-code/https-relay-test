@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T19:06:11.382Z",
+    "detected_at": "2026-11-03T21:08:22Z",
+    "display": "58825 A Grant Can Be Completed and Still Fail Zcash. How Do We Measure Real Impact?",
+    "key": "forum:58825",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "a-grant-can-be-completed-and-still-fail-zcash-how-do-we-measure-real-impact",
+      "title": "A Grant Can Be Completed and Still Fail Zcash. How Do We Measure Real Impact?",
+      "topic_id": 58825
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58825,
+    "url": "https://forum.zcashcommunity.com/t/a-grant-can-be-completed-and-still-fail-zcash-how-do-we-measure-real-impact/58825"
+  },
+  "schema": "zcash-fast-event/1"
+}
