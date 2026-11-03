@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T23:57:26.724Z",
+    "detected_at": "2026-11-03T00:58:29Z",
+    "display": "58780 Canadian Zcash Community and red·bridge public testnet launch",
+    "key": "forum:58780",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "canadian-zcash-community-and-red-bridge-public-testnet-launch",
+      "title": "Canadian Zcash Community and red·bridge public testnet launch",
+      "topic_id": 58780
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58780,
+    "url": "https://forum.zcashcommunity.com/t/canadian-zcash-community-and-red-bridge-public-testnet-launch/58780"
+  },
+  "schema": "zcash-fast-event/1"
+}
