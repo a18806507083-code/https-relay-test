@@ -7596,8 +7596,8 @@
       "repo_id": 1373684710,
       "file_cursor": 2,
       "claims": [],
-      "claims_fingerprint": "c7a0f2848d15ab3ab0a3b1e2b19936c8321cb95afbc19c0b2fd5ca2a7a5b8e71",
-      "verified_fingerprint": "c7a0f2848d15ab3ab0a3b1e2b19936c8321cb95afbc19c0b2fd5ca2a7a5b8e71"
+      "claims_fingerprint": "404840192edd28ae7e9b55d11c4bcd6132d1ca66685b7e64f98c638dc30df30e",
+      "verified_fingerprint": "404840192edd28ae7e9b55d11c4bcd6132d1ca66685b7e64f98c638dc30df30e"
     },
     "repo:mnemosphere-org/mnemosphere-protocol": {
       "source": "repo",
