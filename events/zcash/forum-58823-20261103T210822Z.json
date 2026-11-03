@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T16:45:55.184Z",
+    "detected_at": "2026-11-03T21:08:22Z",
+    "display": "58823 ZF Engineering Update: October 20 - November 2, 2026",
+    "key": "forum:58823",
+    "metadata": {
+      "category_id": 21,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zf-engineering-update-october-20-november-2-2026",
+      "title": "ZF Engineering Update: October 20 - November 2, 2026",
+      "topic_id": 58823
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58823,
+    "url": "https://forum.zcashcommunity.com/t/zf-engineering-update-october-20-november-2-2026/58823"
+  },
+  "schema": "zcash-fast-event/1"
+}
