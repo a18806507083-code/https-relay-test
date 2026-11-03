@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-02T19:25:38.043Z",
+    "detected_at": "2026-11-03T00:58:29Z",
+    "display": "58771 Seeking Zcash Advocates Outside the U.S",
+    "key": "forum:58771",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "seeking-zcash-advocates-outside-the-u-s",
+      "title": "Seeking Zcash Advocates Outside the U.S",
+      "topic_id": 58771
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58771,
+    "url": "https://forum.zcashcommunity.com/t/seeking-zcash-advocates-outside-the-u-s/58771"
+  },
+  "schema": "zcash-fast-event/1"
+}
