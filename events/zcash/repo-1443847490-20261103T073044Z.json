@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T05:22:10Z",
+    "detected_at": "2026-11-03T07:30:44Z",
+    "display": "mango-jeongi/awesome-gaussian-splatting",
+    "key": "repo:1443847490",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "mango-jeongi/awesome-gaussian-splatting",
+      "homepage": null,
+      "pushed_at": "2026-11-03T07:24:58Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1443847490,
+    "url": "https://github.com/mango-jeongi/awesome-gaussian-splatting"
+  },
+  "schema": "zcash-fast-event/1"
+}
