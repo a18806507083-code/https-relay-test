@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T19:30:17Z",
+    "detected_at": "2026-11-03T21:08:22Z",
+    "display": "riccardogennari/dino_web_game",
+    "key": "repo:1444742986",
+    "metadata": {
+      "description": "La Valle dei Dinosauri: gioco 2D nel browser (Three.js) in cui il tuo dinosauro cresce da cucciolo ad adulto",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "riccardogennari/dino_web_game",
+      "homepage": null,
+      "pushed_at": "2026-11-03T19:42:18Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1444742986,
+    "url": "https://github.com/riccardogennari/dino_web_game"
+  },
+  "schema": "zcash-fast-event/1"
+}
