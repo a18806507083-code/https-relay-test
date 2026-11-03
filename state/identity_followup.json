@@ -6812,8 +6812,8 @@
       "repo_id": 1370192994,
       "file_cursor": 0,
       "claims": [],
-      "claims_fingerprint": "86e004c3378c2bf24097e52cc576cbf44d7f8a21e368dee5e0276a9c75889922",
-      "verified_fingerprint": "86e004c3378c2bf24097e52cc576cbf44d7f8a21e368dee5e0276a9c75889922"
+      "claims_fingerprint": "624d95452381a71a61456d6ff4fa0061010e8a677cce179d1f93b6847a9016a7",
+      "verified_fingerprint": "624d95452381a71a61456d6ff4fa0061010e8a677cce179d1f93b6847a9016a7"
     },
     "repo:inkfrogs764-ui/games": {
       "source": "repo",
@@ -7491,8 +7491,8 @@
       "repo_id": 1373684710,
       "file_cursor": 54,
       "claims": [],
-      "claims_fingerprint": "be3a38c5793ee26e8c774e49ed1b9bd4467e1d32ecb9c37d84b89a1d9188ea78",
-      "verified_fingerprint": "be3a38c5793ee26e8c774e49ed1b9bd4467e1d32ecb9c37d84b89a1d9188ea78"
+      "claims_fingerprint": "c7a0f2848d15ab3ab0a3b1e2b19936c8321cb95afbc19c0b2fd5ca2a7a5b8e71",
+      "verified_fingerprint": "c7a0f2848d15ab3ab0a3b1e2b19936c8321cb95afbc19c0b2fd5ca2a7a5b8e71"
     },
     "repo:mnemosphere-org/mnemosphere-protocol": {
       "source": "repo",
@@ -7690,8 +7690,8 @@
       "repo_id": 1374338548,
       "file_cursor": 12,
       "claims": [],
-      "claims_fingerprint": "030bafa4a2e041953ff23e2c10bbf0af3da799b7802b31ef1ab0208340a8061a",
-      "verified_fingerprint": "030bafa4a2e041953ff23e2c10bbf0af3da799b7802b31ef1ab0208340a8061a"
+      "claims_fingerprint": "1ffabb1c168937313ece7924a84ea9671e8ab64fa1deac85e18769669dd19f76",
+      "verified_fingerprint": "1ffabb1c168937313ece7924a84ea9671e8ab64fa1deac85e18769669dd19f76"
     },
     "repo:777huegos/swapwallet": {
       "source": "repo",
@@ -7711,7 +7711,10 @@
       "next_check_at": "2026-11-03T11:00:00+00:00",
       "last_check_at": "2026-11-03T10:49:51.223887+00:00",
       "repo_id": 1363112574,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "7d84612ec1d964cf8a6ff910de982b803c68cb46cf2deb62ea8102c55c255c74",
+      "verified_fingerprint": "7d84612ec1d964cf8a6ff910de982b803c68cb46cf2deb62ea8102c55c255c74"
     },
     "repo:giocrack890-creator/pump-farm": {
       "source": "repo",
@@ -7751,7 +7754,7 @@
       "repo": "deltadevsde/zcash-preconfs",
       "name": "deltadevsde/zcash-preconfs",
       "pr": 852,
-      "status": "tracking",
+      "status": "found",
       "registered_at": "2026-11-03T10:49:35.193852+00:00",
       "first_report_sha256": "374670b1ce9cdaac85a1a38863ea604dfe883216178d06aa606333689e1cf76e",
       "files": {
@@ -7779,7 +7782,29 @@
       "next_check_at": "2026-11-03T11:00:00+00:00",
       "last_check_at": "2026-11-03T10:49:53.277892+00:00",
       "repo_id": 1374676311,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [
+        {
+          "kind": "website",
+          "value": "https://preconfs.deltadevs.xyz",
+          "source": "deploy/HOSTING.md",
+          "quote": "Public URL: https://preconfs.deltadevs.xyz",
+          "official_project": true
+        }
+      ],
+      "claims_fingerprint": "66b1a1f451ebb196277a8b52669cab0b0653eec9ddfc1329e5ef6ddd2ad9d6d5",
+      "identities": [
+        {
+          "kind": "website",
+          "value": "https://preconfs.deltadevs.xyz",
+          "source": "deploy/HOSTING.md",
+          "quote": "Public URL: https://preconfs.deltadevs.xyz",
+          "official_project": true,
+          "source_url": "https://github.com/deltadevsde/zcash-preconfs/blob/25f79cc62eeb22fcbfcd02b00f9f1d39a3bcb4eb/deploy/HOSTING.md"
+        }
+      ],
+      "notified_at": "2026-11-03T10:51:44.327879+00:00",
+      "verified_fingerprint": "66b1a1f451ebb196277a8b52669cab0b0653eec9ddfc1329e5ef6ddd2ad9d6d5"
     }
   },
   "last_collect_at": "2026-11-03T10:51:26.595259+00:00",
