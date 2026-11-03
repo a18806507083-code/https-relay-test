@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T15:24:53.134Z",
+    "detected_at": "2026-11-03T15:25:25Z",
+    "display": "58807 Retroactive Grant Application - Zebra Malformed v6 Transaction Crash (GHSA-h5rr-8pqv-grp9)",
+    "key": "forum:58807",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zebra-malformed-v6-transaction-crash-ghsa-h5rr-8pqv-grp9",
+      "title": "Retroactive Grant Application - Zebra Malformed v6 Transaction Crash (GHSA-h5rr-8pqv-grp9)",
+      "topic_id": 58807
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58807,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zebra-malformed-v6-transaction-crash-ghsa-h5rr-8pqv-grp9/58807"
+  },
+  "schema": "zcash-fast-event/1"
+}
