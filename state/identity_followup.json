@@ -1040,6 +1040,31 @@
       "project": "repo:deltadevsde/zcash-preconfs",
       "all_missing": true,
       "parser_version": 3
+    },
+    "480": {
+      "project": "repo:wmrdesks/wmr-desks",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "489": {
+      "project": "repo:denis101ka/predly-tools",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "491": {
+      "project": "repo:frogeth/opentrench",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "495": {
+      "project": "repo:cansitki/vig-contracts",
+      "all_missing": false,
+      "parser_version": 3
+    },
+    "876": {
+      "project": "zcg:5494790128",
+      "all_missing": true,
+      "parser_version": 3
     }
   },
   "projects": {
@@ -1093,8 +1118,8 @@
           "url": "https://github.com/runesleo/meme-cohort-observatory/blob/ad5444fd86010fd7a4ded2f4fae663aee719703e/docs/ROBICOP_SHADOW.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:20.310780+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:10.038667+00:00",
       "repo_id": 1356051016,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1144,10 +1169,10 @@
           "url": "https://github.com/realdeanai/golden--trader/blob/cb1b89504a2bc6294da2ddcc600751de811635ef/development/wallet-monitor/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:41.500391+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:35.985168+00:00",
       "repo_id": 1356082615,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "verified_fingerprint": "5e05e3c551c4fcca49198c17c9185bd87e66d3774a4e908305dd8673fa62fdfe"
     },
     "repo:voxelithicag/mcp": {
@@ -1181,8 +1206,8 @@
           "url": "https://github.com/ReddAgentRH/redd/blob/938adaa0b90e22e8eaf1d4fab79ad32ab656f8cb/contract/script/Deploy.s.sol"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:43.176747+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:37.393570+00:00",
       "repo_id": 1356143612,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1247,8 +1272,8 @@
           "url": "https://github.com/Rizkijack/gashood/blob/853edd0a271357936dfddcd2a858dfa5969c9dd7/docs/WORKFLOW.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:21.849509+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:11.333160+00:00",
       "repo_id": 1356167900,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1326,8 +1351,8 @@
           "url": "https://github.com/travisiol/hedge/blob/3bd37a63234bcca0bb5bc56d50990857998fb187/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:23.383004+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:12.572567+00:00",
       "repo_id": 1356225163,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1454,8 +1479,8 @@
           "url": "https://github.com/snobistisch/stock-lp-radar/blob/590dc2bc4b8e98f3303c3ebece3fdea54a235f80/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:24.822757+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:13.755519+00:00",
       "repo_id": 1356269686,
       "file_cursor": 0,
       "failed_fingerprints": {
@@ -1582,10 +1607,10 @@
           "url": "https://github.com/nirholas/loxley/blob/afd42677c3333bdbb7689852872e838d732e4e89/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:44.320200+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:38.458667+00:00",
       "repo_id": 1356333517,
-      "file_cursor": 6,
+      "file_cursor": 5,
       "failed_fingerprints": {
         "4cd72aa43fb1e32ca7340d6179028e9795aab4ce5cc71f4f5409a55a839983c2": 1
       },
@@ -1626,8 +1651,8 @@
           "url": "https://github.com/vern-sh/vernagent/blob/95d5ffff949efa04c76065d5d8241ccf3fdb4a86/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:45.329494+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:39.564427+00:00",
       "repo_id": 1356364734,
       "file_cursor": 0,
       "claims": [],
@@ -1691,10 +1716,10 @@
           "url": "https://github.com/Ali213112/Agentic-on-bot-chain-/blob/dc6f15d0a837849cd10e16db657132fdf912e57c/src/lib/deployed.ts"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:46.465657+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:40.796910+00:00",
       "repo_id": 1356397498,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "claims": [],
       "claims_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83",
       "verified_fingerprint": "77aab32a4e704f03152e24f54491a5f1b87bbf1c936d0de86afba4541f37cd83"
@@ -1719,8 +1744,8 @@
           "url": "https://github.com/QorbQuant/fomo-robinhood-copy/blob/c4ef852b5483af691df5411fc01c03a1899272b6/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:47.614699+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:41.912231+00:00",
       "repo_id": 1356394695,
       "file_cursor": 0,
       "claims": [],
@@ -1842,10 +1867,10 @@
           "url": "https://github.com/heirlabs/famcash-contracts/blob/052b8c4ce6aa6f455d8ad155f4ae4fa1734c4427/scripts/deploy-mock-tokens.js"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:48.736602+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:43.088934+00:00",
       "repo_id": 1356497199,
-      "file_cursor": 0,
+      "file_cursor": 2,
       "claims": [
         {
           "kind": "website",
@@ -2002,8 +2027,8 @@
           "url": "https://github.com/ClankRace/clankrace-v4/blob/4615160fcf6ad4afa7109f1d7d216a54a05f1b14/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:49.987469+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:44.296670+00:00",
       "repo_id": 1356715579,
       "file_cursor": 0,
       "claims": [],
@@ -2135,10 +2160,10 @@
           "url": "https://github.com/MeiYanDong/robinhood-pair-grid/blob/73db09b73dcfc67b04b87033f2240104174df87c/docs/adr/0008-hard-floor-and-rpc-consensus.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:51.017137+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:45.320326+00:00",
       "repo_id": 1356750466,
-      "file_cursor": 8,
+      "file_cursor": 4,
       "claims": [],
       "claims_fingerprint": "6c4681884806c00a83adc613be54db3ebebc5141555aac80922c5fb8353b1641",
       "verified_fingerprint": "6c4681884806c00a83adc613be54db3ebebc5141555aac80922c5fb8353b1641"
@@ -2259,8 +2284,8 @@
           "url": "https://github.com/nirholas/sherwood/blob/2dbd22d6a8e0f78ba2f83a589733a67ffbca5acd/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:52.103628+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:46.536120+00:00",
       "repo_id": 1356845105,
       "file_cursor": 0,
       "claims": [],
@@ -2297,8 +2322,8 @@
           "url": "https://github.com/kealabama/midcap-random-index/blob/8bc8400cd23c3f0907d8f07deccc39b230bf1728/docs/VERIFIER.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:53.237191+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:47.596340+00:00",
       "repo_id": 1356858272,
       "file_cursor": 0,
       "claims": [],
@@ -2330,8 +2355,8 @@
           "url": "https://github.com/MonkiiLabs/MonkiiLabsApp/blob/84d035308c0053798992b803a710ba528a4ca385/contracts/deployed_address.json"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:54.499341+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:48.702175+00:00",
       "repo_id": 1356847100,
       "file_cursor": 0,
       "claims": [],
@@ -2440,8 +2465,8 @@
           "url": "https://github.com/FLock-io/flock-v4-hook/blob/b8098bd9ad58b776c7c92839a0980a222a4c2a06/script/testing/00_DeployV4.s.sol"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:55.743393+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:49.830482+00:00",
       "repo_id": 1356947738,
       "file_cursor": 0,
       "claims": [],
@@ -2519,8 +2544,8 @@
           "url": "https://github.com/yafieae/morpho-toolkit/blob/0260e804d65da84d15bb13df88fd42e1216594da/tools/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:56.816078+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:50.924435+00:00",
       "repo_id": 1356964162,
       "file_cursor": 0,
       "claims": [],
@@ -2553,8 +2578,8 @@
           "url": "https://github.com/thesoloycoder/OmniLauncher/blob/7984ba04eb4451dae3205ddc15eda8ba0edd5a51/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:30.473627+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:24.334956+00:00",
       "repo_id": 1357020146,
       "file_cursor": 0,
       "claims": [],
@@ -2744,8 +2769,8 @@
           "url": "https://github.com/bruisedhacksa/pulse/blob/9ffb7047778ddb030c832826f95c309389c68cb6/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:58.797760+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:52.026655+00:00",
       "repo_id": 1357231201,
       "file_cursor": 0,
       "claims": [],
@@ -2767,8 +2792,8 @@
           "url": "https://github.com/florityswap/meridian-robinhood/blob/cb7d1b04ad8ed9456dcf25971592dc13f125cdda/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:00.078107+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:53.071749+00:00",
       "repo_id": 1357293588,
       "file_cursor": 0
     },
@@ -2792,8 +2817,8 @@
           "url": "https://github.com/florityswap/unicrit/blob/7eb691e95684bdcd10ba4b5b426ec32f0adf78f0/scripts/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:01.247588+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:54.123995+00:00",
       "repo_id": 1357293353,
       "file_cursor": 0,
       "claims": [],
@@ -2887,10 +2912,10 @@
           "url": "https://github.com/arcafi/arca/blob/2f6091f6e5ba25ae78c8933acdbed64b265d7755/web/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:02.280342+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:55.394138+00:00",
       "repo_id": 1357452361,
-      "file_cursor": 2,
+      "file_cursor": 6,
       "claims": [
         {
           "kind": "x",
@@ -2957,10 +2982,10 @@
           "url": "https://github.com/memeticstate/ms-v1/blob/7e8e071b0a52e6229ca6efa4ae480d3c7497bd2e/docs/mvp-architecture.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:03.493541+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:56.576383+00:00",
       "repo_id": 1357414038,
-      "file_cursor": 4
+      "file_cursor": 6
     },
     "repo:shellr-packs/shellr-web": {
       "source": "repo",
@@ -3035,8 +3060,8 @@
           "url": "https://github.com/Nar-123/lpbot-new/blob/bdf13f4e573ba6d1d4c700776bdf00a3ee5b3c60/scripts/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:04.627500+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:57.862517+00:00",
       "repo_id": 1357484187,
       "file_cursor": 0,
       "claims": [],
@@ -3123,8 +3148,8 @@
           "url": "https://github.com/galaxydestroyer0000/button/blob/b9c73bfcdd110dd88bee175a254a142cf3880181/docs/superpowers/specs/2026-09-03-frontend-rebuild-design.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:05.921394+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:59.093359+00:00",
       "repo_id": 1357556366,
       "file_cursor": 0,
       "claims": [],
@@ -3146,8 +3171,8 @@
           "url": "https://github.com/TICKRMARKETS/tickr-markets/blob/2975a167061cc90a19ac92bb21d6e3a1f1864f57/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:07.248322+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:00.191360+00:00",
       "repo_id": 1357604173,
       "file_cursor": 0,
       "claims": [],
@@ -3204,10 +3229,10 @@
           "url": "https://github.com/novenrizkia856-ui/Roxy-contract/blob/f78052bf2dc56f335f4e9cd53880baab9eeebfc8/script/DeployTestnet.s.sol"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:09.224728+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:01.597163+00:00",
       "repo_id": 1357694785,
-      "file_cursor": 2,
+      "file_cursor": 6,
       "claims": [],
       "claims_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675",
       "verified_fingerprint": "786a3f98a408949009e569d1f94e0272f165cd9baed1b8f5e2c112639f6f1675"
@@ -3237,8 +3262,8 @@
           "url": "https://github.com/xlabsg/fomo-copy-bot/blob/837b5c8fe49395ac8348ecb8a60e39e4394f0e53/paper-instance/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:10.728095+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:02.627124+00:00",
       "repo_id": 1357743987,
       "file_cursor": 0,
       "claims": [],
@@ -3315,10 +3340,10 @@
           "url": "https://github.com/basisinvestments/basis/blob/f83e52be9d35b0cf0e11885fa90c79ee9df5f741/docs/use-cases.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:12.261255+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:03.632409+00:00",
       "repo_id": 1357917659,
-      "file_cursor": 7,
+      "file_cursor": 3,
       "claims": [
         {
           "kind": "website",
@@ -3345,8 +3370,8 @@
           "url": "https://github.com/cocainebit/float-docs/blob/4717d162ad8d98bcb381e3e9df398d96d4e9fdee/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:13.764394+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:04.897713+00:00",
       "repo_id": 1357819964,
       "file_cursor": 0,
       "claims": [],
@@ -3423,8 +3448,8 @@
           "url": "https://github.com/cony-horizon/rhbot/blob/ec827ebc1598867b94b472a3af8b6a03070b60f8/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:15.187831+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:06.064342+00:00",
       "repo_id": 1358070563,
       "file_cursor": 0,
       "claims": [],
@@ -3489,8 +3514,8 @@
       "registered_at": "2026-09-06T10:22:46.608671+00:00",
       "first_report_sha256": "8fcc2582361e9d54505aa2746ea0af6480e2d422b38b44c57b674234b3e58207",
       "files": {},
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:17.048129+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:07.294060+00:00",
       "linked_repositories": {}
     },
     "repo:aomi-labs/hoodit-apps": {
@@ -3743,8 +3768,8 @@
           "url": "https://github.com/efsanedizzy/wick5market/blob/51f7dffcd4b6de64a2df41f35e96121e90bdc97b/DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:17.256976+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:07.733944+00:00",
       "repo_id": 1358518390,
       "file_cursor": 0,
       "claims": [
@@ -3904,10 +3929,10 @@
           "url": "https://github.com/ztsalexey/wallet-privacy-testkit/blob/8f96593a6fcda9892f1f508cb8d854e7b4a47d3a/src/wallet_privacy_testkit/example/privacy-manifest.json"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:31.949187+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:25.559488+00:00",
       "repo_id": 1358522089,
-      "file_cursor": 18,
+      "file_cursor": 12,
       "claims": [],
       "claims_fingerprint": "01fbc5310d0d249f85327f5735ff973cce60e3a089e43db3ae12c9e56552b20c",
       "verified_fingerprint": "01fbc5310d0d249f85327f5735ff973cce60e3a089e43db3ae12c9e56552b20c"
@@ -3983,8 +4008,8 @@
           "url": "https://github.com/zodlprotocol/zodl/blob/6b092250daf1d6f5848c872768b2499f22789f66/site/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:51:18.781652+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:27:08.851478+00:00",
       "repo_id": 1358614318,
       "file_cursor": 0,
       "claims": [],
@@ -4028,8 +4053,8 @@
           "url": "https://github.com/Auditchain/audt-supply/blob/1524d5877b67a34be93ed2af8ba1e3da21c89d77/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:40.476596+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:34.925357+00:00",
       "repo_id": 1358626962,
       "file_cursor": 0,
       "claims": [],
@@ -4258,10 +4283,10 @@
           "url": "https://github.com/boyfromcave/ycash-dd/blob/a83c3e050de9977b3b446ce7e754b1155e6ee401/contrib/bootstrap/testdata/testnet-prefix-v1/manifest.json"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:33.204662+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:26.629533+00:00",
       "repo_id": 1358682417,
-      "file_cursor": 25,
+      "file_cursor": 7,
       "claims": [],
       "claims_fingerprint": "4a564e88d342043c47879cb71bc69b16ee10c0746ee5c02b75493f201543fed6",
       "verified_fingerprint": "4a564e88d342043c47879cb71bc69b16ee10c0746ee5c02b75493f201543fed6"
@@ -4607,8 +4632,8 @@
           "url": "https://github.com/Harkor421/costco-back/blob/e718643f14e8daa323a584d32fa8df0c89a9ba27/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:35.040380+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:28.128362+00:00",
       "repo_id": 1358634709,
       "file_cursor": 0,
       "claims": [],
@@ -4635,8 +4660,8 @@
           "url": "https://github.com/kiattisakph/robinhood-wallet-alert-bot/blob/91dae85e2cd97fa67b12db1ef1177b96ce367ecb/docs/robinhood_realtime_telegram_bot_cursor_spec.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:36.997375+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:31.177315+00:00",
       "repo_id": 1358885217,
       "file_cursor": 0,
       "claims": [],
@@ -4717,8 +4742,8 @@
           "url": "https://github.com/33hodl/rh-chain-wallet-lens/blob/00fcbfd2a072ad4f7c0ac709912b68184ff8d0e9/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:38.215645+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:32.440597+00:00",
       "repo_id": 1358940529,
       "file_cursor": 0,
       "claims": [],
@@ -4767,8 +4792,8 @@
           "url": "https://github.com/seanbc618-tech/robinhood-meme-bot/blob/b1d2cd19347d4eadf1a5c900d7a22be46b69bf4a/tasks/VPS_FX_WATCH_DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:39.238382+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:33.719602+00:00",
       "repo_id": 1358970900,
       "file_cursor": 0,
       "claims": [],
@@ -5020,10 +5045,10 @@
           "url": "https://github.com/0xRadikal/pons-launchpad-forensics/blob/7dfb7d97c9e4409161308279599f6ed9893c8d23/docs/SERIAL_LAUNCHING.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:29.331483+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:23.140880+00:00",
       "repo_id": 1359317759,
-      "file_cursor": 3,
+      "file_cursor": 0,
       "claims": [],
       "claims_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d",
       "verified_fingerprint": "e7655c1a8a00b7f87049c44385275a4135d33c917276beefd4026c20f30d814d"
@@ -5065,8 +5090,8 @@
           "url": "https://github.com/idotmy/IDEX-Contracts/blob/ba7e0453b1c679418a8836d5598b10cd652dc5c6/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:28.176204+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:21.132650+00:00",
       "repo_id": 1359388343,
       "file_cursor": 0,
       "claims": [],
@@ -5456,10 +5481,10 @@
           "url": "https://github.com/SRHSoulja/robinhood-chain-tools/blob/0261ebb47a36baf9a70e87dbb877f9dbdccb0e71/docs/credit-budget.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:26.823637+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:19.955658+00:00",
       "repo_id": 1359490952,
-      "file_cursor": 17,
+      "file_cursor": 35,
       "claims": [
         {
           "kind": "website",
@@ -5544,10 +5569,10 @@
           "url": "https://github.com/andperez123/ball-robinhood/blob/e37d7aa713b95530bdbb28a2a2a15d97c3b23ebc/docs/ORACLE.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:25.598601+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:18.836696+00:00",
       "repo_id": 1359613654,
-      "file_cursor": 1,
+      "file_cursor": 4,
       "claims": [],
       "claims_fingerprint": "27397bf52428f27403422a03ee7e1d993854cb80cc38a351d394e639c86e15f0",
       "verified_fingerprint": "27397bf52428f27403422a03ee7e1d993854cb80cc38a351d394e639c86e15f0"
@@ -5642,10 +5667,10 @@
           "url": "https://github.com/abysshopper/black-market-node-sdk/blob/1ef46f968ce6fb6f6041075575824a593a13a952/src/lifecycle/deployments/raeto-fixed-pool-v1-20261029.ts"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:22.783672+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:16.544471+00:00",
       "repo_id": 1359686762,
-      "file_cursor": 8,
+      "file_cursor": 11,
       "claims": [],
       "claims_fingerprint": "fba05eb4ee9528313def90ddee987f20ce2894153bc21c9d46fe7876f2a873fc",
       "verified_fingerprint": "fba05eb4ee9528313def90ddee987f20ce2894153bc21c9d46fe7876f2a873fc"
@@ -5681,8 +5706,8 @@
           "url": "https://github.com/perfectingcodes/perfectingbot/blob/1b1d9454657762521556f2b1e8630a24395ffa10/public/assets/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:24.193622+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:17.681758+00:00",
       "repo_id": 1359590900,
       "file_cursor": 0,
       "claims": [],
@@ -5985,10 +6010,10 @@
           "url": "https://github.com/solonlend/leverage/blob/b59c323fa71514c37b246f4d3380e3cbc387a093/src/range/RangeDeployers.sol"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:21.656630+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:15.294720+00:00",
       "repo_id": 1359602220,
-      "file_cursor": 40,
+      "file_cursor": 3,
       "claims": [
         {
           "kind": "website",
@@ -6141,10 +6166,10 @@
           "url": "https://github.com/nirholas/techdollar/blob/e12159c582d25e7ec2ee05849bead2ca1b028ee2/packages/sdk/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:20.273942+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:14.132335+00:00",
       "repo_id": 1360686266,
-      "file_cursor": 6,
+      "file_cursor": 11,
       "claims": [],
       "claims_fingerprint": "e7768ca9d88e00b4af7e7da8580c135adbbdcedbe7fea4d522afa5b7258df504",
       "verified_fingerprint": "e7768ca9d88e00b4af7e7da8580c135adbbdcedbe7fea4d522afa5b7258df504"
@@ -6424,10 +6449,10 @@
           "url": "https://github.com/whatnotbot/zalkanes/blob/2243878f5f97e75a23c49b26c3280d63c7e66a22/fuzz/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:18.451940+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:12.860781+00:00",
       "repo_id": 1363625593,
-      "file_cursor": 35,
+      "file_cursor": 12,
       "claims": [],
       "claims_fingerprint": "1321517eded0714e3b5b597f5edd70b8b409a1ea4f946e47282961bcc4e37ebb",
       "verified_fingerprint": "1321517eded0714e3b5b597f5edd70b8b409a1ea4f946e47282961bcc4e37ebb"
@@ -6473,10 +6498,10 @@
           "url": "https://github.com/Nar-123/lunex-bot/blob/cde2ba8a2a3393dfedf795a8f571b174e337380d/ops/lunex-ai/DEPLOYMENT.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:16.897892+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:11.566747+00:00",
       "repo_id": 1360905998,
-      "file_cursor": 2,
+      "file_cursor": 0,
       "claims": [],
       "claims_fingerprint": "5d5c6abf21809c5e4635e6cd2e798e8af64861359f508a4845b308482ff0072c",
       "verified_fingerprint": "5d5c6abf21809c5e4635e6cd2e798e8af64861359f508a4845b308482ff0072c"
@@ -6606,8 +6631,8 @@
           "url": "https://github.com/rohitchangediya/robinhood-bot/blob/30811cbbf17efb8e503a69e7c47a51d51dd2f0c5/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:15.236501+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:10.301550+00:00",
       "repo_id": 1361573981,
       "file_cursor": 0,
       "claims": [],
@@ -6662,8 +6687,8 @@
           "url": "https://github.com/plutos-eth/banana/blob/1e25c43df91cfc5dd601d60429744c6759426e99/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:13.765415+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:09.053545+00:00",
       "repo_id": 1361740810,
       "file_cursor": 0,
       "claims": [],
@@ -6784,8 +6809,8 @@
           "url": "https://github.com/Foreveranka/real-stock/blob/e8a2ac80c4613eebf5896c9bdc21621b850e0ac3/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:09.414434+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:06.568231+00:00",
       "repo_id": 1361991645,
       "file_cursor": 0,
       "claims": [],
@@ -6807,8 +6832,8 @@
           "url": "https://github.com/S1nus/tachyscan/blob/77d4252b1ec47f4f22fad88bac7a96a821cc27e8/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:10.825793+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:07.763628+00:00",
       "repo_id": 1370192994,
       "file_cursor": 0,
       "claims": [],
@@ -6873,8 +6898,8 @@
           "url": "https://github.com/BitBanknz/bitbankrobinhood/blob/961b137133bc91e2e849bcdb6146e19694598246/docs/validation.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:05.648810+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:03.650705+00:00",
       "repo_id": 1362351387,
       "file_cursor": 0,
       "claims": [],
@@ -6971,10 +6996,10 @@
           "url": "https://github.com/PegasusMalar/threshold-vrf-bn254/blob/d19b3c64246d4ba8ad938e00d02bf2532840b6d1/docs/operator.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:50:07.298846+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:26:04.875832+00:00",
       "repo_id": 1362678022,
-      "file_cursor": 0,
+      "file_cursor": 3,
       "claims": [],
       "claims_fingerprint": "60176c25fbf993a26bf9e2a35729f5b13eac57e895897b845c8205ab9047e49c",
       "verified_fingerprint": "60176c25fbf993a26bf9e2a35729f5b13eac57e895897b845c8205ab9047e49c"
@@ -7484,12 +7509,92 @@
           "sha": "2dc70203d6c655356cd00720c5d514dbacce3db4",
           "text": "",
           "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/docs/adr/0572-wallet-transport-dialer-tor-owns-each-tor-clients-runtime-and-its-bounded-shutdown.md"
+        },
+        "docs/adr/0573-wallet-sync-a-rewind-moves-a-completion-height-only-within-the-reorg-budget.md": {
+          "sha": "9fdf79a78d1e9205148b1f80e356ec8ad97be07f",
+          "text": "",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/docs/adr/0573-wallet-sync-a-rewind-moves-a-completion-height-only-within-the-reorg-budget.md"
+        },
+        "docs/adr/0579-wallet-nu7-crate-wave-and-the-mainnet-height.md": {
+          "sha": "183e17e2ad6aebfde5293cd4eab10a3b3671dffe",
+          "text": "    item 2 (`:1344-1347`). **Rules:** the project's cryptography rules (audited\n    libraries used whole, no custom cryptography, a generator from the operating system).\n  - **ZIPs:** ZIP 259 (https://zips.z.cash/zip-0259), ZIP 218\n    (https://zips.z.cash/zip-0218), ZIP 2003 (https://zips.z.cash/zip-2003).\n  - **Upstream:** librustzcash #3171 and #3161, zips #1405, zebra #11830 (URLs in S0\n    and S4).\n\nNU7 activates on mainnet on 2026-11-05 (S0,\nhttps://forum.zcashcommunity.com/t/nu7-timeline/57655). It has been active on testnet\nsince 2026-10-06 at 4,465,026, under consensus branch `0x77190AD9` (ZIP 259, S0). It\nadds no transaction format and no pool. Version 4 transactions become invalid,\nThe **live** pin set is `sdk/Cargo.toml` as `pins_policy` holds it; this table is the\n**record** at acceptance. The versions are S1.1's and S6's, each re-read from the\ncrates.io versions API for existence, yank status and `created_at` before it is\nwritten (`docs/plan/nu7-wave.md` §3 step 1).\n\n    step 7.\n\n**7. Pre-release crates are never published to pub.dev (ruled by the founder,\n2026-10-21).**\n\nThe published package carries `sdk/Cargo.lock` verbatim (`scripts/release/stage-pub.py:14`,\n`:235`; `docs/handoff/release-checklist.md:100-110`), so publishing would put the locked\npre-releases in every pub.dev host. NU7 is published only on the final crates. Relim's\ntesters are not governed by this rule, because their build follows the working tree\n(Decision 5).\n  after the activation, payments would show as sending and never arrive (Decision 5's\n  table).\n- **Publish the pre-release crates to pub.dev** (in a 0.0.3 or later). Not chosen\n  (Decision 7): for a mainnet host after the activation they buy little that 0.0.2\n  lacks, and a yank upstream would turn our own audit gate red (`sdk/deny.toml:30`,",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/docs/adr/0579-wallet-nu7-crate-wave-and-the-mainnet-height.md"
+        },
+        "docs/adr/0580-wallet-send-pauses-in-the-last-twenty-blocks-before-a-network-upgrade.md": {
+          "sha": "60c9293da33bac4933ad937aee8c8d283dc984f7",
+          "text": "    `sdk/zec-wallet-core/src/wallet.rs` (`refuse_if_upgrade_imminent` and its callers),\n    `sdk/zec-wallet-core/src/constants.rs` (`PROPOSAL_ANCHOR_DRIFT_MAX_BLOCKS`).\n  - **ZIPs:** ZIP 259 (https://zips.z.cash/zip-0259), ZIP 318\n    (https://zips.z.cash/zip-0318).\n\n## Context",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/docs/adr/0580-wallet-send-pauses-in-the-last-twenty-blocks-before-a-network-upgrade.md"
+        },
+        "docs/feature-requests.md": {
+          "sha": "59397bbbfc58b68b8ab6e2acefbcc4447c7af8e8",
+          "text": "",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/docs/feature-requests.md"
+        },
+        "docs/specs/app-frame.md": {
+          "sha": "5da9a57ed876066cdcc9a6dd31bcbee77a64c6a3",
+          "text": "| A7 | **ZEC amount formatting** — amounts cross the bridge as `int` zatoshis; the single zat→display conversion and locale treatment (decimal-comma locales, copy-paste safety, significant figures) must be ONE shared helper decided before the first wallet screen, never per-screen `'${zat / 1e8}'` | with first wallet-screen chunk |\n| A8 | **Screen-content protection** — wallet screens (balance, receive address, tx detail) must not appear in the Android recents thumbnail / iOS app-switcher snapshot: decide `FLAG_SECURE` whole-Activity vs per-route + the iOS background-blur pattern. Must land WITH the first wallet screen — shipping without it is itself a decision and needs sign-off. **Desktop honesty (S6):** there is no FLAG_SECURE equivalent; partial analogues exist (macOS `NSWindow.sharingType = .none`, Windows `SetWindowDisplayAffinity(WDA_EXCLUDEFROMCAPTURE)`), X11 Linux has **none** — the A8 decision must state per-OS what is and isn't protected, never imply desktop parity | with first wallet-screen chunk |\n| A9 | **macOS App Sandbox network entitlement (S6 finding):** `Release.entitlements` AND `DebugProfile.entitlements` in `app/relim-flutter/macos/` and `sdk/zec_wallet/example/macos/` carry no `com.apple.security.network.client` (template default; debug's `network.server` covers incoming only) — every OUTGOING connection fails closed in a sandboxed macOS build. Deliberately NOT granted while the frame has zero network I/O (least privilege); MUST be added, with a WHY comment, in the same change as the first networked chunk (wallet sync / swap / relay) or that chunk ships desktop-dead silently. **Binds BOTH targets** — the app AND the SDK example harness (`sdk/zec_wallet/example/macos/`, which is where desktop swap/sync E2E first runs; without it the first desktop swap E2E strands mid-flow and reads as an engine bug, not a sandbox one). **Error-classification note (S6 second review):** sandbox denial of outbound TCP surfaces as an immediate `EPERM`-class error, NOT a timeout — the networked chunk's connection-error handler must classify it separately from transient network failures (it is \"never going to work without an entitlement\", not \"retry with backoff\"), or sandboxed builds spin retries forever while looking like an unstable network | with first networked chunk |",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/docs/specs/app-frame.md"
+        },
+        "docs/specs/sync-server-picker.md": {
+          "sha": "36f8132882bc3fd0fcd96b08d1957876ece67a79",
+          "text": "|---|---|---|---|\n| A1 | `wallet-sdk.md` §2.3 `WalletConfig` | `endpoint` is ONE required string; no list, no choice | Adds `sync_servers: Vec<SyncServer>` (the OFFERED list, may be empty). `endpoint` stays REQUIRED and becomes the DEFAULT — what a wallet with no choice uses, and what a choice that can no longer be honoured falls back to. §2.3 gets a two-line patch pointing here; the field list there is otherwise unchanged |\n| A2 | `wallet-sdk.md` §3.1 `open` | \"`NetworkMismatch` if `cfg.network` disagrees with the stored manifest\" — the endpoint is whatever the config says | A persisted choice WINS over `cfg.endpoint` at open (§1.2 D2). §3.1 gets one sentence and a pointer |\n| A3 | `wallet_en.arb` `@walletStallEndpoint` description | \"the server is not user-switchable yet, so it must not promise a switch\" | The premise is retired. The COPY does not change (a refused dial still cannot say whose fault it is); the description's parenthetical is rewritten to name the picker and keep the hedge for its real reason |\n| A4 | phase-1 §4s \"Out until contracted: custom URLs typed by the user\" | written before ruling 1 | Superseded by ruling 1 in the same section; this spec is the contract. No edit to §4s (it is the record) |\n| A5 | the project's private operations notes (not in the repository) | \"`LightServerEndpoint` is a single host-supplied URL\" | Stale once this ships; the notes are the founder's, noted in the start-here, not edited by this spec |\nhost extends with servers of its own.\n*Rejected:* (a) a constant table inside the SDK with the key baked in — the\nSDK publishes to pub.dev, and a key in package source is public on pub.dev,\nwhich is worse than \"extractable from an APK\" (ruling 2 accepted the latter,\nnot the former); (b) the host owns everything and re-provisions with a new\n| network | entries |\n|---|---|\n| Main | `zec-rocks` — \"zec.rocks\" — `https://zec.rocks:443`, no auth |\n| Test | `zec-rocks-testnet` — \"zec.rocks (testnet)\" — `https://testnet.zec.rocks:443`, no auth |\n\nA host that offers servers of its own — gated or not — appends them:\n  offered entries as radio rows (label + host; the current one marked \"In\n  use\"); \"App default\" as a row when the default is not among them; \"Custom\n  server…\" expanding a URL field (`https://host:port` hint, inline validation\n  through `validateWalletConfig`'s endpoint rule — the SDK's, not a Dart\n  regex), a \"Check server\" action, then \"Use this server\". *ADR-0568:* under the\n`walletSyncServerInUse` \"In use\" · `walletSyncServerAppDefault` \"App default\" ·\n`walletSyncServerCustom` \"Custom server…\" · `walletSyncServerCustomHint`\n\"https://host:port\" · `walletSyncServerCheck` \"Check server\" ·\n`walletSyncServerUse` \"Use this server\" · `walletSyncServerChecking`\n\"Checking…\" · `walletSyncServerSwitching` \"Switching…\" ·\nreader who typed one · `walletSyncServerWrongNetwork` \"This server is on a\ndifferent Zcash network.\" · `walletSyncServerInvalidUrl` \"That doesn't look like a server address. Use\nhttps://host:port.\" — ONE key for every door reason (amended at the build:\nper-reason keys would have meant matching the SDK's reason string across the\nFFI, the gotcha the bridge rules forbid; the reason is never echoed) ·",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/docs/specs/sync-server-picker.md"
+        },
+        "zec-wallet-core/fuzz/README.md": {
+          "sha": "36afe73ae34b1b70766e32ae445c13e6383ff73c",
+          "text": "",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/zec-wallet-core/fuzz/README.md"
+        },
+        "zec-wallet-swap-near/fuzz/README.md": {
+          "sha": "d9e05fa0926272ed14c6001eece22a594c4300b5",
+          "text": "",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/zec-wallet-swap-near/fuzz/README.md"
+        },
+        "zec_wallet/README.md": {
+          "sha": "95fec1b4464fc5d5f11a5e29a293f9a7931af7bc",
+          "text": "\n`zec_wallet_ui` and `zec_wallet_ui_platform` did not change in this release,\nso their own pub.dev pages still show older lines: use the ones above. The\n[changelog](CHANGELOG.md) has the steps. From 0.0.4 or earlier, follow its\n0.0.5 steps: that release changed the API and migrates the database one way.\n\n- **`zec_wallet`** (this package): the SDK. Build your own screens on its API.\n- **[`zec_wallet_ui`](https://pub.dev/packages/zec_wallet_ui)** (optional): a\n  complete drop-in wallet UI, from onboarding and backup to send, receive,\n  history, shielding and swaps, styled by your theme, in 16 languages.\n- **[`zec_wallet_ui_platform`](https://pub.dev/packages/zec_wallet_ui_platform)**\n  (optional): native screen protection for that UI (Android screenshot\n  blocking, the iOS app-switcher cover and backup exclusion).\n- **[`zec_wallet_tor`](https://pub.dev/packages/zec_wallet_tor)** (optional):\n  routes the wallet's traffic through Tor. An app that doesn't add it carries\n  no Tor code.\n| `endpointUrl` | `String` | lightwalletd/Zaino gRPC endpoint. `https` everywhere; `http` only to loopback; userinfo (`user:pass@`) rejected. **The SDK never picks a server**: the host states it. |\n| `endpointAuthHeader`, `endpointAuthValue` | `String?` | *Optional.* One request header sent to the endpoint (e.g. an API key); both or neither. **Use one key for every install:** a per-user key re-links each broadcast to the wallet that synced, defeating the fresh circuit per send, so it becomes a tracking identifier. A key shipped in an app can be extracted from the binary: it is abuse control, not access control. |\n| `syncServers` | `List<SyncServer>?` | *Optional.* The servers a user may switch between; `endpointUrl` stays the default. `referenceSyncServers` gives the public ones; append your own: `[...referenceSyncServers(network: n), SyncServer(id: 'mine', label: 'My server', url: 'https://…', authHeader: 'x-api-key', authValue: key)]`. The package ships no key. A gated entry's `authValue` follows the `endpointAuthValue` rule: one key for every install, from a `--dart-define`, never a committed file. A user can add their own server with a key in the picker (`SyncServerChoice.custom(url:, key:)`). |\n| `tor` | `TorPolicy` | `off` / `preferred { runtime }` / `required { runtime }` (fail-closed). The one Dart-expressible `runtime` is `TorRuntimeConfig.hostDialer()`, the dialer your native code registered (see **Host transport** below). `externalSocks5 { addr }` is refused at the config door (the SDK opens no loopback proxy). Nothing Tor-related is compiled into this package; an app without its own transport adds the optional `zec_wallet_tor` package. |\n| `seedPersistence` | `SeedPersistence` | `sealedKeychain` (seal seed + mnemonic under a keychain-held key; enables `revealMnemonic`) or `none` (nothing persisted; the host re-supplies the seed each launch). |\n\n**Reference defaults** (what the in-repo example app ships; the SDK itself\nrequires the host to choose): `endpointUrl: https://zec.rocks` (mainnet, the\npublic endpoint Zashi/Zodl uses), `tor: off` (direct), `seedPersistence:\nsealedKeychain`, `birthdayHeight: null` on create.\n\nIf your app has no transport of its own, add\n[`zec_wallet_tor`](https://pub.dev/packages/zec_wallet_tor): a second,\noptional Flutter package that bundles a Tor client (the arti-based\n[`dialer-tor`](https://crates.io/crates/dialer-tor) crate) in its own native\nlibrary and, at its init, registers itself with the wallet through exactly\nthe contract above: a descriptor named \"Tor\", readiness that follows the Tor\n  cannot take funds. Until this is fixed, the SDK is not ready to hold large\n  amounts; use it with small amounts and a light server you trust.\n  [Issue #1](https://github.com/alvorado-lab/zec-wallet/issues/1) tracks it.\n\n## Building\nMIT; see `LICENSE`.\n\n[librustzcash]: https://github.com/zcash/librustzcash\n[flutter_rust_bridge]: https://pub.dev/packages/flutter_rust_bridge\n[Cargokit]: https://github.com/irondash/cargokit",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/zec_wallet/README.md"
+        },
+        "zec_wallet/cargokit/build_tool/README.md": {
+          "sha": "a878c27964c5f4e9c138dbac3b8653228b5714dd",
+          "text": "/// This is copied from Cargokit (which is the official way to use it currently)\n/// Details: https://fzyzcjy.github.io/flutter_rust_bridge/manual/integrate/builtin\n\nA sample command-line application with an entrypoint in `bin/`, library code",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/zec_wallet/cargokit/build_tool/README.md"
+        },
+        "zec_wallet/example/README.md": {
+          "sha": "a9c9a321dc867c211d844bd340a9fb2ffcd3f15d",
+          "text": "## Learn more\n\nSee the parent package's [README](https://github.com/alvorado-lab/zec-wallet/blob/main/zec_wallet/README.md) for the SDK API surface and\nthe keys-in-Rust design.",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/zec_wallet/example/README.md"
+        },
+        "zec_wallet/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md": {
+          "sha": "89c2725b70f1882be97f5214fafe22d27a0ec01e",
+          "text": "",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/zec_wallet/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md"
+        },
+        "zec_wallet_tor/README.md": {
+          "sha": "ecec0b921541aef6d755c95f03dc6e82d6b775d5",
+          "text": "\nRoute your Zcash wallet's traffic through Tor. Add this package next to\n[`zec_wallet`](https://pub.dev/packages/zec_wallet), start it at boot, set\nthe wallet's Tor policy, and the wallet's server sees a Tor exit instead of\nyour user's IP address.\n\nHow it works: the package bundles an arti-based Tor client (the Rust\n[`dialer-tor`](https://crates.io/crates/dialer-tor) crate) in its own native\nlibrary. `ZecWalletTor.init` registers it with the wallet through the\nwallet's host-dialer contract, the same contract a host uses to plug in a\nits UI shows the transport as \"Tor\" with the state the plugin reports.\n\nPart of the `zec_wallet` family: [`zec_wallet`](https://pub.dev/packages/zec_wallet)\n(the SDK), [`zec_wallet_ui`](https://pub.dev/packages/zec_wallet_ui) (an\noptional drop-in wallet UI),\n[`zec_wallet_ui_platform`](https://pub.dev/packages/zec_wallet_ui_platform)\n(optional native screen protection for that UI), and this package.\n\nMIT; see `LICENSE`. The Rust crate under `rust/` is MIT too.\n\n[Cargokit]: https://github.com/irondash/cargokit",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/zec_wallet_tor/README.md"
+        },
+        "zec_wallet_tor/cargokit/build_tool/README.md": {
+          "sha": "a878c27964c5f4e9c138dbac3b8653228b5714dd",
+          "text": "/// This is copied from Cargokit (which is the official way to use it currently)\n/// Details: https://fzyzcjy.github.io/flutter_rust_bridge/manual/integrate/builtin\n\nA sample command-line application with an entrypoint in `bin/`, library code",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/zec_wallet_tor/cargokit/build_tool/README.md"
+        },
+        "zec_wallet_ui/README.md": {
+          "sha": "f688be5a0fdc2e0bb942a3ddf96a0d21fcd37320",
+          "text": "\n`zec_wallet_ui_platform` and `zec_wallet_tor` did not change in this release,\nso their own pub.dev pages still show older `zec_wallet_ui` and `zec_wallet`\nlines: use the ones above. The upgrade steps are in\n[`zec_wallet`'s changelog](https://pub.dev/packages/zec_wallet/changelog).\n\nA complete shielded Zcash wallet for your Flutter app, as screens you drop\n\nIt is optional: build your own screens on\n[`zec_wallet`](https://pub.dev/packages/zec_wallet) instead if you prefer. The\nUI holds no keys and no wallet logic of its own; everything goes through the\nSDK, whose Rust core keeps the seed and spending keys out of Dart.\n\nPart of the `zec_wallet` family: [`zec_wallet`](https://pub.dev/packages/zec_wallet)\n(the SDK), this package,\n[`zec_wallet_ui_platform`](https://pub.dev/packages/zec_wallet_ui_platform)\n(optional native screen protection for these screens), and\n[`zec_wallet_tor`](https://pub.dev/packages/zec_wallet_tor) (optional Tor).\n\n**Status: pre-release, not yet independently audited.** It moves real\n     dbDir: myDbDir,                       // your resolved path\n     network: Network.main,\n     endpointUrl: 'https://your-lightwalletd',\n     tor: TorPolicy.required_(runtime: myTorRuntimeConfig),\n     seedPersistence: SeedPersistence.sealedKeychain,",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/zec_wallet_ui/README.md"
+        },
+        "zec_wallet_ui_platform/README.md": {
+          "sha": "a981ffad4d9d4da9e9df3d8bb8c670b856004a65",
+          "text": "Keep a user's recovery phrase, balance and addresses out of screenshots and\nthe app switcher, with no native code in your app. Add this package next to\n[`zec_wallet_ui`](https://pub.dev/packages/zec_wallet_ui) and the wallet\nscreens are protected on Android and iOS. There is no Dart API to call.\n\nthat the screen is not protected so they can make sure no one sees it.\n\nPart of the `zec_wallet` family: [`zec_wallet`](https://pub.dev/packages/zec_wallet)\n(the SDK), [`zec_wallet_ui`](https://pub.dev/packages/zec_wallet_ui) (an\noptional drop-in wallet UI), this package, and\n[`zec_wallet_tor`](https://pub.dev/packages/zec_wallet_tor) (optional Tor).\n\n## Should I use it?",
+          "url": "https://github.com/alvorado-lab/zec-wallet/blob/24fb7886d600fd912b592301cab82b90d6b4f447/zec_wallet_ui_platform/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:49:59.167981+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:25:59.547498+00:00",
       "repo_id": 1373684710,
-      "file_cursor": 54,
+      "file_cursor": 2,
       "claims": [],
       "claims_fingerprint": "c7a0f2848d15ab3ab0a3b1e2b19936c8321cb95afbc19c0b2fd5ca2a7a5b8e71",
       "verified_fingerprint": "c7a0f2848d15ab3ab0a3b1e2b19936c8321cb95afbc19c0b2fd5ca2a7a5b8e71"
@@ -7685,10 +7790,10 @@
           "url": "https://github.com/Fatihmaull/zcash-multisig/blob/c7f07cc5d45febe2d75c60da7a5b188336773ef5/pitch-assets/video/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:49:55.956978+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:25:58.323521+00:00",
       "repo_id": 1374338548,
-      "file_cursor": 12,
+      "file_cursor": 6,
       "claims": [],
       "claims_fingerprint": "1ffabb1c168937313ece7924a84ea9671e8ab64fa1deac85e18769669dd19f76",
       "verified_fingerprint": "1ffabb1c168937313ece7924a84ea9671e8ab64fa1deac85e18769669dd19f76"
@@ -7708,8 +7813,8 @@
           "url": "https://github.com/777huegos/swapwallet/blob/9bf2b4d0f63ad29f014280d8d55179a2a21c1fd0/README.md"
         }
       },
-      "next_check_at": "2026-11-03T11:00:00+00:00",
-      "last_check_at": "2026-11-03T10:49:51.223887+00:00",
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:25:57.035160+00:00",
       "repo_id": 1363112574,
       "file_cursor": 0,
       "claims": [],
@@ -7805,9 +7910,69 @@
       ],
       "notified_at": "2026-11-03T10:51:44.327879+00:00",
       "verified_fingerprint": "66b1a1f451ebb196277a8b52669cab0b0653eec9ddfc1329e5ef6ddd2ad9d6d5"
+    },
+    "repo:wmrdesks/wmr-desks": {
+      "source": "repo",
+      "repo": "wmrdesks/wmr-desks",
+      "name": "wmrdesks/wmr-desks",
+      "pr": 480,
+      "status": "excluded",
+      "registered_at": "2026-11-03T18:25:40.386499+00:00",
+      "first_report_sha256": "8d8d48ea1fdf594d0ba9eaf83c7da3e824c4680866967c360f1ceb6936fcef1f",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:denis101ka/predly-tools": {
+      "source": "repo",
+      "repo": "Denis101Ka/predly-tools",
+      "name": "Denis101Ka/predly-tools",
+      "pr": 489,
+      "status": "excluded",
+      "registered_at": "2026-11-03T18:25:40.648385+00:00",
+      "first_report_sha256": "050cb372a9bf448701aa8fbe19b8e5b3550140c48f611ac89ba0e4a09488f6d7",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:frogeth/opentrench": {
+      "source": "repo",
+      "repo": "frogeth/opentrench",
+      "name": "frogeth/opentrench",
+      "pr": 491,
+      "status": "excluded",
+      "registered_at": "2026-11-03T18:25:40.960401+00:00",
+      "first_report_sha256": "eed4d3c31c89e7191914125cf8ef4829cd2b5b9d2105d0ff03aa9d34594478c5",
+      "files": {},
+      "next_check_at": null
+    },
+    "repo:cansitki/vig-contracts": {
+      "source": "repo",
+      "repo": "cansitki/vig-contracts",
+      "name": "cansitki/vig-contracts",
+      "pr": 495,
+      "status": "excluded",
+      "registered_at": "2026-11-03T18:25:41.339052+00:00",
+      "first_report_sha256": "d03dbc7ad4c60cfbbeba0b046a0c0581e8a83c011da6325c81876348d81b0bb6",
+      "files": {},
+      "next_check_at": null
+    },
+    "zcg:5494790128": {
+      "source": "ZCG_NEW_ISSUE",
+      "id": 5494790128,
+      "name": "#429 Grant Application - Zcash SeedSigner: DIY open source air gapped signer for shielded ZEC",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/429",
+      "pr": 876,
+      "status": "tracking",
+      "registered_at": "2026-11-03T18:25:43.853398+00:00",
+      "first_report_sha256": "08db1a22a807d80a342e33a439335aa18f703406c8c1e2946e1760f360435e21",
+      "files": {},
+      "next_check_at": "2026-11-03T19:00:00+00:00",
+      "last_check_at": "2026-11-03T18:25:56.887387+00:00",
+      "last_error": "HTTP Error 404: Not Found: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/issues/issues#get-an-issue\",\"status\":\"404\"}"
     }
   },
-  "last_collect_at": "2026-11-03T10:51:26.595259+00:00",
-  "last_errors": [],
+  "last_collect_at": "2026-11-03T18:27:14.941017+00:00",
+  "last_errors": [
+    "zcg:5494790128: HTTP Error 404: Not Found: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/issues/issues#get-an-issue\",\"status\":\"404\"}"
+  ],
   "last_verify_errors": []
 }
