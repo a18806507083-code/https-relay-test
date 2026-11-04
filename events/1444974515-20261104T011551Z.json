@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T00:15:06Z",
+    "description": "Bursar for Claude Code, Codex and Gemini CLI: a mandate on Robinhood Chain your agent pays from, inside the limits you set.",
+    "detected_at": "2026-11-04T01:15:51Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "bursar-world/plugins",
+    "homepage": "https://bursar.world",
+    "html_url": "https://github.com/bursar-world/plugins",
+    "pushed_at": "2026-11-04T00:15:11Z",
+    "repo_id": 1444974515,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
