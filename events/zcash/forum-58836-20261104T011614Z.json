@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T23:37:26.954Z",
+    "detected_at": "2026-11-04T01:16:14Z",
+    "display": "58836 Introducing Zenzcash - the forum, minus the emotional whirlwind",
+    "key": "forum:58836",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster",
+        "Recent Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "introducing-zenzcash-the-forum-minus-the-emotional-whirlwind",
+      "title": "Introducing Zenzcash - the forum, minus the emotional whirlwind",
+      "topic_id": 58836
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58836,
+    "url": "https://forum.zcashcommunity.com/t/introducing-zenzcash-the-forum-minus-the-emotional-whirlwind/58836"
+  },
+  "schema": "zcash-fast-event/1"
+}
