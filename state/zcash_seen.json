@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-04T15:40:21Z",
+  "last_run_at": "2026-11-04T21:29:10Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-04T07:00:17Z",
+      "cutoff": "2026-11-04T15:10:21Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-04T07:00:17Z",
-      "matches": 2,
+      "cutoff": "2026-11-04T15:10:21Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-04T07:00:17Z",
-      "matches": 40,
+      "cutoff": "2026-11-04T15:10:21Z",
+      "matches": 14,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-04T07:00:17Z",
-      "matches": 0,
+      "cutoff": "2026-11-04T15:10:21Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -2349,6 +2349,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2937",
       "first_seen_at": "2026-11-04T15:40:21Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58869": {
+      "created_at": "2026-11-04T18:17:36.297Z",
+      "display": "58869 Grant Application - Automated FROST co-signer: spending limits an agent cannot get around",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2952",
+      "first_seen_at": "2026-11-04T21:29:10Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58873": {
+      "created_at": "2026-11-04T19:43:07.698Z",
+      "display": "58873 Sarah's story: from losing her savings to 23.79+ ZEC in shielded tips",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2947",
+      "first_seen_at": "2026-11-04T21:29:10Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -9215,6 +9231,78 @@
       "first_seen_at": "2026-11-04T15:40:21Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1445957258": {
+      "created_at": "2026-11-04T17:06:15Z",
+      "display": "cadalt0/ZecCircle",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2958",
+      "first_seen_at": "2026-11-04T21:29:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1445968078": {
+      "created_at": "2026-11-04T17:16:14Z",
+      "display": "MatteoBaldino/DeD_companion",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2957",
+      "first_seen_at": "2026-11-04T21:29:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1445972749": {
+      "created_at": "2026-11-04T17:20:26Z",
+      "display": "Chigybillionz/dualverifier",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2956",
+      "first_seen_at": "2026-11-04T21:29:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1445975771": {
+      "created_at": "2026-11-04T17:23:11Z",
+      "display": "Samarth208P/ghostcommits-todo-demo",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2955",
+      "first_seen_at": "2026-11-04T21:29:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1446007861": {
+      "created_at": "2026-11-04T17:52:36Z",
+      "display": "OpenComDev/zcan",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2954",
+      "first_seen_at": "2026-11-04T21:29:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1446037084": {
+      "created_at": "2026-11-04T18:20:50Z",
+      "display": "thebunnygoyal/shieldstream",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2951",
+      "first_seen_at": "2026-11-04T21:29:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1446037295": {
+      "created_at": "2026-11-04T18:21:02Z",
+      "display": "zksecurity/compelliptic-lean4-35",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2950",
+      "first_seen_at": "2026-11-04T21:29:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1446043975": {
+      "created_at": "2026-11-04T18:27:26Z",
+      "display": "zingolabs/sinsemilla-proofs",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2949",
+      "first_seen_at": "2026-11-04T21:29:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1446063629": {
+      "created_at": "2026-11-04T18:46:45Z",
+      "display": "alessandriLuca/AnimalSlave_PitFight",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2948",
+      "first_seen_at": "2026-11-04T21:29:10Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -10134,14 +10222,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2908",
       "first_seen_at": "2026-11-03T21:08:22Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6208689614": {
+      "created_at": "2026-11-04T18:17:01Z",
+      "display": "#538 Grant Application - Automated FROST co-signer: spending limits an agent cannot get around",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2953",
+      "first_seen_at": "2026-11-04T21:29:10Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-04T15:40:21Z",
-    "forum": "2026-11-04T15:40:21Z",
-    "github": "2026-11-04T15:40:21Z",
-    "zcg": "2026-11-04T15:40:21Z"
+    "fixed_orgs": "2026-11-04T21:29:10Z",
+    "forum": "2026-11-04T21:29:10Z",
+    "github": "2026-11-04T21:29:10Z",
+    "zcg": "2026-11-04T21:29:10Z"
   }
 }
