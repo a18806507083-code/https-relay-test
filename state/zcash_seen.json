@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-03T21:08:22Z",
+  "last_run_at": "2026-11-04T01:16:14Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-03T14:55:25Z",
+      "cutoff": "2026-11-03T20:38:22Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-03T14:55:25Z",
-      "matches": 9,
+      "cutoff": "2026-11-03T20:38:22Z",
+      "matches": 6,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-03T14:55:25Z",
+      "cutoff": "2026-11-03T20:38:22Z",
       "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-03T14:55:25Z",
-      "matches": 2,
+      "cutoff": "2026-11-03T20:38:22Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -2277,6 +2277,46 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2901",
       "first_seen_at": "2026-11-03T21:08:22Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58829": {
+      "created_at": "2026-11-03T21:43:22.625Z",
+      "display": "58829 Grant Application: Zethora - Orchard Integration Audit & ZEC Bridging",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2921",
+      "first_seen_at": "2026-11-04T01:16:14Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58834": {
+      "created_at": "2026-11-03T23:20:27.662Z",
+      "display": "58834 Zcash East Africa Developer Workshop Session",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2919",
+      "first_seen_at": "2026-11-04T01:16:14Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58836": {
+      "created_at": "2026-11-03T23:37:26.954Z",
+      "display": "58836 Introducing Zenzcash - the forum, minus the emotional whirlwind",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2917",
+      "first_seen_at": "2026-11-04T01:16:14Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58837": {
+      "created_at": "2026-11-04T00:16:04.019Z",
+      "display": "58837 Threads - Part III",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2916",
+      "first_seen_at": "2026-11-04T01:16:14Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58840": {
+      "created_at": "2026-11-04T00:44:52.065Z",
+      "display": "58840 Retroactive Grant Application - Independent Security Audit of FROST v3 (ZIP-312)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2915",
+      "first_seen_at": "2026-11-04T01:16:14Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -8999,6 +9039,22 @@
       "first_seen_at": "2026-11-03T21:08:22Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1444872956": {
+      "created_at": "2026-11-03T21:54:29Z",
+      "display": "hedlesio/examples",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2920",
+      "first_seen_at": "2026-11-04T01:16:14Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1444939123": {
+      "created_at": "2026-11-03T23:23:06Z",
+      "display": "UseFare/Fare",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2918",
+      "first_seen_at": "2026-11-04T01:16:14Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9923,9 +9979,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-03T21:08:22Z",
-    "forum": "2026-11-03T21:08:22Z",
-    "github": "2026-11-03T21:08:22Z",
-    "zcg": "2026-11-03T21:08:22Z"
+    "fixed_orgs": "2026-11-04T01:16:14Z",
+    "forum": "2026-11-04T01:16:14Z",
+    "github": "2026-11-04T01:16:14Z",
+    "zcg": "2026-11-04T01:16:14Z"
   }
 }
