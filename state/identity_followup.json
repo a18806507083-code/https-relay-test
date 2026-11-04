@@ -8187,7 +8187,10 @@
       "next_check_at": "2026-11-04T07:00:00+00:00",
       "last_check_at": "2026-11-04T06:17:50.103889+00:00",
       "repo_id": 1363888464,
-      "file_cursor": 8
+      "file_cursor": 8,
+      "claims": [],
+      "claims_fingerprint": "9338781829682364aee7ba019e91180b69ce73c966e3ae29520955b0773b42d4",
+      "verified_fingerprint": "9338781829682364aee7ba019e91180b69ce73c966e3ae29520955b0773b42d4"
     },
     "repo:mastersonjwthomasenamwj/charonhood": {
       "source": "repo",
