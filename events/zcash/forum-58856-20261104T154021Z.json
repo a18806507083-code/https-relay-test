@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T13:52:48.514Z",
+    "detected_at": "2026-11-04T15:40:21Z",
+    "display": "58856 Pre-ZIP: Hardware-wallet App Storage Keys (encrypting a light wallet's data with a key from the signer)",
+    "key": "forum:58856",
+    "metadata": {
+      "category_id": 23,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "pre-zip-hardware-wallet-app-storage-keys-encrypting-a-light-wallets-data-with-a-key-from-the-signer",
+      "title": "Pre-ZIP: Hardware-wallet App Storage Keys (encrypting a light wallet's data with a key from the signer)",
+      "topic_id": 58856
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58856,
+    "url": "https://forum.zcashcommunity.com/t/pre-zip-hardware-wallet-app-storage-keys-encrypting-a-light-wallets-data-with-a-key-from-the-signer/58856"
+  },
+  "schema": "zcash-fast-event/1"
+}
