@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T00:44:52.065Z",
+    "detected_at": "2026-11-04T01:16:14Z",
+    "display": "58840 Retroactive Grant Application - Independent Security Audit of FROST v3 (ZIP-312)",
+    "key": "forum:58840",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-independent-security-audit-of-frost-v3-zip-312",
+      "title": "Retroactive Grant Application - Independent Security Audit of FROST v3 (ZIP-312)",
+      "topic_id": 58840
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58840,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-independent-security-audit-of-frost-v3-zip-312/58840"
+  },
+  "schema": "zcash-fast-event/1"
+}
