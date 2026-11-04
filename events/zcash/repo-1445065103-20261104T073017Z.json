@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T02:24:26Z",
+    "detected_at": "2026-11-04T07:30:17Z",
+    "display": "auzum197/zips.dev",
+    "key": "repo:1445065103",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "auzum197/zips.dev",
+      "homepage": null,
+      "pushed_at": "2026-11-04T05:34:03Z",
+      "tech_signals": [
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1445065103,
+    "url": "https://github.com/auzum197/zips.dev"
+  },
+  "schema": "zcash-fast-event/1"
+}
