@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T18:46:45Z",
+    "detected_at": "2026-11-04T21:29:10Z",
+    "display": "alessandriLuca/AnimalSlave_PitFight",
+    "key": "repo:1446063629",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "alessandriLuca/AnimalSlave_PitFight",
+      "homepage": null,
+      "pushed_at": "2026-11-04T20:36:41Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1446063629,
+    "url": "https://github.com/alessandriLuca/AnimalSlave_PitFight"
+  },
+  "schema": "zcash-fast-event/1"
+}
