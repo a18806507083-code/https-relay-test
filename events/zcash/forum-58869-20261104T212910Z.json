@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T18:17:36.297Z",
+    "detected_at": "2026-11-04T21:29:10Z",
+    "display": "58869 Grant Application - Automated FROST co-signer: spending limits an agent cannot get around",
+    "key": "forum:58869",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-automated-frost-co-signer-spending-limits-an-agent-cannot-get-around",
+      "title": "Grant Application - Automated FROST co-signer: spending limits an agent cannot get around",
+      "topic_id": 58869
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58869,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-automated-frost-co-signer-spending-limits-an-agent-cannot-get-around/58869"
+  },
+  "schema": "zcash-fast-event/1"
+}
