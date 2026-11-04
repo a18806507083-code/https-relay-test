@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T19:43:07.698Z",
+    "detected_at": "2026-11-04T21:29:10Z",
+    "display": "58873 Sarah's story: from losing her savings to 23.79+ ZEC in shielded tips",
+    "key": "forum:58873",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "sarahs-story-from-losing-her-savings-to-23-79-zec-in-shielded-tips",
+      "title": "Sarah's story: from losing her savings to 23.79+ ZEC in shielded tips",
+      "topic_id": 58873
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58873,
+    "url": "https://forum.zcashcommunity.com/t/sarahs-story-from-losing-her-savings-to-23-79-zec-in-shielded-tips/58873"
+  },
+  "schema": "zcash-fast-event/1"
+}
