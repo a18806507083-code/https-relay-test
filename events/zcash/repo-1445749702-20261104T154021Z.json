@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T14:11:48Z",
+    "detected_at": "2026-11-04T15:40:21Z",
+    "display": "SurajNaidu0/zklane",
+    "key": "repo:1445749702",
+    "metadata": {
+      "description": "Private payment channels on Zcash: real zkChannels ZK-proof payments + shielded testnet funding/refund",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "SurajNaidu0/zklane",
+      "homepage": null,
+      "pushed_at": "2026-11-04T14:59:38Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1445749702,
+    "url": "https://github.com/SurajNaidu0/zklane"
+  },
+  "schema": "zcash-fast-event/1"
+}
