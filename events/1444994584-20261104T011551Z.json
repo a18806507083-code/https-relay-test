@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T00:44:48Z",
+    "description": "The front page of Robinhood Chain, ranked by burned $WIF. Heat halves every day.",
+    "detected_at": "2026-11-04T01:15:51Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "tipusultan287/flatboard",
+    "homepage": "https://tipusultan287.github.io/flatboard/",
+    "html_url": "https://github.com/tipusultan287/flatboard",
+    "pushed_at": "2026-11-04T00:44:56Z",
+    "repo_id": 1444994584,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
