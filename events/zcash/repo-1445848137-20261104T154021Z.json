@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T15:32:28Z",
+    "detected_at": "2026-11-04T15:40:21Z",
+    "display": "harishkotra/hushcart",
+    "key": "repo:1445848137",
+    "metadata": {
+      "description": "A shop with no website: one shielded Zcash address is the storefront, the order is written in the memo, and the goods come back in a memo",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "harishkotra/hushcart",
+      "homepage": null,
+      "pushed_at": "2026-11-04T15:32:53Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1445848137,
+    "url": "https://github.com/harishkotra/hushcart"
+  },
+  "schema": "zcash-fast-event/1"
+}
