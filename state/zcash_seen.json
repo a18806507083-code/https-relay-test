@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-04T01:16:14Z",
+  "last_run_at": "2026-11-04T07:30:17Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-03T20:38:22Z",
+      "cutoff": "2026-11-04T00:46:14Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-03T20:38:22Z",
-      "matches": 6,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-11-03T20:38:22Z",
+      "cutoff": "2026-11-04T00:46:14Z",
       "matches": 2,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-11-04T00:46:14Z",
+      "matches": 6,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-11-03T20:38:22Z",
+      "cutoff": "2026-11-04T00:46:14Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2317,6 +2317,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2915",
       "first_seen_at": "2026-11-04T01:16:14Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58841": {
+      "created_at": "2026-11-04T06:28:45.362Z",
+      "display": "58841 Activate ZIP 68 and clarify ZIP 203 to allow Zcash Lightning and programmable locks",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2927",
+      "first_seen_at": "2026-11-04T07:30:17Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58842": {
+      "created_at": "2026-11-04T06:46:06.166Z",
+      "display": "58842 Zcash Project Hardening via the Permaweb & ArNS",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2924",
+      "first_seen_at": "2026-11-04T07:30:17Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -9055,6 +9071,54 @@
       "first_seen_at": "2026-11-04T01:16:14Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1445065103": {
+      "created_at": "2026-11-04T02:24:26Z",
+      "display": "auzum197/zips.dev",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2930",
+      "first_seen_at": "2026-11-04T07:30:17Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1445229579": {
+      "created_at": "2026-11-04T06:04:45Z",
+      "display": "sankalp771/pocketpilot",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2929",
+      "first_seen_at": "2026-11-04T07:30:17Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1445234259": {
+      "created_at": "2026-11-04T06:10:26Z",
+      "display": "Tharunyn/horcrux",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2928",
+      "first_seen_at": "2026-11-04T07:30:17Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1445250671": {
+      "created_at": "2026-11-04T06:29:51Z",
+      "display": "cryppit/shagun",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2926",
+      "first_seen_at": "2026-11-04T07:30:17Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1445254268": {
+      "created_at": "2026-11-04T06:34:03Z",
+      "display": "nickthelegend/oboro",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2925",
+      "first_seen_at": "2026-11-04T07:30:17Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1445272653": {
+      "created_at": "2026-11-04T06:54:27Z",
+      "display": "MeghVyas3132/Mirage-Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2923",
+      "first_seen_at": "2026-11-04T07:30:17Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -9979,9 +10043,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-04T01:16:14Z",
-    "forum": "2026-11-04T01:16:14Z",
-    "github": "2026-11-04T01:16:14Z",
-    "zcg": "2026-11-04T01:16:14Z"
+    "fixed_orgs": "2026-11-04T07:30:17Z",
+    "forum": "2026-11-04T07:30:17Z",
+    "github": "2026-11-04T07:30:17Z",
+    "zcg": "2026-11-04T07:30:17Z"
   }
 }
