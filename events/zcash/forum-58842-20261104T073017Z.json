@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T06:46:06.166Z",
+    "detected_at": "2026-11-04T07:30:17Z",
+    "display": "58842 Zcash Project Hardening via the Permaweb & ArNS",
+    "key": "forum:58842",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-project-hardening-via-the-permaweb-arns",
+      "title": "Zcash Project Hardening via the Permaweb & ArNS",
+      "topic_id": 58842
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58842,
+    "url": "https://forum.zcashcommunity.com/t/zcash-project-hardening-via-the-permaweb-arns/58842"
+  },
+  "schema": "zcash-fast-event/1"
+}
