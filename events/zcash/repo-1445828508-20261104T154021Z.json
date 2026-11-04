@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T15:16:21Z",
+    "detected_at": "2026-11-04T15:40:21Z",
+    "display": "jp4g/battlezips-ragu",
+    "key": "repo:1445828508",
+    "metadata": {
+      "description": "ZK Battleship on the Ragu PCD framework (Zcash Project Tachyon)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "jp4g/battlezips-ragu",
+      "homepage": null,
+      "pushed_at": "2026-11-04T15:16:29Z",
+      "tech_signals": [
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1445828508,
+    "url": "https://github.com/jp4g/battlezips-ragu"
+  },
+  "schema": "zcash-fast-event/1"
+}
