@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T00:16:04.019Z",
+    "detected_at": "2026-11-04T01:16:14Z",
+    "display": "58837 Threads - Part III",
+    "key": "forum:58837",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "threads-part-iii",
+      "title": "Threads - Part III",
+      "topic_id": 58837
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58837,
+    "url": "https://forum.zcashcommunity.com/t/threads-part-iii/58837"
+  },
+  "schema": "zcash-fast-event/1"
+}
