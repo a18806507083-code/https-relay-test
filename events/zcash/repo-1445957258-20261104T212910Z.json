@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T17:06:15Z",
+    "detected_at": "2026-11-04T21:29:10Z",
+    "display": "cadalt0/ZecCircle",
+    "key": "repo:1445957258",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "cadalt0/ZecCircle",
+      "homepage": "https://zec-circle.vercel.app",
+      "pushed_at": "2026-11-04T17:49:15Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1445957258,
+    "url": "https://github.com/cadalt0/ZecCircle"
+  },
+  "schema": "zcash-fast-event/1"
+}
