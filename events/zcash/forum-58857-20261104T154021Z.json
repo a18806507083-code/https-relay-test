@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T14:29:30.495Z",
+    "detected_at": "2026-11-04T15:40:21Z",
+    "display": "58857 LeekWallet Zcash update: an SDK for wallet integrations, docs, a colour screen build and a pre-ZIP",
+    "key": "forum:58857",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "leekwallet-zcash-update-an-sdk-for-wallet-integrations-docs-a-colour-screen-build-and-a-pre-zip",
+      "title": "LeekWallet Zcash update: an SDK for wallet integrations, docs, a colour screen build and a pre-ZIP",
+      "topic_id": 58857
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58857,
+    "url": "https://forum.zcashcommunity.com/t/leekwallet-zcash-update-an-sdk-for-wallet-integrations-docs-a-colour-screen-build-and-a-pre-zip/58857"
+  },
+  "schema": "zcash-fast-event/1"
+}
