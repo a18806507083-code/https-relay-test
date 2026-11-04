@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T06:28:45.362Z",
+    "detected_at": "2026-11-04T07:30:17Z",
+    "display": "58841 Activate ZIP 68 and clarify ZIP 203 to allow Zcash Lightning and programmable locks",
+    "key": "forum:58841",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "activate-zip-68-and-clarify-zip-203-to-allow-zcash-lightning-and-programmable-locks",
+      "title": "Activate ZIP 68 and clarify ZIP 203 to allow Zcash Lightning and programmable locks",
+      "topic_id": 58841
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58841,
+    "url": "https://forum.zcashcommunity.com/t/activate-zip-68-and-clarify-zip-203-to-allow-zcash-lightning-and-programmable-locks/58841"
+  },
+  "schema": "zcash-fast-event/1"
+}
