@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-03T21:54:29Z",
+    "detected_at": "2026-11-04T01:16:14Z",
+    "display": "hedlesio/examples",
+    "key": "repo:1444872956",
+    "metadata": {
+      "description": "Runnable Hedles API examples for Bun and TypeScript",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "hedlesio/examples",
+      "homepage": null,
+      "pushed_at": "2026-11-03T22:06:45Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1444872956,
+    "url": "https://github.com/hedlesio/examples"
+  },
+  "schema": "zcash-fast-event/1"
+}
