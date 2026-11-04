@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T17:23:11Z",
+    "detected_at": "2026-11-04T21:29:10Z",
+    "display": "Samarth208P/ghostcommits-todo-demo",
+    "key": "repo:1445975771",
+    "metadata": {
+      "description": "Sample TODO CLI for a GhostCommits contribution and testnet reward demo",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Samarth208P/ghostcommits-todo-demo",
+      "homepage": null,
+      "pushed_at": "2026-11-04T17:32:07Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1445975771,
+    "url": "https://github.com/Samarth208P/ghostcommits-todo-demo"
+  },
+  "schema": "zcash-fast-event/1"
+}
