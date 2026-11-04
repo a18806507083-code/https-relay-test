@@ -8007,7 +8007,10 @@
       "next_check_at": "2026-11-04T00:00:00+00:00",
       "last_check_at": "2026-11-03T23:58:29.089431+00:00",
       "repo_id": 1363301414,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "d9473b01b789faafb27eb8e454934122f69e30b7765f6823a3ee4e58a4e78bd0",
+      "verified_fingerprint": "d9473b01b789faafb27eb8e454934122f69e30b7765f6823a3ee4e58a4e78bd0"
     },
     "repo:kingunknown1/buffer-meme-arcade": {
       "source": "repo",
@@ -8042,7 +8045,10 @@
       "next_check_at": "2026-11-04T00:00:00+00:00",
       "last_check_at": "2026-11-03T23:58:30.544014+00:00",
       "repo_id": 1363270348,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "85e865b4c12db4cdc4957a4818d8dd094a3d98739ef7b4e904fa4454e8ce0ef4",
+      "verified_fingerprint": "85e865b4c12db4cdc4957a4818d8dd094a3d98739ef7b4e904fa4454e8ce0ef4"
     },
     "repo:adrianhihi/radian-wall": {
       "source": "repo",
