@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T15:19:50Z",
+    "detected_at": "2026-11-04T15:40:21Z",
+    "display": "nikhil-pn/hisaab",
+    "key": "repo:1445832655",
+    "metadata": {
+      "description": "Private books for shielded ZEC: invoices in encrypted memos, payments matched by a viewing key, a read-only FY ledger for your CA. Zcash Free Society Hack 2026.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "nikhil-pn/hisaab",
+      "homepage": null,
+      "pushed_at": "2026-11-04T15:40:13Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1445832655,
+    "url": "https://github.com/nikhil-pn/hisaab"
+  },
+  "schema": "zcash-fast-event/1"
+}
