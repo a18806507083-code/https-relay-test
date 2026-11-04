@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T20:03:35Z",
+    "description": null,
+    "detected_at": "2026-11-04T21:28:48Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "jvaragentico/robinlens",
+    "homepage": null,
+    "html_url": "https://github.com/jvaragentico/robinlens",
+    "pushed_at": "2026-11-04T20:45:43Z",
+    "repo_id": 1446141094,
+    "score": 5,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
