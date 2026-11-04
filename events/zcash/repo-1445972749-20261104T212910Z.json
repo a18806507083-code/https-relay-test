@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T17:20:26Z",
+    "detected_at": "2026-11-04T21:29:10Z",
+    "display": "Chigybillionz/dualverifier",
+    "key": "repo:1445972749",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Chigybillionz/dualverifier",
+      "homepage": null,
+      "pushed_at": "2026-11-04T19:03:39Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1445972749,
+    "url": "https://github.com/Chigybillionz/dualverifier"
+  },
+  "schema": "zcash-fast-event/1"
+}
