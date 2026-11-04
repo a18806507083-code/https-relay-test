@@ -8397,7 +8397,10 @@
       "next_check_at": "2026-11-04T22:00:00+00:00",
       "last_check_at": "2026-11-04T21:51:41.144431+00:00",
       "repo_id": 1364545998,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "05c9b5b5bad8ef91768be884930601580f8437d58106a51b2080ac5af2f12ac8",
+      "verified_fingerprint": "05c9b5b5bad8ef91768be884930601580f8437d58106a51b2080ac5af2f12ac8"
     },
     "repo:egawizard/glitch-alpha": {
       "source": "repo",
@@ -8466,7 +8469,10 @@
       "next_check_at": "2026-11-04T22:00:00+00:00",
       "last_check_at": "2026-11-04T21:51:42.806883+00:00",
       "repo_id": 1364861324,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "b3684d20aabf033b5a593d51d5f3db9b527ad1da6e6de9f1837f3e0dcc59c50c",
+      "verified_fingerprint": "b3684d20aabf033b5a593d51d5f3db9b527ad1da6e6de9f1837f3e0dcc59c50c"
     },
     "repo:never-agent/zcash-launchpad": {
       "source": "repo",
@@ -8516,7 +8522,10 @@
       "next_check_at": "2026-11-04T22:00:00+00:00",
       "last_check_at": "2026-11-04T21:51:45.566245+00:00",
       "repo_id": 1377488227,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "c1513ec29b2116ea9a3bb472b0eba2e2aa67e783bf80fe8fdb400b0fb8822997",
+      "verified_fingerprint": "c1513ec29b2116ea9a3bb472b0eba2e2aa67e783bf80fe8fdb400b0fb8822997"
     },
     "repo:zyn-io/zec-multisig": {
       "source": "repo",
@@ -8536,7 +8545,10 @@
       "next_check_at": "2026-11-04T22:00:00+00:00",
       "last_check_at": "2026-11-04T21:51:48.756148+00:00",
       "repo_id": 1377449135,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "c0ca0150ef111e291e78ed5991873a097704efff7bbc09435251d590f080efe3",
+      "verified_fingerprint": "c0ca0150ef111e291e78ed5991873a097704efff7bbc09435251d590f080efe3"
     },
     "repo:drekal0/zcoops": {
       "source": "repo",
@@ -8576,7 +8588,10 @@
       "next_check_at": "2026-11-04T22:00:00+00:00",
       "last_check_at": "2026-11-04T21:51:50.345908+00:00",
       "repo_id": 1377762863,
-      "file_cursor": 2
+      "file_cursor": 2,
+      "claims": [],
+      "claims_fingerprint": "dbe991416e88d38f232001b21cc777aa075cf5f41b5edb004d9dd00d0dc100d5",
+      "verified_fingerprint": "dbe991416e88d38f232001b21cc777aa075cf5f41b5edb004d9dd00d0dc100d5"
     },
     "repo:penumbrafi/frostito": {
       "source": "repo",
@@ -8596,7 +8611,10 @@
       "next_check_at": "2026-11-04T22:00:00+00:00",
       "last_check_at": "2026-11-04T21:51:52.965429+00:00",
       "repo_id": 1378293249,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "391b4848cc7e1287993a9008368d8962c8b932c7b52db33f17245947c3a8b7ce",
+      "verified_fingerprint": "391b4848cc7e1287993a9008368d8962c8b932c7b52db33f17245947c3a8b7ce"
     }
   },
   "last_collect_at": "2026-11-04T21:53:33.888445+00:00",
