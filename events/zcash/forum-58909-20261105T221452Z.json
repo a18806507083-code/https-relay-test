@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T17:05:37.703Z",
+    "detected_at": "2026-11-05T22:14:52Z",
+    "display": "58909 [ZIP Draft] ZSV: one ZEC-backed stablecoin on Zcash",
+    "key": "forum:58909",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zip-draft-zsv-one-zec-backed-stablecoin-on-zcash",
+      "title": "[ZIP Draft] ZSV: one ZEC-backed stablecoin on Zcash",
+      "topic_id": 58909
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58909,
+    "url": "https://forum.zcashcommunity.com/t/zip-draft-zsv-one-zec-backed-stablecoin-on-zcash/58909"
+  },
+  "schema": "zcash-fast-event/1"
+}
