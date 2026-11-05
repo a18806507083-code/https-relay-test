@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T21:43:59Z",
+    "description": "Launchpad for STS-1 shiftable tokens on Robinhood Chain: ERC-20s whose name, ticker and image can be rewritten after launch. shift-spl.xyz",
+    "detected_at": "2026-11-05T22:14:29Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "Shift8989/shift-spl",
+    "homepage": null,
+    "html_url": "https://github.com/Shift8989/shift-spl",
+    "pushed_at": "2026-11-05T21:46:33Z",
+    "repo_id": 1447545839,
+    "score": 16,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
