@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-05T08:27:04Z",
+  "last_run_at": "2026-11-05T16:37:38Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-05T01:07:28Z",
+      "cutoff": "2026-11-05T07:57:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-05T01:07:28Z",
-      "matches": 0,
+      "cutoff": "2026-11-05T07:57:04Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-05T01:07:28Z",
-      "matches": 1,
+      "cutoff": "2026-11-05T07:57:04Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-05T01:07:28Z",
+      "cutoff": "2026-11-05T07:57:04Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2373,6 +2373,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2966",
       "first_seen_at": "2026-11-05T01:37:28Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58901": {
+      "created_at": "2026-11-05T11:54:19.160Z",
+      "display": "58901 Retroactive Grant Application - Zcash address fixes, NU7 readiness board and ZEC refund tools (Cryppit)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2970",
+      "first_seen_at": "2026-11-05T16:37:38Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58906": {
+      "created_at": "2026-11-05T15:45:22.998Z",
+      "display": "58906 ZCG and the Dev Fund: Timeline for Proposals and Polling",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2967",
+      "first_seen_at": "2026-11-05T16:37:38Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -9327,6 +9343,30 @@
       "first_seen_at": "2026-11-05T01:37:28Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1446774092": {
+      "created_at": "2026-11-05T09:08:07Z",
+      "display": "alexderiso96/Ecom",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2971",
+      "first_seen_at": "2026-11-05T16:37:38Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1446996362": {
+      "created_at": "2026-11-05T12:52:00Z",
+      "display": "apeirs/cashumix",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2969",
+      "first_seen_at": "2026-11-05T16:37:38Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1447100279": {
+      "created_at": "2026-11-05T14:25:38Z",
+      "display": "Stylenexy/Stylenexy",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2968",
+      "first_seen_at": "2026-11-05T16:37:38Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -10259,9 +10299,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-05T08:27:04Z",
-    "forum": "2026-11-05T08:27:04Z",
-    "github": "2026-11-05T08:27:04Z",
-    "zcg": "2026-11-05T08:27:04Z"
+    "fixed_orgs": "2026-11-05T16:37:38Z",
+    "forum": "2026-11-05T16:37:38Z",
+    "github": "2026-11-05T16:37:38Z",
+    "zcg": "2026-11-05T16:37:38Z"
   }
 }
