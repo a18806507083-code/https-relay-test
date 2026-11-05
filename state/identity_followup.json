@@ -8760,7 +8760,10 @@
       "next_check_at": "2026-11-05T11:00:00+00:00",
       "last_check_at": "2026-11-05T10:52:30.879039+00:00",
       "repo_id": 1365046839,
-      "file_cursor": 0
+      "file_cursor": 0,
+      "claims": [],
+      "claims_fingerprint": "d9158365e6e7e6e5d427d06fe0db4851922702d27135dbfb81e5bafd6f3ded5b",
+      "verified_fingerprint": "d9158365e6e7e6e5d427d06fe0db4851922702d27135dbfb81e5bafd6f3ded5b"
     },
     "repo:fruitflycap/fruitflycapital": {
       "source": "repo",
@@ -8938,5 +8941,6 @@
   "last_errors": [
     "zcg:5494790128: HTTP Error 404: Not Found: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/issues/issues#get-an-issue\",\"status\":\"404\"}"
   ],
-  "last_verify_errors": []
+  "last_verify_errors": [],
+  "quota_next_probe_at": "2026-11-06T10:54:35.554132+00:00"
 }
