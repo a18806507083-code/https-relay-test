@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T19:26:15Z",
+    "detected_at": "2026-11-05T22:14:52Z",
+    "display": "Fred265/ZCASH-MALAWI-UNIVERSITY-GAME-NIGHTS",
+    "key": "repo:1447424092",
+    "metadata": {
+      "description": "Proof of Work",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Fred265/ZCASH-MALAWI-UNIVERSITY-GAME-NIGHTS",
+      "homepage": null,
+      "pushed_at": "2026-11-05T19:26:17Z",
+      "tech_signals": [
+        "protocol/ZK"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1447424092,
+    "url": "https://github.com/Fred265/ZCASH-MALAWI-UNIVERSITY-GAME-NIGHTS"
+  },
+  "schema": "zcash-fast-event/1"
+}
