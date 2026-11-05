@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T14:25:38Z",
+    "detected_at": "2026-11-05T16:37:38Z",
+    "display": "Stylenexy/Stylenexy",
+    "key": "repo:1447100279",
+    "metadata": {
+      "description": "Hood up. Work in the open.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Stylenexy/Stylenexy",
+      "homepage": null,
+      "pushed_at": "2026-11-05T14:25:45Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1447100279,
+    "url": "https://github.com/Stylenexy/Stylenexy"
+  },
+  "schema": "zcash-fast-event/1"
+}
