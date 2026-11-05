@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T17:18:11Z",
+    "detected_at": "2026-11-05T22:14:52Z",
+    "display": "yeddaTech/asd-spiegazioni",
+    "key": "repo:1447295924",
+    "metadata": {
+      "description": "Spiegazioni interattive delle lezioni di Algoritmi e Strutture Dati.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "yeddaTech/asd-spiegazioni",
+      "homepage": "https://yeddatech.github.io/asd-spiegazioni/",
+      "pushed_at": "2026-11-05T17:18:19Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1447295924,
+    "url": "https://github.com/yeddaTech/asd-spiegazioni"
+  },
+  "schema": "zcash-fast-event/1"
+}
