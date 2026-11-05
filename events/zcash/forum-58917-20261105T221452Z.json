@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T18:51:54.182Z",
+    "detected_at": "2026-11-05T22:14:52Z",
+    "display": "58917 Can We Bring Zcash to an Entire Country in Just One Year?",
+    "key": "forum:58917",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "can-we-bring-zcash-to-an-entire-country-in-just-one-year",
+      "title": "Can We Bring Zcash to an Entire Country in Just One Year?",
+      "topic_id": 58917
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58917,
+    "url": "https://forum.zcashcommunity.com/t/can-we-bring-zcash-to-an-entire-country-in-just-one-year/58917"
+  },
+  "schema": "zcash-fast-event/1"
+}
