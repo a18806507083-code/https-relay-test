@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T01:35:57Z",
+    "description": "Automatic exits for ERC-4626 vault positions on Robinhood Chain. Every exit pays the owner.",
+    "detected_at": "2026-11-05T01:37:02Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "CanopyRH/canopy-app",
+    "homepage": null,
+    "html_url": "https://github.com/CanopyRH/canopy-app",
+    "pushed_at": "2026-11-05T01:36:04Z",
+    "repo_id": 1446399193,
+    "score": 11,
+    "tech_signals": [
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
