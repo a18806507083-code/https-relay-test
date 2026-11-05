@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-04T23:46:57.316Z",
+    "detected_at": "2026-11-05T01:37:28Z",
+    "display": "58887 November 2026 U.S. Midterm Elections",
+    "key": "forum:58887",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "november-2026-u-s-midterm-elections",
+      "title": "November 2026 U.S. Midterm Elections",
+      "topic_id": 58887
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58887,
+    "url": "https://forum.zcashcommunity.com/t/november-2026-u-s-midterm-elections/58887"
+  },
+  "schema": "zcash-fast-event/1"
+}
