@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-05T16:37:38Z",
+  "last_run_at": "2026-11-05T22:14:52Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-05T07:57:04Z",
+      "cutoff": "2026-11-05T16:07:38Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-05T07:57:04Z",
+      "cutoff": "2026-11-05T16:07:38Z",
       "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-05T07:57:04Z",
-      "matches": 3,
+      "cutoff": "2026-11-05T16:07:38Z",
+      "matches": 5,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-05T07:57:04Z",
-      "matches": 0,
+      "cutoff": "2026-11-05T16:07:38Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -2389,6 +2389,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2967",
       "first_seen_at": "2026-11-05T16:37:38Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58909": {
+      "created_at": "2026-11-05T17:05:37.703Z",
+      "display": "58909 [ZIP Draft] ZSV: one ZEC-backed stablecoin on Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2982",
+      "first_seen_at": "2026-11-05T22:14:52Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58917": {
+      "created_at": "2026-11-05T18:51:54.182Z",
+      "display": "58917 Can We Bring Zcash to an Entire Country in Just One Year?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2978",
+      "first_seen_at": "2026-11-05T22:14:52Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -9367,6 +9383,46 @@
       "first_seen_at": "2026-11-05T16:37:38Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1447280802": {
+      "created_at": "2026-11-05T17:04:18Z",
+      "display": "zecky-app/zecky-engine",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2983",
+      "first_seen_at": "2026-11-05T22:14:52Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1447295924": {
+      "created_at": "2026-11-05T17:18:11Z",
+      "display": "yeddaTech/asd-spiegazioni",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2981",
+      "first_seen_at": "2026-11-05T22:14:52Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1447309425": {
+      "created_at": "2026-11-05T17:31:22Z",
+      "display": "poptartzzz/wallet-gen-cli",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2980",
+      "first_seen_at": "2026-11-05T22:14:52Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1447424092": {
+      "created_at": "2026-11-05T19:26:15Z",
+      "display": "Fred265/ZCASH-MALAWI-UNIVERSITY-GAME-NIGHTS",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2977",
+      "first_seen_at": "2026-11-05T22:14:52Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1447473393": {
+      "created_at": "2026-11-05T20:18:45Z",
+      "display": "BenaHQ/Gaming_Industry",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2976",
+      "first_seen_at": "2026-11-05T22:14:52Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -10294,14 +10350,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2953",
       "first_seen_at": "2026-11-04T21:29:10Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6228904906": {
+      "created_at": "2026-11-05T18:10:08Z",
+      "display": "#539 Grant Application - Celari: independent security audit and hardening of an open-source browser wallet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/2979",
+      "first_seen_at": "2026-11-05T22:14:52Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-05T16:37:38Z",
-    "forum": "2026-11-05T16:37:38Z",
-    "github": "2026-11-05T16:37:38Z",
-    "zcg": "2026-11-05T16:37:38Z"
+    "fixed_orgs": "2026-11-05T22:14:52Z",
+    "forum": "2026-11-05T22:14:52Z",
+    "github": "2026-11-05T22:14:52Z",
+    "zcg": "2026-11-05T22:14:52Z"
   }
 }
