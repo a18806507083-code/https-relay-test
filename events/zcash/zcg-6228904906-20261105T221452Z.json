@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T18:10:08Z",
+    "detected_at": "2026-11-05T22:14:52Z",
+    "display": "#539 Grant Application - Celari: independent security audit and hardening of an open-source browser wallet",
+    "key": "zcg:6228904906",
+    "metadata": {
+      "author": "Kubudak90",
+      "issue_number": 539,
+      "labels": [],
+      "title": "Grant Application - Celari: independent security audit and hardening of an open-source browser wallet"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6228904906,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/539"
+  },
+  "schema": "zcash-fast-event/1"
+}
