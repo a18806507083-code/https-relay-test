@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T20:25:12Z",
+    "description": null,
+    "detected_at": "2026-11-05T22:14:29Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "harrysdev007/vaultiux",
+    "homepage": "https://vaultiux.vercel.app",
+    "html_url": "https://github.com/harrysdev007/vaultiux",
+    "pushed_at": "2026-11-05T20:26:12Z",
+    "repo_id": 1447479254,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
