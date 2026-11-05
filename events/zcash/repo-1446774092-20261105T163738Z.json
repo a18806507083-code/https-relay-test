@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T09:08:07Z",
+    "detected_at": "2026-11-05T16:37:38Z",
+    "display": "alexderiso96/Ecom",
+    "key": "repo:1446774092",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "alexderiso96/Ecom",
+      "homepage": null,
+      "pushed_at": "2026-11-05T13:08:03Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1446774092,
+    "url": "https://github.com/alexderiso96/Ecom"
+  },
+  "schema": "zcash-fast-event/1"
+}
