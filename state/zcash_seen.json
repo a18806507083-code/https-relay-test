@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-06T21:22:32Z",
+  "last_run_at": "2026-11-06T21:28:15Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-06T20:46:28Z",
+      "cutoff": "2026-11-06T20:52:32Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-06T20:46:28Z",
-      "matches": 0,
+      "cutoff": "2026-11-06T20:52:32Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-06T20:46:28Z",
+      "cutoff": "2026-11-06T20:52:32Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-06T20:46:28Z",
+      "cutoff": "2026-11-06T20:52:32Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2461,6 +2461,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3017",
       "first_seen_at": "2026-11-06T20:11:19Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58985": {
+      "created_at": "2026-11-06T21:26:48.727Z",
+      "display": "58985 Retroactive Grant Application - Any Wallet Kit: Zcash in an open-source multichain wallet SDK",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3021",
+      "first_seen_at": "2026-11-06T21:28:15Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -10523,9 +10531,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-06T21:22:32Z",
-    "forum": "2026-11-06T21:22:32Z",
-    "github": "2026-11-06T21:22:32Z",
-    "zcg": "2026-11-06T21:22:32Z"
+    "fixed_orgs": "2026-11-06T21:28:15Z",
+    "forum": "2026-11-06T21:28:15Z",
+    "github": "2026-11-06T21:28:15Z",
+    "zcg": "2026-11-06T21:28:15Z"
   }
 }
