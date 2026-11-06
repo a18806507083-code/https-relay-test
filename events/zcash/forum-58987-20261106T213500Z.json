@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T21:31:56.232Z",
+    "detected_at": "2026-11-06T21:35:00Z",
+    "display": "58987 Cake Wallet v6.5.3 with NU7 and Ledger support went live today!",
+    "key": "forum:58987",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "cake-wallet-v6-5-3-with-nu7-and-ledger-support-went-live-today",
+      "title": "Cake Wallet v6.5.3 with NU7 and Ledger support went live today!",
+      "topic_id": 58987
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58987,
+    "url": "https://forum.zcashcommunity.com/t/cake-wallet-v6-5-3-with-nu7-and-ledger-support-went-live-today/58987"
+  },
+  "schema": "zcash-fast-event/1"
+}
