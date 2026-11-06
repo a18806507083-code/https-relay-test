@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-06T17:53:44Z",
+  "last_run_at": "2026-11-06T17:59:21Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-06T17:17:55Z",
+      "cutoff": "2026-11-06T17:23:44Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-06T17:17:55Z",
-      "matches": 0,
+      "cutoff": "2026-11-06T17:23:44Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-06T17:17:55Z",
+      "cutoff": "2026-11-06T17:23:44Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-06T17:17:55Z",
+      "cutoff": "2026-11-06T17:23:44Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2445,6 +2445,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3003",
       "first_seen_at": "2026-11-06T16:54:19Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58973": {
+      "created_at": "2026-11-06T17:58:12.017Z",
+      "display": "58973 Announcing Zingod",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3010",
+      "first_seen_at": "2026-11-06T17:59:21Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -10475,9 +10483,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-06T17:53:44Z",
-    "forum": "2026-11-06T17:53:44Z",
-    "github": "2026-11-06T17:53:44Z",
-    "zcg": "2026-11-06T17:53:44Z"
+    "fixed_orgs": "2026-11-06T17:59:21Z",
+    "forum": "2026-11-06T17:59:21Z",
+    "github": "2026-11-06T17:59:21Z",
+    "zcg": "2026-11-06T17:59:21Z"
   }
 }
