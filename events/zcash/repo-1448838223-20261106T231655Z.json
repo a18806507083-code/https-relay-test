@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T23:09:04Z",
+    "detected_at": "2026-11-06T23:16:55Z",
+    "display": "SortyLorty/Sigismund",
+    "key": "repo:1448838223",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "SortyLorty/Sigismund",
+      "homepage": null,
+      "pushed_at": "2026-11-06T23:12:14Z",
+      "tech_signals": [
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1448838223,
+    "url": "https://github.com/SortyLorty/Sigismund"
+  },
+  "schema": "zcash-fast-event/1"
+}
