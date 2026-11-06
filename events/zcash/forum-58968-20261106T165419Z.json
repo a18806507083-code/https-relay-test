@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T15:51:55.869Z",
+    "detected_at": "2026-11-06T16:54:19Z",
+    "display": "58968 Introducing Zalary: Private Payroll for Crypto Businesses",
+    "key": "forum:58968",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "introducing-zalary-private-payroll-for-crypto-businesses",
+      "title": "Introducing Zalary: Private Payroll for Crypto Businesses",
+      "topic_id": 58968
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58968,
+    "url": "https://forum.zcashcommunity.com/t/introducing-zalary-private-payroll-for-crypto-businesses/58968"
+  },
+  "schema": "zcash-fast-event/1"
+}
