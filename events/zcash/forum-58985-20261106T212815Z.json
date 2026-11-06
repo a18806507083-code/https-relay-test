@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T21:26:48.727Z",
+    "detected_at": "2026-11-06T21:28:15Z",
+    "display": "58985 Retroactive Grant Application - Any Wallet Kit: Zcash in an open-source multichain wallet SDK",
+    "key": "forum:58985",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-any-wallet-kit-zcash-in-an-open-source-multichain-wallet-sdk",
+      "title": "Retroactive Grant Application - Any Wallet Kit: Zcash in an open-source multichain wallet SDK",
+      "topic_id": 58985
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58985,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-any-wallet-kit-zcash-in-an-open-source-multichain-wallet-sdk/58985"
+  },
+  "schema": "zcash-fast-event/1"
+}
