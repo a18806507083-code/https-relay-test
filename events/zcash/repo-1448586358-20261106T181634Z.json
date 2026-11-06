@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T18:04:14Z",
+    "detected_at": "2026-11-06T18:16:34Z",
+    "display": "paygate-to/paygate-laravel",
+    "key": "repo:1448586358",
+    "metadata": {
+      "description": "Laravel SDK payment gateway without KYC",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "paygate-to/paygate-laravel",
+      "homepage": null,
+      "pushed_at": "2026-11-06T18:14:11Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1448586358,
+    "url": "https://github.com/paygate-to/paygate-laravel"
+  },
+  "schema": "zcash-fast-event/1"
+}
