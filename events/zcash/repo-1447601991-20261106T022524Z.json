@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T22:59:50Z",
+    "detected_at": "2026-11-06T02:25:24Z",
+    "display": "zeko-labs/zcash",
+    "key": "repo:1447601991",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "zeko-labs/zcash",
+      "homepage": null,
+      "pushed_at": "2026-11-05T23:40:20Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1447601991,
+    "url": "https://github.com/zeko-labs/zcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
