@@ -9007,10 +9007,8 @@
       }
     }
   },
-  "last_collect_at": "2026-11-06T15:04:19.069633+00:00",
-  "last_errors": [
-    "zcg:5494790128: HTTP Error 404: Not Found: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/issues/issues#get-an-issue\",\"status\":\"404\"}"
-  ],
+  "last_collect_at": "2026-11-06T15:19:25.096234+00:00",
+  "last_errors": [],
   "last_verify_errors": [],
   "quota_next_probe_at": "2026-11-06T10:54:35.554132+00:00"
 }
