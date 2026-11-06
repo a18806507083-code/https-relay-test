@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T16:20:18Z",
+    "description": "FIX ONE BUG IN A V4 SWAP ENCODING I have a working HTML file that encodes a Uniswap V4 arbitrage (two V4_SWAP commands) for the Universal Router on Robinhood Chain. The encoding is 95% correct but the transaction reverts. I need the one bug found and fixed. TASK: 1. Go to robinhoodchain.blockscout.com 2. Open tx 0x1143c44db8d6cc05968e3b511a16b64...",
+    "detected_at": "2026-11-06T16:53:49Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "identity-md-launches/launch-3068-fix-one-bug-v4",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3068-fix-one-bug-v4",
+    "pushed_at": "2026-11-06T16:35:18Z",
+    "repo_id": 1448481451,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
