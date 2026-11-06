@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T23:46:44Z",
+    "description": null,
+    "detected_at": "2026-11-06T23:52:48Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "CoinfluencerX/research-receipts",
+    "homepage": null,
+    "html_url": "https://github.com/CoinfluencerX/research-receipts",
+    "pushed_at": "2026-11-06T23:50:39Z",
+    "repo_id": 1448861281,
+    "score": 14,
+    "tech_signals": [
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
