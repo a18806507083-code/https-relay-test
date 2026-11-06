@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T23:36:16Z",
+    "detected_at": "2026-11-06T02:25:24Z",
+    "display": "philipgjorup/thecryptoconverter",
+    "key": "repo:1447625357",
+    "metadata": {
+      "description": "Open-source crypto converter. The amount stays in your browser. Prices are CoinGecko’s public quotes, refreshed about once a minute.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "philipgjorup/thecryptoconverter",
+      "homepage": "https://thecryptoconverter.com",
+      "pushed_at": "2026-11-06T00:19:56Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1447625357,
+    "url": "https://github.com/philipgjorup/thecryptoconverter"
+  },
+  "schema": "zcash-fast-event/1"
+}
