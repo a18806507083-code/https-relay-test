@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T06:35:26Z",
+    "detected_at": "2026-11-06T09:33:47Z",
+    "display": "palladius/kids-own-stories",
+    "key": "repo:1447917509",
+    "metadata": {
+      "description": "📚🎙️ Kids' Own Stories — Storie inventate e raccontate al microfono da Alessandro & Sebastian",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "palladius/kids-own-stories",
+      "homepage": null,
+      "pushed_at": "2026-11-06T09:07:56Z",
+      "tech_signals": [
+        "node/indexer",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1447917509,
+    "url": "https://github.com/palladius/kids-own-stories"
+  },
+  "schema": "zcash-fast-event/1"
+}
