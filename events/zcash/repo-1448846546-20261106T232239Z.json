@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T23:22:26Z",
+    "detected_at": "2026-11-06T23:22:39Z",
+    "display": "ShieldedLabs/nsm",
+    "key": "repo:1448846546",
+    "metadata": {
+      "description": "Live Zcash NSM balance (ZIP 237)",
+      "fixed_owner": "ShieldedLabs",
+      "full_name": "ShieldedLabs/nsm",
+      "homepage": "https://nsm.shieldedlabs.net",
+      "pushed_at": "2026-11-06T23:22:30Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1448846546,
+    "url": "https://github.com/ShieldedLabs/nsm"
+  },
+  "schema": "zcash-fast-event/1"
+}
