@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-05T23:07:44Z",
+    "detected_at": "2026-11-06T02:25:24Z",
+    "display": "1OF1Research/zpop",
+    "key": "repo:1447607452",
+    "metadata": {
+      "description": "Zcash Proof-of-Production Receipts — signed, hash-chained, publicly verifiable receipts for what a Zcash mining fleet produced",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "1OF1Research/zpop",
+      "homepage": "https://aemb.pro",
+      "pushed_at": "2026-11-05T23:20:33Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1447607452,
+    "url": "https://github.com/1OF1Research/zpop"
+  },
+  "schema": "zcash-fast-event/1"
+}
