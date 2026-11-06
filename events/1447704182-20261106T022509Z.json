@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T01:31:11Z",
+    "description": null,
+    "detected_at": "2026-11-06T02:25:09Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "NoctisChain/noctis",
+    "homepage": null,
+    "html_url": "https://github.com/NoctisChain/noctis",
+    "pushed_at": "2026-11-06T01:31:28Z",
+    "repo_id": 1447704182,
+    "score": 5,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
