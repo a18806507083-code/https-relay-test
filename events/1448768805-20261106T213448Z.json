@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T21:32:04Z",
+    "description": "Solenne is an open-source agent written in Rust. It runs on your own machine, works with cloud or offline models, and carries its own web 3 wallet.",
+    "detected_at": "2026-11-06T21:34:48Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "Solenne-ai/solenne-agent",
+    "homepage": null,
+    "html_url": "https://github.com/Solenne-ai/solenne-agent",
+    "pushed_at": "2026-11-06T21:33:22Z",
+    "repo_id": 1448768805,
+    "score": 14,
+    "tech_signals": [
+      "Agent/MCP",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
