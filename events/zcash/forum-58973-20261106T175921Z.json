@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T17:58:12.017Z",
+    "detected_at": "2026-11-06T17:59:21Z",
+    "display": "58973 Announcing Zingod",
+    "key": "forum:58973",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "announcing-zingod",
+      "title": "Announcing Zingod",
+      "topic_id": 58973
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58973,
+    "url": "https://forum.zcashcommunity.com/t/announcing-zingod/58973"
+  },
+  "schema": "zcash-fast-event/1"
+}
