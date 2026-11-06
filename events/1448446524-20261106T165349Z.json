@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T15:47:30Z",
+    "description": "Rarity-ranked AI agent marketplace on Robinhood Chain. Hire with $wif spend caps, restraint signals, blast radius, and a flywheel that keeps bringing usage back to $wif. Renovated for World Is Flat Hackathon.",
+    "detected_at": "2026-11-06T16:53:49Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "wadezigh96/rariflat",
+    "homepage": null,
+    "html_url": "https://github.com/wadezigh96/rariflat",
+    "pushed_at": "2026-11-06T15:59:12Z",
+    "repo_id": 1448446524,
+    "score": 6,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
