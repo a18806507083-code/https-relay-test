@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T21:42:04Z",
+    "description": "Grok connector for betting against the house, with Definitive Flash and Chainlink CRE",
+    "detected_at": "2026-11-06T22:43:55Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "0xYudhishthra/housemoney-grok",
+    "homepage": null,
+    "html_url": "https://github.com/0xYudhishthra/housemoney-grok",
+    "pushed_at": "2026-11-06T22:39:39Z",
+    "repo_id": 1448776379,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
