@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T08:28:20Z",
+    "description": "ZeroFee Wallet: a self-custody web wallet for Solana, Robinhood Chain and NEAR. Private sends through NEAR Confidential.",
+    "detected_at": "2026-11-07T08:33:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ZeroFeeDotSi/zerofee-wallet",
+    "homepage": "https://zerofee-wallet-web.vercel.app",
+    "html_url": "https://github.com/ZeroFeeDotSi/zerofee-wallet",
+    "pushed_at": "2026-11-07T08:28:32Z",
+    "repo_id": 1449169060,
+    "score": 7,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
