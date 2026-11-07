@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T14:08:18Z",
+    "detected_at": "2026-11-07T14:25:11Z",
+    "display": "SimoneGaetano/PuntoFedele",
+    "key": "repo:1449415482",
+    "metadata": {
+      "description": "Sistema di raccolta punti fedeltà per un negozio: Flutter Web, n8n e MongoDB (Project Work IFTS)",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "SimoneGaetano/PuntoFedele",
+      "homepage": null,
+      "pushed_at": "2026-11-07T14:21:07Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1449415482,
+    "url": "https://github.com/SimoneGaetano/PuntoFedele"
+  },
+  "schema": "zcash-fast-event/1"
+}
