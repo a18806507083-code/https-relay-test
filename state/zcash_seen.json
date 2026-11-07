@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-07T03:01:36Z",
+  "last_run_at": "2026-11-07T03:14:03Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-07T02:25:13Z",
+      "cutoff": "2026-11-07T02:31:36Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-07T02:25:13Z",
-      "matches": 0,
+      "cutoff": "2026-11-07T02:31:36Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-07T02:25:13Z",
+      "cutoff": "2026-11-07T02:31:36Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-07T02:25:13Z",
+      "cutoff": "2026-11-07T02:31:36Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2493,6 +2493,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3037",
       "first_seen_at": "2026-11-07T01:19:58Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:58995": {
+      "created_at": "2026-11-07T03:11:25.307Z",
+      "display": "58995 Retroactive Grant Application - zcash-payment-service",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3043",
+      "first_seen_at": "2026-11-07T03:14:03Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -10595,9 +10603,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-07T03:01:36Z",
-    "forum": "2026-11-07T03:01:36Z",
-    "github": "2026-11-07T03:01:36Z",
-    "zcg": "2026-11-07T03:01:36Z"
+    "fixed_orgs": "2026-11-07T03:14:03Z",
+    "forum": "2026-11-07T03:14:03Z",
+    "github": "2026-11-07T03:14:03Z",
+    "zcg": "2026-11-07T03:14:03Z"
   }
 }
