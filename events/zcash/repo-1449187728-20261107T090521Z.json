@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T08:56:51Z",
+    "detected_at": "2026-11-07T09:05:21Z",
+    "display": "CryptoSI-DAO/privacy-roundtable",
+    "key": "repo:1449187728",
+    "metadata": {
+      "description": "Community site for the Privacy Roundtable X Spaces series (@PrivacyRndtable) — candid talks on privacy tech, crypto & digital freedom",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "CryptoSI-DAO/privacy-roundtable",
+      "homepage": "https://privacy-roundtable.vercel.app",
+      "pushed_at": "2026-11-07T08:59:23Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1449187728,
+    "url": "https://github.com/CryptoSI-DAO/privacy-roundtable"
+  },
+  "schema": "zcash-fast-event/1"
+}
