@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T11:01:33Z",
+    "description": "Company profile (portfolio lead) \u2014 Epsilon",
+    "detected_at": "2026-11-07T11:08:11Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "api-evangelist/epsilon-exchange",
+    "homepage": null,
+    "html_url": "https://github.com/api-evangelist/epsilon-exchange",
+    "pushed_at": "2026-11-07T11:01:57Z",
+    "repo_id": 1449273926,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
