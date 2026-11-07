@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T14:28:48.483Z",
+    "detected_at": "2026-11-07T14:31:05Z",
+    "display": "59016 Retroactive Grant Application - Zecblock",
+    "key": "forum:59016",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zecblock",
+      "title": "Retroactive Grant Application - Zecblock",
+      "topic_id": 59016
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59016,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zecblock/59016"
+  },
+  "schema": "zcash-fast-event/1"
+}
