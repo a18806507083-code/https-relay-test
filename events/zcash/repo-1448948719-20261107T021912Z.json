@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T02:17:56Z",
+    "detected_at": "2026-11-07T02:19:12Z",
+    "display": "Cryptographytube/CryptographyTube-Blockchain-Cryptography-Research-Platform",
+    "key": "repo:1448948719",
+    "metadata": {
+      "description": "Open-Source Blockchain & Cryptography Research Platform",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Cryptographytube/CryptographyTube-Blockchain-Cryptography-Research-Platform",
+      "homepage": null,
+      "pushed_at": "2026-11-07T02:18:27Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1448948719,
+    "url": "https://github.com/Cryptographytube/CryptographyTube-Blockchain-Cryptography-Research-Platform"
+  },
+  "schema": "zcash-fast-event/1"
+}
