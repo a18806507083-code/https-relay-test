@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T15:27:23.060Z",
+    "detected_at": "2026-11-07T15:27:58Z",
+    "display": "59017 Retroactive Grant Application - Zebra 6.2.0 High Severity Remote DoS (CVE-2026-104423)",
+    "key": "forum:59017",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zebra-6-2-0-high-severity-remote-dos-cve-2026-104423",
+      "title": "Retroactive Grant Application - Zebra 6.2.0 High Severity Remote DoS (CVE-2026-104423)",
+      "topic_id": 59017
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59017,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zebra-6-2-0-high-severity-remote-dos-cve-2026-104423/59017"
+  },
+  "schema": "zcash-fast-event/1"
+}
