@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T15:25:39Z",
+    "description": null,
+    "detected_at": "2026-11-07T15:27:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "elgiza2/quiet-voice-workspace",
+    "homepage": null,
+    "html_url": "https://github.com/elgiza2/quiet-voice-workspace",
+    "pushed_at": "2026-11-07T15:25:58Z",
+    "repo_id": 1449481359,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
