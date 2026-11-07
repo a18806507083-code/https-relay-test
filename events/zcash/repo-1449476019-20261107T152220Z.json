@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T15:19:38Z",
+    "detected_at": "2026-11-07T15:22:20Z",
+    "display": "anukulpandey/zcash-testnet-wallet",
+    "key": "repo:1449476019",
+    "metadata": {
+      "description": "A working Zcash testnet wallet in one command: npx zcash-testnet-wallet",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "anukulpandey/zcash-testnet-wallet",
+      "homepage": null,
+      "pushed_at": "2026-11-07T15:21:21Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1449476019,
+    "url": "https://github.com/anukulpandey/zcash-testnet-wallet"
+  },
+  "schema": "zcash-fast-event/1"
+}
