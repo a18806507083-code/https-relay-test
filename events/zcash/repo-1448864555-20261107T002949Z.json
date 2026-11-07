@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-06T23:51:56Z",
+    "detected_at": "2026-11-07T00:29:49Z",
+    "display": "nwfella/intents-wedge",
+    "key": "repo:1448864555",
+    "metadata": {
+      "description": "Two fee-taking USDC swap frontends on NEAR Intents",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "nwfella/intents-wedge",
+      "homepage": null,
+      "pushed_at": "2026-11-07T00:14:36Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1448864555,
+    "url": "https://github.com/nwfella/intents-wedge"
+  },
+  "schema": "zcash-fast-event/1"
+}
