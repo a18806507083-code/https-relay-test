@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T09:14:41Z",
+    "description": "Quant research skills for coding agents on 0xArchive data. Reverse engineer any trader, test any idea: a deterministic Rust backtester, a trial ledger, a sealed holdout and a verdict you can rerun. Plus live market data for Hyperliquid and Lighter.",
+    "detected_at": "2026-11-07T09:20:10Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "qatoqat/0xarchive-quant",
+    "homepage": "https://www.0xarchive.io/github-skill",
+    "html_url": "https://github.com/qatoqat/0xarchive-quant",
+    "pushed_at": "2026-11-06T16:37:57Z",
+    "repo_id": 1449199450,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
