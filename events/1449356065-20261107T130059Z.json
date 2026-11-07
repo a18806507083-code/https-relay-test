@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T12:54:37Z",
+    "description": null,
+    "detected_at": "2026-11-07T13:00:59Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "GojoCookz/pluggedtalk",
+    "homepage": null,
+    "html_url": "https://github.com/GojoCookz/pluggedtalk",
+    "pushed_at": "2026-11-07T12:57:18Z",
+    "repo_id": 1449356065,
+    "score": 10,
+    "tech_signals": [
+      "Hook",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
