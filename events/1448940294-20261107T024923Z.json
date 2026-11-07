@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T02:03:11Z",
+    "description": "Gully Core: launchpads, DEXes and markets on one shared core. Built on PancakeSwap Infinity's audited core.",
+    "detected_at": "2026-11-07T02:49:23Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "gully-labs/gully-core",
+    "homepage": null,
+    "html_url": "https://github.com/gully-labs/gully-core",
+    "pushed_at": "2026-11-07T02:29:04Z",
+    "repo_id": 1448940294,
+    "score": 10,
+    "tech_signals": [
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
