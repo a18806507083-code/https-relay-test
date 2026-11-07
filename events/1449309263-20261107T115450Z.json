@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T11:50:53Z",
+    "description": "Hire AI agents with $WIF on Robinhood Chain. Real marketplace for task-based agent work.",
+    "detected_at": "2026-11-07T11:54:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "thesithunyein/hirewif",
+    "homepage": null,
+    "html_url": "https://github.com/thesithunyein/hirewif",
+    "pushed_at": "2026-11-07T11:52:49Z",
+    "repo_id": 1449309263,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
