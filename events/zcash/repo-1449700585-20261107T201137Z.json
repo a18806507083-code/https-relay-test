@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T20:06:46Z",
+    "detected_at": "2026-11-07T20:11:37Z",
+    "display": "craftsoldier/zcash-sync-evals",
+    "key": "repo:1449700585",
+    "metadata": {
+      "description": "A fair, attested benchmark of Zcash wallet sync, run on GitHub runners",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "craftsoldier/zcash-sync-evals",
+      "homepage": null,
+      "pushed_at": "2026-11-07T20:06:51Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1449700585,
+    "url": "https://github.com/craftsoldier/zcash-sync-evals"
+  },
+  "schema": "zcash-fast-event/1"
+}
