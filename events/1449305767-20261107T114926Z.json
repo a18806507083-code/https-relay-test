@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T11:46:03Z",
+    "description": "Coordinated wallet clusters in the TTWO/USDG v3 pool on Robinhood Chain, 5 Nov 2026",
+    "detected_at": "2026-11-07T11:49:26Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "arabianhorses/ttwo-wallet-clusters-nov26",
+    "homepage": null,
+    "html_url": "https://github.com/arabianhorses/ttwo-wallet-clusters-nov26",
+    "pushed_at": "2026-11-07T11:46:08Z",
+    "repo_id": 1449305767,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
