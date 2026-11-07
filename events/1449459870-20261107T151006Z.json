@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T15:00:57Z",
+    "description": "Launch Conditionals on Robinhood Chain using the existing v4 hook launch configuration. The token name must be exactly Conditionals, and its symbol must be exactly CONDITIONALS (12 characters). Do not shorten, truncate, or substitute the symbol. Keep every other existing setting unchanged, including the token supply, allocation, paired currency,...",
+    "detected_at": "2026-11-07T15:10:06Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-3111-conditionals",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3111-conditionals",
+    "pushed_at": "2026-11-07T15:01:01Z",
+    "repo_id": 1449459870,
+    "score": 7,
+    "tech_signals": [
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
