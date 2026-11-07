@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T19:33:26Z",
+    "description": "Public immutable source mirror of the already-selected CLAUS v51 hook/vault pair for the required Robinhood4663 independent audit. No new token, app, funding or deployment.",
+    "detected_at": "2026-11-07T20:23:10Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "contractclaus/claus-claus-buyback-v51-review-d346f54c",
+    "homepage": null,
+    "html_url": "https://github.com/contractclaus/claus-claus-buyback-v51-review-d346f54c",
+    "pushed_at": "2026-11-07T20:21:04Z",
+    "repo_id": 1449677651,
+    "score": 6,
+    "tech_signals": [
+      "Hook",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
