@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T08:13:57Z",
+    "description": null,
+    "detected_at": "2026-11-07T08:21:36Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "onlytrifiz/elysium-tools",
+    "homepage": null,
+    "html_url": "https://github.com/onlytrifiz/elysium-tools",
+    "pushed_at": "2026-11-07T08:15:47Z",
+    "repo_id": 1449159844,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad",
+      "Bridge",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
