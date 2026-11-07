@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-07T14:25:11Z",
+  "last_run_at": "2026-11-07T14:31:05Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-07T13:49:34Z",
+      "cutoff": "2026-11-07T13:55:11Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-07T13:49:34Z",
-      "matches": 0,
+      "cutoff": "2026-11-07T13:55:11Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-07T13:49:34Z",
+      "cutoff": "2026-11-07T13:55:11Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-07T13:49:34Z",
+      "cutoff": "2026-11-07T13:55:11Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2501,6 +2501,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3043",
       "first_seen_at": "2026-11-07T03:14:03Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59016": {
+      "created_at": "2026-11-07T14:28:48.483Z",
+      "display": "59016 Retroactive Grant Application - Zecblock",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3065",
+      "first_seen_at": "2026-11-07T14:31:05Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -10627,9 +10635,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-07T14:25:11Z",
-    "forum": "2026-11-07T14:25:11Z",
-    "github": "2026-11-07T14:25:11Z",
-    "zcg": "2026-11-07T14:25:11Z"
+    "fixed_orgs": "2026-11-07T14:31:05Z",
+    "forum": "2026-11-07T14:31:05Z",
+    "github": "2026-11-07T14:31:05Z",
+    "zcg": "2026-11-07T14:31:05Z"
   }
 }
