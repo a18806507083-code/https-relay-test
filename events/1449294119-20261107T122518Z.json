@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T11:29:42Z",
+    "description": "Buried now. Dug up at 1M. Messages on Robinhood Chain that get dug up at a Pons token's market cap.",
+    "detected_at": "2026-11-07T12:25:18Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Diggd-Solana/diggd",
+    "homepage": "https://diggd.fun",
+    "html_url": "https://github.com/Diggd-Solana/diggd",
+    "pushed_at": "2026-11-07T12:17:15Z",
+    "repo_id": 1449294119,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
