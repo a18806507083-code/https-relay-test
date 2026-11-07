@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T03:07:56Z",
+    "description": "Mirror of morluto/rea-awesome-mcp-servers",
+    "detected_at": "2026-11-07T03:13:54Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "org-morluto/rea-awesome-mcp-servers",
+    "homepage": null,
+    "html_url": "https://github.com/org-morluto/rea-awesome-mcp-servers",
+    "pushed_at": "2026-11-07T03:08:01Z",
+    "repo_id": 1448977271,
+    "score": 11,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Bridge",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
