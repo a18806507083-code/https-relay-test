@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T08:33:01Z",
+    "description": "Certified split-routing swap solver for Ethereum, BNB Smart Chain and Robinhood Chain: exact pool models, a duality-gap certificate, and Settler transaction encoding.",
+    "detected_at": "2026-11-07T08:33:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "labrinyang/sextant",
+    "homepage": null,
+    "html_url": "https://github.com/labrinyang/sextant",
+    "pushed_at": "2026-11-07T08:33:27Z",
+    "repo_id": 1449172097,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
