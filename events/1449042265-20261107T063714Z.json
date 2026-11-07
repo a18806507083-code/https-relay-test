@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T05:01:12Z",
+    "description": null,
+    "detected_at": "2026-11-07T06:37:14Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "heph-fleet/heph",
+    "homepage": null,
+    "html_url": "https://github.com/heph-fleet/heph",
+    "pushed_at": "2026-11-07T06:31:22Z",
+    "repo_id": 1449042265,
+    "score": 18,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
