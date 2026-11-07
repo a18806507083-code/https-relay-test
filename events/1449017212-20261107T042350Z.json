@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T04:17:21Z",
+    "description": "Describe it. Watch it build. Keep every file. Open-source app studio, your model, your code. $LATHE holders get in.",
+    "detected_at": "2026-11-07T04:23:50Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Lathe-ai/Lathe",
+    "homepage": null,
+    "html_url": "https://github.com/Lathe-ai/Lathe",
+    "pushed_at": "2026-11-07T04:21:31Z",
+    "repo_id": 1449017212,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
