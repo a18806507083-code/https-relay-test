@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T17:13:25Z",
+    "description": "GODS OF IMD: the on-chain contracts (ERC-721 souls with Marks, Oracle Shrine), deployed through IMD's launch",
+    "detected_at": "2026-11-07T17:16:41Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "RobertKodes/godsofimd-contracts",
+    "homepage": null,
+    "html_url": "https://github.com/RobertKodes/godsofimd-contracts",
+    "pushed_at": "2026-11-07T17:13:31Z",
+    "repo_id": 1449571214,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
