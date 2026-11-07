@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T00:14:09.761Z",
+    "detected_at": "2026-11-07T00:29:49Z",
+    "display": "58990 An Ode to Rough Consensus",
+    "key": "forum:58990",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "an-ode-to-rough-consensus",
+      "title": "An Ode to Rough Consensus",
+      "topic_id": 58990
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58990,
+    "url": "https://forum.zcashcommunity.com/t/an-ode-to-rough-consensus/58990"
+  },
+  "schema": "zcash-fast-event/1"
+}
