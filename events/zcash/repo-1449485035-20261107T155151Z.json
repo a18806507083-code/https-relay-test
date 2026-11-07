@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T15:29:54Z",
+    "detected_at": "2026-11-07T15:51:51Z",
+    "display": "marcocaretti1988-dev/-L-inverno-lungo",
+    "key": "repo:1449485035",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "marcocaretti1988-dev/-L-inverno-lungo",
+      "homepage": null,
+      "pushed_at": "2026-11-07T15:48:03Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1449485035,
+    "url": "https://github.com/marcocaretti1988-dev/-L-inverno-lungo"
+  },
+  "schema": "zcash-fast-event/1"
+}
