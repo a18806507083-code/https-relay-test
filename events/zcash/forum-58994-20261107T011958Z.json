@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-07T01:17:22.530Z",
+    "detected_at": "2026-11-07T01:19:58Z",
+    "display": "58994 Grant Application — PodZcash: an open-source audio platform for the Zcash ecosystem",
+    "key": "forum:58994",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-podzcash-an-open-source-audio-platform-for-the-zcash-ecosystem",
+      "title": "Grant Application — PodZcash: an open-source audio platform for the Zcash ecosystem",
+      "topic_id": 58994
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 58994,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-podzcash-an-open-source-audio-platform-for-the-zcash-ecosystem/58994"
+  },
+  "schema": "zcash-fast-event/1"
+}
