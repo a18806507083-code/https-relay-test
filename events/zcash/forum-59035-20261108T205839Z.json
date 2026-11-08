@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T20:56:24.322Z",
+    "detected_at": "2026-11-08T20:58:39Z",
+    "display": "59035 Proposal: Lower Zcash block target spacing from 25s to 20s",
+    "key": "forum:59035",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "proposal-lower-zcash-block-target-spacing-from-25s-to-20s",
+      "title": "Proposal: Lower Zcash block target spacing from 25s to 20s",
+      "topic_id": 59035
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59035,
+    "url": "https://forum.zcashcommunity.com/t/proposal-lower-zcash-block-target-spacing-from-25s-to-20s/59035"
+  },
+  "schema": "zcash-fast-event/1"
+}
