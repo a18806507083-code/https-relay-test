@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T23:26:30Z",
+    "detected_at": "2026-11-08T23:33:31Z",
+    "display": "ReardonYang/agent-verified-apis",
+    "key": "repo:1450748067",
+    "metadata": {
+      "description": "Free public APIs, verified by agents, for agents — a living registry with live status, measured HTTPS/CORS and real free-tier facts, every field stamped with when it was last observed.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ReardonYang/agent-verified-apis",
+      "homepage": null,
+      "pushed_at": "2026-11-08T23:29:02Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1450748067,
+    "url": "https://github.com/ReardonYang/agent-verified-apis"
+  },
+  "schema": "zcash-fast-event/1"
+}
