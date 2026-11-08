@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T00:46:45.311Z",
+    "detected_at": "2026-11-08T00:50:41Z",
+    "display": "59026 When We Disagree: Making Rough Consensus Work",
+    "key": "forum:59026",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "when-we-disagree-making-rough-consensus-work",
+      "title": "When We Disagree: Making Rough Consensus Work",
+      "topic_id": 59026
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59026,
+    "url": "https://forum.zcashcommunity.com/t/when-we-disagree-making-rough-consensus-work/59026"
+  },
+  "schema": "zcash-fast-event/1"
+}
