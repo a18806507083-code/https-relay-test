@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T05:25:38Z",
+    "description": "ABIs, addresses and TypeScript types for integrating Kyte",
+    "detected_at": "2026-11-08T05:29:26Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "usekyte-org/kyte-abis",
+    "homepage": "https://kyte.sh",
+    "html_url": "https://github.com/usekyte-org/kyte-abis",
+    "pushed_at": "2026-11-08T05:25:44Z",
+    "repo_id": 1450000477,
+    "score": 18,
+    "tech_signals": [
+      "Uniswap",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
