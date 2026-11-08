@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T11:59:52Z",
+    "detected_at": "2026-11-08T12:01:58Z",
+    "display": "apeirs/nymdial",
+    "key": "repo:1450240485",
+    "metadata": {
+      "description": "In-process TCP/TLS through the Nym mixnet for Rust wallets: exit selection and failover, DNS over the mixnet, timeouts (on nym-smolmix)",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "apeirs/nymdial",
+      "homepage": null,
+      "pushed_at": "2026-11-08T11:59:58Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1450240485,
+    "url": "https://github.com/apeirs/nymdial"
+  },
+  "schema": "zcash-fast-event/1"
+}
