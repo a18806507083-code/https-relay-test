@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T05:24:55Z",
+    "description": "The $KYTE staking pool, fee vault and buyback burner, with tests",
+    "detected_at": "2026-11-08T05:29:26Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "usekyte-org/Kyte-StakingPool",
+    "homepage": "https://kyte.sh",
+    "html_url": "https://github.com/usekyte-org/Kyte-StakingPool",
+    "pushed_at": "2026-11-08T05:25:02Z",
+    "repo_id": 1450000115,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
