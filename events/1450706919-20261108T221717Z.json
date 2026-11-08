@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T22:15:03Z",
+    "description": "Launch one contract in this repository on Robinhood Chain without changing its logic: src/ConditionalsFacts.sol:ConditionalsFacts, constructor (address owner = $owner, IERC20 imd = 0x5f7bb59365ce557c26dbcaa4ee9d39a4b95b7127, IIntake intake = 0xa43e6f75ee006411f79ac1c84120606c2330de82, address oracleSigner = 0x5598aa9146215bc13eb26f2c692ad1461fd3...",
+    "detected_at": "2026-11-08T22:17:17Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-3160-launch-one-contract-repository",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3160-launch-one-contract-repository",
+    "pushed_at": "2026-11-08T22:15:08Z",
+    "repo_id": 1450706919,
+    "score": 8,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
