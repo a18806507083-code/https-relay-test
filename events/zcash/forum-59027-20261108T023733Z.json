@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T02:32:20.019Z",
+    "detected_at": "2026-11-08T02:37:33Z",
+    "display": "59027 The ZCG Lockbox: One Tap Off, the Bigger One Left Running",
+    "key": "forum:59027",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "the-zcg-lockbox-one-tap-off-the-bigger-one-left-running",
+      "title": "The ZCG Lockbox: One Tap Off, the Bigger One Left Running",
+      "topic_id": 59027
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59027,
+    "url": "https://forum.zcashcommunity.com/t/the-zcg-lockbox-one-tap-off-the-bigger-one-left-running/59027"
+  },
+  "schema": "zcash-fast-event/1"
+}
