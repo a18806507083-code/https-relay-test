@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T02:51:55Z",
+    "description": "Kyte options market on Robinhood Chain, inside Claude, ChatGPT, Cursor, Codex and Gemini. MCP: https://kyte.sh/api/mcp",
+    "detected_at": "2026-11-08T02:55:08Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "usekyte-org/kyte-mcp",
+    "homepage": "https://kyte.sh/mcp",
+    "html_url": "https://github.com/usekyte-org/kyte-mcp",
+    "pushed_at": "2026-11-08T02:52:00Z",
+    "repo_id": 1449921453,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
