@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T16:05:21Z",
+    "description": "An open-source AI agent for Robinhood Chain: swaps, new launches, launch checks, perps on Arcus and Lighter, reopen watch, bridging. Your keys stay on your computer.",
+    "detected_at": "2026-11-08T16:08:56Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "noctenna-lab/noctenna",
+    "homepage": null,
+    "html_url": "https://github.com/noctenna-lab/noctenna",
+    "pushed_at": "2026-11-08T16:05:22Z",
+    "repo_id": 1450436036,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
