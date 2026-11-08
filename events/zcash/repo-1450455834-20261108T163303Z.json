@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T16:29:24Z",
+    "detected_at": "2026-11-08T16:33:03Z",
+    "display": "diegofebbe/Tascabestie",
+    "key": "repo:1450455834",
+    "metadata": {
+      "description": "A retro monster-catching game for your phone’s browser: 56 original creatures, turn-based battles and a full adventure in a single HTML file.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "diegofebbe/Tascabestie",
+      "homepage": null,
+      "pushed_at": "2026-11-08T16:30:08Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1450455834,
+    "url": "https://github.com/diegofebbe/Tascabestie"
+  },
+  "schema": "zcash-fast-event/1"
+}
