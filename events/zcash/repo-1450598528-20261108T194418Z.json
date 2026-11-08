@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T19:34:48Z",
+    "detected_at": "2026-11-08T19:44:18Z",
+    "display": "tomasvanagas/bitlitas-pool",
+    "key": "repo:1450598528",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "tomasvanagas/bitlitas-pool",
+      "homepage": null,
+      "pushed_at": "2026-11-08T19:38:33Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1450598528,
+    "url": "https://github.com/tomasvanagas/bitlitas-pool"
+  },
+  "schema": "zcash-fast-event/1"
+}
