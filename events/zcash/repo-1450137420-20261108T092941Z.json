@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T09:20:15Z",
+    "detected_at": "2026-11-08T09:29:41Z",
+    "display": "zcash-dev-hub/zcash-donation-widget",
+    "key": "repo:1450137420",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "zcash-dev-hub/zcash-donation-widget",
+      "homepage": null,
+      "pushed_at": "2026-11-08T09:24:01Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1450137420,
+    "url": "https://github.com/zcash-dev-hub/zcash-donation-widget"
+  },
+  "schema": "zcash-fast-event/1"
+}
