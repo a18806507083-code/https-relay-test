@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T05:15:59Z",
+    "description": null,
+    "detected_at": "2026-11-08T05:23:51Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "nocturn-ai-developer/amba",
+    "homepage": null,
+    "html_url": "https://github.com/nocturn-ai-developer/amba",
+    "pushed_at": "2026-11-08T05:22:51Z",
+    "repo_id": 1449995378,
+    "score": 15,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
