@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T09:18:56Z",
+    "description": "SniperCoin scanner backend",
+    "detected_at": "2026-11-08T09:23:38Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "zayntamsan-a11y/snipercoin-backend",
+    "homepage": null,
+    "html_url": "https://github.com/zayntamsan-a11y/snipercoin-backend",
+    "pushed_at": "2026-11-08T09:19:02Z",
+    "repo_id": 1450136634,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
