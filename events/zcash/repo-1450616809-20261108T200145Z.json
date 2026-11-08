@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T19:59:50Z",
+    "detected_at": "2026-11-08T20:01:45Z",
+    "display": "ChinmayGopal931/zecSwap",
+    "key": "repo:1450616809",
+    "metadata": {
+      "description": "Non-custodial swaps of shielded ZEC for USDC, both ways: a split spend key, an Ethereum contract that checks the revealed half on Pallas, payouts into Railgun.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "ChinmayGopal931/zecSwap",
+      "homepage": null,
+      "pushed_at": "2026-11-08T20:00:11Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1450616809,
+    "url": "https://github.com/ChinmayGopal931/zecSwap"
+  },
+  "schema": "zcash-fast-event/1"
+}
