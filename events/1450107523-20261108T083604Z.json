@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T08:32:41Z",
+    "description": "Chain-agnostic corporate actions + beneficial ownership engine for tokenized stocks / RWAs. With consumer positions viewer.",
+    "detected_at": "2026-11-08T08:36:04Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Godwin-web3/oms-ca-core",
+    "homepage": null,
+    "html_url": "https://github.com/Godwin-web3/oms-ca-core",
+    "pushed_at": "2026-11-08T08:33:20Z",
+    "repo_id": 1450107523,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
