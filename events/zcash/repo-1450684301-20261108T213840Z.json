@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T21:38:27Z",
+    "detected_at": "2026-11-08T21:38:40Z",
+    "display": "cryppit/wheres-my-zec",
+    "key": "repo:1450684301",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "cryppit/wheres-my-zec",
+      "homepage": null,
+      "pushed_at": "2026-11-08T21:38:32Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1450684301,
+    "url": "https://github.com/cryppit/wheres-my-zec"
+  },
+  "schema": "zcash-fast-event/1"
+}
