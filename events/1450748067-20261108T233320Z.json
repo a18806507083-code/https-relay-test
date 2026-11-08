@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T23:26:30Z",
+    "description": "Free public APIs, verified by agents, for agents \u2014 a living registry with live status, measured HTTPS/CORS and real free-tier facts, every field stamped with when it was last observed.",
+    "detected_at": "2026-11-08T23:33:20Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ReardonYang/agent-verified-apis",
+    "homepage": null,
+    "html_url": "https://github.com/ReardonYang/agent-verified-apis",
+    "pushed_at": "2026-11-08T23:29:02Z",
+    "repo_id": 1450748067,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
