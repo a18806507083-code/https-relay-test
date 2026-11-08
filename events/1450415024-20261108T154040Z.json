@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T15:40:09Z",
+    "description": "The contracts of Texel on Robinhood Chain: TexelReceipts and TexelEarn.",
+    "detected_at": "2026-11-08T15:40:40Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "texellabs/contracts",
+    "homepage": "https://texel.run",
+    "html_url": "https://github.com/texellabs/contracts",
+    "pushed_at": "2026-11-08T15:40:28Z",
+    "repo_id": 1450415024,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
