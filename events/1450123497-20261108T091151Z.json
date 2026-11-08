@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-08T08:58:12Z",
+    "description": "Halyte reads the 14 v4 permission bits of any hook straight off its address, keeps a permissionless on-chain registry of hooks, quotes through pools with the hook executed inside the quote, and swaps from the user's own wallet. No custody, no owner, no admin keys \u2014 anywhere in this repository.",
+    "detected_at": "2026-11-08T09:11:51Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "Halyte-Labs/contracts",
+    "homepage": null,
+    "html_url": "https://github.com/Halyte-Labs/contracts",
+    "pushed_at": "2026-11-08T08:59:16Z",
+    "repo_id": 1450123497,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
