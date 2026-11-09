@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-09T18:31:19Z",
+  "last_run_at": "2026-11-09T18:37:33Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-09T17:55:15Z",
+      "cutoff": "2026-11-09T18:01:19Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-09T17:55:15Z",
+      "cutoff": "2026-11-09T18:01:19Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-09T17:55:15Z",
+      "cutoff": "2026-11-09T18:01:19Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-09T17:55:15Z",
-      "matches": 1,
+      "cutoff": "2026-11-09T18:01:19Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -10982,14 +10982,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3173",
       "first_seen_at": "2026-11-09T18:25:15Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6292242961": {
+      "created_at": "2026-11-09T18:33:33Z",
+      "display": "#546 Grant Application -Tranfr — Programmable Asset Continuity for Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3174",
+      "first_seen_at": "2026-11-09T18:37:33Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-09T18:31:19Z",
-    "forum": "2026-11-09T18:31:19Z",
-    "github": "2026-11-09T18:31:19Z",
-    "zcg": "2026-11-09T18:31:19Z"
+    "fixed_orgs": "2026-11-09T18:37:33Z",
+    "forum": "2026-11-09T18:37:33Z",
+    "github": "2026-11-09T18:37:33Z",
+    "zcg": "2026-11-09T18:37:33Z"
   }
 }
