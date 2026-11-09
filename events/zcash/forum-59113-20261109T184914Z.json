@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T18:44:04.097Z",
+    "detected_at": "2026-11-09T18:49:14Z",
+    "display": "59113 Grant Application - Celari: independent security audit and hardening of an open-source browser wallet",
+    "key": "forum:59113",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-celari-independent-security-audit-and-hardening-of-an-open-source-browser-wallet",
+      "title": "Grant Application - Celari: independent security audit and hardening of an open-source browser wallet",
+      "topic_id": 59113
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59113,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-celari-independent-security-audit-and-hardening-of-an-open-source-browser-wallet/59113"
+  },
+  "schema": "zcash-fast-event/1"
+}
