@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T18:33:33Z",
+    "detected_at": "2026-11-09T18:37:33Z",
+    "display": "#546 Grant Application -Tranfr — Programmable Asset Continuity for Zcash",
+    "key": "zcg:6292242961",
+    "metadata": {
+      "author": "sidelaw",
+      "issue_number": 546,
+      "labels": [],
+      "title": "Grant Application -Tranfr — Programmable Asset Continuity for Zcash"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6292242961,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/546"
+  },
+  "schema": "zcash-fast-event/1"
+}
