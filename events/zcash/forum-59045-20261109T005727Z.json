@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T00:54:16.913Z",
+    "detected_at": "2026-11-09T00:57:27Z",
+    "display": "59045 ZIP: Minimum Human Participation in Coinholder Votes",
+    "key": "forum:59045",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zip-minimum-human-participation-in-coinholder-votes",
+      "title": "ZIP: Minimum Human Participation in Coinholder Votes",
+      "topic_id": 59045
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59045,
+    "url": "https://forum.zcashcommunity.com/t/zip-minimum-human-participation-in-coinholder-votes/59045"
+  },
+  "schema": "zcash-fast-event/1"
+}
