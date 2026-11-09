@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T11:10:41Z",
+    "description": "Kyte options market for Hermes Agent: skills + MCP config. Read and prepare only; you sign.",
+    "detected_at": "2026-11-09T11:15:18Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "usekyte-org/hermes-kyte",
+    "homepage": null,
+    "html_url": "https://github.com/usekyte-org/hermes-kyte",
+    "pushed_at": "2026-11-09T11:10:48Z",
+    "repo_id": 1451263817,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
