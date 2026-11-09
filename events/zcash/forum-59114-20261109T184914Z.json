@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T18:47:49.999Z",
+    "detected_at": "2026-11-09T18:49:14Z",
+    "display": "59114 Retroactive Grant Application - zec_wallet: shielded Zcash for any Flutter app",
+    "key": "forum:59114",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zec-wallet-shielded-zcash-for-any-flutter-app",
+      "title": "Retroactive Grant Application - zec_wallet: shielded Zcash for any Flutter app",
+      "topic_id": 59114
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59114,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zec-wallet-shielded-zcash-for-any-flutter-app/59114"
+  },
+  "schema": "zcash-fast-event/1"
+}
