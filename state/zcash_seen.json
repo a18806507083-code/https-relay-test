@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-09T19:58:44Z",
+  "last_run_at": "2026-11-09T20:11:43Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-09T19:23:09Z",
+      "cutoff": "2026-11-09T19:28:44Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-09T19:23:09Z",
-      "matches": 0,
+      "cutoff": "2026-11-09T19:28:44Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-09T19:23:09Z",
+      "cutoff": "2026-11-09T19:28:44Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-09T19:23:09Z",
+      "cutoff": "2026-11-09T19:28:44Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2701,6 +2701,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3179",
       "first_seen_at": "2026-11-09T19:47:17Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59123": {
+      "created_at": "2026-11-09T20:03:52.102Z",
+      "display": "59123 ZODL Introduces Private Wallet Servers with OHTTP Support",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3180",
+      "first_seen_at": "2026-11-09T20:11:43Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -11019,9 +11027,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-09T19:58:44Z",
-    "forum": "2026-11-09T19:58:44Z",
-    "github": "2026-11-09T19:58:44Z",
-    "zcg": "2026-11-09T19:58:44Z"
+    "fixed_orgs": "2026-11-09T20:11:43Z",
+    "forum": "2026-11-09T20:11:43Z",
+    "github": "2026-11-09T20:11:43Z",
+    "zcg": "2026-11-09T20:11:43Z"
   }
 }
