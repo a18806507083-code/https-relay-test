@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T15:33:18.200Z",
+    "detected_at": "2026-11-09T15:37:57Z",
+    "display": "59109 Retroactive Grant Application - LeekWallet Zcash",
+    "key": "forum:59109",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-leekwallet-zcash",
+      "title": "Retroactive Grant Application - LeekWallet Zcash",
+      "topic_id": 59109
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59109,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-leekwallet-zcash/59109"
+  },
+  "schema": "zcash-fast-event/1"
+}
