@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T01:07:00.643Z",
+    "detected_at": "2026-11-09T01:09:27Z",
+    "display": "59047 ZIP: Expand ZCG to Seven Seats, Adjust Limits",
+    "key": "forum:59047",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zip-expand-zcg-to-seven-seats-adjust-limits",
+      "title": "ZIP: Expand ZCG to Seven Seats, Adjust Limits",
+      "topic_id": 59047
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59047,
+    "url": "https://forum.zcashcommunity.com/t/zip-expand-zcg-to-seven-seats-adjust-limits/59047"
+  },
+  "schema": "zcash-fast-event/1"
+}
