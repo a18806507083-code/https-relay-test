@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T05:59:53Z",
+    "description": "Deploy a virtual VGA on Robinhood Chain, run it from your terminal, and mine ETH or tokenized stocks every hour.",
+    "detected_at": "2026-11-09T06:27:18Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ultravein/ultravein-protocol",
+    "homepage": null,
+    "html_url": "https://github.com/ultravein/ultravein-protocol",
+    "pushed_at": "2026-11-09T06:00:01Z",
+    "repo_id": 1450992436,
+    "score": 10,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
