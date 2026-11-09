@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-09T18:43:18Z",
+  "last_run_at": "2026-11-09T18:49:14Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-09T18:07:33Z",
+      "cutoff": "2026-11-09T18:13:18Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-09T18:07:33Z",
-      "matches": 0,
+      "cutoff": "2026-11-09T18:13:18Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-09T18:07:33Z",
+      "cutoff": "2026-11-09T18:13:18Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-09T18:07:33Z",
+      "cutoff": "2026-11-09T18:13:18Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -2677,6 +2677,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3167",
       "first_seen_at": "2026-11-09T15:37:57Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59113": {
+      "created_at": "2026-11-09T18:44:04.097Z",
+      "display": "59113 Grant Application - Celari: independent security audit and hardening of an open-source browser wallet",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3176",
+      "first_seen_at": "2026-11-09T18:49:14Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59114": {
+      "created_at": "2026-11-09T18:47:49.999Z",
+      "display": "59114 Retroactive Grant Application - zec_wallet: shielded Zcash for any Flutter app",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3175",
+      "first_seen_at": "2026-11-09T18:49:14Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -10995,9 +11011,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-09T18:43:18Z",
-    "forum": "2026-11-09T18:43:18Z",
-    "github": "2026-11-09T18:43:18Z",
-    "zcg": "2026-11-09T18:43:18Z"
+    "fixed_orgs": "2026-11-09T18:49:14Z",
+    "forum": "2026-11-09T18:49:14Z",
+    "github": "2026-11-09T18:49:14Z",
+    "zcg": "2026-11-09T18:49:14Z"
   }
 }
