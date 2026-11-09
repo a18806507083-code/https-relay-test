@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T00:59:48.102Z",
+    "detected_at": "2026-11-09T01:09:27Z",
+    "display": "59046 ZIP: Restriction of ZCG Member Grant Applications",
+    "key": "forum:59046",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zip-restriction-of-zcg-member-grant-applications",
+      "title": "ZIP: Restriction of ZCG Member Grant Applications",
+      "topic_id": 59046
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59046,
+    "url": "https://forum.zcashcommunity.com/t/zip-restriction-of-zcg-member-grant-applications/59046"
+  },
+  "schema": "zcash-fast-event/1"
+}
