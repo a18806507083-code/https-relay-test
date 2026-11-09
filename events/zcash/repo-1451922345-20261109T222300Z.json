@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T21:55:02Z",
+    "detected_at": "2026-11-09T22:23:00Z",
+    "display": "fracabu/studio-app",
+    "key": "repo:1451922345",
+    "metadata": {
+      "description": "App di studio per la prima media: diario, lezioni, quiz e Sbrigo",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "fracabu/studio-app",
+      "homepage": null,
+      "pushed_at": "2026-11-09T22:17:19Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1451922345,
+    "url": "https://github.com/fracabu/studio-app"
+  },
+  "schema": "zcash-fast-event/1"
+}
