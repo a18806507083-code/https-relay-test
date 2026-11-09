@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T08:17:45Z",
+    "description": "PagodaPad is a launchpad where anyone can create a new token on Robinhood Chain and have it trade against a tokenized Chinese stock (like Alibaba or PDD) ",
+    "detected_at": "2026-11-09T08:20:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "bhavyajain0718-design/PagodaPad_V1",
+    "homepage": null,
+    "html_url": "https://github.com/bhavyajain0718-design/PagodaPad_V1",
+    "pushed_at": "2026-11-09T08:19:22Z",
+    "repo_id": 1451101387,
+    "score": 7,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
