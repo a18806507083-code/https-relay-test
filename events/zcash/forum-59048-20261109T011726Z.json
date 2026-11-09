@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T01:11:41.412Z",
+    "detected_at": "2026-11-09T01:17:26Z",
+    "display": "59048 ZIP: Establish the ZCG Treasury Committee",
+    "key": "forum:59048",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zip-establish-the-zcg-treasury-committee",
+      "title": "ZIP: Establish the ZCG Treasury Committee",
+      "topic_id": 59048
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59048,
+    "url": "https://forum.zcashcommunity.com/t/zip-establish-the-zcg-treasury-committee/59048"
+  },
+  "schema": "zcash-fast-event/1"
+}
