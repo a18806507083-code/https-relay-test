@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T13:45:20.646Z",
+    "detected_at": "2026-11-09T13:49:07Z",
+    "display": "59060 PetraPay: Accept any crypto, settle to shielded ZEC (online + POS)",
+    "key": "forum:59060",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "petrapay-accept-any-crypto-settle-to-shielded-zec-online-pos",
+      "title": "PetraPay: Accept any crypto, settle to shielded ZEC (online + POS)",
+      "topic_id": 59060
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59060,
+    "url": "https://forum.zcashcommunity.com/t/petrapay-accept-any-crypto-settle-to-shielded-zec-online-pos/59060"
+  },
+  "schema": "zcash-fast-event/1"
+}
