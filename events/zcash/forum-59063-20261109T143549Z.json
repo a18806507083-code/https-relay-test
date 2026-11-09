@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T14:29:56.975Z",
+    "detected_at": "2026-11-09T14:35:49Z",
+    "display": "59063 Proposal: Funding FPF’s Administrative & Operational Role for the Coinholder-Directed Retroactive Grants Program - 2027 Renewal",
+    "key": "forum:59063",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "proposal-funding-fpf-s-administrative-operational-role-for-the-coinholder-directed-retroactive-grants-program-2027-renewal",
+      "title": "Proposal: Funding FPF’s Administrative & Operational Role for the Coinholder-Directed Retroactive Grants Program - 2027 Renewal",
+      "topic_id": 59063
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59063,
+    "url": "https://forum.zcashcommunity.com/t/proposal-funding-fpf-s-administrative-operational-role-for-the-coinholder-directed-retroactive-grants-program-2027-renewal/59063"
+  },
+  "schema": "zcash-fast-event/1"
+}
