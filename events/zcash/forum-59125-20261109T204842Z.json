@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T20:48:24.166Z",
+    "detected_at": "2026-11-09T20:48:42Z",
+    "display": "59125 STARK verification on Zebra Regtest — a prototype, benchmarks, and privacy trade-offs",
+    "key": "forum:59125",
+    "metadata": {
+      "category_id": 23,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "stark-verification-on-zebra-regtest-a-prototype-benchmarks-and-privacy-trade-offs",
+      "title": "STARK verification on Zebra Regtest — a prototype, benchmarks, and privacy trade-offs",
+      "topic_id": 59125
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59125,
+    "url": "https://forum.zcashcommunity.com/t/stark-verification-on-zebra-regtest-a-prototype-benchmarks-and-privacy-trade-offs/59125"
+  },
+  "schema": "zcash-fast-event/1"
+}
