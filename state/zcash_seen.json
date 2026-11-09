@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-09T20:23:43Z",
+  "last_run_at": "2026-11-09T20:30:00Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-09T19:47:48Z",
+      "cutoff": "2026-11-09T19:53:43Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-09T19:47:48Z",
-      "matches": 1,
+      "cutoff": "2026-11-09T19:53:43Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-09T19:47:48Z",
+      "cutoff": "2026-11-09T19:53:43Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-09T19:47:48Z",
+      "cutoff": "2026-11-09T19:53:43Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2709,6 +2709,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3180",
       "first_seen_at": "2026-11-09T20:11:43Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59124": {
+      "created_at": "2026-11-09T20:29:45.387Z",
+      "display": "59124 Vision for January 2027",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3181",
+      "first_seen_at": "2026-11-09T20:30:00Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -11027,9 +11035,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-09T20:23:43Z",
-    "forum": "2026-11-09T20:23:43Z",
-    "github": "2026-11-09T20:23:43Z",
-    "zcg": "2026-11-09T20:23:43Z"
+    "fixed_orgs": "2026-11-09T20:30:00Z",
+    "forum": "2026-11-09T20:30:00Z",
+    "github": "2026-11-09T20:30:00Z",
+    "zcg": "2026-11-09T20:30:00Z"
   }
 }
