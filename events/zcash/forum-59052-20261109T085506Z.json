@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T08:54:01.738Z",
+    "detected_at": "2026-11-09T08:55:06Z",
+    "display": "59052 A look at Tachyon and Ragu",
+    "key": "forum:59052",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "a-look-at-tachyon-and-ragu",
+      "title": "A look at Tachyon and Ragu",
+      "topic_id": 59052
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59052,
+    "url": "https://forum.zcashcommunity.com/t/a-look-at-tachyon-and-ragu/59052"
+  },
+  "schema": "zcash-fast-event/1"
+}
