@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-10-27T04:31:37Z",
+    "detected_at": "2026-10-27T05:40:14Z",
+    "display": "kodaneflash/larp-ledger-wallet-ios-clone",
+    "key": "repo:1435246917",
+    "metadata": {
+      "description": "Ledger iOS wallet app clone IPA by Larp Apps: crypto portfolio, BTC accounts, send/receive history, swap, and device-flow UI demos.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "kodaneflash/larp-ledger-wallet-ios-clone",
+      "homepage": "https://larpapps.com/ledger",
+      "pushed_at": "2026-10-27T05:09:26Z",
+      "tech_signals": [
+        "wallet/payment",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1435246917,
+    "url": "https://github.com/kodaneflash/larp-ledger-wallet-ios-clone"
+  },
+  "schema": "zcash-fast-event/1"
+}
