@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-09T11:15:27Z",
+  "last_run_at": "2026-11-09T11:21:41Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-09T10:38:26Z",
+      "cutoff": "2026-11-09T10:45:27Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-09T10:38:26Z",
-      "matches": 0,
+      "cutoff": "2026-11-09T10:45:27Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-09T10:38:26Z",
+      "cutoff": "2026-11-09T10:45:27Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-09T10:38:26Z",
+      "cutoff": "2026-11-09T10:45:27Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2645,6 +2645,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3153",
       "first_seen_at": "2026-11-09T09:18:48Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59056": {
+      "created_at": "2026-11-09T11:17:21.189Z",
+      "display": "59056 Retroactive Grant Application: Zallet deadlock fix, wallet bug fixes, new features and zcashd RPC parity",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3158",
+      "first_seen_at": "2026-11-09T11:21:41Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -10915,9 +10923,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-09T11:15:27Z",
-    "forum": "2026-11-09T11:15:27Z",
-    "github": "2026-11-09T11:15:27Z",
-    "zcg": "2026-11-09T11:15:27Z"
+    "fixed_orgs": "2026-11-09T11:21:41Z",
+    "forum": "2026-11-09T11:21:41Z",
+    "github": "2026-11-09T11:21:41Z",
+    "zcg": "2026-11-09T11:21:41Z"
   }
 }
