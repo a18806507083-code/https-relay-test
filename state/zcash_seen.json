@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-09T14:00:45Z",
+  "last_run_at": "2026-11-09T14:14:36Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-09T13:24:58Z",
+      "cutoff": "2026-11-09T13:30:45Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
       "cutoff": "2026-11-09T13:24:58Z",
-      "error": "HTTP Error 429: Too Many Requests",
-      "status": "FAIL"
+      "matches": 1,
+      "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-09T13:24:58Z",
+      "cutoff": "2026-11-09T13:30:45Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-09T13:24:58Z",
+      "cutoff": "2026-11-09T13:30:45Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -10955,9 +10955,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-09T14:00:45Z",
-    "forum": "2026-11-09T13:54:58Z",
-    "github": "2026-11-09T14:00:45Z",
-    "zcg": "2026-11-09T14:00:45Z"
+    "fixed_orgs": "2026-11-09T14:14:36Z",
+    "forum": "2026-11-09T14:14:36Z",
+    "github": "2026-11-09T14:14:36Z",
+    "zcg": "2026-11-09T14:14:36Z"
   }
 }
