@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T07:04:46Z",
+    "description": "A parallel world for Robinhood Chain: AI trader crowds on a private fork, every result hashed and committed on-chain.",
+    "detected_at": "2026-11-09T07:15:45Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "hyvorun/hyvo",
+    "homepage": "https://hyvo.run",
+    "html_url": "https://github.com/hyvorun/hyvo",
+    "pushed_at": "2026-11-09T07:04:47Z",
+    "repo_id": 1451040236,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
