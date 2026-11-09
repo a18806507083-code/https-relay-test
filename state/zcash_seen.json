@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-09T00:51:41Z",
+  "last_run_at": "2026-11-09T00:57:27Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-09T00:07:41Z",
+      "cutoff": "2026-11-09T00:21:41Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-09T00:07:41Z",
+      "cutoff": "2026-11-09T00:21:41Z",
       "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-09T00:07:41Z",
+      "cutoff": "2026-11-09T00:21:41Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-09T00:07:41Z",
+      "cutoff": "2026-11-09T00:21:41Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2589,6 +2589,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3135",
       "first_seen_at": "2026-11-09T00:51:41Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59045": {
+      "created_at": "2026-11-09T00:54:16.913Z",
+      "display": "59045 ZIP: Minimum Human Participation in Coinholder Votes",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3136",
+      "first_seen_at": "2026-11-09T00:57:27Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -10851,9 +10859,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-09T00:51:41Z",
-    "forum": "2026-11-09T00:51:41Z",
-    "github": "2026-11-09T00:51:41Z",
-    "zcg": "2026-11-09T00:51:41Z"
+    "fixed_orgs": "2026-11-09T00:57:27Z",
+    "forum": "2026-11-09T00:57:27Z",
+    "github": "2026-11-09T00:57:27Z",
+    "zcg": "2026-11-09T00:57:27Z"
   }
 }
