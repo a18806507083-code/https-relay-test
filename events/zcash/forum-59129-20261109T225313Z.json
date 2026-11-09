@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T22:49:31.506Z",
+    "detected_at": "2026-11-09T22:53:13Z",
+    "display": "59129 Retroactive Grant Application - Mirage: a linkability guard inside the Zcash send flow",
+    "key": "forum:59129",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-mirage-a-linkability-guard-inside-the-zcash-send-flow",
+      "title": "Retroactive Grant Application - Mirage: a linkability guard inside the Zcash send flow",
+      "topic_id": 59129
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59129,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-mirage-a-linkability-guard-inside-the-zcash-send-flow/59129"
+  },
+  "schema": "zcash-fast-event/1"
+}
