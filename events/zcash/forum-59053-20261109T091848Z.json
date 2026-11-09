@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T09:11:44.848Z",
+    "detected_at": "2026-11-09T09:18:48Z",
+    "display": "59053 Lockbox Retroactive Grant Application: zcash-donation-widget",
+    "key": "forum:59053",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "lockbox-retroactive-grant-application-zcash-donation-widget",
+      "title": "Lockbox Retroactive Grant Application: zcash-donation-widget",
+      "topic_id": 59053
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59053,
+    "url": "https://forum.zcashcommunity.com/t/lockbox-retroactive-grant-application-zcash-donation-widget/59053"
+  },
+  "schema": "zcash-fast-event/1"
+}
