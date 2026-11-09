@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T17:59:40Z",
+    "description": null,
+    "detected_at": "2026-11-09T18:54:39Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Emediong-Etuk/Flat-Circle",
+    "homepage": null,
+    "html_url": "https://github.com/Emediong-Etuk/Flat-Circle",
+    "pushed_at": "2026-11-09T18:50:35Z",
+    "repo_id": 1451703782,
+    "score": 5,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
