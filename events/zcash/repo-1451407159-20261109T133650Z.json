@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T13:32:17Z",
+    "detected_at": "2026-11-09T13:36:50Z",
+    "display": "ChristianFio/kaean-warlock",
+    "key": "repo:1451407159",
+    "metadata": {
+      "description": "Scheda interattiva di Kaean, tiefling warlock (D&D 224), campagna Dorekhan",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "ChristianFio/kaean-warlock",
+      "homepage": null,
+      "pushed_at": "2026-11-09T13:34:42Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1451407159,
+    "url": "https://github.com/ChristianFio/kaean-warlock"
+  },
+  "schema": "zcash-fast-event/1"
+}
