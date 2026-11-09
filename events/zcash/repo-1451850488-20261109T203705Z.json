@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T20:33:23Z",
+    "detected_at": "2026-11-09T20:37:05Z",
+    "display": "gsibuilder/hd-wallet-suite",
+    "key": "repo:1451850488",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "gsibuilder/hd-wallet-suite",
+      "homepage": null,
+      "pushed_at": "2026-11-09T20:35:20Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1451850488,
+    "url": "https://github.com/gsibuilder/hd-wallet-suite"
+  },
+  "schema": "zcash-fast-event/1"
+}
