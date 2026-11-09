@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T23:23:51.346Z",
+    "detected_at": "2026-11-09T23:26:59Z",
+    "display": "59132 Retroactive Grant Application - ShapeShift",
+    "key": "forum:59132",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-shapeshift",
+      "title": "Retroactive Grant Application - ShapeShift",
+      "topic_id": 59132
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59132,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-shapeshift/59132"
+  },
+  "schema": "zcash-fast-event/1"
+}
