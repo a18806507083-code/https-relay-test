@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-09T11:24:24Z",
+    "detected_at": "2026-11-09T11:27:09Z",
+    "display": "DeSaint007/zcash-quest-tools",
+    "key": "repo:1451276570",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "librustzcash"
+      ],
+      "full_name": "DeSaint007/zcash-quest-tools",
+      "homepage": null,
+      "pushed_at": "2026-11-09T11:25:10Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1451276570,
+    "url": "https://github.com/DeSaint007/zcash-quest-tools"
+  },
+  "schema": "zcash-fast-event/1"
+}
