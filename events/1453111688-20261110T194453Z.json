@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T19:39:40Z",
+    "description": "APIs sold by the call to AI agents, paid in USDG on Robinhood Chain, straight to the seller.",
+    "detected_at": "2026-11-10T19:44:53Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "Use-Hawker/hawker",
+    "homepage": null,
+    "html_url": "https://github.com/Use-Hawker/hawker",
+    "pushed_at": "2026-11-10T19:40:38Z",
+    "repo_id": 1453111688,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
