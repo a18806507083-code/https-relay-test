@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T15:19:27Z",
+    "detected_at": "2026-11-10T15:20:01Z",
+    "display": "hudwqni1959/swapio-x402-telegram-bot",
+    "key": "repo:1452832178",
+    "metadata": {
+      "description": "Public contribution samples for Zcash community bounties",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "hudwqni1959/swapio-x402-telegram-bot",
+      "homepage": null,
+      "pushed_at": "2026-11-10T15:19:39Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452832178,
+    "url": "https://github.com/hudwqni1959/swapio-x402-telegram-bot"
+  },
+  "schema": "zcash-fast-event/1"
+}
