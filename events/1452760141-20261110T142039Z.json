@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T14:18:50Z",
+    "description": "GateFlat \u2014 the $WIF gate on Robinhood Chain. A fail-closed gate for agent-drafted contract calls; $WIF holders run it at half price. World Is Flat Hackathon.",
+    "detected_at": "2026-11-10T14:20:39Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "MSAbhishek22/gateflat",
+    "homepage": null,
+    "html_url": "https://github.com/MSAbhishek22/gateflat",
+    "pushed_at": "2026-11-10T14:18:52Z",
+    "repo_id": 1452760141,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
