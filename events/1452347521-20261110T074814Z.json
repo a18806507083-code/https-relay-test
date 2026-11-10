@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T07:36:58Z",
+    "description": null,
+    "detected_at": "2026-11-10T07:48:14Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "wealthy-org/arcum",
+    "homepage": null,
+    "html_url": "https://github.com/wealthy-org/arcum",
+    "pushed_at": "2026-11-10T07:46:04Z",
+    "repo_id": 1452347521,
+    "score": 19,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
