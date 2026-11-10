@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T18:07:33Z",
+    "detected_at": "2026-11-10T18:14:23Z",
+    "display": "NA-DEGEN-GIRL/your-wallet",
+    "key": "repo:1453019588",
+    "metadata": {
+      "description": "Personal source-only Windows 11 wallet: EVM, Solana, Bitcoin, Zcash, HyperCore, YubiKey signing, WalletConnect",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "NA-DEGEN-GIRL/your-wallet",
+      "homepage": null,
+      "pushed_at": "2026-11-10T18:14:12Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1453019588,
+    "url": "https://github.com/NA-DEGEN-GIRL/your-wallet"
+  },
+  "schema": "zcash-fast-event/1"
+}
