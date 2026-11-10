@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T16:31:47Z",
+    "description": "UNIRAE is an EVM-based DeFi launchpad developed to simplify token creation, trading and liquidity management. It features bonding curves, automated DEX migration, liquidity locking, buybacks, wallet authentication and token analytics across Ethereum, BNB Chain, X Layer and Robinhood Chain.",
+    "detected_at": "2026-11-10T16:34:34Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "zarabnb/UNIRAE-LAUNCHPAD-",
+    "homepage": null,
+    "html_url": "https://github.com/zarabnb/UNIRAE-LAUNCHPAD-",
+    "pushed_at": "2026-11-10T16:31:50Z",
+    "repo_id": 1452915580,
+    "score": 7,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
