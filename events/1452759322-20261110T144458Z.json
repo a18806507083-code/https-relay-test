@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T14:18:09Z",
+    "description": "Research crypto airdrops (testnet, instant, and event airdrops) for Binance Agent ID wallets: find candidates, audit against the safe-and-free gate, and report only what passes.",
+    "detected_at": "2026-11-10T14:44:58Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Rainryu1/airdrop-research-skill",
+    "homepage": null,
+    "html_url": "https://github.com/Rainryu1/airdrop-research-skill",
+    "pushed_at": "2026-11-10T14:44:38Z",
+    "repo_id": 1452759322,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
