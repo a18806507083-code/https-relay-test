@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T13:04:14Z",
+    "detected_at": "2026-11-10T13:12:21Z",
+    "display": "pennyops/zec-everyday-privacy",
+    "key": "repo:1452672615",
+    "metadata": {
+      "description": "Everyday Privacy: 72s motion explainer for Zcash shielded payments (draft). Python/PIL + ffmpeg.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "pennyops/zec-everyday-privacy",
+      "homepage": null,
+      "pushed_at": "2026-11-10T13:04:31Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452672615,
+    "url": "https://github.com/pennyops/zec-everyday-privacy"
+  },
+  "schema": "zcash-fast-event/1"
+}
