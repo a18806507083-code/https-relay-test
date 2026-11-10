@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T15:14:54Z",
+    "detected_at": "2026-11-10T15:25:51Z",
+    "display": "Miracle-Alajemba/Cloakpay",
+    "key": "repo:1452826886",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Miracle-Alajemba/Cloakpay",
+      "homepage": null,
+      "pushed_at": "2026-11-10T15:21:25Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452826886,
+    "url": "https://github.com/Miracle-Alajemba/Cloakpay"
+  },
+  "schema": "zcash-fast-event/1"
+}
