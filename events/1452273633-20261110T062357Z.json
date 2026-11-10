@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T06:08:49Z",
+    "description": "Hermes Agent plugin: rescue what a sweeper left behind in a drained EVM wallet, in one EIP-7702 transaction.",
+    "detected_at": "2026-11-10T06:23:57Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "superskie/lifeboat",
+    "homepage": null,
+    "html_url": "https://github.com/superskie/lifeboat",
+    "pushed_at": "2026-11-10T06:08:56Z",
+    "repo_id": 1452273633,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
