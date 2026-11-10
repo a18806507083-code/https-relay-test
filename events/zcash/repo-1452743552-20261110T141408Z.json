@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T14:05:16Z",
+    "detected_at": "2026-11-10T14:14:08Z",
+    "display": "hudwqni1959/zcash-india-explainer",
+    "key": "repo:1452743552",
+    "metadata": {
+      "description": "Public contribution samples for Zcash community bounties",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "hudwqni1959/zcash-india-explainer",
+      "homepage": null,
+      "pushed_at": "2026-11-10T14:05:40Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452743552,
+    "url": "https://github.com/hudwqni1959/zcash-india-explainer"
+  },
+  "schema": "zcash-fast-event/1"
+}
