@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T14:34:33Z",
+    "detected_at": "2026-11-10T14:39:06Z",
+    "display": "gourab337/near-intents-freeze-thesis",
+    "key": "repo:1452778638",
+    "metadata": {
+      "description": "Pre-registered event study: NEAR Intents blocked $50M of hacker money, then got hacked itself. Its volume kept pace with the market. NEAR Hackathon 2026, Investment Thesis track.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "gourab337/near-intents-freeze-thesis",
+      "homepage": "https://gourab337.github.io/near-intents-freeze-thesis/",
+      "pushed_at": "2026-11-10T14:35:05Z",
+      "tech_signals": [
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452778638,
+    "url": "https://github.com/gourab337/near-intents-freeze-thesis"
+  },
+  "schema": "zcash-fast-event/1"
+}
