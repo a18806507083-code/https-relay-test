@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T08:06:18Z",
+    "description": null,
+    "detected_at": "2026-11-10T08:17:09Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "chai-rs/nautilus-lighter-rh",
+    "homepage": null,
+    "html_url": "https://github.com/chai-rs/nautilus-lighter-rh",
+    "pushed_at": "2026-11-10T08:07:23Z",
+    "repo_id": 1452374209,
+    "score": 7,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
