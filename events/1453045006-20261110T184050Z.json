@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T18:32:28Z",
+    "description": "Krexa smart contracts: EVM home (Monad, Arbitrum, Robinhood Chain), legacy credit protocol, Solana programs",
+    "detected_at": "2026-11-10T18:40:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "Krexa-xyz/krexa-contract",
+    "homepage": null,
+    "html_url": "https://github.com/Krexa-xyz/krexa-contract",
+    "pushed_at": "2026-11-10T18:32:34Z",
+    "repo_id": 1453045006,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
