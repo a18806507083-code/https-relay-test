@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T14:30:22Z",
+    "detected_at": "2026-11-10T14:33:02Z",
+    "display": "zodl-inc/zodl-ohttp-values",
+    "key": "repo:1452773713",
+    "metadata": {
+      "description": "ZODL OHTTP configuration values for the ZODL apps (Swift package; Android library to follow)",
+      "fixed_owner": "zodl-inc",
+      "full_name": "zodl-inc/zodl-ohttp-values",
+      "homepage": null,
+      "pushed_at": "2026-11-10T14:30:24Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1452773713,
+    "url": "https://github.com/zodl-inc/zodl-ohttp-values"
+  },
+  "schema": "zcash-fast-event/1"
+}
