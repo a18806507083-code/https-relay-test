@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T14:18:50Z",
+    "description": "Dry Run: rehearse your vibe/vibe launch against real Robinhood Chain testnet history before your settings lock forever.",
+    "detected_at": "2026-11-10T14:20:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "devvkel/dry-run",
+    "homepage": null,
+    "html_url": "https://github.com/devvkel/dry-run",
+    "pushed_at": "2026-11-10T14:18:56Z",
+    "repo_id": 1452760138,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
