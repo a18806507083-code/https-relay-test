@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T09:30:45Z",
+    "description": "Smart contract behind Coastr: hourly GPU seats with escrow on Robinhood Chain",
+    "detected_at": "2026-11-10T09:35:32Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "greenhorse01/coastr-contracts",
+    "homepage": "https://coastrapp.xyz",
+    "html_url": "https://github.com/greenhorse01/coastr-contracts",
+    "pushed_at": "2026-11-10T09:30:51Z",
+    "repo_id": 1452456096,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
