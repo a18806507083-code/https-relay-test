@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T15:17:54.946Z",
+    "detected_at": "2026-11-10T15:20:01Z",
+    "display": "59157 Grant Application - zecpy & pyzcash Platform and Multi-Account Hardening",
+    "key": "forum:59157",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zecpy-pyzcash-platform-and-multi-account-hardening",
+      "title": "Grant Application - zecpy & pyzcash Platform and Multi-Account Hardening",
+      "topic_id": 59157
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59157,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zecpy-pyzcash-platform-and-multi-account-hardening/59157"
+  },
+  "schema": "zcash-fast-event/1"
+}
