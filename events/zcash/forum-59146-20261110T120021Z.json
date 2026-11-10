@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T12:00:10.083Z",
+    "detected_at": "2026-11-10T12:00:21Z",
+    "display": "59146 Retroactive Grant Application - Can I Shield?",
+    "key": "forum:59146",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-can-i-shield",
+      "title": "Retroactive Grant Application - Can I Shield?",
+      "topic_id": 59146
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59146,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-can-i-shield/59146"
+  },
+  "schema": "zcash-fast-event/1"
+}
