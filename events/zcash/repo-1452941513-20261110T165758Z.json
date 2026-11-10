@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T16:54:57Z",
+    "detected_at": "2026-11-10T16:57:58Z",
+    "display": "lukaszizdebski/pay-uri",
+    "key": "repo:1452941513",
+    "metadata": {
+      "description": "Universal payment URI builder (BIP-21, EIP-681, ZIP-321)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "lukaszizdebski/pay-uri",
+      "homepage": null,
+      "pushed_at": "2026-11-10T16:55:06Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452941513,
+    "url": "https://github.com/lukaszizdebski/pay-uri"
+  },
+  "schema": "zcash-fast-event/1"
+}
