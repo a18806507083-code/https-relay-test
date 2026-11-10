@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T14:17:18Z",
+    "description": "Preview of gage's next rehypo source and the lender kit's hooks, for partners. Work in progress: not deployed, not reviewed.",
+    "detected_at": "2026-11-10T14:20:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "DebenLabs/gage-rehypo-preview",
+    "homepage": null,
+    "html_url": "https://github.com/DebenLabs/gage-rehypo-preview",
+    "pushed_at": "2026-11-10T14:17:33Z",
+    "repo_id": 1452758270,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
