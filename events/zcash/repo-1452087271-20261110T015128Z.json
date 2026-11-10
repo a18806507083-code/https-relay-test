@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T01:47:35Z",
+    "detected_at": "2026-11-10T01:51:28Z",
+    "display": "soundcake/shieldedscan-es-20261110",
+    "key": "repo:1452087271",
+    "metadata": {
+      "description": "Cuatro imágenes educativas en español sobre el explorador ./shieldedscan, con PNG y SVG editables.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "soundcake/shieldedscan-es-20261110",
+      "homepage": null,
+      "pushed_at": "2026-11-10T01:48:49Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452087271,
+    "url": "https://github.com/soundcake/shieldedscan-es-20261110"
+  },
+  "schema": "zcash-fast-event/1"
+}
