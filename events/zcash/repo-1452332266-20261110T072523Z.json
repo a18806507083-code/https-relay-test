@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T07:19:38Z",
+    "detected_at": "2026-11-10T07:25:23Z",
+    "display": "NoirWallet/.github",
+    "key": "repo:1452332266",
+    "metadata": {
+      "description": "Official GitHub organization profile and project information for Noir Wallet.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "NoirWallet/.github",
+      "homepage": null,
+      "pushed_at": "2026-11-10T07:22:02Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452332266,
+    "url": "https://github.com/NoirWallet/.github"
+  },
+  "schema": "zcash-fast-event/1"
+}
