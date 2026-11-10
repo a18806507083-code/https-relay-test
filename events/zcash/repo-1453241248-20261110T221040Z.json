@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T22:05:28Z",
+    "detected_at": "2026-11-10T22:10:40Z",
+    "display": "pennyops/video-samples",
+    "key": "repo:1453241248",
+    "metadata": {
+      "description": "Short explainer video samples by Penny",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "pennyops/video-samples",
+      "homepage": null,
+      "pushed_at": "2026-11-10T22:06:28Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1453241248,
+    "url": "https://github.com/pennyops/video-samples"
+  },
+  "schema": "zcash-fast-event/1"
+}
