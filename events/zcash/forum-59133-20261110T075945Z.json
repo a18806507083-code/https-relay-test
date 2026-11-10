@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T07:58:31.856Z",
+    "detected_at": "2026-11-10T07:59:45Z",
+    "display": "59133 Voting, itself, is a moral hazard. It should not be the way decisions are made",
+    "key": "forum:59133",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "voting-itself-is-a-moral-hazard-it-should-not-be-the-way-decisions-are-made",
+      "title": "Voting, itself, is a moral hazard. It should not be the way decisions are made",
+      "topic_id": 59133
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59133,
+    "url": "https://forum.zcashcommunity.com/t/voting-itself-is-a-moral-hazard-it-should-not-be-the-way-decisions-are-made/59133"
+  },
+  "schema": "zcash-fast-event/1"
+}
