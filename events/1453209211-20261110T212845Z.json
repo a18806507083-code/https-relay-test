@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T21:26:23Z",
+    "description": "AME Protocol: independent agent identity, financial reputation and lending infrastructure on Robinhood Chain. Testnet operations; mainnet read-only.",
+    "detected_at": "2026-11-10T21:28:45Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "AME-ship-it/ame-core",
+    "homepage": null,
+    "html_url": "https://github.com/AME-ship-it/ame-core",
+    "pushed_at": "2026-11-10T21:26:59Z",
+    "repo_id": 1453209211,
+    "score": 14,
+    "tech_signals": [
+      "Morpho",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
