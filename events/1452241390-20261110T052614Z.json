@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T05:24:35Z",
+    "description": "AI trading agent for Robinhood Chain \u2014 live charts, rug-risk checks, whale & wallet tracking, stock-token premiums, CLI and MCP.",
+    "detected_at": "2026-11-10T05:26:14Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "strixagents/Strix",
+    "homepage": null,
+    "html_url": "https://github.com/strixagents/Strix",
+    "pushed_at": "2026-11-10T05:24:51Z",
+    "repo_id": 1452241390,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
