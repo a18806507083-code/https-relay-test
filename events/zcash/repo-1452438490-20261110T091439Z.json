@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T09:13:13Z",
+    "detected_at": "2026-11-10T09:14:39Z",
+    "display": "hudwqni1959/zcash-news-es",
+    "key": "repo:1452438490",
+    "metadata": {
+      "description": "Public contribution samples for Zcash community bounties",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "hudwqni1959/zcash-news-es",
+      "homepage": null,
+      "pushed_at": "2026-11-10T09:13:28Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452438490,
+    "url": "https://github.com/hudwqni1959/zcash-news-es"
+  },
+  "schema": "zcash-fast-event/1"
+}
