@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T06:16:03Z",
+    "detected_at": "2026-11-10T06:24:07Z",
+    "display": "yankywilson/binance-heist-dprk-trace",
+    "key": "repo:1452279444",
+    "metadata": {
+      "description": "Verification-first on-chain trace of the Oct 2026 Binance heist (FBI: DPRK TraderTraitor). Hop-by-hop links from the Tron root to FBI-listed wallets #9, #14 and #19, a balanced ledger for hub 0x1510, and the Bitget XRP→BTC→ETH bridge. ICD-203 language. Nulls and retractions logged.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "yankywilson/binance-heist-dprk-trace",
+      "homepage": null,
+      "pushed_at": "2026-11-10T06:16:36Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452279444,
+    "url": "https://github.com/yankywilson/binance-heist-dprk-trace"
+  },
+  "schema": "zcash-fast-event/1"
+}
