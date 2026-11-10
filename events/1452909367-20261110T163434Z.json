@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T16:25:58Z",
+    "description": "Peer-to-peer AI inference: a self-hosted router that sends OpenAI-compatible requests to peers by price, speed, reputation or privacy, paid per token in USDG.",
+    "detected_at": "2026-11-10T16:34:34Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "elyrainference/elyra",
+    "homepage": "https://elyrainference.com",
+    "html_url": "https://github.com/elyrainference/elyra",
+    "pushed_at": "2026-11-10T16:26:06Z",
+    "repo_id": 1452909367,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
