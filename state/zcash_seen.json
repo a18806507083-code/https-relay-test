@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-10T14:39:06Z",
+  "last_run_at": "2026-11-10T14:45:17Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-10T14:03:02Z",
+      "cutoff": "2026-11-10T14:09:06Z",
       "matches": 1,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-10T14:03:02Z",
+      "cutoff": "2026-11-10T14:09:06Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-10T14:03:02Z",
-      "matches": 2,
+      "cutoff": "2026-11-10T14:09:06Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-10T14:03:02Z",
-      "matches": 0,
+      "cutoff": "2026-11-10T14:09:06Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -11270,14 +11270,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3174",
       "first_seen_at": "2026-11-09T18:37:33Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6309149979": {
+      "created_at": "2026-11-10T14:42:48Z",
+      "display": "#547 Grant Application - Grant Application - zecpy & pyzcash Platform and Multi-Account Hardening",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3240",
+      "first_seen_at": "2026-11-10T14:45:17Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-10T14:39:06Z",
-    "forum": "2026-11-10T14:39:06Z",
-    "github": "2026-11-10T14:39:06Z",
-    "zcg": "2026-11-10T14:39:06Z"
+    "fixed_orgs": "2026-11-10T14:45:17Z",
+    "forum": "2026-11-10T14:45:17Z",
+    "github": "2026-11-10T14:45:17Z",
+    "zcg": "2026-11-10T14:45:17Z"
   }
 }
