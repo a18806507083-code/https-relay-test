@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T06:37:51Z",
+    "description": "NEAR Sentinel: a safety layer for AI agents on NEAR (policy engine, function-call key sandbox, live pre-checks, NEAR Intents). Built for NEAR HACKATHON.",
+    "detected_at": "2026-11-10T06:41:33Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "mmcanpolat/near-sentinel",
+    "homepage": null,
+    "html_url": "https://github.com/mmcanpolat/near-sentinel",
+    "pushed_at": "2026-11-10T06:37:56Z",
+    "repo_id": 1452296758,
+    "score": 10,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
