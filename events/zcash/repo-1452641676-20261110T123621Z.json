@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T12:35:44Z",
+    "detected_at": "2026-11-10T12:36:21Z",
+    "display": "craftsoldier/zcash_primitives",
+    "key": "repo:1452641676",
+    "metadata": {
+      "description": "The zcash_primitives crate, split out of zcash/librustzcash with its history",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash"
+      ],
+      "full_name": "craftsoldier/zcash_primitives",
+      "homepage": null,
+      "pushed_at": "2026-11-10T12:35:58Z",
+      "tech_signals": [
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452641676,
+    "url": "https://github.com/craftsoldier/zcash_primitives"
+  },
+  "schema": "zcash-fast-event/1"
+}
