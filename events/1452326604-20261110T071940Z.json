@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T07:13:17Z",
+    "description": null,
+    "detected_at": "2026-11-10T07:19:40Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "vxcpeo/ROBIN001",
+    "homepage": "https://robin-001.vercel.app",
+    "html_url": "https://github.com/vxcpeo/ROBIN001",
+    "pushed_at": "2026-11-10T07:14:07Z",
+    "repo_id": 1452326604,
+    "score": 7,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
