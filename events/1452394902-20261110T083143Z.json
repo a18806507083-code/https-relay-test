@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T08:28:19Z",
+    "description": null,
+    "detected_at": "2026-11-10T08:31:43Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "helshafaie45/public-apis",
+    "homepage": null,
+    "html_url": "https://github.com/helshafaie45/public-apis",
+    "pushed_at": "2026-11-10T08:31:39Z",
+    "repo_id": 1452394902,
+    "score": 10,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
