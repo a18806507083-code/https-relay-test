@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T03:29:03Z",
+    "detected_at": "2026-11-10T03:33:01Z",
+    "display": "sapho11/lwd-uri-util",
+    "key": "repo:1452160341",
+    "metadata": {
+      "description": "Canonicalize lightwalletd endpoint URIs for Zcash clients",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "sapho11/lwd-uri-util",
+      "homepage": null,
+      "pushed_at": "2026-11-10T03:29:11Z",
+      "tech_signals": [
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452160341,
+    "url": "https://github.com/sapho11/lwd-uri-util"
+  },
+  "schema": "zcash-fast-event/1"
+}
