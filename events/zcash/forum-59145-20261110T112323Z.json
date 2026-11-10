@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T11:17:51.659Z",
+    "detected_at": "2026-11-10T11:23:23Z",
+    "display": "59145 Wait!? Another Zcash Wallet!?",
+    "key": "forum:59145",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "wait-another-zcash-wallet",
+      "title": "Wait!? Another Zcash Wallet!?",
+      "topic_id": 59145
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59145,
+    "url": "https://forum.zcashcommunity.com/t/wait-another-zcash-wallet/59145"
+  },
+  "schema": "zcash-fast-event/1"
+}
