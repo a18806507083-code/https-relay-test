@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T21:59:21.992Z",
+    "detected_at": "2026-11-10T22:10:40Z",
+    "display": "59181 Retroactive Grant Application - ShieldedScan",
+    "key": "forum:59181",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-shieldedscan",
+      "title": "Retroactive Grant Application - ShieldedScan",
+      "topic_id": 59181
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59181,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-shieldedscan/59181"
+  },
+  "schema": "zcash-fast-event/1"
+}
