@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T08:02:43.533Z",
+    "detected_at": "2026-11-10T08:17:22Z",
+    "display": "59134 Grant Application — Mock lightwalletd for Zcash wallet testing",
+    "key": "forum:59134",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-mock-lightwalletd-for-zcash-wallet-testing",
+      "title": "Grant Application — Mock lightwalletd for Zcash wallet testing",
+      "topic_id": 59134
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59134,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-mock-lightwalletd-for-zcash-wallet-testing/59134"
+  },
+  "schema": "zcash-fast-event/1"
+}
