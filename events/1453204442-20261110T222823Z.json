@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T21:20:39Z",
+    "description": "A dashboard showing who the top holders of IMD are. Should also take into consideration any unvested tokens, staked tokens, ...",
+    "detected_at": "2026-11-10T22:28:23Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-3192-dashboard-showing-who-top",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3192-dashboard-showing-who-top",
+    "pushed_at": "2026-11-10T22:25:00Z",
+    "repo_id": 1453204442,
+    "score": 6,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
