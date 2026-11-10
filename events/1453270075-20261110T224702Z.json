@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T22:42:43Z",
+    "description": "Token name: SIMD TEST 3 - DO NOT BUY Token symbol: SIMDTEST3 Logo: https://www.si-md.xyz/logo.jpg THIS IS A TEST TOKEN, NOT A REAL COIN. It has no value and must not be bought. It tests the SIMD relaunch on Robinhood Chain: a plain token whose pool hook sends a small fee to the SIMD Test Vault, which splits it every week between stakers, Identit...",
+    "detected_at": "2026-11-10T22:47:02Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-3195-simd-test-3-do-not-buy",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3195-simd-test-3-do-not-buy",
+    "pushed_at": "2026-11-10T22:42:48Z",
+    "repo_id": 1453270075,
+    "score": 8,
+    "tech_signals": [
+      "Hook",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
