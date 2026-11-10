@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T14:33:32.654Z",
+    "detected_at": "2026-11-10T14:39:06Z",
+    "display": "59153 Zcash on Front Page WSJ",
+    "key": "forum:59153",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-on-front-page-wsj",
+      "title": "Zcash on Front Page WSJ",
+      "topic_id": 59153
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59153,
+    "url": "https://forum.zcashcommunity.com/t/zcash-on-front-page-wsj/59153"
+  },
+  "schema": "zcash-fast-event/1"
+}
