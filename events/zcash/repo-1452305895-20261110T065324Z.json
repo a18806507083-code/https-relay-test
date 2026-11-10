@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T06:48:56Z",
+    "detected_at": "2026-11-10T06:53:24Z",
+    "display": "sapho11/zip321-uri",
+    "key": "repo:1452305895",
+    "metadata": {
+      "description": "ZIP-321 payment request URI builder/parser for Zcash",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "sapho11/zip321-uri",
+      "homepage": null,
+      "pushed_at": "2026-11-10T06:50:55Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1452305895,
+    "url": "https://github.com/sapho11/zip321-uri"
+  },
+  "schema": "zcash-fast-event/1"
+}
