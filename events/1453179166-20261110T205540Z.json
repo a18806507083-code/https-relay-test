@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-10T20:51:08Z",
+    "description": "SIMD TEST 3 Vault, a TEST of the SIMD relaunch, not the real thing: on Robinhood Chain: the contract that pays for and owns the fees of the \"SIMD TEST 3 - DO NOT BUY\" token launch and splits everything it receives every 7 days, plus a staking rewards contract, a jobs vault and the 30-day claim contract for that launch's remainder. Four linked co...",
+    "detected_at": "2026-11-10T20:55:40Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-3191-simd-test-3-vault",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3191-simd-test-3-vault",
+    "pushed_at": "2026-11-10T20:51:12Z",
+    "repo_id": 1453179166,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
