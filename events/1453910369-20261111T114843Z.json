@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T11:48:33Z",
+    "description": "ERC-8004 registry usage counted from chain logs on 27 mainnets, as of 13 October 2026: data, code, controls",
+    "detected_at": "2026-11-11T11:48:43Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "achemperety/erc8004-usage-2026-10-13",
+    "homepage": null,
+    "html_url": "https://github.com/achemperety/erc8004-usage-2026-10-13",
+    "pushed_at": "2026-11-11T11:48:41Z",
+    "repo_id": 1453910369,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
