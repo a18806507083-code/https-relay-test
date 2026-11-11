@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T22:22:14Z",
+    "description": "Python SDK for market makers on the Hedgehood options RFQ (testnet)",
+    "detected_at": "2026-11-11T22:23:56Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "0xHedgeHood/hedgehood-maker-py",
+    "homepage": null,
+    "html_url": "https://github.com/0xHedgeHood/hedgehood-maker-py",
+    "pushed_at": "2026-11-11T22:23:35Z",
+    "repo_id": 1454561158,
+    "score": 15,
+    "tech_signals": [
+      "RWA/stock",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
