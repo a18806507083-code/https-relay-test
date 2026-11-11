@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T11:12:58.518Z",
+    "detected_at": "2026-11-11T11:18:26Z",
+    "display": "59201 Retroactive Grant Application - Vizor",
+    "key": "forum:59201",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-vizor",
+      "title": "Retroactive Grant Application - Vizor",
+      "topic_id": 59201
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59201,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-vizor/59201"
+  },
+  "schema": "zcash-fast-event/1"
+}
