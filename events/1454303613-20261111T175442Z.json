@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T17:43:49Z",
+    "description": "Validation copy of cowprotocol/token-lists for v59d511f0a61e",
+    "detected_at": "2026-11-11T17:54:42Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "lazyhacker6/triage-cowprotocol-v59d511f-f45c1c",
+    "homepage": null,
+    "html_url": "https://github.com/lazyhacker6/triage-cowprotocol-v59d511f-f45c1c",
+    "pushed_at": "2026-11-11T17:45:59Z",
+    "repo_id": 1454303613,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
