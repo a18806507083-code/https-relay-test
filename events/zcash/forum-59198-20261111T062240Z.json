@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T06:07:13.528Z",
+    "detected_at": "2026-11-11T06:22:40Z",
+    "display": "59198 ZCG Application — PrivateSync: Privacy-Preserving Light Client Sync Infrastructure (feedback wanted)",
+    "key": "forum:59198",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "zcg-application-privatesync-privacy-preserving-light-client-sync-infrastructure-feedback-wanted",
+      "title": "ZCG Application — PrivateSync: Privacy-Preserving Light Client Sync Infrastructure (feedback wanted)",
+      "topic_id": 59198
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59198,
+    "url": "https://forum.zcashcommunity.com/t/zcg-application-privatesync-privacy-preserving-light-client-sync-infrastructure-feedback-wanted/59198"
+  },
+  "schema": "zcash-fast-event/1"
+}
