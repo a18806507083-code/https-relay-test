@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T11:48:41Z",
+    "detected_at": "2026-11-11T11:54:38Z",
+    "display": "nearswaps/nearswaps-checkout",
+    "key": "repo:1453910520",
+    "metadata": {
+      "description": "One script tag that takes crypto payments from any wallet on any chain. NEAR Intents settles it; you receive the exact invoice in USDC, USDT or NEAR.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "nearswaps/nearswaps-checkout",
+      "homepage": null,
+      "pushed_at": "2026-11-11T11:49:02Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1453910520,
+    "url": "https://github.com/nearswaps/nearswaps-checkout"
+  },
+  "schema": "zcash-fast-event/1"
+}
