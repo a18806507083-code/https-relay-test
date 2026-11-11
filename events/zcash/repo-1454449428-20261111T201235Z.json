@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T20:10:44Z",
+    "detected_at": "2026-11-11T20:12:35Z",
+    "display": "paradoxreal/ESDA-Protocol",
+    "key": "repo:1454449428",
+    "metadata": {
+      "description": "Local-first cryptography workbench: seven test doors plus a 7-chain genesis proof. Teaching code, not audited.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "paradoxreal/ESDA-Protocol",
+      "homepage": null,
+      "pushed_at": "2026-11-11T20:10:49Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1454449428,
+    "url": "https://github.com/paradoxreal/ESDA-Protocol"
+  },
+  "schema": "zcash-fast-event/1"
+}
