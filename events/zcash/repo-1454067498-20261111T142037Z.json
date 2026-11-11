@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T14:13:20Z",
+    "detected_at": "2026-11-11T14:20:37Z",
+    "display": "madii506/halo-layer",
+    "key": "repo:1454067498",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "madii506/halo-layer",
+      "homepage": "https://halo-layer.vercel.app",
+      "pushed_at": "2026-11-11T14:18:11Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1454067498,
+    "url": "https://github.com/madii506/halo-layer"
+  },
+  "schema": "zcash-fast-event/1"
+}
