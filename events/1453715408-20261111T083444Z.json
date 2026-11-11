@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T08:29:04Z",
+    "description": "Covered calls for tokenized stocks on Robinhood Chain. Keep your stock. Sell the brim.",
+    "detected_at": "2026-11-11T08:34:44Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "brimstead/brimstead",
+    "homepage": "https://brimstead.xyz",
+    "html_url": "https://github.com/brimstead/brimstead",
+    "pushed_at": "2026-11-11T08:31:57Z",
+    "repo_id": 1453715408,
+    "score": 16,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
