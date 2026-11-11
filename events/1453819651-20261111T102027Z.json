@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T10:15:16Z",
+    "description": "One-file CLI bundler & launcher for pons on Robinhood chain \u2014 create a coin with a dev buy, keys stay on your machine.",
+    "detected_at": "2026-11-11T10:20:27Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "TrenchyDev/pons-bundler-cli-launcher",
+    "homepage": "",
+    "html_url": "https://github.com/TrenchyDev/pons-bundler-cli-launcher",
+    "pushed_at": "2026-11-11T10:15:21Z",
+    "repo_id": 1453819651,
+    "score": 8,
+    "tech_signals": [
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
