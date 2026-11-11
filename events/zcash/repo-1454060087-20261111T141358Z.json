@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T14:07:00Z",
+    "detected_at": "2026-11-11T14:13:58Z",
+    "display": "ShieldedLabs/ziggurat-zcash",
+    "key": "repo:1454060087",
+    "metadata": {
+      "description": "The Zcash Network Stability Framework",
+      "fixed_owner": "ShieldedLabs",
+      "full_name": "ShieldedLabs/ziggurat-zcash",
+      "homepage": "",
+      "pushed_at": "2026-11-11T14:10:44Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1454060087,
+    "url": "https://github.com/ShieldedLabs/ziggurat-zcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
