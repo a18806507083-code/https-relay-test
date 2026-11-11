@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T13:04:27Z",
+    "detected_at": "2026-11-11T13:12:56Z",
+    "display": "madii506/z3r0",
+    "key": "repo:1453989015",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "madii506/z3r0",
+      "homepage": "https://z3r0-alpha.vercel.app",
+      "pushed_at": "2026-11-11T13:07:21Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1453989015,
+    "url": "https://github.com/madii506/z3r0"
+  },
+  "schema": "zcash-fast-event/1"
+}
