@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-11T23:53:25Z",
+  "last_run_at": "2026-11-11T23:59:04Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-11T23:17:15Z",
+      "cutoff": "2026-11-11T23:23:25Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-11T23:17:15Z",
+      "cutoff": "2026-11-11T23:23:25Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-11T23:17:15Z",
-      "matches": 0,
+      "cutoff": "2026-11-11T23:23:25Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-11T23:17:15Z",
+      "cutoff": "2026-11-11T23:23:25Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -10591,6 +10591,14 @@
       "first_seen_at": "2026-11-11T21:36:45Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1454610808": {
+      "created_at": "2026-11-11T23:29:58Z",
+      "display": "SancioPanza88/vita-minidayz",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3364",
+      "first_seen_at": "2026-11-11T23:59:04Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -11627,9 +11635,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-11T23:53:25Z",
-    "forum": "2026-11-11T23:53:25Z",
-    "github": "2026-11-11T23:53:25Z",
-    "zcg": "2026-11-11T23:53:25Z"
+    "fixed_orgs": "2026-11-11T23:59:04Z",
+    "forum": "2026-11-11T23:59:04Z",
+    "github": "2026-11-11T23:59:04Z",
+    "zcg": "2026-11-11T23:59:04Z"
   }
 }
