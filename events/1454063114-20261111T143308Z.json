@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T14:09:36Z",
+    "description": null,
+    "detected_at": "2026-11-11T14:33:08Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "Shikhyy/wiftape",
+    "homepage": null,
+    "html_url": "https://github.com/Shikhyy/wiftape",
+    "pushed_at": "2026-11-11T14:28:07Z",
+    "repo_id": 1454063114,
+    "score": 15,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
