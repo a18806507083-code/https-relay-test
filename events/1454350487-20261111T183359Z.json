@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T18:29:58Z",
+    "description": "Uniswap v4 hook on Robinhood Chain: the fee you see is the fee you pay. Lock $WIF for a lower fee; every fee burns $WIF.",
+    "detected_at": "2026-11-11T18:33:59Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "fozagtx/plainfee",
+    "homepage": null,
+    "html_url": "https://github.com/fozagtx/plainfee",
+    "pushed_at": "2026-11-11T18:30:15Z",
+    "repo_id": 1454350487,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
