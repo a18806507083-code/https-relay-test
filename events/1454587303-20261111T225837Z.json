@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T22:56:45Z",
+    "description": "Every curve token, behind one door. Live board and trading front-end for Pons bonding-curve tokens on Robinhood Chain.",
+    "detected_at": "2026-11-11T22:58:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "vaultx-apps/vaultx",
+    "homepage": null,
+    "html_url": "https://github.com/vaultx-apps/vaultx",
+    "pushed_at": "2026-11-11T22:57:40Z",
+    "repo_id": 1454587303,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
