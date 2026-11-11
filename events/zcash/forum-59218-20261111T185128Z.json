@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T18:47:04.445Z",
+    "detected_at": "2026-11-11T18:51:28Z",
+    "display": "59218 Zcash Wallet Devtools - Privacy-Aware Debugging Toolkit for Web Developers",
+    "key": "forum:59218",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-wallet-devtools-privacy-aware-debugging-toolkit-for-web-developers",
+      "title": "Zcash Wallet Devtools - Privacy-Aware Debugging Toolkit for Web Developers",
+      "topic_id": 59218
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59218,
+    "url": "https://forum.zcashcommunity.com/t/zcash-wallet-devtools-privacy-aware-debugging-toolkit-for-web-developers/59218"
+  },
+  "schema": "zcash-fast-event/1"
+}
