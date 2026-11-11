@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T10:03:17Z",
+    "detected_at": "2026-11-11T10:13:53Z",
+    "display": "max2006-zcash/terraform-aws-n8n-test",
+    "key": "repo:1453808067",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "max2006-zcash/terraform-aws-n8n-test",
+      "homepage": null,
+      "pushed_at": "2026-11-11T10:03:30Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1453808067,
+    "url": "https://github.com/max2006-zcash/terraform-aws-n8n-test"
+  },
+  "schema": "zcash-fast-event/1"
+}
