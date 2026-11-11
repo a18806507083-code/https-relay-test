@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T04:50:30Z",
+    "description": "FUN Arcade \u00b7 Pump & Flap \u2014 hold $FUN to play on Robinhood Chain testnet",
+    "detected_at": "2026-11-11T04:54:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "Vacas-Coded/fun-arcade",
+    "homepage": null,
+    "html_url": "https://github.com/Vacas-Coded/fun-arcade",
+    "pushed_at": "2026-11-11T04:50:37Z",
+    "repo_id": 1453533966,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
