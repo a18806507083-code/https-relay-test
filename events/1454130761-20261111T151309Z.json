@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T15:07:30Z",
+    "description": null,
+    "detected_at": "2026-11-11T15:13:09Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "magnitude-fields/magnitude",
+    "homepage": null,
+    "html_url": "https://github.com/magnitude-fields/magnitude",
+    "pushed_at": "2026-11-11T15:07:38Z",
+    "repo_id": 1454130761,
+    "score": 12,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
