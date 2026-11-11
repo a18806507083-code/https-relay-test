@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T09:27:00Z",
+    "description": null,
+    "detected_at": "2026-11-11T10:13:41Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "askspecter/Ponkr",
+    "homepage": null,
+    "html_url": "https://github.com/askspecter/Ponkr",
+    "pushed_at": "2026-11-11T10:13:05Z",
+    "repo_id": 1453771571,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
