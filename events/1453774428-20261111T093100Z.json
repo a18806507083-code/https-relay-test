@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T09:29:52Z",
+    "description": "Onchain price feeds for the Stock Tokens Chainlink doesn't cover \u2014 AggregatorV3-compatible, verified source, live on Robinhood Chain testnet",
+    "detected_at": "2026-11-11T09:31:00Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "slugelife-ux/tailfeed",
+    "homepage": null,
+    "html_url": "https://github.com/slugelife-ux/tailfeed",
+    "pushed_at": "2026-11-11T09:30:05Z",
+    "repo_id": 1453774428,
+    "score": 15,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
