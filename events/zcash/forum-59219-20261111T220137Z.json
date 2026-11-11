@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T22:00:41.462Z",
+    "detected_at": "2026-11-11T22:01:37Z",
+    "display": "59219 Zcash Community Mining",
+    "key": "forum:59219",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-community-mining",
+      "title": "Zcash Community Mining",
+      "topic_id": 59219
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59219,
+    "url": "https://forum.zcashcommunity.com/t/zcash-community-mining/59219"
+  },
+  "schema": "zcash-fast-event/1"
+}
