@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T07:58:25Z",
+    "description": "Ah",
+    "detected_at": "2026-11-11T08:06:17Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "utaafolk-ship-it/Folk-mining-neww",
+    "homepage": null,
+    "html_url": "https://github.com/utaafolk-ship-it/Folk-mining-neww",
+    "pushed_at": "2026-11-11T07:58:55Z",
+    "repo_id": 1453687138,
+    "score": 13,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
