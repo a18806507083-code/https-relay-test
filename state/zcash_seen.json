@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-11T18:00:21Z",
+  "last_run_at": "2026-11-11T18:13:55Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-11T17:24:54Z",
+      "cutoff": "2026-11-11T17:30:21Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-11T17:24:54Z",
-      "matches": 0,
+      "cutoff": "2026-11-11T17:30:21Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-11T17:24:54Z",
+      "cutoff": "2026-11-11T17:30:21Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-11T17:24:54Z",
+      "cutoff": "2026-11-11T17:30:21Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2861,6 +2861,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3320",
       "first_seen_at": "2026-11-11T14:13:58Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59212": {
+      "created_at": "2026-11-11T18:08:14.960Z",
+      "display": "59212 Retroactive Grant Application - Shielded 2-of-3 FROST escrow on Zcash testnet (open source)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3337",
+      "first_seen_at": "2026-11-11T18:13:55Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59213": {
+      "created_at": "2026-11-11T18:08:42.524Z",
+      "display": "59213 Design check: shared tamper tests for FROST co-signers — would you run them in CI?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3336",
+      "first_seen_at": "2026-11-11T18:13:55Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -11555,9 +11571,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-11T18:00:21Z",
-    "forum": "2026-11-11T18:00:21Z",
-    "github": "2026-11-11T18:00:21Z",
-    "zcg": "2026-11-11T18:00:21Z"
+    "fixed_orgs": "2026-11-11T18:13:55Z",
+    "forum": "2026-11-11T18:13:55Z",
+    "github": "2026-11-11T18:13:55Z",
+    "zcg": "2026-11-11T18:13:55Z"
   }
 }
