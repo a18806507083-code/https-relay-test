@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T21:50:50Z",
+    "description": "Tarmac Agent: test your on-chain agent before it goes live.",
+    "detected_at": "2026-11-11T22:01:02Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "tarmacagent/tarmacagent",
+    "homepage": null,
+    "html_url": "https://github.com/tarmacagent/tarmacagent",
+    "pushed_at": "2026-11-11T21:58:54Z",
+    "repo_id": 1454536379,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
