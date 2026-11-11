@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T18:08:42.524Z",
+    "detected_at": "2026-11-11T18:13:55Z",
+    "display": "59213 Design check: shared tamper tests for FROST co-signers — would you run them in CI?",
+    "key": "forum:59213",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "design-check-shared-tamper-tests-for-frost-co-signers-would-you-run-them-in-ci",
+      "title": "Design check: shared tamper tests for FROST co-signers — would you run them in CI?",
+      "topic_id": 59213
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59213,
+    "url": "https://forum.zcashcommunity.com/t/design-check-shared-tamper-tests-for-frost-co-signers-would-you-run-them-in-ci/59213"
+  },
+  "schema": "zcash-fast-event/1"
+}
