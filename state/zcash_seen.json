@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-11T20:00:32Z",
+  "last_run_at": "2026-11-11T20:12:35Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-11T19:24:46Z",
+      "cutoff": "2026-11-11T19:30:32Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-11T19:24:46Z",
+      "cutoff": "2026-11-11T19:30:32Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-11T19:24:46Z",
-      "matches": 1,
+      "cutoff": "2026-11-11T19:30:32Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-11T19:24:46Z",
+      "cutoff": "2026-11-11T19:30:32Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -10559,6 +10559,14 @@
       "first_seen_at": "2026-11-11T19:54:46Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1454449428": {
+      "created_at": "2026-11-11T20:10:44Z",
+      "display": "paradoxreal/ESDA-Protocol",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3343",
+      "first_seen_at": "2026-11-11T20:12:35Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -11595,9 +11603,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-11T20:00:32Z",
-    "forum": "2026-11-11T20:00:32Z",
-    "github": "2026-11-11T20:00:32Z",
-    "zcg": "2026-11-11T20:00:32Z"
+    "fixed_orgs": "2026-11-11T20:12:35Z",
+    "forum": "2026-11-11T20:12:35Z",
+    "github": "2026-11-11T20:12:35Z",
+    "zcg": "2026-11-11T20:12:35Z"
   }
 }
