@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-11T12:00:11Z",
+  "last_run_at": "2026-11-11T12:18:43Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-11T11:24:38Z",
+      "cutoff": "2026-11-11T11:30:11Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-11T11:24:38Z",
+      "cutoff": "2026-11-11T11:30:11Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-11T11:24:38Z",
+      "cutoff": "2026-11-11T11:30:11Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-11T11:24:38Z",
-      "matches": 0,
+      "cutoff": "2026-11-11T11:30:11Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -11494,14 +11494,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3279",
       "first_seen_at": "2026-11-11T06:03:58Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6327967214": {
+      "created_at": "2026-11-11T12:00:31Z",
+      "display": "#550 Grant Application - ZecVerify",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3309",
+      "first_seen_at": "2026-11-11T12:18:43Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-11T12:00:11Z",
-    "forum": "2026-11-11T12:00:11Z",
-    "github": "2026-11-11T12:00:11Z",
-    "zcg": "2026-11-11T12:00:11Z"
+    "fixed_orgs": "2026-11-11T12:18:43Z",
+    "forum": "2026-11-11T12:18:43Z",
+    "github": "2026-11-11T12:18:43Z",
+    "zcg": "2026-11-11T12:18:43Z"
   }
 }
