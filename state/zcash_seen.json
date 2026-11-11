@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-11T18:45:39Z",
+  "last_run_at": "2026-11-11T18:51:28Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-11T18:09:36Z",
+      "cutoff": "2026-11-11T18:15:39Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-11T18:09:36Z",
-      "matches": 0,
+      "cutoff": "2026-11-11T18:15:39Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-11T18:09:36Z",
+      "cutoff": "2026-11-11T18:15:39Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-11T18:09:36Z",
+      "cutoff": "2026-11-11T18:15:39Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -2877,6 +2877,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3336",
       "first_seen_at": "2026-11-11T18:13:55Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59218": {
+      "created_at": "2026-11-11T18:47:04.445Z",
+      "display": "59218 Zcash Wallet Devtools - Privacy-Aware Debugging Toolkit for Web Developers",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3341",
+      "first_seen_at": "2026-11-11T18:51:28Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -11579,9 +11587,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-11T18:45:39Z",
-    "forum": "2026-11-11T18:45:39Z",
-    "github": "2026-11-11T18:45:39Z",
-    "zcg": "2026-11-11T18:45:39Z"
+    "fixed_orgs": "2026-11-11T18:51:28Z",
+    "forum": "2026-11-11T18:51:28Z",
+    "github": "2026-11-11T18:51:28Z",
+    "zcg": "2026-11-11T18:51:28Z"
   }
 }
