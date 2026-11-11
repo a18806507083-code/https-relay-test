@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T11:27:48Z",
+    "description": "Zolva for Hermes Agent: read Robinhood Chain trading agents and get their trades in your chat. MCP config + 2 skills, read only.",
+    "detected_at": "2026-11-11T11:29:32Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "zolvaagent/hermes-zolva",
+    "homepage": "https://zolvaagent.app/docs/mcp",
+    "html_url": "https://github.com/zolvaagent/hermes-zolva",
+    "pushed_at": "2026-11-11T11:27:54Z",
+    "repo_id": 1453890169,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
