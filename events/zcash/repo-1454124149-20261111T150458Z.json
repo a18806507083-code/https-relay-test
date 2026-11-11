@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T15:01:49Z",
+    "detected_at": "2026-11-11T15:04:58Z",
+    "display": "kreaton/CheckYourNouns",
+    "key": "repo:1454124149",
+    "metadata": {
+      "description": "A spelling game for nouns and their genders in Danish, English, German, French, Italian, Spanish, Swedish and Norwegian.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "kreaton/CheckYourNouns",
+      "homepage": "https://kreaton.github.io/CheckYourNouns/",
+      "pushed_at": "2026-11-11T15:03:12Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1454124149,
+    "url": "https://github.com/kreaton/CheckYourNouns"
+  },
+  "schema": "zcash-fast-event/1"
+}
