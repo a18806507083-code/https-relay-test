@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-11T05:55:35Z",
+  "last_run_at": "2026-11-11T06:03:58Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-11T05:19:56Z",
+      "cutoff": "2026-11-11T05:25:35Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-11T05:19:56Z",
+      "cutoff": "2026-11-11T05:25:35Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-11T05:19:56Z",
+      "cutoff": "2026-11-11T05:25:35Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-11T05:19:56Z",
-      "matches": 0,
+      "cutoff": "2026-11-11T05:25:35Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -11414,14 +11414,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3272",
       "first_seen_at": "2026-11-11T00:34:25Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6322665516": {
+      "created_at": "2026-11-11T05:58:22Z",
+      "display": "#549 Grant Application - PrivateSync: Privacy-Preserving Light Client Sync Infrastructure for Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3279",
+      "first_seen_at": "2026-11-11T06:03:58Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-11T05:55:35Z",
-    "forum": "2026-11-11T05:55:35Z",
-    "github": "2026-11-11T05:55:35Z",
-    "zcg": "2026-11-11T05:55:35Z"
+    "fixed_orgs": "2026-11-11T06:03:58Z",
+    "forum": "2026-11-11T06:03:58Z",
+    "github": "2026-11-11T06:03:58Z",
+    "zcg": "2026-11-11T06:03:58Z"
   }
 }
