@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T09:41:31Z",
+    "detected_at": "2026-11-11T09:43:39Z",
+    "display": "elconfa/zaino72-privacy",
+    "key": "repo:1453786086",
+    "metadata": {
+      "description": "Informativa privacy dell'app Zaino 72 ore",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "elconfa/zaino72-privacy",
+      "homepage": null,
+      "pushed_at": "2026-11-11T09:41:36Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1453786086,
+    "url": "https://github.com/elconfa/zaino72-privacy"
+  },
+  "schema": "zcash-fast-event/1"
+}
