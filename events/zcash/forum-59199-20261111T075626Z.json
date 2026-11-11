@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T07:53:10.952Z",
+    "detected_at": "2026-11-11T07:56:26Z",
+    "display": "59199 Zecboat.com - Zec Non Fungible Thing",
+    "key": "forum:59199",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zecboat-com-zec-non-fungible-thing",
+      "title": "Zecboat.com - Zec Non Fungible Thing",
+      "topic_id": 59199
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59199,
+    "url": "https://forum.zcashcommunity.com/t/zecboat-com-zec-non-fungible-thing/59199"
+  },
+  "schema": "zcash-fast-event/1"
+}
