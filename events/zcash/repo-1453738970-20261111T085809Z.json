@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T08:53:51Z",
+    "detected_at": "2026-11-11T08:58:09Z",
+    "display": "logoapi/crypto-logos",
+    "key": "repo:1453738970",
+    "metadata": {
+      "description": "Free crypto coin logos as SVG by symbol: BTC, ETH, SOL, USDT and 32 more, light and dark. Hot-link logoapi.sh/crypto/BTC.svg or use the files. No API key, no signup, no attribution.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "logoapi/crypto-logos",
+      "homepage": "https://logoapi.sh/docs/crypto",
+      "pushed_at": "2026-11-11T08:53:56Z",
+      "tech_signals": [
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1453738970,
+    "url": "https://github.com/logoapi/crypto-logos"
+  },
+  "schema": "zcash-fast-event/1"
+}
