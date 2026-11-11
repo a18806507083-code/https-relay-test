@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T11:47:31Z",
+    "description": "Free browser cat battle royale with on-chain pass cards on Robinhood Chain",
+    "detected_at": "2026-11-11T11:54:27Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "wynstudio00-max/cat-meme-battlegrounds",
+    "homepage": "https://play.catbattlegrounds.com",
+    "html_url": "https://github.com/wynstudio00-max/cat-meme-battlegrounds",
+    "pushed_at": "2026-11-11T11:48:04Z",
+    "repo_id": 1453909380,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
