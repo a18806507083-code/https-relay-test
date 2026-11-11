@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T19:52:39Z",
+    "detected_at": "2026-11-11T19:54:46Z",
+    "display": "CryptoExplor/zethora-node",
+    "key": "repo:1454431919",
+    "metadata": {
+      "description": "Zethora prototype node, forked from Kaspa (rusty-kaspa)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "CryptoExplor/zethora-node",
+      "homepage": "",
+      "pushed_at": "2026-11-10T21:28:03Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1454431919,
+    "url": "https://github.com/CryptoExplor/zethora-node"
+  },
+  "schema": "zcash-fast-event/1"
+}
