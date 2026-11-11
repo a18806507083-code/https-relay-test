@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T00:52:26Z",
+    "detected_at": "2026-11-11T00:54:07Z",
+    "display": "lcp2077/zapitra-pipeline-lab",
+    "key": "repo:1453361566",
+    "metadata": {
+      "description": "ZAPITRA — independent Rust state-space model and contract explorer for the BLAKE3 Pipeline API design",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "lcp2077/zapitra-pipeline-lab",
+      "homepage": null,
+      "pushed_at": "2026-11-11T00:52:32Z",
+      "tech_signals": [
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1453361566,
+    "url": "https://github.com/lcp2077/zapitra-pipeline-lab"
+  },
+  "schema": "zcash-fast-event/1"
+}
