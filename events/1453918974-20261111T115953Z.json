@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T11:56:52Z",
+    "description": "Read-only detector for fake volume (bump bots, wash trading) on EVM tokens",
+    "detected_at": "2026-11-11T11:59:53Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ajocircle-dev/bump-detector",
+    "homepage": null,
+    "html_url": "https://github.com/ajocircle-dev/bump-detector",
+    "pushed_at": "2026-11-11T11:56:59Z",
+    "repo_id": 1453918974,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
