@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T01:41:26Z",
+    "detected_at": "2026-11-11T01:45:14Z",
+    "display": "hudwqni1959/zechub-everyday-privacy",
+    "key": "repo:1453396359",
+    "metadata": {
+      "description": "Public contribution samples for Zcash community bounties",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "hudwqni1959/zechub-everyday-privacy",
+      "homepage": null,
+      "pushed_at": "2026-11-11T01:41:45Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1453396359,
+    "url": "https://github.com/hudwqni1959/zechub-everyday-privacy"
+  },
+  "schema": "zcash-fast-event/1"
+}
