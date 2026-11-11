@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T11:14:33Z",
+    "description": "tiny pons launcher cli \u2014 one file, keys stay local.",
+    "detected_at": "2026-11-11T11:18:07Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "quick-westcott/pons-cli",
+    "homepage": "",
+    "html_url": "https://github.com/quick-westcott/pons-cli",
+    "pushed_at": "2026-11-11T11:14:38Z",
+    "repo_id": 1453877363,
+    "score": 8,
+    "tech_signals": [
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
