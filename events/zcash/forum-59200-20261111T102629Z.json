@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T10:23:42.401Z",
+    "detected_at": "2026-11-11T10:26:29Z",
+    "display": "59200 Zcash on the Road | 81 Provinces, 81 Volunteers, 30,000 KM, 12 Months Across Türkiye",
+    "key": "forum:59200",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-on-the-road-81-provinces-81-volunteers-30-000-km-12-months-across-turkiye",
+      "title": "Zcash on the Road | 81 Provinces, 81 Volunteers, 30,000 KM, 12 Months Across Türkiye",
+      "topic_id": 59200
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59200,
+    "url": "https://forum.zcashcommunity.com/t/zcash-on-the-road-81-provinces-81-volunteers-30-000-km-12-months-across-turkiye/59200"
+  },
+  "schema": "zcash-fast-event/1"
+}
