@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-11T03:05:51.858Z",
+    "detected_at": "2026-11-11T03:16:07Z",
+    "display": "59194 Retroactive Grant Application - Ledger Zcash App Vulnerability Disclosure: Memo Crash and Device Wipe (GHSA-376f-cc2v-g94c)",
+    "key": "forum:59194",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-ledger-zcash-app-vulnerability-disclosure-memo-crash-and-device-wipe-ghsa-376f-cc2v-g94c",
+      "title": "Retroactive Grant Application - Ledger Zcash App Vulnerability Disclosure: Memo Crash and Device Wipe (GHSA-376f-cc2v-g94c)",
+      "topic_id": 59194
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59194,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-ledger-zcash-app-vulnerability-disclosure-memo-crash-and-device-wipe-ghsa-376f-cc2v-g94c/59194"
+  },
+  "schema": "zcash-fast-event/1"
+}
