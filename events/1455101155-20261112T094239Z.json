@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T09:41:35Z",
+    "description": "BondGate \u2014 an onchain approval gate for AI agents: $WIF bonds settled by a deterministic, recomputable policy verdict on Robinhood Chain.",
+    "detected_at": "2026-11-12T09:42:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "Snedz/bondgate",
+    "homepage": null,
+    "html_url": "https://github.com/Snedz/bondgate",
+    "pushed_at": "2026-11-12T09:42:44Z",
+    "repo_id": 1455101155,
+    "score": 14,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
