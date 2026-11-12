@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T17:58:04Z",
+    "detected_at": "2026-11-12T18:00:00Z",
+    "display": "kmt219/zwap",
+    "key": "repo:1455651700",
+    "metadata": {
+      "description": "ZWAP: Solana-to-Zcash bridge prototype. Source snapshot with local setup, architecture notes and provenance.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "kmt219/zwap",
+      "homepage": null,
+      "pushed_at": "2026-11-12T17:58:10Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1455651700,
+    "url": "https://github.com/kmt219/zwap"
+  },
+  "schema": "zcash-fast-event/1"
+}
