@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-12T13:33:17Z",
+  "last_run_at": "2026-11-12T13:39:32Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-12T12:56:36Z",
+      "cutoff": "2026-11-12T13:03:17Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-12T12:56:36Z",
-      "matches": 0,
+      "cutoff": "2026-11-12T13:03:17Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-12T12:56:36Z",
+      "cutoff": "2026-11-12T13:03:17Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-12T12:56:36Z",
+      "cutoff": "2026-11-12T13:03:17Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2933,6 +2933,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3401",
       "first_seen_at": "2026-11-12T11:25:07Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59235": {
+      "created_at": "2026-11-12T13:36:54.758Z",
+      "display": "59235 Zillions Keychain – Zcash Accounts, Radically Simplified",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3411",
+      "first_seen_at": "2026-11-12T13:39:32Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -11755,9 +11763,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-12T13:33:17Z",
-    "forum": "2026-11-12T13:33:17Z",
-    "github": "2026-11-12T13:33:17Z",
-    "zcg": "2026-11-12T13:33:17Z"
+    "fixed_orgs": "2026-11-12T13:39:32Z",
+    "forum": "2026-11-12T13:39:32Z",
+    "github": "2026-11-12T13:39:32Z",
+    "zcg": "2026-11-12T13:39:32Z"
   }
 }
