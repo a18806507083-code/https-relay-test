@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T09:58:55Z",
+    "detected_at": "2026-11-12T10:00:11Z",
+    "display": "#555 Grant Application - Zecpy",
+    "key": "zcg:6347321989",
+    "metadata": {
+      "author": "mikemoulder",
+      "issue_number": 555,
+      "labels": [],
+      "title": "Grant Application - Zecpy"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6347321989,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/555"
+  },
+  "schema": "zcash-fast-event/1"
+}
