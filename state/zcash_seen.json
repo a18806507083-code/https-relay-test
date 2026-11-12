@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-12T01:20:26Z",
+  "last_run_at": "2026-11-12T01:26:08Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-12T00:43:58Z",
+      "cutoff": "2026-11-12T00:50:26Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-12T00:43:58Z",
+      "cutoff": "2026-11-12T00:50:26Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-12T00:43:58Z",
-      "matches": 0,
+      "cutoff": "2026-11-12T00:50:26Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-12T00:43:58Z",
-      "matches": 0,
+      "cutoff": "2026-11-12T00:50:26Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -10615,6 +10615,14 @@
       "first_seen_at": "2026-11-12T00:33:07Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1454674799": {
+      "created_at": "2026-11-12T01:03:05Z",
+      "display": "milex-work/balance-collector",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3369",
+      "first_seen_at": "2026-11-12T01:26:08Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -11646,14 +11654,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3339",
       "first_seen_at": "2026-11-11T18:34:13Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6340519576": {
+      "created_at": "2026-11-12T01:23:39Z",
+      "display": "#552 Grant Application - Bitcoin Takeover Podcast",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3368",
+      "first_seen_at": "2026-11-12T01:26:08Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-12T01:20:26Z",
-    "forum": "2026-11-12T01:20:26Z",
-    "github": "2026-11-12T01:20:26Z",
-    "zcg": "2026-11-12T01:20:26Z"
+    "fixed_orgs": "2026-11-12T01:26:08Z",
+    "forum": "2026-11-12T01:26:08Z",
+    "github": "2026-11-12T01:26:08Z",
+    "zcg": "2026-11-12T01:26:08Z"
   }
 }
