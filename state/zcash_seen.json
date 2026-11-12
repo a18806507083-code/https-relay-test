@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-11T23:59:04Z",
+  "last_run_at": "2026-11-12T00:33:07Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-11T23:23:25Z",
+      "cutoff": "2026-11-11T23:29:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-11T23:23:25Z",
-      "matches": 0,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-11-11T23:23:25Z",
+      "cutoff": "2026-11-11T23:29:04Z",
       "matches": 1,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-11-11T23:29:04Z",
+      "matches": 2,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-11-11T23:23:25Z",
+      "cutoff": "2026-11-11T23:29:04Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2893,6 +2893,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3355",
       "first_seen_at": "2026-11-11T22:01:37Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59220": {
+      "created_at": "2026-11-12T00:20:38.228Z",
+      "display": "59220 Grant Application: Bitcoin Takeover Podcast",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3366",
+      "first_seen_at": "2026-11-12T00:33:07Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -10599,6 +10607,14 @@
       "first_seen_at": "2026-11-11T23:59:04Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1454634608": {
+      "created_at": "2026-11-12T00:04:55Z",
+      "display": "agama-wallet/komodo",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3367",
+      "first_seen_at": "2026-11-12T00:33:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -11635,9 +11651,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-11T23:59:04Z",
-    "forum": "2026-11-11T23:59:04Z",
-    "github": "2026-11-11T23:59:04Z",
-    "zcg": "2026-11-11T23:59:04Z"
+    "fixed_orgs": "2026-11-12T00:33:07Z",
+    "forum": "2026-11-12T00:33:07Z",
+    "github": "2026-11-12T00:33:07Z",
+    "zcg": "2026-11-12T00:33:07Z"
   }
 }
