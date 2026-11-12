@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T20:51:08.223Z",
+    "detected_at": "2026-11-12T20:54:47Z",
+    "display": "59258 ZecBlock Private: look up transactions, blocks and addresses with PIR",
+    "key": "forum:59258",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zecblock-private-look-up-transactions-blocks-and-addresses-with-pir",
+      "title": "ZecBlock Private: look up transactions, blocks and addresses with PIR",
+      "topic_id": 59258
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59258,
+    "url": "https://forum.zcashcommunity.com/t/zecblock-private-look-up-transactions-blocks-and-addresses-with-pir/59258"
+  },
+  "schema": "zcash-fast-event/1"
+}
