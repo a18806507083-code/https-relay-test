@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T13:22:56Z",
+    "description": "Unofficial ERC-6551P (a working name, not an ERC number): a draft and a test implementation, not audited, not deployed. An ERC-6551 account, an ERC-721 sale rule and a checked sale, so an NFT that owns a wallet can be sold without a lock.",
+    "detected_at": "2026-11-12T13:26:21Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "theselfruleorg/erc-6551p-unofficial",
+    "homepage": null,
+    "html_url": "https://github.com/theselfruleorg/erc-6551p-unofficial",
+    "pushed_at": "2026-11-12T13:23:01Z",
+    "repo_id": 1455332801,
+    "score": 12,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
