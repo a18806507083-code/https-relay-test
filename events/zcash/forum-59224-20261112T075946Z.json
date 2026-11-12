@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T07:58:39.102Z",
+    "detected_at": "2026-11-12T07:59:46Z",
+    "display": "59224 Grant Application - Zcash for Python Developers: ZecHub Tutorial Series",
+    "key": "forum:59224",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-for-python-developers-zechub-tutorial-series",
+      "title": "Grant Application - Zcash for Python Developers: ZecHub Tutorial Series",
+      "topic_id": 59224
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59224,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-for-python-developers-zechub-tutorial-series/59224"
+  },
+  "schema": "zcash-fast-event/1"
+}
