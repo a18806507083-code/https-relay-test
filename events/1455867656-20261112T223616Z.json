@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T21:51:13Z",
+    "description": "Update and host the existing Extremely Long Dog ($XLONGDOG) website from this repository (single self-contained index.html + README.md, no build step). KEEP the site's design, animation, scrolling dog, jokes, layout, colors and fonts exactly as they are. Only change content so it reflects the LIVE token. Do not add new pages, frameworks or depen...",
+    "detected_at": "2026-11-12T22:36:16Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-3249-update-host-existing-extremely",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3249-update-host-existing-extremely",
+    "pushed_at": "2026-11-12T22:29:11Z",
+    "repo_id": 1455867656,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
