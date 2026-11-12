@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T21:14:41Z",
+    "description": "Launch a standard evm_project token-only launch (no custom hook, no extra application contracts). Token name: Extremely Long Dog. Token symbol: XLONGDOG. Official description / bio: \"Extremely Long Dog ($XLONGDOG): the longest dog on Robinhood Chain. A community meme token for the extremely long dog from @taylor_'s viral post. Unofficial fan mem...",
+    "detected_at": "2026-11-12T21:17:16Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-3248-launch-standard-evm-project-token-only",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3248-launch-standard-evm-project-token-only",
+    "pushed_at": "2026-11-12T21:14:45Z",
+    "repo_id": 1455838067,
+    "score": 7,
+    "tech_signals": [
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
