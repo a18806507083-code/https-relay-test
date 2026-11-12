@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T15:45:22Z",
+    "description": "Send a trading agent's decisions to Borro on Robinhood Chain. Adapters for TradingAgents and ai-hedge-fund. Dry run by default.",
+    "detected_at": "2026-11-12T15:49:53Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "BorroMarkets/borro-live",
+    "homepage": "https://borro.markets/go-live",
+    "html_url": "https://github.com/BorroMarkets/borro-live",
+    "pushed_at": "2026-11-12T15:45:28Z",
+    "repo_id": 1455503613,
+    "score": 13,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
