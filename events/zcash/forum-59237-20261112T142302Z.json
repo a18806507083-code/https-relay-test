@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T14:21:19.322Z",
+    "detected_at": "2026-11-12T14:23:02Z",
+    "display": "59237 Retroactive Grant Application - Zebra Block Suppression (Low) and IPv6 Ban Evasion Fix (Medium)",
+    "key": "forum:59237",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zebra-block-suppression-low-and-ipv6-ban-evasion-fix-medium",
+      "title": "Retroactive Grant Application - Zebra Block Suppression (Low) and IPv6 Ban Evasion Fix (Medium)",
+      "topic_id": 59237
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59237,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zebra-block-suppression-low-and-ipv6-ban-evasion-fix-medium/59237"
+  },
+  "schema": "zcash-fast-event/1"
+}
