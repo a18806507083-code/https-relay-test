@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T17:32:31.246Z",
+    "detected_at": "2026-11-12T17:36:17Z",
+    "display": "59250 Retroactive Grant Application - zkMarketer 9 Videos",
+    "key": "forum:59250",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zkmarketer-9-videos",
+      "title": "Retroactive Grant Application - zkMarketer 9 Videos",
+      "topic_id": 59250
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59250,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zkmarketer-9-videos/59250"
+  },
+  "schema": "zcash-fast-event/1"
+}
