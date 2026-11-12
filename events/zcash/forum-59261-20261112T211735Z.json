@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T21:13:51.003Z",
+    "detected_at": "2026-11-12T21:17:35Z",
+    "display": "59261 Retroactive Grant Application - LeoDex",
+    "key": "forum:59261",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-leodex",
+      "title": "Retroactive Grant Application - LeoDex",
+      "topic_id": 59261
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59261,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-leodex/59261"
+  },
+  "schema": "zcash-fast-event/1"
+}
