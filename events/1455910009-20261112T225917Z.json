@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T22:46:40Z",
+    "description": null,
+    "detected_at": "2026-11-12T22:59:17Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "BlasterOpsss/Ignio",
+    "homepage": null,
+    "html_url": "https://github.com/BlasterOpsss/Ignio",
+    "pushed_at": "2026-11-12T22:58:07Z",
+    "repo_id": 1455910009,
+    "score": 17,
+    "tech_signals": [
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
