@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T12:47:39Z",
+    "description": "Convik \u00d7 Reppo: an agent graded twice, by its peers and by the market. Six learning loops on Reppo's Evaluation API and SERV Reasoning.",
+    "detected_at": "2026-11-12T12:50:00Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "topguyaii/convik-reppo-quality",
+    "homepage": null,
+    "html_url": "https://github.com/topguyaii/convik-reppo-quality",
+    "pushed_at": "2026-11-12T12:47:46Z",
+    "repo_id": 1455291640,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
