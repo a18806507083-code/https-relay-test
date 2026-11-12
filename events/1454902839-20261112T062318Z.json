@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T06:12:18Z",
+    "description": "Sealed-bid batch auctions for Stock Tokens on Robinhood Chain, for the hours the market is closed. Bonds in $WIF.",
+    "detected_at": "2026-11-12T06:23:18Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "PugarHuda/tutup",
+    "homepage": null,
+    "html_url": "https://github.com/PugarHuda/tutup",
+    "pushed_at": "2026-11-12T06:12:27Z",
+    "repo_id": 1454902839,
+    "score": 9,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
