@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T01:03:05Z",
+    "detected_at": "2026-11-12T01:26:08Z",
+    "display": "milex-work/balance-collector",
+    "key": "repo:1454674799",
+    "metadata": {
+      "description": "Collect em all",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "milex-work/balance-collector",
+      "homepage": null,
+      "pushed_at": "2026-11-12T01:25:18Z",
+      "tech_signals": [
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1454674799,
+    "url": "https://github.com/milex-work/balance-collector"
+  },
+  "schema": "zcash-fast-event/1"
+}
