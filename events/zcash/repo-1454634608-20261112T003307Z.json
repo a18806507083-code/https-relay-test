@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T00:04:55Z",
+    "detected_at": "2026-11-12T00:33:07Z",
+    "display": "agama-wallet/komodo",
+    "key": "repo:1454634608",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "agama-wallet/komodo",
+      "homepage": null,
+      "pushed_at": "2026-11-12T00:06:25Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1454634608,
+    "url": "https://github.com/agama-wallet/komodo"
+  },
+  "schema": "zcash-fast-event/1"
+}
