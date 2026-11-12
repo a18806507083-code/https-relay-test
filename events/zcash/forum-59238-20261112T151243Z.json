@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T15:04:48.842Z",
+    "detected_at": "2026-11-12T15:12:43Z",
+    "display": "59238 ZCG Grant Application - ZecPy: Expanding Python Access to Zcash Shielded Payments",
+    "key": "forum:59238",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcg-grant-application-zecpy-expanding-python-access-to-zcash-shielded-payments",
+      "title": "ZCG Grant Application - ZecPy: Expanding Python Access to Zcash Shielded Payments",
+      "topic_id": 59238
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59238,
+    "url": "https://forum.zcashcommunity.com/t/zcg-grant-application-zecpy-expanding-python-access-to-zcash-shielded-payments/59238"
+  },
+  "schema": "zcash-fast-event/1"
+}
