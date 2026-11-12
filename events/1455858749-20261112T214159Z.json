@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T21:40:07Z",
+    "description": "A decentralized Fomo alternative.",
+    "detected_at": "2026-11-12T21:41:59Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "bitsocialnet/hopium",
+    "homepage": null,
+    "html_url": "https://github.com/bitsocialnet/hopium",
+    "pushed_at": "2026-11-12T21:40:12Z",
+    "repo_id": 1455858749,
+    "score": 7,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
