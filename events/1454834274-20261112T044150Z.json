@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T04:40:13Z",
+    "description": "FlatStreak \u2014 daily streak game on Robinhood Chain. Check in daily, burn 10 $WIF, keep the streak alive. World Is Flat hackathon.",
+    "detected_at": "2026-11-12T04:41:50Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "taufik52/flatstreak",
+    "homepage": null,
+    "html_url": "https://github.com/taufik52/flatstreak",
+    "pushed_at": "2026-11-12T04:40:32Z",
+    "repo_id": 1454834274,
+    "score": 13,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
