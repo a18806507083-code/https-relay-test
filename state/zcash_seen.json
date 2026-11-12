@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-12T09:54:29Z",
+  "last_run_at": "2026-11-12T10:00:11Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-12T09:18:47Z",
+      "cutoff": "2026-11-12T09:24:29Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-12T09:18:47Z",
+      "cutoff": "2026-11-12T09:24:29Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-12T09:18:47Z",
+      "cutoff": "2026-11-12T09:24:29Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-12T09:18:47Z",
-      "matches": 0,
+      "cutoff": "2026-11-12T09:24:29Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -11718,14 +11718,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3391",
       "first_seen_at": "2026-11-12T08:37:48Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6347321989": {
+      "created_at": "2026-11-12T09:58:55Z",
+      "display": "#555 Grant Application - Zecpy",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3395",
+      "first_seen_at": "2026-11-12T10:00:11Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-12T09:54:29Z",
-    "forum": "2026-11-12T09:54:29Z",
-    "github": "2026-11-12T09:54:29Z",
-    "zcg": "2026-11-12T09:54:29Z"
+    "fixed_orgs": "2026-11-12T10:00:11Z",
+    "forum": "2026-11-12T10:00:11Z",
+    "github": "2026-11-12T10:00:11Z",
+    "zcg": "2026-11-12T10:00:11Z"
   }
 }
