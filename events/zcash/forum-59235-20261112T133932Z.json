@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T13:36:54.758Z",
+    "detected_at": "2026-11-12T13:39:32Z",
+    "display": "59235 Zillions Keychain – Zcash Accounts, Radically Simplified",
+    "key": "forum:59235",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zillions-keychain-zcash-accounts-radically-simplified",
+      "title": "Zillions Keychain – Zcash Accounts, Radically Simplified",
+      "topic_id": 59235
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59235,
+    "url": "https://forum.zcashcommunity.com/t/zillions-keychain-zcash-accounts-radically-simplified/59235"
+  },
+  "schema": "zcash-fast-event/1"
+}
