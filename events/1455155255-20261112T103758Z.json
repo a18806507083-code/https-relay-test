@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T10:34:17Z",
+    "description": null,
+    "detected_at": "2026-11-12T10:37:58Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Tell-Markets/hermes-tell",
+    "homepage": null,
+    "html_url": "https://github.com/Tell-Markets/hermes-tell",
+    "pushed_at": "2026-11-12T10:34:46Z",
+    "repo_id": 1455155255,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
