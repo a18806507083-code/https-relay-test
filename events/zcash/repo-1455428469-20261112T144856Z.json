@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T14:42:08Z",
+    "detected_at": "2026-11-12T14:48:56Z",
+    "display": "roobie001/trustpay-zcash",
+    "key": "repo:1455428469",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "node/indexer"
+      ],
+      "full_name": "roobie001/trustpay-zcash",
+      "homepage": null,
+      "pushed_at": "2026-11-12T14:45:05Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1455428469,
+    "url": "https://github.com/roobie001/trustpay-zcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
