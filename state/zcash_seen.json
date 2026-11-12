@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-12T19:15:55Z",
+  "last_run_at": "2026-11-12T19:22:15Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-12T18:40:04Z",
+      "cutoff": "2026-11-12T18:45:55Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-12T18:40:04Z",
+      "cutoff": "2026-11-12T18:45:55Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-12T18:40:04Z",
-      "matches": 1,
+      "cutoff": "2026-11-12T18:45:55Z",
+      "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-12T18:40:04Z",
-      "matches": 0,
+      "cutoff": "2026-11-12T18:45:55Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -11830,14 +11830,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3400",
       "first_seen_at": "2026-11-12T11:19:35Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6357251081": {
+      "created_at": "2026-11-12T19:16:50Z",
+      "display": "#557 Grant Application - (Paeyme: Integrating Privacy-Preserving Zcash Payments for Consumers and Merchants Across Africa)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3437",
+      "first_seen_at": "2026-11-12T19:22:15Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-12T19:15:55Z",
-    "forum": "2026-11-12T19:15:55Z",
-    "github": "2026-11-12T19:15:55Z",
-    "zcg": "2026-11-12T19:15:55Z"
+    "fixed_orgs": "2026-11-12T19:22:15Z",
+    "forum": "2026-11-12T19:22:15Z",
+    "github": "2026-11-12T19:22:15Z",
+    "zcg": "2026-11-12T19:22:15Z"
   }
 }
