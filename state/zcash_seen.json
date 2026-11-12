@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-12T17:29:28Z",
+  "last_run_at": "2026-11-12T17:36:17Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-12T16:54:02Z",
+      "cutoff": "2026-11-12T16:59:28Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-12T16:54:02Z",
-      "matches": 1,
+      "cutoff": "2026-11-12T16:59:28Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-12T16:54:02Z",
+      "cutoff": "2026-11-12T16:59:28Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-12T16:54:02Z",
+      "cutoff": "2026-11-12T16:59:28Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2973,6 +2973,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3428",
       "first_seen_at": "2026-11-12T17:29:28Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59250": {
+      "created_at": "2026-11-12T17:32:31.246Z",
+      "display": "59250 Retroactive Grant Application - zkMarketer 9 Videos",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3429",
+      "first_seen_at": "2026-11-12T17:36:17Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -11803,9 +11811,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-12T17:29:28Z",
-    "forum": "2026-11-12T17:29:28Z",
-    "github": "2026-11-12T17:29:28Z",
-    "zcg": "2026-11-12T17:29:28Z"
+    "fixed_orgs": "2026-11-12T17:36:17Z",
+    "forum": "2026-11-12T17:36:17Z",
+    "github": "2026-11-12T17:36:17Z",
+    "zcg": "2026-11-12T17:36:17Z"
   }
 }
