@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T14:16:47.881Z",
+    "detected_at": "2026-11-12T14:23:02Z",
+    "display": "59236 ZecPy: Bringing Zcash Shielded Payments to Python Applications | Retroactive Grant Application",
+    "key": "forum:59236",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zecpy-bringing-zcash-shielded-payments-to-python-applications-retroactive-grant-application",
+      "title": "ZecPy: Bringing Zcash Shielded Payments to Python Applications | Retroactive Grant Application",
+      "topic_id": 59236
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59236,
+    "url": "https://forum.zcashcommunity.com/t/zecpy-bringing-zcash-shielded-payments-to-python-applications-retroactive-grant-application/59236"
+  },
+  "schema": "zcash-fast-event/1"
+}
