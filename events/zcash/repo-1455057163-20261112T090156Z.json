@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T08:59:18Z",
+    "detected_at": "2026-11-12T09:01:56Z",
+    "display": "max2006-zcash/aws-eks-blueprint-apigateway",
+    "key": "repo:1455057163",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "max2006-zcash/aws-eks-blueprint-apigateway",
+      "homepage": null,
+      "pushed_at": "2026-11-12T09:01:08Z",
+      "tech_signals": [
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1455057163,
+    "url": "https://github.com/max2006-zcash/aws-eks-blueprint-apigateway"
+  },
+  "schema": "zcash-fast-event/1"
+}
