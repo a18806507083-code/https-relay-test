@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-12T14:15:00Z",
+  "last_run_at": "2026-11-12T14:23:02Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-12T13:34:07Z",
+      "cutoff": "2026-11-12T13:45:00Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-12T13:34:07Z",
-      "matches": 1,
+      "cutoff": "2026-11-12T13:45:00Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-12T13:34:07Z",
+      "cutoff": "2026-11-12T13:45:00Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-12T13:34:07Z",
+      "cutoff": "2026-11-12T13:45:00Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -2941,6 +2941,22 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3411",
       "first_seen_at": "2026-11-12T13:39:32Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59236": {
+      "created_at": "2026-11-12T14:16:47.881Z",
+      "display": "59236 ZecPy: Bringing Zcash Shielded Payments to Python Applications | Retroactive Grant Application",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3414",
+      "first_seen_at": "2026-11-12T14:23:02Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59237": {
+      "created_at": "2026-11-12T14:21:19.322Z",
+      "display": "59237 Retroactive Grant Application - Zebra Block Suppression (Low) and IPv6 Ban Evasion Fix (Medium)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3413",
+      "first_seen_at": "2026-11-12T14:23:02Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -11763,9 +11779,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-12T14:15:00Z",
-    "forum": "2026-11-12T14:15:00Z",
-    "github": "2026-11-12T14:15:00Z",
-    "zcg": "2026-11-12T14:15:00Z"
+    "fixed_orgs": "2026-11-12T14:23:02Z",
+    "forum": "2026-11-12T14:23:02Z",
+    "github": "2026-11-12T14:23:02Z",
+    "zcg": "2026-11-12T14:23:02Z"
   }
 }
