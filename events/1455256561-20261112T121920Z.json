@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T12:14:40Z",
+    "description": "Omen Labs: AI-trader crowd simulations of token launches on Robinhood Chain. Fork of Hyvo (AGPL-3.0).",
+    "detected_at": "2026-11-12T12:19:20Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "diazskuyy/omen",
+    "homepage": "https://omenlabs.run",
+    "html_url": "https://github.com/diazskuyy/omen",
+    "pushed_at": "2026-11-12T12:14:50Z",
+    "repo_id": 1455256561,
+    "score": 16,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
