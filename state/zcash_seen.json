@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-12T07:53:56Z",
+  "last_run_at": "2026-11-12T07:59:46Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-12T07:18:03Z",
+      "cutoff": "2026-11-12T07:23:56Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-12T07:18:03Z",
-      "matches": 0,
+      "cutoff": "2026-11-12T07:23:56Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-12T07:18:03Z",
+      "cutoff": "2026-11-12T07:23:56Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-12T07:18:03Z",
-      "matches": 0,
+      "cutoff": "2026-11-12T07:23:56Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -2901,6 +2901,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3366",
       "first_seen_at": "2026-11-12T00:33:07Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59224": {
+      "created_at": "2026-11-12T07:58:39.102Z",
+      "display": "59224 Grant Application - Zcash for Python Developers: ZecHub Tutorial Series",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3382",
+      "first_seen_at": "2026-11-12T07:59:46Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -11662,14 +11670,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3368",
       "first_seen_at": "2026-11-12T01:26:08Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6345449613": {
+      "created_at": "2026-11-12T07:57:11Z",
+      "display": "#553 Grant Application - Zcash for Python Developers: ZecHub Tutorial Series",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3383",
+      "first_seen_at": "2026-11-12T07:59:46Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-12T07:53:56Z",
-    "forum": "2026-11-12T07:53:56Z",
-    "github": "2026-11-12T07:53:56Z",
-    "zcg": "2026-11-12T07:53:56Z"
+    "fixed_orgs": "2026-11-12T07:59:46Z",
+    "forum": "2026-11-12T07:59:46Z",
+    "github": "2026-11-12T07:59:46Z",
+    "zcg": "2026-11-12T07:59:46Z"
   }
 }
