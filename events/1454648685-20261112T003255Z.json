@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T00:26:21Z",
+    "description": "Flat Signal \u2014 the attention market on Robinhood Chain. Burn $WIF to boost what matters. Live ranking of Stock Tokens, builders, and ideas powered by real skin in the game.",
+    "detected_at": "2026-11-12T00:32:55Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "onchaindc/flat-signal",
+    "homepage": null,
+    "html_url": "https://github.com/onchaindc/flat-signal",
+    "pushed_at": "2026-11-12T00:32:56Z",
+    "repo_id": 1454648685,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
