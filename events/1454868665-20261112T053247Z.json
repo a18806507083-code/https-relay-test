@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T05:27:24Z",
+    "description": "Merxiom is a permissioned RWA terminal on Robinhood Chain: gated asset tokens, shielded pool, sealed-batch dark pool and on-chain credit \u2014 all non-custodial.",
+    "detected_at": "2026-11-12T05:32:47Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Merxiom/contracts",
+    "homepage": null,
+    "html_url": "https://github.com/Merxiom/contracts",
+    "pushed_at": "2026-11-12T05:27:25Z",
+    "repo_id": 1454868665,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
