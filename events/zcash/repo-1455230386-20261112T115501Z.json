@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T11:49:19Z",
+    "detected_at": "2026-11-12T11:55:01Z",
+    "display": "Himess/zec-desk",
+    "key": "repo:1455230386",
+    "metadata": {
+      "description": "Sealed-bid swaps between shielded ZEC and a confidential dollar: encrypted quotes on Zama's FHEVM, amount-hidden Seam payment proofs. Testnet research prototype.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Himess/zec-desk",
+      "homepage": null,
+      "pushed_at": "2026-11-12T11:49:26Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1455230386,
+    "url": "https://github.com/Himess/zec-desk"
+  },
+  "schema": "zcash-fast-event/1"
+}
