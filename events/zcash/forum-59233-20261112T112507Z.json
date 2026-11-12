@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T11:24:50.391Z",
+    "detected_at": "2026-11-12T11:25:07Z",
+    "display": "59233 Grant Application - Shielded Zcash Payments in KOKOPAI",
+    "key": "forum:59233",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-shielded-zcash-payments-in-kokopai",
+      "title": "Grant Application - Shielded Zcash Payments in KOKOPAI",
+      "topic_id": 59233
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59233,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-shielded-zcash-payments-in-kokopai/59233"
+  },
+  "schema": "zcash-fast-event/1"
+}
