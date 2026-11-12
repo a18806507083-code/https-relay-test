@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T17:26:31.027Z",
+    "detected_at": "2026-11-12T17:29:28Z",
+    "display": "59248 Retroactive Grant Application - zec-agent-wallet: shielded Zcash payments for AI agents",
+    "key": "forum:59248",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zec-agent-wallet-shielded-zcash-payments-for-ai-agents",
+      "title": "Retroactive Grant Application - zec-agent-wallet: shielded Zcash payments for AI agents",
+      "topic_id": 59248
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59248,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zec-agent-wallet-shielded-zcash-payments-for-ai-agents/59248"
+  },
+  "schema": "zcash-fast-event/1"
+}
