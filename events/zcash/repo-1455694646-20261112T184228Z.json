@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T18:40:46Z",
+    "detected_at": "2026-11-12T18:42:28Z",
+    "display": "HoodieMoro/App-Zaino",
+    "key": "repo:1455694646",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "HoodieMoro/App-Zaino",
+      "homepage": null,
+      "pushed_at": "2026-11-12T18:42:12Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1455694646,
+    "url": "https://github.com/HoodieMoro/App-Zaino"
+  },
+  "schema": "zcash-fast-event/1"
+}
