@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T04:34:02Z",
+    "description": "TELEOPLEX launchpad. Wallet sign-in. 0.5% of a Pump bundle buys and burns $TLPX.",
+    "detected_at": "2026-11-12T04:35:56Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "theelastgod/teleoplex",
+    "homepage": null,
+    "html_url": "https://github.com/theelastgod/teleoplex",
+    "pushed_at": "2026-11-12T04:34:07Z",
+    "repo_id": 1454829715,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
