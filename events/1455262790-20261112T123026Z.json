@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T12:20:32Z",
+    "description": "What kind of trading funds the UNI burn? Reproducible analysis of Uniswap protocol revenue on Robinhood Chain from public endpoints.",
+    "detected_at": "2026-11-12T12:30:26Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "0xCadeZ/uni-burn-flow",
+    "homepage": null,
+    "html_url": "https://github.com/0xCadeZ/uni-burn-flow",
+    "pushed_at": "2026-11-12T12:22:52Z",
+    "repo_id": 1455262790,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
