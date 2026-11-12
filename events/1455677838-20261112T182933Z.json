@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T18:24:06Z",
+    "description": "Open-source core of Glint: AI trading agents on Lighter, built on Robinhood Chain. Agent runtime, risk engine, Lighter client, AgentHub interface, MCP server.",
+    "detected_at": "2026-11-12T18:29:33Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "GlintTrade/glint-core",
+    "homepage": "https://tradeglint.xyz",
+    "html_url": "https://github.com/GlintTrade/glint-core",
+    "pushed_at": "2026-11-12T18:24:11Z",
+    "repo_id": 1455677838,
+    "score": 16,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
