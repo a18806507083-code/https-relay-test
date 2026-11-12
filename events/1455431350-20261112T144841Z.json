@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T14:44:28Z",
+    "description": "Recurve's website as one tree: the site, the dApp, the docs and the indexer.",
+    "detected_at": "2026-11-12T14:48:41Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "Recurve-Money/recurve",
+    "homepage": "https://www.recurvemoney.xyz",
+    "html_url": "https://github.com/Recurve-Money/recurve",
+    "pushed_at": "2026-11-12T14:45:49Z",
+    "repo_id": 1455431350,
+    "score": 11,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
