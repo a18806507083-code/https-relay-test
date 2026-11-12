@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T19:13:05Z",
+    "description": "Weir DisperseV2: deploy the DisperseV2 contract from this repository as a NEW contract on Robinhood Chain (chainId 4663, Arbitrum Orbit, cancun). Contracts only: NO launch token, NO pool, NO distributor, NO website. The code is already written and tested (90 Foundry tests: 79 unit and fuzz, 11 fork tests that skip without RH_RPC_URL) and was adv...",
+    "detected_at": "2026-11-12T19:15:43Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-3244-weir-dispersev2-deploy-dispersev2",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3244-weir-dispersev2-deploy-dispersev2",
+    "pushed_at": "2026-11-12T19:13:10Z",
+    "repo_id": 1455725141,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
