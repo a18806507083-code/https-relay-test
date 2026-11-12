@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T19:30:51.079Z",
+    "detected_at": "2026-11-12T19:35:16Z",
+    "display": "59254 Retroactive Grant Application - ZTrace",
+    "key": "forum:59254",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-ztrace",
+      "title": "Retroactive Grant Application - ZTrace",
+      "topic_id": 59254
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59254,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-ztrace/59254"
+  },
+  "schema": "zcash-fast-event/1"
+}
