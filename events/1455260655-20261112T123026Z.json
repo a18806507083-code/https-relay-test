@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T12:18:33Z",
+    "description": null,
+    "detected_at": "2026-11-12T12:30:26Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Rafibinarif1997/Kingdom-of-eternity",
+    "homepage": null,
+    "html_url": "https://github.com/Rafibinarif1997/Kingdom-of-eternity",
+    "pushed_at": "2026-11-12T12:30:12Z",
+    "repo_id": 1455260655,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
