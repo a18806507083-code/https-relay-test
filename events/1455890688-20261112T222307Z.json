@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-12T22:21:15Z",
+    "description": "THRIVE in your terminal: season score, house books, meme picks and a read-only look at any wallet on Robinhood Chain.",
+    "detected_at": "2026-11-12T22:23:07Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Dhkrmynti/thrive-agent",
+    "homepage": "https://www.npmjs.com/package/thrive-agent",
+    "html_url": "https://github.com/Dhkrmynti/thrive-agent",
+    "pushed_at": "2026-11-12T22:21:22Z",
+    "repo_id": 1455890688,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
