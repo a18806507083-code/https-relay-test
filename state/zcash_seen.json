@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-13T13:18:20Z",
+  "last_run_at": "2026-11-13T13:24:05Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-13T12:41:57Z",
+      "cutoff": "2026-11-13T12:48:20Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-13T12:41:57Z",
-      "matches": 0,
+      "cutoff": "2026-11-13T12:48:20Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-13T12:41:57Z",
+      "cutoff": "2026-11-13T12:48:20Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-13T12:41:57Z",
+      "cutoff": "2026-11-13T12:48:20Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3077,6 +3077,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3474",
       "first_seen_at": "2026-11-13T12:18:06Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59281": {
+      "created_at": "2026-11-13T13:22:23.424Z",
+      "display": "59281 We made Zcash wallet sync ~21x faster. Yes, really",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3477",
+      "first_seen_at": "2026-11-13T13:24:05Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -11963,9 +11971,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-13T13:18:20Z",
-    "forum": "2026-11-13T13:18:20Z",
-    "github": "2026-11-13T13:18:20Z",
-    "zcg": "2026-11-13T13:18:20Z"
+    "fixed_orgs": "2026-11-13T13:24:05Z",
+    "forum": "2026-11-13T13:24:05Z",
+    "github": "2026-11-13T13:24:05Z",
+    "zcg": "2026-11-13T13:24:05Z"
   }
 }
