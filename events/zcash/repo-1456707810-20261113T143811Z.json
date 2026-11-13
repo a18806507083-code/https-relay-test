@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T14:36:08Z",
+    "detected_at": "2026-11-13T14:38:11Z",
+    "display": "0xyuji/rahasya",
+    "key": "repo:1456707810",
+    "metadata": {
+      "description": "Private AI, paid with anything.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "0xyuji/rahasya",
+      "homepage": "https://rahasya.chat",
+      "pushed_at": "2026-11-13T14:36:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1456707810,
+    "url": "https://github.com/0xyuji/rahasya"
+  },
+  "schema": "zcash-fast-event/1"
+}
