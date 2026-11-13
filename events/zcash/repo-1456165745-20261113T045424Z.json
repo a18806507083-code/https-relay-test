@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T04:52:40Z",
+    "detected_at": "2026-11-13T04:54:24Z",
+    "display": "Crackdevs/zcash-browser-ohttp-proof",
+    "key": "repo:1456165745",
+    "metadata": {
+      "description": "Reproducible Chromium/testnet proof of browser-side Chunked OHTTP for a patched WebZjs wallet, including receive/send tests, streaming failure checks and retained evidence.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Crackdevs/zcash-browser-ohttp-proof",
+      "homepage": null,
+      "pushed_at": "2026-11-13T04:52:42Z",
+      "tech_signals": [
+        "wallet/payment",
+        "protocol/ZK"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1456165745,
+    "url": "https://github.com/Crackdevs/zcash-browser-ohttp-proof"
+  },
+  "schema": "zcash-fast-event/1"
+}
