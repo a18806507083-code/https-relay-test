@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T17:03:32Z",
+    "description": "AIProve bounty entry: article about AIProve",
+    "detected_at": "2026-11-13T17:05:07Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "bryanzegawa/aiprove-write-article-aiprove",
+    "homepage": null,
+    "html_url": "https://github.com/bryanzegawa/aiprove-write-article-aiprove",
+    "pushed_at": "2026-11-13T17:03:53Z",
+    "repo_id": 1456872203,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
