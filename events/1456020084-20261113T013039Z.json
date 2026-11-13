@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T01:29:29Z",
+    "description": "Launch the GODS OF IMD contracts from this repository exactly as they are, on Ethereum (chain 1): OracleShrine first, then GodsOfIMDInhabitants. No token and no pool. Do not change the contracts' code, ABI, constants or behaviour: the game server and the players' app already use this ABI. Total supply: 1000 NFTs (GENESIS_SUPPLY, fixed in the con...",
+    "detected_at": "2026-11-13T01:30:39Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "identity-md-launches/launch-3253-launch-gods-imd-contracts",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3253-launch-gods-imd-contracts",
+    "pushed_at": "2026-11-13T01:29:33Z",
+    "repo_id": 1456020084,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
