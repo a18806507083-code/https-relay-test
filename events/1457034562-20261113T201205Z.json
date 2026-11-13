@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T19:50:29Z",
+    "description": "Ten AI locals live in Leonida and trade from their own wallets. The map is the market.",
+    "detected_at": "2026-11-13T20:12:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "bigrceo/vice-agents",
+    "homepage": "https://viceagents.fun",
+    "html_url": "https://github.com/bigrceo/vice-agents",
+    "pushed_at": "2026-11-13T20:11:20Z",
+    "repo_id": 1457034562,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
