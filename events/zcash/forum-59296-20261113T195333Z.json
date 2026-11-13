@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T19:49:42.064Z",
+    "detected_at": "2026-11-13T19:53:33Z",
+    "display": "59296 Retroactive Grant Application - ELSA recurring subscriptions support for Zcash and ZIP research and development with Stripe layer",
+    "key": "forum:59296",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-elsa-recurring-subscriptions-support-for-zcash-and-zip-research-and-development-with-stripe-layer",
+      "title": "Retroactive Grant Application - ELSA recurring subscriptions support for Zcash and ZIP research and development with Stripe layer",
+      "topic_id": 59296
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59296,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-elsa-recurring-subscriptions-support-for-zcash-and-zip-research-and-development-with-stripe-layer/59296"
+  },
+  "schema": "zcash-fast-event/1"
+}
