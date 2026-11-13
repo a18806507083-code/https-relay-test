@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T17:36:51Z",
+    "description": "Tokenry on BNB Smart Chain: contract addresses and network config for the no-code token tools at tokenry.tools",
+    "detected_at": "2026-11-13T17:42:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "TokenryTools/tokenry-bnb",
+    "homepage": null,
+    "html_url": "https://github.com/TokenryTools/tokenry-bnb",
+    "pushed_at": "2026-11-13T17:41:12Z",
+    "repo_id": 1456907380,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
