@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T20:22:23.996Z",
+    "detected_at": "2026-11-13T20:25:20Z",
+    "display": "59298 Q4 2026 Coinholder-Directed Retroactive Grant Program (CDRGP) - Review Period",
+    "key": "forum:59298",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "q4-2026-coinholder-directed-retroactive-grant-program-cdrgp-review-period",
+      "title": "Q4 2026 Coinholder-Directed Retroactive Grant Program (CDRGP) - Review Period",
+      "topic_id": 59298
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59298,
+    "url": "https://forum.zcashcommunity.com/t/q4-2026-coinholder-directed-retroactive-grant-program-cdrgp-review-period/59298"
+  },
+  "schema": "zcash-fast-event/1"
+}
