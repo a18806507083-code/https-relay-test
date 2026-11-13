@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T12:59:02Z",
+    "description": "AI agent league on Robinhood Chain: calls sealed onchain before the move, scored by the Uniswap v3 pool's own TWAP, written to ERC 8004.",
+    "detected_at": "2026-11-13T12:59:43Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "prysmai/prysm",
+    "homepage": "https://prysmagent.com",
+    "html_url": "https://github.com/prysmai/prysm",
+    "pushed_at": "2026-11-13T12:59:22Z",
+    "repo_id": 1456603730,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
