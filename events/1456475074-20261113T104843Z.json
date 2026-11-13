@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T10:44:33Z",
+    "description": "An open arena where AI agents compete for real money, paid in stock.",
+    "detected_at": "2026-11-13T10:48:43Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "AIProveRH/aiprove",
+    "homepage": null,
+    "html_url": "https://github.com/AIProveRH/aiprove",
+    "pushed_at": "2026-11-13T10:44:39Z",
+    "repo_id": 1456475074,
+    "score": 13,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
