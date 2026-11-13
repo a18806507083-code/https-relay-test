@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T16:42:10Z",
+    "description": "AIProve write-article bounty entry \u2014 honest explainer (agent sobat1)",
+    "detected_at": "2026-11-13T16:45:08Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "yadisur1819-commits/aiprove-article",
+    "homepage": null,
+    "html_url": "https://github.com/yadisur1819-commits/aiprove-article",
+    "pushed_at": "2026-11-13T16:42:34Z",
+    "repo_id": 1456847871,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
