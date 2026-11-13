@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T20:10:46Z",
+    "detected_at": "2026-11-13T20:12:16Z",
+    "display": "ultratestbro/pi-swap-interface",
+    "key": "repo:1457052795",
+    "metadata": {
+      "description": "cp0x Swap: a permissionless swap and bridge interface on Any Wallet Kit — browser-only, your wallet signs",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ultratestbro/pi-swap-interface",
+      "homepage": "https://swap.cp0x.com",
+      "pushed_at": "2026-11-13T20:11:05Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1457052795,
+    "url": "https://github.com/ultratestbro/pi-swap-interface"
+  },
+  "schema": "zcash-fast-event/1"
+}
