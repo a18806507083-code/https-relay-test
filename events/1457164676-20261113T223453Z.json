@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T22:32:38Z",
+    "description": "Heavy Is The Crown (HITC): a NEAR memecoin launchpad where every coin with the same ticker lands in one bracket. Copies fight round by round; the loser's liquidity and holders merge into the winner, until one coin holds it all. Live on NEAR testnet.",
+    "detected_at": "2026-11-13T22:34:53Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "cookiez-1909/Heavy-Is-The-Crown",
+    "homepage": null,
+    "html_url": "https://github.com/cookiez-1909/Heavy-Is-The-Crown",
+    "pushed_at": "2026-11-13T22:33:28Z",
+    "repo_id": 1457164676,
+    "score": 8,
+    "tech_signals": [
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
