@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T18:23:13Z",
+    "detected_at": "2026-11-13T18:33:07Z",
+    "display": "max2006-zcash/aws-AI-Driven-development-lifecycle",
+    "key": "repo:1456953082",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "max2006-zcash/aws-AI-Driven-development-lifecycle",
+      "homepage": null,
+      "pushed_at": "2026-11-13T18:32:35Z",
+      "tech_signals": [
+        "SDK/library",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1456953082,
+    "url": "https://github.com/max2006-zcash/aws-AI-Driven-development-lifecycle"
+  },
+  "schema": "zcash-fast-event/1"
+}
