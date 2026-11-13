@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T21:41:00.253Z",
+    "detected_at": "2026-11-13T21:41:40Z",
+    "display": "59299 Beyond Payments: A Proposal to Bring Shielded Assets to Ironwood for Data Protection",
+    "key": "forum:59299",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "beyond-payments-a-proposal-to-bring-shielded-assets-to-ironwood-for-data-protection",
+      "title": "Beyond Payments: A Proposal to Bring Shielded Assets to Ironwood for Data Protection",
+      "topic_id": 59299
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59299,
+    "url": "https://forum.zcashcommunity.com/t/beyond-payments-a-proposal-to-bring-shielded-assets-to-ironwood-for-data-protection/59299"
+  },
+  "schema": "zcash-fast-event/1"
+}
