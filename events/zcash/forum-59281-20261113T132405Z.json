@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T13:22:23.424Z",
+    "detected_at": "2026-11-13T13:24:05Z",
+    "display": "59281 We made Zcash wallet sync ~21x faster. Yes, really",
+    "key": "forum:59281",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "we-made-zcash-wallet-sync-21x-faster-yes-really",
+      "title": "We made Zcash wallet sync ~21x faster. Yes, really",
+      "topic_id": 59281
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59281,
+    "url": "https://forum.zcashcommunity.com/t/we-made-zcash-wallet-sync-21x-faster-yes-really/59281"
+  },
+  "schema": "zcash-fast-event/1"
+}
