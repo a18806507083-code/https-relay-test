@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T14:20:07Z",
+    "description": null,
+    "detected_at": "2026-11-13T14:49:32Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Nerevarine22/dbmetric",
+    "homepage": null,
+    "html_url": "https://github.com/Nerevarine22/dbmetric",
+    "pushed_at": "2026-11-13T14:49:25Z",
+    "repo_id": 1456689464,
+    "score": 7,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
