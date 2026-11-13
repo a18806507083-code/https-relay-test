@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T07:16:47.636Z",
+    "detected_at": "2026-11-13T07:20:48Z",
+    "display": "59271 Where's My ZEC — a free, keyless way to find a stuck ZEC swap (and your refund window)",
+    "key": "forum:59271",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "wheres-my-zec-a-free-keyless-way-to-find-a-stuck-zec-swap-and-your-refund-window",
+      "title": "Where's My ZEC — a free, keyless way to find a stuck ZEC swap (and your refund window)",
+      "topic_id": 59271
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59271,
+    "url": "https://forum.zcashcommunity.com/t/wheres-my-zec-a-free-keyless-way-to-find-a-stuck-zec-swap-and-your-refund-window/59271"
+  },
+  "schema": "zcash-fast-event/1"
+}
