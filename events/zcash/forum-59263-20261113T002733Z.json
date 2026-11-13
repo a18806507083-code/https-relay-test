@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T00:24:05.375Z",
+    "detected_at": "2026-11-13T00:27:33Z",
+    "display": "59263 Trustless, self-custodial shielded subscriptions, built natively into Zcash!",
+    "key": "forum:59263",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "trustless-self-custodial-shielded-subscriptions-built-natively-into-zcash",
+      "title": "Trustless, self-custodial shielded subscriptions, built natively into Zcash!",
+      "topic_id": 59263
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59263,
+    "url": "https://forum.zcashcommunity.com/t/trustless-self-custodial-shielded-subscriptions-built-natively-into-zcash/59263"
+  },
+  "schema": "zcash-fast-event/1"
+}
