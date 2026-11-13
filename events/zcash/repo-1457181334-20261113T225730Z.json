@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T22:56:43Z",
+    "detected_at": "2026-11-13T22:57:30Z",
+    "display": "bllangozi-ccc/Point6Miner",
+    "key": "repo:1457181334",
+    "metadata": {
+      "description": "Point6Miner Zcash CPU miner for Linux desktop and server · PointSixPool MICRO · 0.6% pool fee",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "bllangozi-ccc/Point6Miner",
+      "homepage": "https://pointsixpool.com/point6miner",
+      "pushed_at": "2026-11-13T22:56:53Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1457181334,
+    "url": "https://github.com/bllangozi-ccc/Point6Miner"
+  },
+  "schema": "zcash-fast-event/1"
+}
