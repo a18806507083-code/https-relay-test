@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-13T20:18:51Z",
+  "last_run_at": "2026-11-13T20:25:20Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-13T19:42:16Z",
+      "cutoff": "2026-11-13T19:48:51Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-13T19:42:16Z",
-      "matches": 2,
+      "cutoff": "2026-11-13T19:48:51Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-13T19:42:16Z",
+      "cutoff": "2026-11-13T19:48:51Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-13T19:42:16Z",
+      "cutoff": "2026-11-13T19:48:51Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3157,6 +3157,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3523",
       "first_seen_at": "2026-11-13T19:59:08Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59298": {
+      "created_at": "2026-11-13T20:22:23.996Z",
+      "display": "59298 Q4 2026 Coinholder-Directed Retroactive Grant Program (CDRGP) - Review Period",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3526",
+      "first_seen_at": "2026-11-13T20:25:20Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -12107,9 +12115,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-13T20:18:51Z",
-    "forum": "2026-11-13T20:18:51Z",
-    "github": "2026-11-13T20:18:51Z",
-    "zcg": "2026-11-13T20:18:51Z"
+    "fixed_orgs": "2026-11-13T20:25:20Z",
+    "forum": "2026-11-13T20:25:20Z",
+    "github": "2026-11-13T20:25:20Z",
+    "zcg": "2026-11-13T20:25:20Z"
   }
 }
