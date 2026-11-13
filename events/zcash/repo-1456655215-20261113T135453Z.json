@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T13:49:12Z",
+    "detected_at": "2026-11-13T13:54:53Z",
+    "display": "drchrispinnock/tzhomebrew",
+    "key": "repo:1456655215",
+    "metadata": {
+      "description": "Build tooling for the Octez Homebrew tap (macOS arm64)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "drchrispinnock/tzhomebrew",
+      "homepage": null,
+      "pushed_at": "2026-11-13T13:49:20Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1456655215,
+    "url": "https://github.com/drchrispinnock/tzhomebrew"
+  },
+  "schema": "zcash-fast-event/1"
+}
