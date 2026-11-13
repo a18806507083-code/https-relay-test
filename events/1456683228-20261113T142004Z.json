@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T14:14:29Z",
+    "description": "Agent Octan logo and banner (autonomous trading agent on Robinhood Chain)",
+    "detected_at": "2026-11-13T14:20:04Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "RyoLan/agent-octan-brand",
+    "homepage": null,
+    "html_url": "https://github.com/RyoLan/agent-octan-brand",
+    "pushed_at": "2026-11-13T14:16:24Z",
+    "repo_id": 1456683228,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
