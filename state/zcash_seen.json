@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-13T19:53:33Z",
+  "last_run_at": "2026-11-13T19:59:08Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-13T19:17:58Z",
+      "cutoff": "2026-11-13T19:23:33Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-13T19:17:58Z",
-      "matches": 1,
+      "cutoff": "2026-11-13T19:23:33Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-13T19:17:58Z",
+      "cutoff": "2026-11-13T19:23:33Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-13T19:17:58Z",
+      "cutoff": "2026-11-13T19:23:33Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3149,6 +3149,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3522",
       "first_seen_at": "2026-11-13T19:53:33Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59297": {
+      "created_at": "2026-11-13T19:56:38.227Z",
+      "display": "59297 Retroactive Grant Application - Zcashers Mining Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3523",
+      "first_seen_at": "2026-11-13T19:59:08Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -12091,9 +12099,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-13T19:53:33Z",
-    "forum": "2026-11-13T19:53:33Z",
-    "github": "2026-11-13T19:53:33Z",
-    "zcg": "2026-11-13T19:53:33Z"
+    "fixed_orgs": "2026-11-13T19:59:08Z",
+    "forum": "2026-11-13T19:59:08Z",
+    "github": "2026-11-13T19:59:08Z",
+    "zcg": "2026-11-13T19:59:08Z"
   }
 }
