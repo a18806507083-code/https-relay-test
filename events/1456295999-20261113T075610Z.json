@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T07:31:57Z",
+    "description": null,
+    "detected_at": "2026-11-13T07:56:10Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "terapepe/token-hood",
+    "homepage": "https://tokenhood.vercel.app",
+    "html_url": "https://github.com/terapepe/token-hood",
+    "pushed_at": "2026-11-13T07:53:07Z",
+    "repo_id": 1456295999,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
