@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T08:27:37.280Z",
+    "detected_at": "2026-11-13T08:33:07Z",
+    "display": "59272 Retroactive Grant Application - Minezcash: Zcash Forum Moderation Long Service Award",
+    "key": "forum:59272",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-minezcash-zcash-forum-moderation-long-service-award",
+      "title": "Retroactive Grant Application - Minezcash: Zcash Forum Moderation Long Service Award",
+      "topic_id": 59272
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59272,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-minezcash-zcash-forum-moderation-long-service-award/59272"
+  },
+  "schema": "zcash-fast-event/1"
+}
