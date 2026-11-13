@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T16:39:41.296Z",
+    "detected_at": "2026-11-13T16:39:30Z",
+    "display": "59288 Invest Zone ZEC Swaps Integration",
+    "key": "forum:59288",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "invest-zone-zec-swaps-integration",
+      "title": "Invest Zone ZEC Swaps Integration",
+      "topic_id": 59288
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59288,
+    "url": "https://forum.zcashcommunity.com/t/invest-zone-zec-swaps-integration/59288"
+  },
+  "schema": "zcash-fast-event/1"
+}
