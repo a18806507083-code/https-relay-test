@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T20:32:02Z",
+    "detected_at": "2026-11-13T20:37:21Z",
+    "display": "dovel-pr17-validation/pr17r63-npm-widget",
+    "key": "repo:1457070943",
+    "metadata": {
+      "description": "Dovel pr17r63 test mirror of lifinance/widget (temporary)",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "dovel-pr17-validation/pr17r63-npm-widget",
+      "homepage": null,
+      "pushed_at": "2026-11-13T20:32:15Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1457070943,
+    "url": "https://github.com/dovel-pr17-validation/pr17r63-npm-widget"
+  },
+  "schema": "zcash-fast-event/1"
+}
