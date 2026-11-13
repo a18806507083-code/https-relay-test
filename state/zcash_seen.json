@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-13T15:48:11Z",
+  "last_run_at": "2026-11-13T15:53:59Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-13T15:12:31Z",
+      "cutoff": "2026-11-13T15:18:11Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-13T15:12:31Z",
+      "cutoff": "2026-11-13T15:18:11Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-13T15:12:31Z",
+      "cutoff": "2026-11-13T15:18:11Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-13T15:12:31Z",
+      "cutoff": "2026-11-13T15:18:11Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3093,6 +3093,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3480",
       "first_seen_at": "2026-11-13T14:13:39Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59285": {
+      "created_at": "2026-11-13T15:41:05.620Z",
+      "display": "59285 Zeeder Docker Image Renamed to zfnd/zeeder: Switch by 14 December 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3488",
+      "first_seen_at": "2026-11-13T15:53:59Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -12011,9 +12019,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-13T15:48:11Z",
-    "forum": "2026-11-13T15:48:11Z",
-    "github": "2026-11-13T15:48:11Z",
-    "zcg": "2026-11-13T15:48:11Z"
+    "fixed_orgs": "2026-11-13T15:53:59Z",
+    "forum": "2026-11-13T15:53:59Z",
+    "github": "2026-11-13T15:53:59Z",
+    "zcg": "2026-11-13T15:53:59Z"
   }
 }
