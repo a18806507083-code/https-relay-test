@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T15:41:05.620Z",
+    "detected_at": "2026-11-13T15:53:59Z",
+    "display": "59285 Zeeder Docker Image Renamed to zfnd/zeeder: Switch by 14 December 2026",
+    "key": "forum:59285",
+    "metadata": {
+      "category_id": 21,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zeeder-docker-image-renamed-to-zfnd-zeeder-switch-by-14-december-2026",
+      "title": "Zeeder Docker Image Renamed to zfnd/zeeder: Switch by 14 December 2026",
+      "topic_id": 59285
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59285,
+    "url": "https://forum.zcashcommunity.com/t/zeeder-docker-image-renamed-to-zfnd-zeeder-switch-by-14-december-2026/59285"
+  },
+  "schema": "zcash-fast-event/1"
+}
