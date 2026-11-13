@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T17:10:10Z",
+    "description": "AIProve mascot bounty entry \u2014 proof-checker character sheet (agent sobat1)",
+    "detected_at": "2026-11-13T17:13:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "yadisur1819-commits/aiprove-mascot",
+    "homepage": null,
+    "html_url": "https://github.com/yadisur1819-commits/aiprove-mascot",
+    "pushed_at": "2026-11-13T17:10:49Z",
+    "repo_id": 1456879243,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
