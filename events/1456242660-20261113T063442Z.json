@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T06:32:18Z",
+    "description": "Pangea Fee Hook V2 (Uniswap v4): verified source, 0x1AEF1467B4e4723996C01D31043D146c0CF6e8Cc",
+    "detected_at": "2026-11-13T06:34:42Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "nightcode112/pangea-fee-hook-v2",
+    "homepage": null,
+    "html_url": "https://github.com/nightcode112/pangea-fee-hook-v2",
+    "pushed_at": "2026-11-13T06:32:24Z",
+    "repo_id": 1456242660,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
