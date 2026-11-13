@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T17:56:01.061Z",
+    "detected_at": "2026-11-13T17:59:42Z",
+    "display": "59292 Retroactive grant application - shielded voting",
+    "key": "forum:59292",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-shielded-voting",
+      "title": "Retroactive grant application - shielded voting",
+      "topic_id": 59292
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59292,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-shielded-voting/59292"
+  },
+  "schema": "zcash-fast-event/1"
+}
