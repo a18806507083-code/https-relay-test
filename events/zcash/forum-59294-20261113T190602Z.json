@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T18:59:11.777Z",
+    "detected_at": "2026-11-13T19:06:02Z",
+    "display": "59294 Retroactive Grant Application - ZODL Q3 2026 Core Protocol Development",
+    "key": "forum:59294",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zodl-q3-2026-core-protocol-development",
+      "title": "Retroactive Grant Application - ZODL Q3 2026 Core Protocol Development",
+      "topic_id": 59294
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59294,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zodl-q3-2026-core-protocol-development/59294"
+  },
+  "schema": "zcash-fast-event/1"
+}
