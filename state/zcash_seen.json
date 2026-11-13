@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-12T23:58:20Z",
+  "last_run_at": "2026-11-13T00:27:33Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-12T23:22:42Z",
+      "cutoff": "2026-11-12T23:28:20Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-12T23:22:42Z",
-      "matches": 0,
+      "cutoff": "2026-11-12T23:28:20Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-12T23:22:42Z",
+      "cutoff": "2026-11-12T23:28:20Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-12T23:22:42Z",
+      "cutoff": "2026-11-12T23:28:20Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3021,6 +3021,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3444",
       "first_seen_at": "2026-11-12T21:17:35Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59263": {
+      "created_at": "2026-11-13T00:24:05.375Z",
+      "display": "59263 Trustless, self-custodial shielded subscriptions, built natively into Zcash!",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3454",
+      "first_seen_at": "2026-11-13T00:27:33Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -11891,9 +11899,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-12T23:58:20Z",
-    "forum": "2026-11-12T23:58:20Z",
-    "github": "2026-11-12T23:58:20Z",
-    "zcg": "2026-11-12T23:58:20Z"
+    "fixed_orgs": "2026-11-13T00:27:33Z",
+    "forum": "2026-11-13T00:27:33Z",
+    "github": "2026-11-13T00:27:33Z",
+    "zcg": "2026-11-13T00:27:33Z"
   }
 }
