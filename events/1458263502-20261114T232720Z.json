@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T23:06:28Z",
+    "description": "A custom token: Idatsy (IDATSY). Token name: Idatsy Token symbol: IDATSY Token supply: 1,000,000,000 with 18 decimals, all minted once to the deployer in the constructor.",
+    "detected_at": "2026-11-14T23:27:20Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-3269-idatsy",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3269-idatsy",
+    "pushed_at": "2026-11-14T23:22:08Z",
+    "repo_id": 1458263502,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
