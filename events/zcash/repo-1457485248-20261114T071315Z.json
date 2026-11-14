@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T07:05:49Z",
+    "detected_at": "2026-11-14T07:13:15Z",
+    "display": "0xVampirot/FireKey",
+    "key": "repo:1457485248",
+    "metadata": {
+      "description": "FireKey lets an AI agent pay on your behalf from a private Zcash balance, within limits you set.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context",
+        "librustzcash"
+      ],
+      "full_name": "0xVampirot/FireKey",
+      "homepage": "",
+      "pushed_at": "2026-11-14T07:10:02Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1457485248,
+    "url": "https://github.com/0xVampirot/FireKey"
+  },
+  "schema": "zcash-fast-event/1"
+}
