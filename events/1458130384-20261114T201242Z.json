@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T20:05:08Z",
+    "description": "EQUINOX in your terminal: the research desk's 0-100 narrative scores for top crypto and top stocks. Read-only.",
+    "detected_at": "2026-11-14T20:12:42Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "equinoxrh/equinox-agent",
+    "homepage": "https://equinoxrh.trade",
+    "html_url": "https://github.com/equinoxrh/equinox-agent",
+    "pushed_at": "2026-11-14T20:11:49Z",
+    "repo_id": 1458130384,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
