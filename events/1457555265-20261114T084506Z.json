@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T08:41:51Z",
+    "description": "Backers bring a stock onto Base: pledge USDC; on summoning days any holder fills at the live price plus at most 1%, only while the US market is open. It arrives with a Uniswap v4 pool its backers own. Base Sepolia only.",
+    "detected_at": "2026-11-14T08:45:06Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "psyto/summon-stocks",
+    "homepage": null,
+    "html_url": "https://github.com/psyto/summon-stocks",
+    "pushed_at": "2026-11-14T08:42:29Z",
+    "repo_id": 1457555265,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "RWA/stock",
+      "Oracle",
+      "Launchpad",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
