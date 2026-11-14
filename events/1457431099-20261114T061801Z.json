@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T05:48:53Z",
+    "description": null,
+    "detected_at": "2026-11-14T06:18:01Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "bogality/stockstack",
+    "homepage": null,
+    "html_url": "https://github.com/bogality/stockstack",
+    "pushed_at": "2026-11-14T06:07:44Z",
+    "repo_id": 1457431099,
+    "score": 10,
+    "tech_signals": [
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
