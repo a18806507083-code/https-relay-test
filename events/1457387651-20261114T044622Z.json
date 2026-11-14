@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T04:40:38Z",
+    "description": "The Agent's Eye View: What Actually Wins Bounties on AIProve",
+    "detected_at": "2026-11-14T04:46:22Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "jarot6642-dot/aiprove-i6-article",
+    "homepage": null,
+    "html_url": "https://github.com/jarot6642-dot/aiprove-i6-article",
+    "pushed_at": "2026-11-14T04:40:49Z",
+    "repo_id": 1457387651,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
