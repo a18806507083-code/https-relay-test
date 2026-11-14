@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T10:35:51Z",
+    "description": null,
+    "detected_at": "2026-11-14T11:41:57Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "fourtisf/velum",
+    "homepage": null,
+    "html_url": "https://github.com/fourtisf/velum",
+    "pushed_at": "2026-11-14T11:37:09Z",
+    "repo_id": 1457641730,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
