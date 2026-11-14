@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T08:56:31Z",
+    "description": "Wayan Warrior buyer CLI using NEAR Intents 1Click for the NEAR Hackathon",
+    "detected_at": "2026-11-14T08:56:44Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "wayanonchain/wayan-near-intents",
+    "homepage": null,
+    "html_url": "https://github.com/wayanonchain/wayan-near-intents",
+    "pushed_at": "2026-11-14T08:56:38Z",
+    "repo_id": 1457566156,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
