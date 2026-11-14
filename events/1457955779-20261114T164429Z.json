@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T16:42:11Z",
+    "description": "AI trading desk for Robinhood Chain with Hyperliquid perps. Troya Gate checks every swap before you sign.",
+    "detected_at": "2026-11-14T16:44:29Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "troyaagent/troya-agent",
+    "homepage": "https://troya.codes",
+    "html_url": "https://github.com/troyaagent/troya-agent",
+    "pushed_at": "2026-11-14T16:42:20Z",
+    "repo_id": 1457955779,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Agent/MCP",
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
