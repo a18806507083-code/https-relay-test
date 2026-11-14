@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T20:20:35Z",
+    "detected_at": "2026-11-14T20:24:48Z",
+    "display": "UK134/near-health-check",
+    "key": "repo:1458141699",
+    "metadata": {
+      "description": "Reproducible NEAR investment thesis: the 48-hour trap, 7 graded claims, NEAR vs 9 AI & privacy chains, and the 1.6% issuance cut. #NEARHackathon",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "UK134/near-health-check",
+      "homepage": null,
+      "pushed_at": "2026-11-14T20:21:23Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1458141699,
+    "url": "https://github.com/UK134/near-health-check"
+  },
+  "schema": "zcash-fast-event/1"
+}
