@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T10:57:53Z",
+    "description": null,
+    "detected_at": "2026-11-14T12:15:24Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "wewilleviloff/Meme-Hunter",
+    "homepage": null,
+    "html_url": "https://github.com/wewilleviloff/Meme-Hunter",
+    "pushed_at": "2026-11-14T12:08:45Z",
+    "repo_id": 1457659177,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
