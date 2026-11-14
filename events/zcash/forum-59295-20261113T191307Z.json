@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-13T19:11:26.344Z",
+    "detected_at": "2026-11-13T19:13:07Z",
+    "display": "59295 Retroactive Grant Application - zecd: An audited zcashd alternative by Zec.rocks",
+    "key": "forum:59295",
+    "metadata": {
+      "category_id": 54,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "retroactive-grant-application-zecd-an-audited-zcashd-alternative-by-zec-rocks",
+      "title": "Retroactive Grant Application - zecd: An audited zcashd alternative by Zec.rocks",
+      "topic_id": 59295
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59295,
+    "url": "https://forum.zcashcommunity.com/t/retroactive-grant-application-zecd-an-audited-zcashd-alternative-by-zec-rocks/59295"
+  },
+  "schema": "zcash-fast-event/1"
+}
