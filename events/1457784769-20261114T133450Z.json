@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T13:32:43Z",
+    "description": "Vesper logo and banner (reads Robinhood Chain stock tokens)",
+    "detected_at": "2026-11-14T13:34:50Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "RyoLan/vesper-brand",
+    "homepage": null,
+    "html_url": "https://github.com/RyoLan/vesper-brand",
+    "pushed_at": "2026-11-14T13:32:50Z",
+    "repo_id": 1457784769,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
