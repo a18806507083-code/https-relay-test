@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T10:01:00Z",
+    "description": null,
+    "detected_at": "2026-11-14T11:12:49Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "clandestined/token-radar",
+    "homepage": null,
+    "html_url": "https://github.com/clandestined/token-radar",
+    "pushed_at": "2026-11-14T11:10:46Z",
+    "repo_id": 1457614956,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Launchpad",
+      "Bridge",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
