@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T13:57:00Z",
+    "detected_at": "2026-11-14T13:57:47Z",
+    "display": "0xyuji/exhibit-a",
+    "key": "repo:1457806276",
+    "metadata": {
+      "description": "A long-term thesis on NEAR, judged on the evidence: every number, figure and chart is rebuilt by one command.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "0xyuji/exhibit-a",
+      "homepage": "https://0xyuji.github.io/exhibit-a/",
+      "pushed_at": "2026-11-14T13:57:07Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1457806276,
+    "url": "https://github.com/0xyuji/exhibit-a"
+  },
+  "schema": "zcash-fast-event/1"
+}
