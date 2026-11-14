@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T11:18:36Z",
+    "description": "SELEN \u2014 a private proof-of-work chain. Receivers and amounts sealed with ML-KEM-768 (FIPS 203). Node, explorer, browser wallet and miner in one Node.js program.",
+    "detected_at": "2026-11-14T12:42:30Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "SelenSeal/selen",
+    "homepage": "https://selen.network",
+    "html_url": "https://github.com/SelenSeal/selen",
+    "pushed_at": "2026-11-14T12:41:23Z",
+    "repo_id": 1457675396,
+    "score": 6,
+    "tech_signals": [
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
