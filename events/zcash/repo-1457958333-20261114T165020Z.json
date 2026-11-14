@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T16:44:47Z",
+    "detected_at": "2026-11-14T16:50:20Z",
+    "display": "Jay-Trades/market-watch",
+    "key": "repo:1457958333",
+    "metadata": {
+      "description": "Intraday SPY/BTC/ZEC alerts on GitHub Actions with Claude research on big moves",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Jay-Trades/market-watch",
+      "homepage": null,
+      "pushed_at": "2026-11-14T16:47:14Z",
+      "tech_signals": [
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1457958333,
+    "url": "https://github.com/Jay-Trades/market-watch"
+  },
+  "schema": "zcash-fast-event/1"
+}
