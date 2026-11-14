@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-14T09:37:56Z",
+  "last_run_at": "2026-11-14T09:43:51Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-14T09:02:19Z",
+      "cutoff": "2026-11-14T09:07:56Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-14T09:02:19Z",
+      "cutoff": "2026-11-14T09:07:56Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-14T09:02:19Z",
+      "cutoff": "2026-11-14T09:07:56Z",
       "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-14T09:02:19Z",
-      "matches": 0,
+      "cutoff": "2026-11-14T09:07:56Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -12166,14 +12166,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3437",
       "first_seen_at": "2026-11-12T19:22:15Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6388245197": {
+      "created_at": "2026-11-14T09:40:12Z",
+      "display": "#558 Grant Application - {Roova}",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3559",
+      "first_seen_at": "2026-11-14T09:43:51Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-14T09:37:56Z",
-    "forum": "2026-11-14T09:37:56Z",
-    "github": "2026-11-14T09:37:56Z",
-    "zcg": "2026-11-14T09:37:56Z"
+    "fixed_orgs": "2026-11-14T09:43:51Z",
+    "forum": "2026-11-14T09:43:51Z",
+    "github": "2026-11-14T09:43:51Z",
+    "zcg": "2026-11-14T09:43:51Z"
   }
 }
