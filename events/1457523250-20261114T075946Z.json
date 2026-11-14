@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T07:58:07Z",
+    "description": "A watch face that shows any Moods NFT, for Pixel Watch and Apple Watch.",
+    "detected_at": "2026-11-14T07:59:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "acidmaneth/MoodWatch",
+    "homepage": null,
+    "html_url": "https://github.com/acidmaneth/MoodWatch",
+    "pushed_at": "2026-11-14T07:58:24Z",
+    "repo_id": 1457523250,
+    "score": 7,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
