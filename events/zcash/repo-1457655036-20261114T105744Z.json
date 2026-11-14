@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T10:52:32Z",
+    "detected_at": "2026-11-14T10:57:44Z",
+    "display": "solomonadzape95/mosaic",
+    "key": "repo:1457655036",
+    "metadata": {
+      "description": "Private funding for public projects — quadratic funding with shielded Zcash payments",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "solomonadzape95/mosaic",
+      "homepage": null,
+      "pushed_at": "2026-11-14T10:53:06Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1457655036,
+    "url": "https://github.com/solomonadzape95/mosaic"
+  },
+  "schema": "zcash-fast-event/1"
+}
