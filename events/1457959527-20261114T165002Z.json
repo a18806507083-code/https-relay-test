@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T16:45:50Z",
+    "description": "Mint Guard \u2014 a public safety-verdict agent for NFT mints. Paste a contract, get a GO / CAUTION / BLOCK verdict before you sign. Built for Agent Games Wildcard (zkVerify).",
+    "detected_at": "2026-11-14T16:50:02Z",
+    "direct_signals": [
+      "RH mainnet RPC"
+    ],
+    "full_name": "juliansiena23/mint-guard",
+    "homepage": null,
+    "html_url": "https://github.com/juliansiena23/mint-guard",
+    "pushed_at": "2026-11-14T16:48:07Z",
+    "repo_id": 1457959527,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
