@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-14T19:44:34Z",
+    "description": null,
+    "detected_at": "2026-11-14T19:50:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Praharika267/juno-near",
+    "homepage": null,
+    "html_url": "https://github.com/Praharika267/juno-near",
+    "pushed_at": "2026-11-14T19:44:50Z",
+    "repo_id": 1458114534,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
