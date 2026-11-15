@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T20:13:59Z",
+    "description": null,
+    "detected_at": "2026-11-15T20:26:30Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "zyroai11/zyro-website",
+    "homepage": null,
+    "html_url": "https://github.com/zyroai11/zyro-website",
+    "pushed_at": "2026-11-15T20:23:33Z",
+    "repo_id": 1459202591,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
