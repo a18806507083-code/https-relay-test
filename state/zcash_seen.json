@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-15T15:59:04Z",
+  "last_run_at": "2026-11-15T16:11:46Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-15T15:23:21Z",
+      "cutoff": "2026-11-15T15:29:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-15T15:23:21Z",
-      "matches": 0,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-11-15T15:23:21Z",
+      "cutoff": "2026-11-15T15:29:04Z",
       "matches": 1,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-11-15T15:29:04Z",
+      "matches": 0,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-11-15T15:23:21Z",
+      "cutoff": "2026-11-15T15:29:04Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3189,6 +3189,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3593",
       "first_seen_at": "2026-11-14T23:15:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59325": {
+      "created_at": "2026-11-15T16:06:27.918Z",
+      "display": "59325 One ZIP for Both Taps: Fixing the Colossal Treasury Problem",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3614",
+      "first_seen_at": "2026-11-15T16:11:46Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -12307,9 +12315,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-15T15:59:04Z",
-    "forum": "2026-11-15T15:59:04Z",
-    "github": "2026-11-15T15:59:04Z",
-    "zcg": "2026-11-15T15:59:04Z"
+    "fixed_orgs": "2026-11-15T16:11:46Z",
+    "forum": "2026-11-15T16:11:46Z",
+    "github": "2026-11-15T16:11:46Z",
+    "zcg": "2026-11-15T16:11:46Z"
   }
 }
