@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T09:58:17Z",
+    "description": "tools for multi-wallet NFT players running entirely in your browser.",
+    "detected_at": "2026-11-15T09:59:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "nnath278/RaccoonBOT",
+    "homepage": null,
+    "html_url": "https://github.com/nnath278/RaccoonBOT",
+    "pushed_at": "2026-11-15T09:58:55Z",
+    "repo_id": 1458660132,
+    "score": 12,
+    "tech_signals": [
+      "Hook",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
