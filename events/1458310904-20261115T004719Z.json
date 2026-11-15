@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T00:30:33Z",
+    "description": null,
+    "detected_at": "2026-11-15T00:47:19Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "berkahmuse/robinhood-wallet-guard",
+    "homepage": null,
+    "html_url": "https://github.com/berkahmuse/robinhood-wallet-guard",
+    "pushed_at": "2026-11-15T00:33:23Z",
+    "repo_id": 1458310904,
+    "score": 13,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
