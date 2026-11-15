@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T12:46:07Z",
+    "description": "Arena Launch: live contracts, deploy scripts and tests (Base, Elysium, Gladiator Mode) - arenalaunch.tech",
+    "detected_at": "2026-11-15T12:48:29Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "PetrolForever/arena-launch-protocol",
+    "homepage": null,
+    "html_url": "https://github.com/PetrolForever/arena-launch-protocol",
+    "pushed_at": "2026-11-15T12:46:14Z",
+    "repo_id": 1458792091,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
