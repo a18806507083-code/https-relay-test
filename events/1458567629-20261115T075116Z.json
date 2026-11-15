@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T07:49:04Z",
+    "description": "Sightline: read-only public explorer for Tacit (live mainnet data, no wallet, no keys)",
+    "detected_at": "2026-11-15T07:51:16Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "amir64564/tacit-sightline",
+    "homepage": null,
+    "html_url": "https://github.com/amir64564/tacit-sightline",
+    "pushed_at": "2026-11-15T07:49:09Z",
+    "repo_id": 1458567629,
+    "score": 7,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
