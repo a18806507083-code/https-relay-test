@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T16:00:12Z",
+    "description": null,
+    "detected_at": "2026-11-15T16:11:30Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "zyroai11/Zyro-Agent",
+    "homepage": null,
+    "html_url": "https://github.com/zyroai11/Zyro-Agent",
+    "pushed_at": "2026-11-15T16:01:27Z",
+    "repo_id": 1458974286,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
