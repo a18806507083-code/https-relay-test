@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T13:31:39Z",
+    "detected_at": "2026-11-15T14:10:00Z",
+    "display": "Mancio24x/BetterOut",
+    "key": "repo:1458832713",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Mancio24x/BetterOut",
+      "homepage": null,
+      "pushed_at": "2026-11-15T14:08:22Z",
+      "tech_signals": [
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1458832713,
+    "url": "https://github.com/Mancio24x/BetterOut"
+  },
+  "schema": "zcash-fast-event/1"
+}
