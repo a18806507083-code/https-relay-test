@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T16:06:27.918Z",
+    "detected_at": "2026-11-15T16:11:46Z",
+    "display": "59325 One ZIP for Both Taps: Fixing the Colossal Treasury Problem",
+    "key": "forum:59325",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "one-zip-for-both-taps-fixing-the-colossal-treasury-problem",
+      "title": "One ZIP for Both Taps: Fixing the Colossal Treasury Problem",
+      "topic_id": 59325
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59325,
+    "url": "https://forum.zcashcommunity.com/t/one-zip-for-both-taps-fixing-the-colossal-treasury-problem/59325"
+  },
+  "schema": "zcash-fast-event/1"
+}
