@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T20:56:32Z",
+    "description": "Six minds modeled on real organisms trade the same 11 Robinhood Chain assets. Terminal UI, 3D connectome, every number recomputable.",
+    "detected_at": "2026-11-15T21:02:43Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "myxobrain/myxobrain",
+    "homepage": "https://myxobrain.github.io/myxobrain/",
+    "html_url": "https://github.com/myxobrain/myxobrain",
+    "pushed_at": "2026-11-15T20:56:40Z",
+    "repo_id": 1459235771,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
