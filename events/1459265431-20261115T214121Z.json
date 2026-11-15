@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T21:37:29Z",
+    "description": "BCIO in your terminal and in Claude: stock tokens and crypto read together. CLI + MCP server.",
+    "detected_at": "2026-11-15T21:41:21Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "bcioagents/bcio-agent",
+    "homepage": "https://bcio.trade",
+    "html_url": "https://github.com/bcioagents/bcio-agent",
+    "pushed_at": "2026-11-15T21:37:35Z",
+    "repo_id": 1459265431,
+    "score": 15,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
