@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T23:40:19Z",
+    "detected_at": "2026-11-15T23:43:53Z",
+    "display": "br33zybail/br33zybail",
+    "key": "repo:1459345229",
+    "metadata": {
+      "description": "Profile",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "br33zybail/br33zybail",
+      "homepage": null,
+      "pushed_at": "2026-11-15T23:40:37Z",
+      "tech_signals": [
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1459345229,
+    "url": "https://github.com/br33zybail/br33zybail"
+  },
+  "schema": "zcash-fast-event/1"
+}
