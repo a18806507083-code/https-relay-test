@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T21:53:19Z",
+    "detected_at": "2026-11-15T21:58:57Z",
+    "display": "boyfromcave/ycash-team-site",
+    "key": "repo:1459276549",
+    "metadata": {
+      "description": "The Ycash landing page (ycash.team)",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "boyfromcave/ycash-team-site",
+      "homepage": null,
+      "pushed_at": "2026-11-15T21:53:25Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1459276549,
+    "url": "https://github.com/boyfromcave/ycash-team-site"
+  },
+  "schema": "zcash-fast-event/1"
+}
