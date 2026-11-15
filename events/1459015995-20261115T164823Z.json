@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T16:43:47Z",
+    "description": "Qanatus runs concentrated-liquidity vaults on Robinhood Chain that rebalance and compound on their own \u2014 each owned by your wallet. Streaming ETH stake.",
+    "detected_at": "2026-11-15T16:48:23Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Qanatus/contracts",
+    "homepage": null,
+    "html_url": "https://github.com/Qanatus/contracts",
+    "pushed_at": "2026-11-15T16:45:00Z",
+    "repo_id": 1459015995,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
