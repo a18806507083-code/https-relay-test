@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T15:25:28Z",
+    "detected_at": "2026-11-15T15:30:32Z",
+    "display": "tioioe/dante-inferno",
+    "key": "repo:1458940717",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "tioioe/dante-inferno",
+      "homepage": null,
+      "pushed_at": "2026-11-15T15:28:52Z",
+      "tech_signals": [
+        "node/indexer",
+        "DeFi/asset"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1458940717,
+    "url": "https://github.com/tioioe/dante-inferno"
+  },
+  "schema": "zcash-fast-event/1"
+}
