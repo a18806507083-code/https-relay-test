@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-15T13:19:55Z",
+    "description": null,
+    "detected_at": "2026-11-15T14:39:53Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "GlidepathRH/glidepath",
+    "homepage": null,
+    "html_url": "https://github.com/GlidepathRH/glidepath",
+    "pushed_at": "2026-11-15T14:37:48Z",
+    "repo_id": 1458822002,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
