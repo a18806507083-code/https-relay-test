@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T21:16:35Z",
+    "description": null,
+    "detected_at": "2026-11-16T21:23:33Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "dosozeuzeuu/fractal",
+    "homepage": null,
+    "html_url": "https://github.com/dosozeuzeuu/fractal",
+    "pushed_at": "2026-11-16T21:18:37Z",
+    "repo_id": 1460580680,
+    "score": 16,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
