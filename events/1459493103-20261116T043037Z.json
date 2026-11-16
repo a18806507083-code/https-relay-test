@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T03:22:09Z",
+    "description": null,
+    "detected_at": "2026-11-16T04:30:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "privyra/privyra",
+    "homepage": null,
+    "html_url": "https://github.com/privyra/privyra",
+    "pushed_at": "2026-11-16T04:24:49Z",
+    "repo_id": 1459493103,
+    "score": 13,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
