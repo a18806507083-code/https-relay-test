@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T15:47:15.420Z",
+    "detected_at": "2026-11-16T15:55:06Z",
+    "display": "59362 Grant Proposal: Formal Verification of Zcash's Consensus Libraries in Lean 4 (Zebra and Zakura)",
+    "key": "forum:59362",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-proposal-formal-verification-of-zcashs-consensus-libraries-in-lean-4-zebra-and-zakura",
+      "title": "Grant Proposal: Formal Verification of Zcash's Consensus Libraries in Lean 4 (Zebra and Zakura)",
+      "topic_id": 59362
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59362,
+    "url": "https://forum.zcashcommunity.com/t/grant-proposal-formal-verification-of-zcashs-consensus-libraries-in-lean-4-zebra-and-zakura/59362"
+  },
+  "schema": "zcash-fast-event/1"
+}
