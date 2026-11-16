@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T16:46:19Z",
+    "description": "finu.muse \u2014 0xfinu's testnet build log",
+    "detected_at": "2026-11-16T17:01:26Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "0xfinu/finu.muse",
+    "homepage": null,
+    "html_url": "https://github.com/0xfinu/finu.muse",
+    "pushed_at": "2026-11-16T16:55:34Z",
+    "repo_id": 1460293803,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
