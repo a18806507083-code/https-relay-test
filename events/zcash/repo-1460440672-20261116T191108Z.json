@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T19:00:41Z",
+    "detected_at": "2026-11-16T19:11:08Z",
+    "display": "Vineyard-Intelligence/pluginpack-blockchair",
+    "key": "repo:1460440672",
+    "metadata": {
+      "description": "Blockchair plugin pack for VINEYARD",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Vineyard-Intelligence/pluginpack-blockchair",
+      "homepage": null,
+      "pushed_at": "2026-11-16T19:00:46Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1460440672,
+    "url": "https://github.com/Vineyard-Intelligence/pluginpack-blockchair"
+  },
+  "schema": "zcash-fast-event/1"
+}
