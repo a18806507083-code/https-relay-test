@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T12:21:20.040Z",
+    "detected_at": "2026-11-16T12:26:01Z",
+    "display": "59347 Grant application: CryptoStrapon scam-safety exercises in English and Spanish ($3,500)",
+    "key": "forum:59347",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-cryptostrapon-scam-safety-exercises-in-english-and-spanish-3-500",
+      "title": "Grant application: CryptoStrapon scam-safety exercises in English and Spanish ($3,500)",
+      "topic_id": 59347
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59347,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-cryptostrapon-scam-safety-exercises-in-english-and-spanish-3-500/59347"
+  },
+  "schema": "zcash-fast-event/1"
+}
