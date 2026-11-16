@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T17:47:58Z",
+    "description": "Live radar for memecoin launches on Solana, Base, Robinhood Chain and Elysium",
+    "detected_at": "2026-11-16T17:52:53Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "xzfyodor/launch-radar",
+    "homepage": null,
+    "html_url": "https://github.com/xzfyodor/launch-radar",
+    "pushed_at": "2026-11-16T17:52:10Z",
+    "repo_id": 1460362736,
+    "score": 7,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
