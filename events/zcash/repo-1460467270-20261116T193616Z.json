@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T19:26:01Z",
+    "detected_at": "2026-11-16T19:36:16Z",
+    "display": "bonding-curves/avalanche-builders-intelligence",
+    "key": "repo:1460467270",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "bonding-curves/avalanche-builders-intelligence",
+      "homepage": null,
+      "pushed_at": "2026-11-16T19:26:06Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1460467270,
+    "url": "https://github.com/bonding-curves/avalanche-builders-intelligence"
+  },
+  "schema": "zcash-fast-event/1"
+}
