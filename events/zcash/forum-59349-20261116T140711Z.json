@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T14:07:02.529Z",
+    "detected_at": "2026-11-16T14:07:11Z",
+    "display": "59349 .... Programmable Zcash? (TOTALLY NOT CLiCKBAIT)",
+    "key": "forum:59349",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "programmable-zcash-totally-not-clickbait",
+      "title": ".... Programmable Zcash? (TOTALLY NOT CLiCKBAIT)",
+      "topic_id": 59349
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59349,
+    "url": "https://forum.zcashcommunity.com/t/programmable-zcash-totally-not-clickbait/59349"
+  },
+  "schema": "zcash-fast-event/1"
+}
