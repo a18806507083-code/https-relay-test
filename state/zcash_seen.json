@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-16T09:38:04Z",
+  "last_run_at": "2026-11-16T09:47:47Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-16T08:49:54Z",
+      "cutoff": "2026-11-16T09:08:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-16T08:49:54Z",
+      "cutoff": "2026-11-16T09:08:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-16T08:49:54Z",
+      "cutoff": "2026-11-16T09:08:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-16T08:49:54Z",
-      "matches": 0,
+      "cutoff": "2026-11-16T09:08:04Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -12366,14 +12366,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3607",
       "first_seen_at": "2026-11-15T13:22:55Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6418543195": {
+      "created_at": "2026-11-16T09:47:35Z",
+      "display": "#561 Grant Application - Retroactive: Seven Security Findings in zero-indexer, Fixed by Shielded Labs",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3643",
+      "first_seen_at": "2026-11-16T09:47:47Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-16T09:38:04Z",
-    "forum": "2026-11-16T09:38:04Z",
-    "github": "2026-11-16T09:38:04Z",
-    "zcg": "2026-11-16T09:38:04Z"
+    "fixed_orgs": "2026-11-16T09:47:47Z",
+    "forum": "2026-11-16T09:47:47Z",
+    "github": "2026-11-16T09:47:47Z",
+    "zcg": "2026-11-16T09:47:47Z"
   }
 }
