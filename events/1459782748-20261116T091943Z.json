@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T09:09:28Z",
+    "description": "EQUINOX in your terminal: the live season score, the four house books, the night picks and a read-only look at any wallet on Robinhood Chain.",
+    "detected_at": "2026-11-16T09:19:43Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "equinoxagent/equinox-agent",
+    "homepage": null,
+    "html_url": "https://github.com/equinoxagent/equinox-agent",
+    "pushed_at": "2026-11-16T09:10:00Z",
+    "repo_id": 1459782748,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
