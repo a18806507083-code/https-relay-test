@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T22:50:23Z",
+    "description": null,
+    "detected_at": "2026-11-16T23:34:50Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "pixelgamesite-maker/hoodverse",
+    "homepage": null,
+    "html_url": "https://github.com/pixelgamesite-maker/hoodverse",
+    "pushed_at": "2026-11-16T23:31:25Z",
+    "repo_id": 1460659243,
+    "score": 5,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
