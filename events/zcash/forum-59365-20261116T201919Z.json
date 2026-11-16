@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T20:19:05.355Z",
+    "detected_at": "2026-11-16T20:19:19Z",
+    "display": "59365 Zcash Agora",
+    "key": "forum:59365",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-agora",
+      "title": "Zcash Agora",
+      "topic_id": 59365
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59365,
+    "url": "https://forum.zcashcommunity.com/t/zcash-agora/59365"
+  },
+  "schema": "zcash-fast-event/1"
+}
