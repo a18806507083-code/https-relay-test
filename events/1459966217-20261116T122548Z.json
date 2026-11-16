@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T12:05:23Z",
+    "description": null,
+    "detected_at": "2026-11-16T12:25:48Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "SharkWhite7/-DefiMind",
+    "homepage": null,
+    "html_url": "https://github.com/SharkWhite7/-DefiMind",
+    "pushed_at": "2026-11-16T12:12:53Z",
+    "repo_id": 1459966217,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
