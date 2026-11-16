@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T10:09:30Z",
+    "description": null,
+    "detected_at": "2026-11-16T10:36:46Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "UserVau1t/UserVault",
+    "homepage": null,
+    "html_url": "https://github.com/UserVau1t/UserVault",
+    "pushed_at": "2026-11-16T10:34:20Z",
+    "repo_id": 1459846268,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
