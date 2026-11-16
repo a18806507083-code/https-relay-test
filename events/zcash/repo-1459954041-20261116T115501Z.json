@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T11:53:56Z",
+    "detected_at": "2026-11-16T11:55:01Z",
+    "display": "mrtnetwork/blockchain_utils_connector",
+    "key": "repo:1459954041",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "mrtnetwork/blockchain_utils_connector",
+      "homepage": null,
+      "pushed_at": "2026-11-16T11:54:27Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1459954041,
+    "url": "https://github.com/mrtnetwork/blockchain_utils_connector"
+  },
+  "schema": "zcash-fast-event/1"
+}
