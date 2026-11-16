@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T03:54:53Z",
+    "description": "Copy and assets for the KIRA X account and the $KIRA launch.",
+    "detected_at": "2026-11-16T04:01:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "m48952407-design/kira-post-kit",
+    "homepage": null,
+    "html_url": "https://github.com/m48952407-design/kira-post-kit",
+    "pushed_at": "2026-11-16T04:01:03Z",
+    "repo_id": 1459515828,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
