@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T11:20:22Z",
+    "description": "Keyless QHooks MCP configuration and examples: markets, stored QProof and unsigned wallet plans.",
+    "detected_at": "2026-11-16T11:29:32Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "qhooks/qhooks-mcp",
+    "homepage": "https://qhooks.com/agents?ref=github-qhooks-mcp",
+    "html_url": "https://github.com/qhooks/qhooks-mcp",
+    "pushed_at": "2026-11-16T11:20:32Z",
+    "repo_id": 1459918883,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
