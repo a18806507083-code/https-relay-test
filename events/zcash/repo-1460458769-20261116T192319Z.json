@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T19:17:39Z",
+    "detected_at": "2026-11-16T19:23:19Z",
+    "display": "jhon23-2/validacion_estructuras",
+    "key": "repo:1460458769",
+    "metadata": {
+      "description": "Projecto para la validacion de estructuras de datos curso",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "jhon23-2/validacion_estructuras",
+      "homepage": null,
+      "pushed_at": "2026-11-16T19:20:54Z",
+      "tech_signals": [
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1460458769,
+    "url": "https://github.com/jhon23-2/validacion_estructuras"
+  },
+  "schema": "zcash-fast-event/1"
+}
