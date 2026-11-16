@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T19:00:55Z",
+    "detected_at": "2026-11-16T19:11:08Z",
+    "display": "Vineyard-Intelligence/pluginpack-chain-explorer",
+    "key": "repo:1460440947",
+    "metadata": {
+      "description": "Chain Explorer plugin pack for VINEYARD",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Vineyard-Intelligence/pluginpack-chain-explorer",
+      "homepage": null,
+      "pushed_at": "2026-11-16T19:01:00Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1460440947,
+    "url": "https://github.com/Vineyard-Intelligence/pluginpack-chain-explorer"
+  },
+  "schema": "zcash-fast-event/1"
+}
