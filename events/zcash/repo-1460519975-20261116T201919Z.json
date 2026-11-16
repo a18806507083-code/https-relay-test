@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T20:18:01Z",
+    "detected_at": "2026-11-16T20:19:19Z",
+    "display": "dannywillems/windows-arm64-catch-unwind-abort",
+    "key": "repo:1460519975",
+    "metadata": {
+      "description": "Reproducer: catch_unwind around a failing debug_assert! aborts on aarch64-pc-windows-msvc",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "dannywillems/windows-arm64-catch-unwind-abort",
+      "homepage": null,
+      "pushed_at": "2026-11-16T20:19:12Z",
+      "tech_signals": [
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1460519975,
+    "url": "https://github.com/dannywillems/windows-arm64-catch-unwind-abort"
+  },
+  "schema": "zcash-fast-event/1"
+}
