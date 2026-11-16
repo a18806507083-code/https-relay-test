@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-16T15:47:00Z",
+  "last_run_at": "2026-11-16T15:55:06Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-16T15:08:23Z",
+      "cutoff": "2026-11-16T15:17:00Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-16T15:08:23Z",
-      "matches": 1,
+      "cutoff": "2026-11-16T15:17:00Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-16T15:08:23Z",
+      "cutoff": "2026-11-16T15:17:00Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-16T15:08:23Z",
+      "cutoff": "2026-11-16T15:17:00Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3261,6 +3261,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3668",
       "first_seen_at": "2026-11-16T15:38:23Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59362": {
+      "created_at": "2026-11-16T15:47:15.420Z",
+      "display": "59362 Grant Proposal: Formal Verification of Zcash's Consensus Libraries in Lean 4 (Zebra and Zakura)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3669",
+      "first_seen_at": "2026-11-16T15:55:06Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -12467,9 +12475,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-16T15:47:00Z",
-    "forum": "2026-11-16T15:47:00Z",
-    "github": "2026-11-16T15:47:00Z",
-    "zcg": "2026-11-16T15:47:00Z"
+    "fixed_orgs": "2026-11-16T15:55:06Z",
+    "forum": "2026-11-16T15:55:06Z",
+    "github": "2026-11-16T15:55:06Z",
+    "zcg": "2026-11-16T15:55:06Z"
   }
 }
