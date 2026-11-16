@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T15:28:30Z",
+    "description": "Private OTC block trades on Robinhood Chain: sealed bids and offers, one-transaction settlement through an adminless contract, gasless ghost mode.",
+    "detected_at": "2026-11-16T15:38:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "ObsynDev/obsyn",
+    "homepage": "https://obsyn.trade",
+    "html_url": "https://github.com/ObsynDev/obsyn",
+    "pushed_at": "2026-11-16T15:34:56Z",
+    "repo_id": 1460202884,
+    "score": 18,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
