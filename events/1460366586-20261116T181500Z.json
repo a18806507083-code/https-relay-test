@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T17:51:23Z",
+    "description": "finu.muse \u2014 0xfinu's GitHub profile.",
+    "detected_at": "2026-11-16T18:15:00Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "0xfinu/0xfinu",
+    "homepage": null,
+    "html_url": "https://github.com/0xfinu/0xfinu",
+    "pushed_at": "2026-11-16T18:03:26Z",
+    "repo_id": 1460366586,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
