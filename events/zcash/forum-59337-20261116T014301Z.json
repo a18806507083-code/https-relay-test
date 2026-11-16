@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T01:31:22.539Z",
+    "detected_at": "2026-11-16T01:43:01Z",
+    "display": "59337 Forced Shielding and Slow t-to-t is Costing Us Zillions",
+    "key": "forum:59337",
+    "metadata": {
+      "category_id": 31,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "forced-shielding-and-slow-t-to-t-is-costing-us-zillions",
+      "title": "Forced Shielding and Slow t-to-t is Costing Us Zillions",
+      "topic_id": 59337
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59337,
+    "url": "https://forum.zcashcommunity.com/t/forced-shielding-and-slow-t-to-t-is-costing-us-zillions/59337"
+  },
+  "schema": "zcash-fast-event/1"
+}
