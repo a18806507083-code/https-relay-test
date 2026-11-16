@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T19:01:47Z",
+    "detected_at": "2026-11-16T19:11:08Z",
+    "display": "Vineyard-Intelligence/sanctions-mirror",
+    "key": "repo:1460441832",
+    "metadata": {
+      "description": "OFAC SDN list mirror for the VINEYARD Sanctions Screening pack",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Vineyard-Intelligence/sanctions-mirror",
+      "homepage": null,
+      "pushed_at": "2026-11-16T19:01:52Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1460441832,
+    "url": "https://github.com/Vineyard-Intelligence/sanctions-mirror"
+  },
+  "schema": "zcash-fast-event/1"
+}
