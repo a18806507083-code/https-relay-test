@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T14:19:03Z",
+    "description": "Robinhood Chain transaction explainer (MCP): a tx hash in, a plain-language summary out. JazzCat #1's first tool, New Jazz City.",
+    "detected_at": "2026-11-16T14:50:47Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "nebulamji/rh-tx-explain",
+    "homepage": null,
+    "html_url": "https://github.com/nebulamji/rh-tx-explain",
+    "pushed_at": "2026-11-16T14:19:11Z",
+    "repo_id": 1460119149,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
