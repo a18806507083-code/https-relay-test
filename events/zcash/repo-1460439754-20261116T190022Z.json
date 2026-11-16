@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T18:59:52Z",
+    "detected_at": "2026-11-16T19:00:22Z",
+    "display": "Vineyard-Intelligence/typepack-cryptocurrency",
+    "key": "repo:1460439754",
+    "metadata": {
+      "description": "Cryptocurrency type pack for VINEYARD",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Vineyard-Intelligence/typepack-cryptocurrency",
+      "homepage": null,
+      "pushed_at": "2026-11-16T18:59:56Z",
+      "tech_signals": [
+        "wallet/payment",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1460439754,
+    "url": "https://github.com/Vineyard-Intelligence/typepack-cryptocurrency"
+  },
+  "schema": "zcash-fast-event/1"
+}
