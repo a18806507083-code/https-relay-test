@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T05:30:01Z",
+    "detected_at": "2026-11-16T05:30:41Z",
+    "display": "logicvoid0x/keystone",
+    "key": "repo:1459584439",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "logicvoid0x/keystone",
+      "homepage": null,
+      "pushed_at": "2026-11-16T05:30:10Z",
+      "tech_signals": [
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1459584439,
+    "url": "https://github.com/logicvoid0x/keystone"
+  },
+  "schema": "zcash-fast-event/1"
+}
