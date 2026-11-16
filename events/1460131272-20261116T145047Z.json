@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T14:29:02Z",
+    "description": "Runnable examples, an AI agent skill and MCP config for fly-sdk-v1, the FLY launchpad SDK on Robinhood Chain. Read-only by default.",
+    "detected_at": "2026-11-16T14:50:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "FLY-coin-hood/fly-sdk-examples",
+    "homepage": "https://fly.christmas/docs/for-builders",
+    "html_url": "https://github.com/FLY-coin-hood/fly-sdk-examples",
+    "pushed_at": "2026-11-16T14:31:25Z",
+    "repo_id": 1460131272,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
