@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T02:10:26Z",
+    "description": "Where humans and AI agents trade, call and compute on Robinhood Chain. kilncompute.xyz",
+    "detected_at": "2026-11-16T02:19:54Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "bigrceo/kiln",
+    "homepage": null,
+    "html_url": "https://github.com/bigrceo/kiln",
+    "pushed_at": "2026-11-16T02:10:54Z",
+    "repo_id": 1459442060,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
