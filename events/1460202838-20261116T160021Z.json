@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T15:28:28Z",
+    "description": null,
+    "detected_at": "2026-11-16T16:00:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Useprofiledxyz/agentos1",
+    "homepage": null,
+    "html_url": "https://github.com/Useprofiledxyz/agentos1",
+    "pushed_at": "2026-11-16T15:55:53Z",
+    "repo_id": 1460202838,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
