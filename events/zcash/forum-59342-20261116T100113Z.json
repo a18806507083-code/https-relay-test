@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T09:57:04.261Z",
+    "detected_at": "2026-11-16T10:01:13Z",
+    "display": "59342 Grant Application - Retroactive: Seven Security Findings in zero-indexer, Fixed by Shielded Labs",
+    "key": "forum:59342",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-retroactive-seven-security-findings-in-zero-indexer-fixed-by-shielded-labs",
+      "title": "Grant Application - Retroactive: Seven Security Findings in zero-indexer, Fixed by Shielded Labs",
+      "topic_id": 59342
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59342,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-retroactive-seven-security-findings-in-zero-indexer-fixed-by-shielded-labs/59342"
+  },
+  "schema": "zcash-fast-event/1"
+}
