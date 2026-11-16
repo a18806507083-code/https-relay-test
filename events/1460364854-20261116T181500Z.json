@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T17:49:48Z",
+    "description": "finu.muse \u2014 STEST ERC-20 + logo NFT contracts, pools and deploy scripts on Arc, Robinhood and LiteForge testnets.",
+    "detected_at": "2026-11-16T18:15:00Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "0xfinu/finu-tokens",
+    "homepage": null,
+    "html_url": "https://github.com/0xfinu/finu-tokens",
+    "pushed_at": "2026-11-16T18:09:27Z",
+    "repo_id": 1460364854,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
