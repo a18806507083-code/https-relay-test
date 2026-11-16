@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T14:38:51.765Z",
+    "detected_at": "2026-11-16T14:51:01Z",
+    "display": "59357 Grant Application: PEPL - Privacy Event Pilot - Speak-ez Sessions",
+    "key": "forum:59357",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-pepl-privacy-event-pilot-speak-ez-sessions",
+      "title": "Grant Application: PEPL - Privacy Event Pilot - Speak-ez Sessions",
+      "topic_id": 59357
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59357,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-pepl-privacy-event-pilot-speak-ez-sessions/59357"
+  },
+  "schema": "zcash-fast-event/1"
+}
