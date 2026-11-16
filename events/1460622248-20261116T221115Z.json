@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T22:03:50Z",
+    "description": "Checkpoints and recovery for AI agents: save state over MCP, encrypt it on your side, anchor it onchain, restore after a crash.",
+    "detected_at": "2026-11-16T22:11:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "uploadexplains/upload",
+    "homepage": "https://uploadexplains.xyz",
+    "html_url": "https://github.com/uploadexplains/upload",
+    "pushed_at": "2026-11-16T22:03:58Z",
+    "repo_id": 1460622248,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
