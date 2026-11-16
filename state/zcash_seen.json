@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-16T14:07:11Z",
+  "last_run_at": "2026-11-16T14:34:26Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-16T13:24:17Z",
+      "cutoff": "2026-11-16T13:37:11Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-16T13:24:17Z",
-      "matches": 1,
+      "cutoff": "2026-11-16T13:37:11Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-16T13:24:17Z",
+      "cutoff": "2026-11-16T13:37:11Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-16T13:24:17Z",
+      "cutoff": "2026-11-16T13:37:11Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -3237,6 +3237,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3658",
       "first_seen_at": "2026-11-16T14:07:11Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59350": {
+      "created_at": "2026-11-16T14:10:44.603Z",
+      "display": "59350 Zcash Community Grants (ZCG) December Election 2026 - Call For Candidates",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3659",
+      "first_seen_at": "2026-11-16T14:34:26Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -12427,9 +12435,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-16T14:07:11Z",
-    "forum": "2026-11-16T14:07:11Z",
-    "github": "2026-11-16T14:07:11Z",
-    "zcg": "2026-11-16T14:07:11Z"
+    "fixed_orgs": "2026-11-16T14:34:26Z",
+    "forum": "2026-11-16T14:34:26Z",
+    "github": "2026-11-16T14:34:26Z",
+    "zcg": "2026-11-16T14:34:26Z"
   }
 }
