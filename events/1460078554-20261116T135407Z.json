@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T13:45:15Z",
+    "description": null,
+    "detected_at": "2026-11-16T13:54:07Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "lkus-app/hedgerow",
+    "homepage": "https://hedgerow-six.vercel.app",
+    "html_url": "https://github.com/lkus-app/hedgerow",
+    "pushed_at": "2026-11-16T13:45:22Z",
+    "repo_id": 1460078554,
+    "score": 18,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
