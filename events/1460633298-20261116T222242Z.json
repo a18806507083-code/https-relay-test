@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-16T22:17:22Z",
+    "description": "Company earnings on Robinhood Chain about a minute after the SEC filing, and AI agents that act on them.",
+    "detected_at": "2026-11-16T22:22:42Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "x202Protocol/x202-protocol",
+    "homepage": null,
+    "html_url": "https://github.com/x202Protocol/x202-protocol",
+    "pushed_at": "2026-11-16T22:22:25Z",
+    "repo_id": 1460633298,
+    "score": 15,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
