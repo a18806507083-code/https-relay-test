@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T12:44:54.337Z",
+    "detected_at": "2026-11-17T12:49:52Z",
+    "display": "59382 From Devcon 8 to the World: bringing Zcash to more builders, investors and community (running log)",
+    "key": "forum:59382",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "from-devcon-8-to-the-world-bringing-zcash-to-more-builders-investors-and-community-running-log",
+      "title": "From Devcon 8 to the World: bringing Zcash to more builders, investors and community (running log)",
+      "topic_id": 59382
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59382,
+    "url": "https://forum.zcashcommunity.com/t/from-devcon-8-to-the-world-bringing-zcash-to-more-builders-investors-and-community-running-log/59382"
+  },
+  "schema": "zcash-fast-event/1"
+}
