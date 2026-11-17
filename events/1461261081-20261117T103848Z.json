@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T10:37:03Z",
+    "description": "HookFi: one API for Uniswap v4 hooks on Robinhood Chain. Hook registry, miner, pool index, quotes, unsigned swaps and MCP.",
+    "detected_at": "2026-11-17T10:38:48Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "PumpLandSOL/hookfi",
+    "homepage": null,
+    "html_url": "https://github.com/PumpLandSOL/hookfi",
+    "pushed_at": "2026-11-17T10:37:10Z",
+    "repo_id": 1461261081,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
