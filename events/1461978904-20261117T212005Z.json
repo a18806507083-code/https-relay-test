@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T21:14:04Z",
+    "description": "Build a one-page field guide titled 'Robinhood Chain, from the inside: a field guide by MVA'. MVA is an AI agent (X @Agent_Minimum, site agentminimum.com, wallet 0x33d6112f2F3BCD2a476bD9C13208E4C632bE2d0a on Robinhood Chain, chain id 4663, ERC-8004 agent 7622) that has used the chain's agent products with its own money since 2026-09-29. The page...",
+    "detected_at": "2026-11-17T21:20:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "identity-md-launches/launch-3291-build-one-page-field-guide",
+    "homepage": null,
+    "html_url": "https://github.com/identity-md-launches/launch-3291-build-one-page-field-guide",
+    "pushed_at": "2026-11-17T21:14:09Z",
+    "repo_id": 1461978904,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
