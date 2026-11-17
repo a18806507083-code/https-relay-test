@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T07:34:09Z",
+    "detected_at": "2026-11-17T07:54:57Z",
+    "display": "casdevmonero/monerousd",
+    "key": "repo:1461068880",
+    "metadata": {
+      "description": "MonerousD: the first post-quantum, fully private block-DAG payment network. A stable dollar (USDm), a complete DeFi layer, constant-size nodes, GHOSTDAG ordering, final settlement. Every transaction is confidential by default — no optional privacy, no metadata leaks, no IP exposure. ML-KEM-768, ML-DSA-65, WHIR recursive proofs.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "casdevmonero/monerousd",
+      "homepage": null,
+      "pushed_at": "2026-11-17T07:53:35Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1461068880,
+    "url": "https://github.com/casdevmonero/monerousd"
+  },
+  "schema": "zcash-fast-event/1"
+}
