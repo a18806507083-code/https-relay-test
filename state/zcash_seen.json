@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-17T07:49:24Z",
+  "last_run_at": "2026-11-17T07:54:57Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-17T07:13:24Z",
+      "cutoff": "2026-11-17T07:19:24Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-17T07:13:24Z",
+      "cutoff": "2026-11-17T07:19:24Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-17T07:13:24Z",
-      "matches": 0,
+      "cutoff": "2026-11-17T07:19:24Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-17T07:13:24Z",
+      "cutoff": "2026-11-17T07:19:24Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -11503,6 +11503,14 @@
       "first_seen_at": "2026-11-17T07:37:47Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1461068880": {
+      "created_at": "2026-11-17T07:34:09Z",
+      "display": "casdevmonero/monerousd",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3717",
+      "first_seen_at": "2026-11-17T07:54:57Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -12643,9 +12651,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-17T07:49:24Z",
-    "forum": "2026-11-17T07:49:24Z",
-    "github": "2026-11-17T07:49:24Z",
-    "zcg": "2026-11-17T07:49:24Z"
+    "fixed_orgs": "2026-11-17T07:54:57Z",
+    "forum": "2026-11-17T07:54:57Z",
+    "github": "2026-11-17T07:54:57Z",
+    "zcg": "2026-11-17T07:54:57Z"
   }
 }
