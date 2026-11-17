@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T21:46:01Z",
+    "detected_at": "2026-11-17T21:55:37Z",
+    "display": "monetarium/monetarium-dex",
+    "key": "repo:1462006546",
+    "metadata": {
+      "description": "VARDEX: Monetarium's decentralized exchange, based on Decred's DCRDEX",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "monetarium/monetarium-dex",
+      "homepage": null,
+      "pushed_at": "2026-11-17T21:51:47Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1462006546,
+    "url": "https://github.com/monetarium/monetarium-dex"
+  },
+  "schema": "zcash-fast-event/1"
+}
