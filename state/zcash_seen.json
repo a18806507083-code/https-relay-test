@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-17T23:23:52Z",
+  "last_run_at": "2026-11-17T23:29:46Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-17T22:47:31Z",
+      "cutoff": "2026-11-17T22:53:52Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-17T22:47:31Z",
+      "cutoff": "2026-11-17T22:53:52Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-17T22:47:31Z",
+      "cutoff": "2026-11-17T22:53:52Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-17T22:47:31Z",
-      "matches": 1,
+      "cutoff": "2026-11-17T22:53:52Z",
+      "matches": 2,
       "status": "PASS"
     }
   },
@@ -12806,14 +12806,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3777",
       "first_seen_at": "2026-11-17T23:23:52Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6456325070": {
+      "created_at": "2026-11-17T23:27:55Z",
+      "display": "#578 Grant Application - Retroactive: x402 Ecosystem Census + AtlasData Production Micropayments Service",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3778",
+      "first_seen_at": "2026-11-17T23:29:46Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-17T23:23:52Z",
-    "forum": "2026-11-17T23:23:52Z",
-    "github": "2026-11-17T23:23:52Z",
-    "zcg": "2026-11-17T23:23:52Z"
+    "fixed_orgs": "2026-11-17T23:29:46Z",
+    "forum": "2026-11-17T23:29:46Z",
+    "github": "2026-11-17T23:29:46Z",
+    "zcg": "2026-11-17T23:29:46Z"
   }
 }
