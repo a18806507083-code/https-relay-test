@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T01:26:44.854Z",
+    "detected_at": "2026-11-17T01:27:36Z",
+    "display": "59370 Delaying NSM reissuance to the 7th halving",
+    "key": "forum:59370",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "delaying-nsm-reissuance-to-the-7th-halving",
+      "title": "Delaying NSM reissuance to the 7th halving",
+      "topic_id": 59370
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59370,
+    "url": "https://forum.zcashcommunity.com/t/delaying-nsm-reissuance-to-the-7th-halving/59370"
+  },
+  "schema": "zcash-fast-event/1"
+}
