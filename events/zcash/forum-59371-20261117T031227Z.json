@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T03:08:43.297Z",
+    "detected_at": "2026-11-17T03:12:27Z",
+    "display": "59371 Noir Wallet V2 Private Beta Live",
+    "key": "forum:59371",
+    "metadata": {
+      "category_id": 30,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "noir-wallet-v2-private-beta-live",
+      "title": "Noir Wallet V2 Private Beta Live",
+      "topic_id": 59371
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59371,
+    "url": "https://forum.zcashcommunity.com/t/noir-wallet-v2-private-beta-live/59371"
+  },
+  "schema": "zcash-fast-event/1"
+}
