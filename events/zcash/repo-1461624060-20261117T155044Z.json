@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T15:48:05Z",
+    "detected_at": "2026-11-17T15:50:44Z",
+    "display": "abhishek-mehra/crosslink-node-watch",
+    "key": "repo:1461624060",
+    "metadata": {
+      "description": "Read-only contract and invariant checks for a Crosslink (Zcash feature-net) node",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "abhishek-mehra/crosslink-node-watch",
+      "homepage": null,
+      "pushed_at": "2026-11-17T15:48:11Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1461624060,
+    "url": "https://github.com/abhishek-mehra/crosslink-node-watch"
+  },
+  "schema": "zcash-fast-event/1"
+}
