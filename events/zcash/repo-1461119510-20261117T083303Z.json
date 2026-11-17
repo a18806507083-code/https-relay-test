@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T08:25:01Z",
+    "detected_at": "2026-11-17T08:33:03Z",
+    "display": "casdevmonero/monerousd",
+    "key": "repo:1461119510",
+    "metadata": {
+      "description": "Post-quantum, 100% private block-DAG payment network — USDm stablecoin, IonSwap DEX, NFTs, staking, governance, merchant checkout, BLE tap-to-pay. Every transaction confidential by default.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "casdevmonero/monerousd",
+      "homepage": "https://monerousd.org",
+      "pushed_at": "2026-11-17T08:32:04Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1461119510,
+    "url": "https://github.com/casdevmonero/monerousd"
+  },
+  "schema": "zcash-fast-event/1"
+}
