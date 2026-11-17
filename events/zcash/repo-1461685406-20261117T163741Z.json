@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T16:37:31Z",
+    "detected_at": "2026-11-17T16:37:41Z",
+    "display": "kaksv/Zcash-Ecosystem-Digest-November-21st",
+    "key": "repo:1461685406",
+    "metadata": {
+      "description": "This draft was researched through November 16, 2026. November 21, 2026 has not yet arrived, so activity after November 16 is not included. Verify each link and add any updates published between November 17 and November 21 before submitting to GitHub.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "kaksv/Zcash-Ecosystem-Digest-November-21st",
+      "homepage": null,
+      "pushed_at": "2026-11-17T16:37:33Z",
+      "tech_signals": [
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1461685406,
+    "url": "https://github.com/kaksv/Zcash-Ecosystem-Digest-November-21st"
+  },
+  "schema": "zcash-fast-event/1"
+}
