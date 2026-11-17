@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T22:12:01Z",
+    "description": "GONDI MCP server: live NFT prices, bids, listings, lending and borrowing data for AI assistants. Hosted, read-only, no API key.",
+    "detected_at": "2026-11-17T22:29:25Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "gondixyz/mcp",
+    "homepage": "https://docs.gondi.xyz/gondi-v3/mcp-server/",
+    "html_url": "https://github.com/gondixyz/mcp",
+    "pushed_at": "2026-11-17T22:25:10Z",
+    "repo_id": 1462028510,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
