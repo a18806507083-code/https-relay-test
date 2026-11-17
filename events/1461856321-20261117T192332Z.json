@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T19:08:39Z",
+    "description": "Agent-run perpetuals on Robinhood Chain: netted margin across agent Beams, 5-second crossing windows, signed price oracle, keepers, indexer, MCP server and web app.",
+    "detected_at": "2026-11-17T19:23:32Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "RefractFi/RefractFi-Stack",
+    "homepage": "https://refractfi.org",
+    "html_url": "https://github.com/RefractFi/RefractFi-Stack",
+    "pushed_at": "2026-11-17T19:23:37Z",
+    "repo_id": 1461856321,
+    "score": 9,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
