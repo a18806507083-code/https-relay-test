@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T01:21:53.119Z",
+    "detected_at": "2026-11-17T01:21:58Z",
+    "display": "59369 Noir Wallet is now open source",
+    "key": "forum:59369",
+    "metadata": {
+      "category_id": 30,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "noir-wallet-is-now-open-source",
+      "title": "Noir Wallet is now open source",
+      "topic_id": 59369
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59369,
+    "url": "https://forum.zcashcommunity.com/t/noir-wallet-is-now-open-source/59369"
+  },
+  "schema": "zcash-fast-event/1"
+}
