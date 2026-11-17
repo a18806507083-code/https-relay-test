@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T03:23:09Z",
+    "description": "Octio SDKs, agent-framework plugins and MCP configs: pay-per-call market data and on-chain tools for AI agents",
+    "detected_at": "2026-11-17T03:28:41Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "nonejustbuild/octio-integrations",
+    "homepage": "https://www.octio.xyz",
+    "html_url": "https://github.com/nonejustbuild/octio-integrations",
+    "pushed_at": "2026-11-17T03:23:16Z",
+    "repo_id": 1460860147,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
