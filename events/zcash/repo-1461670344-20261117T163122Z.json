@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T16:25:06Z",
+    "detected_at": "2026-11-17T16:31:22Z",
+    "display": "Ilbroccolo/UniPi-Ricerca-Operativa",
+    "key": "repo:1461670344",
+    "metadata": {
+      "description": "Appunti, Bibbie LaTeX, esercizi e scheda esame — UniPi-Ricerca-Operativa (Informatica @ Università di Pisa).",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Ilbroccolo/UniPi-Ricerca-Operativa",
+      "homepage": null,
+      "pushed_at": "2026-11-17T16:28:54Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1461670344,
+    "url": "https://github.com/Ilbroccolo/UniPi-Ricerca-Operativa"
+  },
+  "schema": "zcash-fast-event/1"
+}
