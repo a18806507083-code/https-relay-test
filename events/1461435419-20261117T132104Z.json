@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T13:16:49Z",
+    "description": "PoC for Bull bug bounty report A1: buyer-side clients never verify sellerPayout/buyerReceive; purchased tokens settle to a third wallet (fork proof, unmodified official SDK)",
+    "detected_at": "2026-11-17T13:21:04Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Adosbmrt21/bull-a1-payout-redirection-poc",
+    "homepage": null,
+    "html_url": "https://github.com/Adosbmrt21/bull-a1-payout-redirection-poc",
+    "pushed_at": "2026-11-17T13:16:55Z",
+    "repo_id": 1461435419,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
