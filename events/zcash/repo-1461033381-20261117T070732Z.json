@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T06:56:58Z",
+    "detected_at": "2026-11-17T07:07:32Z",
+    "display": "CrazyEther/zcash-zip-guia-es",
+    "key": "repo:1461033381",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "CrazyEther/zcash-zip-guia-es",
+      "homepage": null,
+      "pushed_at": "2026-11-17T06:57:51Z",
+      "tech_signals": [
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1461033381,
+    "url": "https://github.com/CrazyEther/zcash-zip-guia-es"
+  },
+  "schema": "zcash-fast-event/1"
+}
