@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T06:03:16Z",
+    "description": "Range agent + LP ladder manager for Uniswap v3 on Robinhood Chain. Contracts verified on mainnet.",
+    "detected_at": "2026-11-17T06:04:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "brimstead/stagger",
+    "homepage": "https://staggeragent.xyz",
+    "html_url": "https://github.com/brimstead/stagger",
+    "pushed_at": "2026-11-17T06:03:26Z",
+    "repo_id": 1460985277,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
