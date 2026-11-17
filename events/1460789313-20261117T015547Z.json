@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T01:52:27Z",
+    "description": "Plenum: an accountless, prepaid AI workspace",
+    "detected_at": "2026-11-17T01:55:47Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "PlenumRH/PlenumRH",
+    "homepage": null,
+    "html_url": "https://github.com/PlenumRH/PlenumRH",
+    "pushed_at": "2026-11-17T01:52:43Z",
+    "repo_id": 1460789313,
+    "score": 7,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
