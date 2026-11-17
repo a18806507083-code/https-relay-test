@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T18:50:12Z",
+    "description": "One MCP connection to Robinhood Chain mainnet. Local wallet, 19 tools across 6 projects, yes or no before every signature.",
+    "detected_at": "2026-11-17T18:55:19Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "holbric/holbric",
+    "homepage": "https://holbric.com",
+    "html_url": "https://github.com/holbric/holbric",
+    "pushed_at": "2026-11-17T18:50:39Z",
+    "repo_id": 1461837048,
+    "score": 18,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
