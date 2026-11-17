@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T14:07:09.583Z",
+    "detected_at": "2026-11-17T14:16:01Z",
+    "display": "59384 NU 7.1 Poll",
+    "key": "forum:59384",
+    "metadata": {
+      "category_id": 30,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "nu-7-1-poll",
+      "title": "NU 7.1 Poll",
+      "topic_id": 59384
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59384,
+    "url": "https://forum.zcashcommunity.com/t/nu-7-1-poll/59384"
+  },
+  "schema": "zcash-fast-event/1"
+}
