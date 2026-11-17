@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T17:05:16Z",
+    "detected_at": "2026-11-17T17:12:31Z",
+    "display": "KHADEVS/tz4-threshold",
+    "key": "repo:1461718320",
+    "metadata": {
+      "description": "Threshold tz4 accounts on Tezos without a trusted dealer: a DKG for native multisig, threshold BLS signing and the proof of possession",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "KHADEVS/tz4-threshold",
+      "homepage": null,
+      "pushed_at": "2026-11-17T17:05:22Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1461718320,
+    "url": "https://github.com/KHADEVS/tz4-threshold"
+  },
+  "schema": "zcash-fast-event/1"
+}
