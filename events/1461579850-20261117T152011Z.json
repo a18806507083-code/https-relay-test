@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T15:12:56Z",
+    "description": null,
+    "detected_at": "2026-11-17T15:20:11Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "robelmit/hoodtoolkit-agents",
+    "homepage": null,
+    "html_url": "https://github.com/robelmit/hoodtoolkit-agents",
+    "pushed_at": "2026-11-17T15:19:00Z",
+    "repo_id": 1461579850,
+    "score": 9,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
