@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-17T23:17:31Z",
+  "last_run_at": "2026-11-17T23:23:52Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-17T22:41:18Z",
+      "cutoff": "2026-11-17T22:47:31Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-17T22:41:18Z",
+      "cutoff": "2026-11-17T22:47:31Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-17T22:41:18Z",
+      "cutoff": "2026-11-17T22:47:31Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-17T22:41:18Z",
-      "matches": 0,
+      "cutoff": "2026-11-17T22:47:31Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -12798,14 +12798,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3767",
       "first_seen_at": "2026-11-17T19:29:20Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6456192465": {
+      "created_at": "2026-11-17T23:18:10Z",
+      "display": "#577 Grant Application - x402-ZEC: shielded Zcash rail for HTTP 402 agent payments",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3777",
+      "first_seen_at": "2026-11-17T23:23:52Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-17T23:17:31Z",
-    "forum": "2026-11-17T23:17:31Z",
-    "github": "2026-11-17T23:17:31Z",
-    "zcg": "2026-11-17T23:17:31Z"
+    "fixed_orgs": "2026-11-17T23:23:52Z",
+    "forum": "2026-11-17T23:23:52Z",
+    "github": "2026-11-17T23:23:52Z",
+    "zcg": "2026-11-17T23:23:52Z"
   }
 }
