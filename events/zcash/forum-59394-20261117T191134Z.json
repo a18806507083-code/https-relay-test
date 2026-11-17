@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T19:09:03.942Z",
+    "detected_at": "2026-11-17T19:11:34Z",
+    "display": "59394 Grant Application: MORE-ZEC — shielded settlement rails for the agent economy ($40,000)",
+    "key": "forum:59394",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "grant-application-more-zec-shielded-settlement-rails-for-the-agent-economy-40-000",
+      "title": "Grant Application: MORE-ZEC — shielded settlement rails for the agent economy ($40,000)",
+      "topic_id": 59394
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59394,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-more-zec-shielded-settlement-rails-for-the-agent-economy-40-000/59394"
+  },
+  "schema": "zcash-fast-event/1"
+}
