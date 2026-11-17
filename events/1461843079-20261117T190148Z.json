@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T18:55:52Z",
+    "description": "Agents that read tokenized stocks while Wall Street is closed and publish where the next open should ring.",
+    "detected_at": "2026-11-17T19:01:48Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Useangelus/angelus",
+    "homepage": null,
+    "html_url": "https://github.com/Useangelus/angelus",
+    "pushed_at": "2026-11-17T18:56:14Z",
+    "repo_id": 1461843079,
+    "score": 12,
+    "tech_signals": [
+      "RWA/stock",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
