@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T06:46:21Z",
+    "detected_at": "2026-11-17T06:51:05Z",
+    "display": "#574 Grant Application - MORE-ZEC: Shielded Settlement Rails for the Agent Economy",
+    "key": "zcg:6439094499",
+    "metadata": {
+      "author": "TerexitariusStomp",
+      "issue_number": 574,
+      "labels": [],
+      "title": "Grant Application - MORE-ZEC: Shielded Settlement Rails for the Agent Economy"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6439094499,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/574"
+  },
+  "schema": "zcash-fast-event/1"
+}
