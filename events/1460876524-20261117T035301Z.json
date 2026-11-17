@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T03:44:54Z",
+    "description": "Bull Family T4-1 PoC: Agreements poke() is permissionless and the 10-minute hold is not continuous (Robinhood Chain fork test)",
+    "detected_at": "2026-11-17T03:53:01Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "kioway-dev/bull-family-t4-1-poc",
+    "homepage": null,
+    "html_url": "https://github.com/kioway-dev/bull-family-t4-1-poc",
+    "pushed_at": "2026-11-17T03:49:23Z",
+    "repo_id": 1460876524,
+    "score": 13,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
