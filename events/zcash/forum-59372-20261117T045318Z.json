@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T04:50:43.339Z",
+    "detected_at": "2026-11-17T04:53:18Z",
+    "display": "59372 Nozy Wallet TestFlight",
+    "key": "forum:59372",
+    "metadata": {
+      "category_id": 17,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "nozy-wallet-testflight",
+      "title": "Nozy Wallet TestFlight",
+      "topic_id": 59372
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59372,
+    "url": "https://forum.zcashcommunity.com/t/nozy-wallet-testflight/59372"
+  },
+  "schema": "zcash-fast-event/1"
+}
