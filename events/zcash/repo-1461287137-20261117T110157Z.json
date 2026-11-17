@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T11:01:15Z",
+    "detected_at": "2026-11-17T11:01:57Z",
+    "display": "BlockWallStreetHub/ZCash-Top-Privacy-Coins",
+    "key": "repo:1461287137",
+    "metadata": {
+      "description": "ZCash&TopPrivacyCoins",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "BlockWallStreetHub/ZCash-Top-Privacy-Coins",
+      "homepage": null,
+      "pushed_at": "2026-11-17T11:01:54Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1461287137,
+    "url": "https://github.com/BlockWallStreetHub/ZCash-Top-Privacy-Coins"
+  },
+  "schema": "zcash-fast-event/1"
+}
