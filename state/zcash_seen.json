@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-17T12:44:14Z",
+  "last_run_at": "2026-11-17T12:49:52Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-17T12:08:27Z",
+      "cutoff": "2026-11-17T12:14:14Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-17T12:08:27Z",
-      "matches": 0,
+      "cutoff": "2026-11-17T12:14:14Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-17T12:08:27Z",
+      "cutoff": "2026-11-17T12:14:14Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-17T12:08:27Z",
+      "cutoff": "2026-11-17T12:14:14Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3341,6 +3341,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3709",
       "first_seen_at": "2026-11-17T04:53:18Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59382": {
+      "created_at": "2026-11-17T12:44:54.337Z",
+      "display": "59382 From Devcon 8 to the World: bringing Zcash to more builders, investors and community (running log)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3734",
+      "first_seen_at": "2026-11-17T12:49:52Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -12683,9 +12691,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-17T12:44:14Z",
-    "forum": "2026-11-17T12:44:14Z",
-    "github": "2026-11-17T12:44:14Z",
-    "zcg": "2026-11-17T12:44:14Z"
+    "fixed_orgs": "2026-11-17T12:49:52Z",
+    "forum": "2026-11-17T12:49:52Z",
+    "github": "2026-11-17T12:49:52Z",
+    "zcg": "2026-11-17T12:49:52Z"
   }
 }
