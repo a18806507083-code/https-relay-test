@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-17T17:52:50Z",
+    "detected_at": "2026-11-17T17:55:18Z",
+    "display": "decentrathai/zcash-android-wallet-sdk-nu7",
+    "key": "repo:1461774210",
+    "metadata": {
+      "description": "ZChat's NU7 build of the Zcash Android Wallet SDK 3..0 (MIT). Not an official ECC/ZODL release.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "decentrathai/zcash-android-wallet-sdk-nu7",
+      "homepage": null,
+      "pushed_at": "2026-11-17T17:52:51Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1461774210,
+    "url": "https://github.com/decentrathai/zcash-android-wallet-sdk-nu7"
+  },
+  "schema": "zcash-fast-event/1"
+}
