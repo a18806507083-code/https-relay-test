@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T00:27:41.290Z",
+    "detected_at": "2026-11-18T00:33:54Z",
+    "display": "59420 It is Trans Awareness Week: Official statements from Zcash organizations denouncing transphobia are no longer optional",
+    "key": "forum:59420",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "it-is-trans-awareness-week-official-statements-from-zcash-organizations-denouncing-transphobia-are-no-longer-optional",
+      "title": "It is Trans Awareness Week: Official statements from Zcash organizations denouncing transphobia are no longer optional",
+      "topic_id": 59420
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59420,
+    "url": "https://forum.zcashcommunity.com/t/it-is-trans-awareness-week-official-statements-from-zcash-organizations-denouncing-transphobia-are-no-longer-optional/59420"
+  },
+  "schema": "zcash-fast-event/1"
+}
