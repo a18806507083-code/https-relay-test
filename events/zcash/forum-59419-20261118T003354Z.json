@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T00:01:52.957Z",
+    "detected_at": "2026-11-18T00:33:54Z",
+    "display": "59419 ZCG Grant Application: AtlasData — x402/L402 agent-micropayments infrastructure (forward)",
+    "key": "forum:59419",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcg-grant-application-atlasdata-x402-l402-agent-micropayments-infrastructure-forward",
+      "title": "ZCG Grant Application: AtlasData — x402/L402 agent-micropayments infrastructure (forward)",
+      "topic_id": 59419
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59419,
+    "url": "https://forum.zcashcommunity.com/t/zcg-grant-application-atlasdata-x402-l402-agent-micropayments-infrastructure-forward/59419"
+  },
+  "schema": "zcash-fast-event/1"
+}
