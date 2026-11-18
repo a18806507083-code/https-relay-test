@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T23:26:35Z",
+    "description": "Sprit liquidity strategy core: range math, backtesting, paper simulation, tests and examples.",
+    "detected_at": "2026-11-18T23:28:33Z",
+    "direct_signals": [
+      "chainId 4663"
+    ],
+    "full_name": "Portlift/sprit",
+    "homepage": null,
+    "html_url": "https://github.com/Portlift/sprit",
+    "pushed_at": "2026-11-18T23:26:41Z",
+    "repo_id": 1463447297,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
