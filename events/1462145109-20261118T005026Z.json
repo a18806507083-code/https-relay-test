@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T00:48:46Z",
+    "description": "Live monitor comparing on-chain tokenised-stock prices with real US stock quotes.",
+    "detected_at": "2026-11-18T00:50:26Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "ola-de-fi/parity",
+    "homepage": "https://parity-ecru.vercel.app",
+    "html_url": "https://github.com/ola-de-fi/parity",
+    "pushed_at": "2026-11-18T00:48:52Z",
+    "repo_id": 1462145109,
+    "score": 16,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
