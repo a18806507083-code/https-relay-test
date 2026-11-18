@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T17:51:21.028Z",
+    "detected_at": "2026-11-18T17:54:13Z",
+    "display": "59442 Julian La Picque for ZCG (December 2026)",
+    "key": "forum:59442",
+    "metadata": {
+      "category_id": 38,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "julian-la-picque-for-zcg-december-2026",
+      "title": "Julian La Picque for ZCG (December 2026)",
+      "topic_id": 59442
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59442,
+    "url": "https://forum.zcashcommunity.com/t/julian-la-picque-for-zcg-december-2026/59442"
+  },
+  "schema": "zcash-fast-event/1"
+}
