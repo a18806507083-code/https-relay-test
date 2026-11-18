@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T19:11:09Z",
+    "description": "Evidence-first research for Robinhood Chain. Track project activity, inspect public sources, and request research on X.",
+    "detected_at": "2026-11-18T19:27:15Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Heynomus/heynomus",
+    "homepage": null,
+    "html_url": "https://github.com/Heynomus/heynomus",
+    "pushed_at": "2026-11-18T19:26:46Z",
+    "repo_id": 1463227807,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
