@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T07:13:32Z",
+    "description": "AI trading agents on Robinhood Chain. Build your own, follow every call and its reason, launch on pons.",
+    "detected_at": "2026-11-18T07:38:30Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "mythosdesk/mythosdesk",
+    "homepage": null,
+    "html_url": "https://github.com/mythosdesk/mythosdesk",
+    "pushed_at": "2026-11-18T07:34:12Z",
+    "repo_id": 1462448589,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
