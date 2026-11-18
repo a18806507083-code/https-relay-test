@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-17T23:59:44Z",
+  "last_run_at": "2026-11-18T00:33:54Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-17T23:24:12Z",
+      "cutoff": "2026-11-17T23:29:44Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-17T23:24:12Z",
-      "matches": 0,
+      "cutoff": "2026-11-17T23:29:44Z",
+      "matches": 3,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-17T23:24:12Z",
+      "cutoff": "2026-11-17T23:29:44Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-17T23:24:12Z",
-      "matches": 1,
+      "cutoff": "2026-11-17T23:29:44Z",
+      "matches": 0,
       "status": "PASS"
     }
   },
@@ -3381,6 +3381,30 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3770",
       "first_seen_at": "2026-11-17T20:00:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59417": {
+      "created_at": "2026-11-18T00:01:44.560Z",
+      "display": "59417 ZCG Retroactive Grant Application: AtlasData — x402 census + agent-payment infrastructure (delivered)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3784",
+      "first_seen_at": "2026-11-18T00:33:54Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59419": {
+      "created_at": "2026-11-18T00:01:52.957Z",
+      "display": "59419 ZCG Grant Application: AtlasData — x402/L402 agent-micropayments infrastructure (forward)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3783",
+      "first_seen_at": "2026-11-18T00:33:54Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59420": {
+      "created_at": "2026-11-18T00:27:41.290Z",
+      "display": "59420 It is Trans Awareness Week: Official statements from Zcash organizations denouncing transphobia are no longer optional",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3782",
+      "first_seen_at": "2026-11-18T00:33:54Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -12819,9 +12843,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-17T23:59:44Z",
-    "forum": "2026-11-17T23:59:44Z",
-    "github": "2026-11-17T23:59:44Z",
-    "zcg": "2026-11-17T23:59:44Z"
+    "fixed_orgs": "2026-11-18T00:33:54Z",
+    "forum": "2026-11-18T00:33:54Z",
+    "github": "2026-11-18T00:33:54Z",
+    "zcg": "2026-11-18T00:33:54Z"
   }
 }
