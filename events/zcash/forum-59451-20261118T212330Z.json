@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T21:19:32.329Z",
+    "detected_at": "2026-11-18T21:23:30Z",
+    "display": "59451 Grant Application - Konclave Recovery CLI: From Member Backups to a Verified Testnet Payment",
+    "key": "forum:59451",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-konclave-recovery-cli-from-member-backups-to-a-verified-testnet-payment",
+      "title": "Grant Application - Konclave Recovery CLI: From Member Backups to a Verified Testnet Payment",
+      "topic_id": 59451
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59451,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-konclave-recovery-cli-from-member-backups-to-a-verified-testnet-payment/59451"
+  },
+  "schema": "zcash-fast-event/1"
+}
