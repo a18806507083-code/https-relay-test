@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T23:21:01Z",
+    "detected_at": "2026-11-18T23:23:17Z",
+    "display": "devpeeter/zcash-blockbook-fee-replay",
+    "key": "repo:1463443495",
+    "metadata": {
+      "description": "Reproduces incorrect Zcash fee displays in Blockbook wallet receipts and verifies corrected fees against Zebra using 100 archived mainnet blocks.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "devpeeter/zcash-blockbook-fee-replay",
+      "homepage": null,
+      "pushed_at": "2026-11-18T23:21:06Z",
+      "tech_signals": [
+        "wallet/payment"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1463443495,
+    "url": "https://github.com/devpeeter/zcash-blockbook-fee-replay"
+  },
+  "schema": "zcash-fast-event/1"
+}
