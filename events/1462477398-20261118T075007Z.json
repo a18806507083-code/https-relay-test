@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T07:44:04Z",
+    "description": "A learner's permit for AI agents on Robinhood Chain. Your agent spends from your own Safe under a limit it earns, and every blocked payment lands on chain as a strike.",
+    "detected_at": "2026-11-18T07:50:07Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "probielabs/probie",
+    "homepage": null,
+    "html_url": "https://github.com/probielabs/probie",
+    "pushed_at": "2026-11-18T07:47:19Z",
+    "repo_id": 1462477398,
+    "score": 17,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
