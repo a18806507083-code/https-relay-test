@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-18T13:56:27Z",
+  "last_run_at": "2026-11-18T14:05:13Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-18T13:21:05Z",
+      "cutoff": "2026-11-18T13:26:27Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-18T13:21:05Z",
-      "matches": 0,
+      "cutoff": "2026-11-18T13:26:27Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-18T13:21:05Z",
+      "cutoff": "2026-11-18T13:26:27Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-18T13:21:05Z",
+      "cutoff": "2026-11-18T13:26:27Z",
       "matches": 2,
       "status": "PASS"
     }
@@ -3429,6 +3429,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3813",
       "first_seen_at": "2026-11-18T12:38:23Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59428": {
+      "created_at": "2026-11-18T13:58:03.117Z",
+      "display": "59428 Grant Application - Shielded ZEC (Ironwood) for React Native wallets — Any Wallet Kit",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3818",
+      "first_seen_at": "2026-11-18T14:05:13Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -12955,9 +12963,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-18T13:56:27Z",
-    "forum": "2026-11-18T13:56:27Z",
-    "github": "2026-11-18T13:56:27Z",
-    "zcg": "2026-11-18T13:56:27Z"
+    "fixed_orgs": "2026-11-18T14:05:13Z",
+    "forum": "2026-11-18T14:05:13Z",
+    "github": "2026-11-18T14:05:13Z",
+    "zcg": "2026-11-18T14:05:13Z"
   }
 }
