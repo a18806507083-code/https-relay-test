@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T16:43:48.037Z",
+    "detected_at": "2026-11-18T16:44:04Z",
+    "display": "59440 Which wallets can send ZEC to a TEX (tex1) address? Where things stand and what's left to fix",
+    "key": "forum:59440",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "which-wallets-can-send-zec-to-a-tex-tex1-address-where-things-stand-and-whats-left-to-fix",
+      "title": "Which wallets can send ZEC to a TEX (tex1) address? Where things stand and what's left to fix",
+      "topic_id": 59440
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59440,
+    "url": "https://forum.zcashcommunity.com/t/which-wallets-can-send-zec-to-a-tex-tex1-address-where-things-stand-and-whats-left-to-fix/59440"
+  },
+  "schema": "zcash-fast-event/1"
+}
