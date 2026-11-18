@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T23:38:49Z",
+    "detected_at": "2026-11-18T23:42:28Z",
+    "display": "araleslump73/infinite-adv",
+    "key": "repo:1463455116",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "araleslump73/infinite-adv",
+      "homepage": null,
+      "pushed_at": "2026-11-18T23:39:01Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1463455116,
+    "url": "https://github.com/araleslump73/infinite-adv"
+  },
+  "schema": "zcash-fast-event/1"
+}
