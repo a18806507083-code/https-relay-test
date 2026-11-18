@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T23:24:57Z",
+    "description": "Nore CLI, reference agent adapters, and GitHub Actions release gate examples",
+    "detected_at": "2026-11-18T23:28:33Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Portlift/nore-devkit",
+    "homepage": null,
+    "html_url": "https://github.com/Portlift/nore-devkit",
+    "pushed_at": "2026-11-18T23:25:05Z",
+    "repo_id": 1463446258,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
