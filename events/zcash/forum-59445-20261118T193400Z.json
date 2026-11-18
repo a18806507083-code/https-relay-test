@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T19:32:13.155Z",
+    "detected_at": "2026-11-18T19:34:00Z",
+    "display": "59445 Seeing Clearly podcast sponsorship: four-episode pilot",
+    "key": "forum:59445",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "seeing-clearly-podcast-sponsorship-four-episode-pilot",
+      "title": "Seeing Clearly podcast sponsorship: four-episode pilot",
+      "topic_id": 59445
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59445,
+    "url": "https://forum.zcashcommunity.com/t/seeing-clearly-podcast-sponsorship-four-episode-pilot/59445"
+  },
+  "schema": "zcash-fast-event/1"
+}
