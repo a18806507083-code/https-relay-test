@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T21:02:56.125Z",
+    "detected_at": "2026-11-18T21:11:18Z",
+    "display": "59450 Ztreamer v0.2.0: Indexing less, but better!",
+    "key": "forum:59450",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "ztreamer-v0-2-0-indexing-less-but-better",
+      "title": "Ztreamer v0.2.0: Indexing less, but better!",
+      "topic_id": 59450
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59450,
+    "url": "https://forum.zcashcommunity.com/t/ztreamer-v0-2-0-indexing-less-but-better/59450"
+  },
+  "schema": "zcash-fast-event/1"
+}
