@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T13:58:03.117Z",
+    "detected_at": "2026-11-18T14:05:13Z",
+    "display": "59428 Grant Application - Shielded ZEC (Ironwood) for React Native wallets — Any Wallet Kit",
+    "key": "forum:59428",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-shielded-zec-ironwood-for-react-native-wallets-any-wallet-kit",
+      "title": "Grant Application - Shielded ZEC (Ironwood) for React Native wallets — Any Wallet Kit",
+      "topic_id": 59428
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59428,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-shielded-zec-ironwood-for-react-native-wallets-any-wallet-kit/59428"
+  },
+  "schema": "zcash-fast-event/1"
+}
