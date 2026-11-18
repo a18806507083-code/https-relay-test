@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T07:00:48Z",
+    "description": null,
+    "detected_at": "2026-11-18T07:11:35Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "nonafoundation/HoodAgent-SDK",
+    "homepage": null,
+    "html_url": "https://github.com/nonafoundation/HoodAgent-SDK",
+    "pushed_at": "2026-11-18T07:02:41Z",
+    "repo_id": 1462437200,
+    "score": 16,
+    "tech_signals": [
+      "Morpho",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
