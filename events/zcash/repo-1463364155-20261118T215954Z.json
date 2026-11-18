@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T21:36:34Z",
+    "detected_at": "2026-11-18T21:59:54Z",
+    "display": "Indr1d-C0ld/ultima-adventures-ita",
+    "key": "repo:1463364155",
+    "metadata": {
+      "description": "Ultima Adventures (shard di Ultima Online su RunUO) in italiano: traduzione completa, protezione del principiante, progressione rivista, manuale e pacchetti per server Debian e client TazUO",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Indr1d-C0ld/ultima-adventures-ita",
+      "homepage": null,
+      "pushed_at": "2026-11-18T21:56:55Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1463364155,
+    "url": "https://github.com/Indr1d-C0ld/ultima-adventures-ita"
+  },
+  "schema": "zcash-fast-event/1"
+}
