@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T00:38:03Z",
+    "description": "Reproducible tests for Uniswap v4 hooks: ProbeJobs escrow contract, verifier and operator CLI. Live on Robinhood Chain.",
+    "detected_at": "2026-11-18T00:50:26Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "probecli/probe",
+    "homepage": "https://probecli.com",
+    "html_url": "https://github.com/probecli/probe",
+    "pushed_at": "2026-11-18T00:45:16Z",
+    "repo_id": 1462137442,
+    "score": 19,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
