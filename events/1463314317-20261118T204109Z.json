@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T20:39:47Z",
+    "description": "Private stock wallet on Robinhood Chain: hold, buy and sell tokenized stocks without showing your balance. Noir proofs made in the browser.",
+    "detected_at": "2026-11-18T20:41:09Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "neromtoobad/tint",
+    "homepage": null,
+    "html_url": "https://github.com/neromtoobad/tint",
+    "pushed_at": "2026-11-18T20:40:25Z",
+    "repo_id": 1463314317,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
