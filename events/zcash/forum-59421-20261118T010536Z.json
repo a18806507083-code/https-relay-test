@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T00:58:33.867Z",
+    "detected_at": "2026-11-18T01:05:36Z",
+    "display": "59421 Grant Application - {Oblivious HTTP for WebZjs Wallet Sync and Payments}",
+    "key": "forum:59421",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-oblivious-http-for-webzjs-wallet-sync-and-payments",
+      "title": "Grant Application - {Oblivious HTTP for WebZjs Wallet Sync and Payments}",
+      "topic_id": 59421
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59421,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-oblivious-http-for-webzjs-wallet-sync-and-payments/59421"
+  },
+  "schema": "zcash-fast-event/1"
+}
