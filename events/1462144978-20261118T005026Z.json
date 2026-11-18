@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T00:48:37Z",
+    "description": "Sealed-bid batch auction protocol with commit-reveal to limit front-running. Solidity + Foundry, keeper and frontend.",
+    "detected_at": "2026-11-18T00:50:26Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "ola-de-fi/darkswap",
+    "homepage": "https://usedarkswap.xyz",
+    "html_url": "https://github.com/ola-de-fi/darkswap",
+    "pushed_at": "2026-11-18T00:48:44Z",
+    "repo_id": 1462144978,
+    "score": 14,
+    "tech_signals": [
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
