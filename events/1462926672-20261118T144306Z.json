@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T14:42:41Z",
+    "description": "Non-custodial AI execution copilot, Curve X-Ray & Remote MCP direct router on Robinhood Chain (4663).",
+    "detected_at": "2026-11-18T14:43:06Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Hardwire-Agents/hardwire",
+    "homepage": "https://hardwireagent.com",
+    "html_url": "https://github.com/Hardwire-Agents/hardwire",
+    "pushed_at": "2026-11-18T14:42:47Z",
+    "repo_id": 1462926672,
+    "score": 8,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
