@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T00:01:44.560Z",
+    "detected_at": "2026-11-18T00:33:54Z",
+    "display": "59417 ZCG Retroactive Grant Application: AtlasData — x402 census + agent-payment infrastructure (delivered)",
+    "key": "forum:59417",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcg-retroactive-grant-application-atlasdata-x402-census-agent-payment-infrastructure-delivered",
+      "title": "ZCG Retroactive Grant Application: AtlasData — x402 census + agent-payment infrastructure (delivered)",
+      "topic_id": 59417
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59417,
+    "url": "https://forum.zcashcommunity.com/t/zcg-retroactive-grant-application-atlasdata-x402-census-agent-payment-infrastructure-delivered/59417"
+  },
+  "schema": "zcash-fast-event/1"
+}
