@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-18T10:55:14Z",
+  "last_run_at": "2026-11-18T11:01:27Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-18T10:19:31Z",
+      "cutoff": "2026-11-18T10:25:14Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-18T10:19:31Z",
-      "matches": 0,
+      "cutoff": "2026-11-18T10:25:14Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-18T10:19:31Z",
+      "cutoff": "2026-11-18T10:25:14Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-18T10:19:31Z",
+      "cutoff": "2026-11-18T10:25:14Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3413,6 +3413,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3792",
       "first_seen_at": "2026-11-18T01:05:36Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59426": {
+      "created_at": "2026-11-18T10:58:39.001Z",
+      "display": "59426 ZCAP: Should Grant Recipients Elect the People Who Fund Them?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3807",
+      "first_seen_at": "2026-11-18T11:01:27Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -12899,9 +12907,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-18T10:55:14Z",
-    "forum": "2026-11-18T10:55:14Z",
-    "github": "2026-11-18T10:55:14Z",
-    "zcg": "2026-11-18T10:55:14Z"
+    "fixed_orgs": "2026-11-18T11:01:27Z",
+    "forum": "2026-11-18T11:01:27Z",
+    "github": "2026-11-18T11:01:27Z",
+    "zcg": "2026-11-18T11:01:27Z"
   }
 }
