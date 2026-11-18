@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T11:43:48Z",
+    "detected_at": "2026-11-18T11:49:00Z",
+    "display": "highstat/chaingraph",
+    "key": "repo:1462722732",
+    "metadata": {
+      "description": "Open-source crypto forensics & OSINT workspace: multi-chain fund-flow graphs, mixer & obfuscation analysis, risk scoring, GEOINT. Runs in your browser, no API keys.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "highstat/chaingraph",
+      "homepage": "https://highstat.github.io/chaingraph/",
+      "pushed_at": "2026-11-18T11:43:57Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1462722732,
+    "url": "https://github.com/highstat/chaingraph"
+  },
+  "schema": "zcash-fast-event/1"
+}
