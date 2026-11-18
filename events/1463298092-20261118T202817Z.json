@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T20:23:06Z",
+    "description": "All-in-one Multi-Chain Crypto Terminal & Quantitative AI Dashboard. Real-time on-chain portfolio tracking (Base, Solana, Robinhood), automated Support/Resistance detection, multi-indicator technical analysis, zero-cost social sentiment (Reddit, CryptoCompare, CoinGecko), and AI-powered market synthesis.",
+    "detected_at": "2026-11-18T20:28:17Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "anes70/crypto-suivi-inteligent-portefeuille",
+    "homepage": null,
+    "html_url": "https://github.com/anes70/crypto-suivi-inteligent-portefeuille",
+    "pushed_at": "2026-11-18T20:25:12Z",
+    "repo_id": 1463298092,
+    "score": 7,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
