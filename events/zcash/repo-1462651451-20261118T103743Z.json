@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T10:34:18Z",
+    "detected_at": "2026-11-18T10:37:43Z",
+    "display": "Zizouk22/malachite",
+    "key": "repo:1462651451",
+    "metadata": {
+      "description": "Flexible BFT consensus engine in Rust",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Zizouk22/malachite",
+      "homepage": "",
+      "pushed_at": "2026-10-19T18:01:36Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1462651451,
+    "url": "https://github.com/Zizouk22/malachite"
+  },
+  "schema": "zcash-fast-event/1"
+}
