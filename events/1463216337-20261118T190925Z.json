@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T18:59:47Z",
+    "description": "Scope registry, bounty pot, checker network and settlement contracts for Sapper on Robinhood Chain.",
+    "detected_at": "2026-11-18T19:09:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "sapper-agents/sapper-contracts",
+    "homepage": "https://sapperagents.com",
+    "html_url": "https://github.com/sapper-agents/sapper-contracts",
+    "pushed_at": "2026-11-18T19:00:59Z",
+    "repo_id": 1463216337,
+    "score": 14,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
