@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-18T12:16:04Z",
+    "detected_at": "2026-11-18T12:18:21Z",
+    "display": "danieltoledo4/zaino",
+    "key": "repo:1462756660",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "danieltoledo4/zaino",
+      "homepage": null,
+      "pushed_at": "2026-11-18T12:16:06Z",
+      "tech_signals": [
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1462756660,
+    "url": "https://github.com/danieltoledo4/zaino"
+  },
+  "schema": "zcash-fast-event/1"
+}
