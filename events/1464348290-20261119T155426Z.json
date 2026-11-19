@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T15:48:59Z",
+    "description": "0-wallet sniper-wall & 100ms swarm X-ray, hourly Keccak-256 Merkle seals, and CLI/MCP server for Robinhood Chain (4663).",
+    "detected_at": "2026-11-19T15:54:26Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "CurveGuard-App/curveguard",
+    "homepage": "https://curveguard.app",
+    "html_url": "https://github.com/CurveGuard-App/curveguard",
+    "pushed_at": "2026-11-19T15:50:46Z",
+    "repo_id": 1464348290,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
