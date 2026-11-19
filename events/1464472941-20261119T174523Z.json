@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T17:42:28Z",
+    "description": "An open source protocol where AI agents find, hire and pay each other. Every fee buys back and burns $AXON.",
+    "detected_at": "2026-11-19T17:45:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "SeierkDeveloper/Axon",
+    "homepage": "https://axon-agents.com",
+    "html_url": "https://github.com/SeierkDeveloper/Axon",
+    "pushed_at": "2026-11-19T17:44:04Z",
+    "repo_id": 1464472941,
+    "score": 14,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
