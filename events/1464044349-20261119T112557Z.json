@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T11:19:32Z",
+    "description": null,
+    "detected_at": "2026-11-19T11:25:57Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "Saepta/contracts",
+    "homepage": null,
+    "html_url": "https://github.com/Saepta/contracts",
+    "pushed_at": "2026-11-19T11:20:47Z",
+    "repo_id": 1464044349,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
