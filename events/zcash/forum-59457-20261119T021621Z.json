@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T02:14:19.526Z",
+    "detected_at": "2026-11-19T02:16:21Z",
+    "display": "59457 That's How We Zodl :guitar::trumpet:",
+    "key": "forum:59457",
+    "metadata": {
+      "category_id": 25,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "thats-how-we-zodl",
+      "title": "That's How We Zodl :guitar::trumpet:",
+      "topic_id": 59457
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59457,
+    "url": "https://forum.zcashcommunity.com/t/thats-how-we-zodl/59457"
+  },
+  "schema": "zcash-fast-event/1"
+}
