@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T07:01:08Z",
+    "description": null,
+    "detected_at": "2026-11-19T07:13:44Z",
+    "direct_signals": [
+      "RH testnet 46630"
+    ],
+    "full_name": "pixflow-dev/pixflow",
+    "homepage": null,
+    "html_url": "https://github.com/pixflow-dev/pixflow",
+    "pushed_at": "2026-11-19T07:13:32Z",
+    "repo_id": 1463784354,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
