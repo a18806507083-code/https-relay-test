@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T04:35:35Z",
+    "detected_at": "2026-11-19T04:42:42Z",
+    "display": "aniketmisra10a06-ship-it/TraceX-Dark-Web-Cryptocurrency-Tracer",
+    "key": "repo:1463665881",
+    "metadata": {
+      "description": "This is a powerful tool which traces the Bitcoin wallet and cryptocurrency address through multiple nodes and location. The tool comes with powerful features like a flowchart, interactive graph, cluster nodes and much more.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "aniketmisra10a06-ship-it/TraceX-Dark-Web-Cryptocurrency-Tracer",
+      "homepage": null,
+      "pushed_at": "2026-11-19T04:41:55Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1463665881,
+    "url": "https://github.com/aniketmisra10a06-ship-it/TraceX-Dark-Web-Cryptocurrency-Tracer"
+  },
+  "schema": "zcash-fast-event/1"
+}
