@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T22:17:12Z",
+    "description": null,
+    "detected_at": "2026-11-19T22:23:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "pixelgamesite-maker/Boys",
+    "homepage": null,
+    "html_url": "https://github.com/pixelgamesite-maker/Boys",
+    "pushed_at": "2026-11-19T22:22:25Z",
+    "repo_id": 1464721175,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
