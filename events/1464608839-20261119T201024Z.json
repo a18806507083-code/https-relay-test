@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T20:04:16Z",
+    "description": "Autonomous 6-desk AI research bureau, verbatim evidence verifier & shared MCP memory for Robinhood Chain (4663)",
+    "detected_at": "2026-11-19T20:10:24Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "The-Wirecopy/wirecopy",
+    "homepage": null,
+    "html_url": "https://github.com/The-Wirecopy/wirecopy",
+    "pushed_at": "2026-11-19T20:06:06Z",
+    "repo_id": 1464608839,
+    "score": 15,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
