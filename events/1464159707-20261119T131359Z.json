@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T13:08:21Z",
+    "description": null,
+    "detected_at": "2026-11-19T13:13:59Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "lastbreathagent-prog/lastbreathagent",
+    "homepage": null,
+    "html_url": "https://github.com/lastbreathagent-prog/lastbreathagent",
+    "pushed_at": "2026-11-19T13:14:01Z",
+    "repo_id": 1464159707,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
