@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T14:43:04Z",
+    "description": "Telegram bot theo d\u00f5i token DEX theo chain: b\u00e1o c\u00e1o top 10 \u0111\u1ea7u ng\u00e0y, c\u1ea3nh b\u00e1o bi\u1ebfn \u0111\u1ed9ng \u00b140%, pool m\u1edbi v\u00e0 token m\u1edbi l\u00ean DEX Screener",
+    "detected_at": "2026-11-19T14:47:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "thanhnam97215/telegram-dex-bot",
+    "homepage": "",
+    "html_url": "https://github.com/thanhnam97215/telegram-dex-bot",
+    "pushed_at": "2026-11-19T14:43:51Z",
+    "repo_id": 1464271561,
+    "score": 7,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
