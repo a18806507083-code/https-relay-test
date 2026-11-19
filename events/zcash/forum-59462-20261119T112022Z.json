@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T11:14:32.881Z",
+    "detected_at": "2026-11-19T11:20:22Z",
+    "display": "59462 Happy Thanksgiving 2026",
+    "key": "forum:59462",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "happy-thanksgiving-2026",
+      "title": "Happy Thanksgiving 2026",
+      "topic_id": 59462
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59462,
+    "url": "https://forum.zcashcommunity.com/t/happy-thanksgiving-2026/59462"
+  },
+  "schema": "zcash-fast-event/1"
+}
