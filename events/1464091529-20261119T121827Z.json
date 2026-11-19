@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T12:04:52Z",
+    "description": "Flash Deals sells a token for a payment in one transaction.",
+    "detected_at": "2026-11-19T12:18:27Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Flasetai/flash-deals",
+    "homepage": "https://flaset.ai",
+    "html_url": "https://github.com/Flasetai/flash-deals",
+    "pushed_at": "2026-11-19T12:08:43Z",
+    "repo_id": 1464091529,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
