@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T16:27:31.056Z",
+    "detected_at": "2026-11-19T16:27:56Z",
+    "display": "59467 Grant Application – Correct Zcash Fees in Blockbook Wallet Receipts",
+    "key": "forum:59467",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-correct-zcash-fees-in-blockbook-wallet-receipts",
+      "title": "Grant Application – Correct Zcash Fees in Blockbook Wallet Receipts",
+      "topic_id": 59467
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59467,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-correct-zcash-fees-in-blockbook-wallet-receipts/59467"
+  },
+  "schema": "zcash-fast-event/1"
+}
