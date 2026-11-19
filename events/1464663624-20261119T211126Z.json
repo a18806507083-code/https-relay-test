@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T21:05:56Z",
+    "description": null,
+    "detected_at": "2026-11-19T21:11:26Z",
+    "direct_signals": [
+      "RH testnet 46630"
+    ],
+    "full_name": "Jacksonx28/canopy",
+    "homepage": null,
+    "html_url": "https://github.com/Jacksonx28/canopy",
+    "pushed_at": "2026-11-19T21:10:23Z",
+    "repo_id": 1464663624,
+    "score": 9,
+    "tech_signals": [
+      "Agent/MCP",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
