@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-19T11:13:30Z",
+  "last_run_at": "2026-11-19T11:20:22Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-19T10:33:17Z",
+      "cutoff": "2026-11-19T10:43:30Z",
       "matches": 1,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-19T10:33:17Z",
-      "matches": 0,
+      "cutoff": "2026-11-19T10:43:30Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-19T10:33:17Z",
+      "cutoff": "2026-11-19T10:43:30Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-19T10:33:17Z",
+      "cutoff": "2026-11-19T10:43:30Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3501,6 +3501,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3857",
       "first_seen_at": "2026-11-19T07:13:58Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59462": {
+      "created_at": "2026-11-19T11:14:32.881Z",
+      "display": "59462 Happy Thanksgiving 2026",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3865",
+      "first_seen_at": "2026-11-19T11:20:22Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -13107,9 +13115,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-19T11:13:30Z",
-    "forum": "2026-11-19T11:13:30Z",
-    "github": "2026-11-19T11:13:30Z",
-    "zcg": "2026-11-19T11:13:30Z"
+    "fixed_orgs": "2026-11-19T11:20:22Z",
+    "forum": "2026-11-19T11:20:22Z",
+    "github": "2026-11-19T11:20:22Z",
+    "zcg": "2026-11-19T11:20:22Z"
   }
 }
