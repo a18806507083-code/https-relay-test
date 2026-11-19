@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T13:31:09Z",
+    "description": "Swap stock tokens and any token on Robinhood Chain. Pay from 23 chains, one signature, 0% fee.",
+    "detected_at": "2026-11-19T13:32:58Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "skiffexchange/skiff",
+    "homepage": "https://skiff.exchange",
+    "html_url": "https://github.com/skiffexchange/skiff",
+    "pushed_at": "2026-11-19T13:31:10Z",
+    "repo_id": 1464185816,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
