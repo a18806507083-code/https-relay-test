@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T12:51:40Z",
+    "description": "HelmSwap SDK and MCP server: non-custodial multi-chain swap quotes and unsigned transactions",
+    "detected_at": "2026-11-19T12:56:09Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "gambrelcolby63/helmswap-sdk",
+    "homepage": "https://helmswap.com",
+    "html_url": "https://github.com/gambrelcolby63/helmswap-sdk",
+    "pushed_at": "2026-11-19T12:51:45Z",
+    "repo_id": 1464141239,
+    "score": 9,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
