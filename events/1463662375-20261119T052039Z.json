@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T04:30:52Z",
+    "description": null,
+    "detected_at": "2026-11-19T05:20:39Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "NTI-corp/NTI",
+    "homepage": null,
+    "html_url": "https://github.com/NTI-corp/NTI",
+    "pushed_at": "2026-11-19T05:17:39Z",
+    "repo_id": 1463662375,
+    "score": 8,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
