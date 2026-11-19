@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T14:49:28.735Z",
+    "detected_at": "2026-11-19T14:53:42Z",
+    "display": "59465 Miner Sentiment Poll (Pilot): NU7.1",
+    "key": "forum:59465",
+    "metadata": {
+      "category_id": 21,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "miner-sentiment-poll-pilot-nu7-1",
+      "title": "Miner Sentiment Poll (Pilot): NU7.1",
+      "topic_id": 59465
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59465,
+    "url": "https://forum.zcashcommunity.com/t/miner-sentiment-poll-pilot-nu7-1/59465"
+  },
+  "schema": "zcash-fast-event/1"
+}
