@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T15:58:17Z",
+    "description": "Zero Lux: an agent factory on Robinhood Chain. Each agent's till is a contract, so its income and profit are chain facts.",
+    "detected_at": "2026-11-19T16:00:08Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Zeroluxfun/zerolux",
+    "homepage": "https://zerolux.fun",
+    "html_url": "https://github.com/Zeroluxfun/zerolux",
+    "pushed_at": "2026-11-19T15:58:25Z",
+    "repo_id": 1464359028,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
