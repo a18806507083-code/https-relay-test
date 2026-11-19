@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T09:13:57Z",
+    "description": null,
+    "detected_at": "2026-11-19T10:13:21Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "RatinoleDev/ratinole",
+    "homepage": null,
+    "html_url": "https://github.com/RatinoleDev/ratinole",
+    "pushed_at": "2026-11-19T10:07:53Z",
+    "repo_id": 1463914308,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
