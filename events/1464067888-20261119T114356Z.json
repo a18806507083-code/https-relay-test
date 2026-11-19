@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T11:42:25Z",
+    "description": "USDG money desk on Robinhood Chain: compare Morpho rates, then deposit, borrow and repay from your own wallet.",
+    "detected_at": "2026-11-19T11:43:56Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "escorpio-dev/escorpio-app",
+    "homepage": "https://escorpio.pages.dev",
+    "html_url": "https://github.com/escorpio-dev/escorpio-app",
+    "pushed_at": "2026-11-19T11:42:31Z",
+    "repo_id": 1464067888,
+    "score": 13,
+    "tech_signals": [
+      "Morpho",
+      "RWA/stock",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
