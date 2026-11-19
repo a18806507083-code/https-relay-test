@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T11:03:29Z",
+    "detected_at": "2026-11-19T11:13:30Z",
+    "display": "zcashlabs/zcash-walletsync-bench",
+    "key": "repo:1464027773",
+    "metadata": {
+      "description": "Benchmark for Zcash light-wallet servers that replays the sync traffic of real wallets",
+      "direct_signals": [
+        "Zcash",
+        "librustzcash",
+        "node/indexer"
+      ],
+      "full_name": "zcashlabs/zcash-walletsync-bench",
+      "homepage": null,
+      "pushed_at": "2026-11-19T11:03:33Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1464027773,
+    "url": "https://github.com/zcashlabs/zcash-walletsync-bench"
+  },
+  "schema": "zcash-fast-event/1"
+}
