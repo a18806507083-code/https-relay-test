@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T12:00:08Z",
+    "detected_at": "2026-11-19T12:01:17Z",
+    "display": "Invisible-Labs/frost-ed25519-hd",
+    "key": "repo:1464086667",
+    "metadata": {
+      "description": "HD (non-hardened) key derivation for ZcashFoundation frost-ed25519. Experimental, unaudited.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Invisible-Labs/frost-ed25519-hd",
+      "homepage": null,
+      "pushed_at": "2026-11-19T12:00:13Z",
+      "tech_signals": [
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1464086667,
+    "url": "https://github.com/Invisible-Labs/frost-ed25519-hd"
+  },
+  "schema": "zcash-fast-event/1"
+}
