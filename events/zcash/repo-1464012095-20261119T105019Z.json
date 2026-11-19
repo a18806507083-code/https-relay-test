@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T10:48:26Z",
+    "detected_at": "2026-11-19T10:50:19Z",
+    "display": "zodl-inc/zodl-aux-libraries",
+    "key": "repo:1464012095",
+    "metadata": {
+      "description": "Build-time configuration for the Zodl apps",
+      "fixed_owner": "zodl-inc",
+      "full_name": "zodl-inc/zodl-aux-libraries",
+      "homepage": "",
+      "pushed_at": "2026-11-19T10:48:28Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1464012095,
+    "url": "https://github.com/zodl-inc/zodl-aux-libraries"
+  },
+  "schema": "zcash-fast-event/1"
+}
