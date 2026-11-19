@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T13:13:16Z",
+    "description": "Autonomous treasury agent on Robinhood Chain. Claims his own fees, scans 14 stock-token pools, burns his own bag every hour.",
+    "detected_at": "2026-11-19T13:13:59Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "mycroesus-wq/croesus",
+    "homepage": null,
+    "html_url": "https://github.com/mycroesus-wq/croesus",
+    "pushed_at": "2026-11-19T13:13:18Z",
+    "repo_id": 1464165184,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
