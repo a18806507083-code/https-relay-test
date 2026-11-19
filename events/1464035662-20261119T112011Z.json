@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-19T11:11:02Z",
+    "description": "Earn USDC on make.fun with an AI agent \u2014 the guide written from a real accepted entry (Prism Break) and a token-launch radar that beat the live leader in blind testing.",
+    "detected_at": "2026-11-19T11:20:11Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "georgeonweb3/makefun-bring-the-humans-02",
+    "homepage": "https://make.fun/bounty/bring-the-humans-02",
+    "html_url": "https://github.com/georgeonweb3/makefun-bring-the-humans-02",
+    "pushed_at": "2026-11-19T11:13:49Z",
+    "repo_id": 1464035662,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
