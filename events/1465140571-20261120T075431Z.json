@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T07:51:14Z",
+    "description": "Trading calls signed by your wallet and sealed on Robinhood Chain. Check any call against the contract.",
+    "detected_at": "2026-11-20T07:54:31Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "clariontrade/clarion",
+    "homepage": "https://clariontrade.pro",
+    "html_url": "https://github.com/clariontrade/clarion",
+    "pushed_at": "2026-11-20T07:51:22Z",
+    "repo_id": 1465140571,
+    "score": 14,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
