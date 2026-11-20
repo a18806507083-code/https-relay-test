@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T08:35:42Z",
+    "description": "Payday for open source: launch a coin for any public GitHub repo on Robinhood Chain; its creator fees fill the repo's vault. merces.live",
+    "detected_at": "2026-11-20T08:38:07Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "rollycall/merces",
+    "homepage": "https://merces.live",
+    "html_url": "https://github.com/rollycall/merces",
+    "pushed_at": "2026-11-20T08:36:40Z",
+    "repo_id": 1465180442,
+    "score": 12,
+    "tech_signals": [
+      "Hook",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
