@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T19:45:11Z",
+    "description": "Official end-to-end GitBook documentation for ReloadSOL \u2014 Dual-Chain Trading, Dust Recovery & Algorithmic Execution Platform (Solana + Robinhood Chain)",
+    "detected_at": "2026-11-20T19:48:38Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "studentofcoding/reloadsol-docs",
+    "homepage": null,
+    "html_url": "https://github.com/studentofcoding/reloadsol-docs",
+    "pushed_at": "2026-11-20T19:45:19Z",
+    "repo_id": 1465836946,
+    "score": 10,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
