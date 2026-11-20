@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T19:37:44Z",
+    "description": "Before you buy, ask SI. Paste a token. SI reads the chain, permissions, liquidity and concentration, then shows you what it found and the evidence behind it.",
+    "detected_at": "2026-11-20T19:59:52Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "agentsilabshq/AGENT-SI-",
+    "homepage": null,
+    "html_url": "https://github.com/agentsilabshq/AGENT-SI-",
+    "pushed_at": "2026-11-20T19:54:50Z",
+    "repo_id": 1465830289,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
