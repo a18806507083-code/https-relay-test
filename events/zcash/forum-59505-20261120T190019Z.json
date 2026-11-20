@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T18:57:42.743Z",
+    "detected_at": "2026-11-20T19:00:19Z",
+    "display": "59505 Cupcake v1.2.0 brings full Zcash shielded support!",
+    "key": "forum:59505",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "cupcake-v1-2-0-brings-full-zcash-shielded-support",
+      "title": "Cupcake v1.2.0 brings full Zcash shielded support!",
+      "topic_id": 59505
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59505,
+    "url": "https://forum.zcashcommunity.com/t/cupcake-v1-2-0-brings-full-zcash-shielded-support/59505"
+  },
+  "schema": "zcash-fast-event/1"
+}
