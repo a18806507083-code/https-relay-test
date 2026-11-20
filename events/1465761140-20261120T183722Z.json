@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T18:18:42Z",
+    "description": null,
+    "detected_at": "2026-11-20T18:37:22Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH testnet 46630"
+    ],
+    "full_name": "Dickybima/SCOTY",
+    "homepage": null,
+    "html_url": "https://github.com/Dickybima/SCOTY",
+    "pushed_at": "2026-11-20T18:36:26Z",
+    "repo_id": 1465761140,
+    "score": 13,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
