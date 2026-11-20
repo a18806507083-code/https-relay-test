@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-20T16:13:14Z",
+  "last_run_at": "2026-11-20T16:19:18Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-20T15:30:07Z",
+      "cutoff": "2026-11-20T15:43:14Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-20T15:30:07Z",
+      "cutoff": "2026-11-20T15:43:14Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-20T15:30:07Z",
+      "cutoff": "2026-11-20T15:43:14Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-20T15:30:07Z",
-      "matches": 0,
+      "cutoff": "2026-11-20T15:43:14Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -13318,14 +13318,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3887",
       "first_seen_at": "2026-11-19T16:27:56Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6515289180": {
+      "created_at": "2026-11-20T16:18:47Z",
+      "display": "#586 Grant Application - 8thGuard Voluntary Evidence Handoff Kit for Zcash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3950",
+      "first_seen_at": "2026-11-20T16:19:18Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-20T16:13:14Z",
-    "forum": "2026-11-20T16:13:14Z",
-    "github": "2026-11-20T16:13:14Z",
-    "zcg": "2026-11-20T16:13:14Z"
+    "fixed_orgs": "2026-11-20T16:19:18Z",
+    "forum": "2026-11-20T16:19:18Z",
+    "github": "2026-11-20T16:19:18Z",
+    "zcg": "2026-11-20T16:19:18Z"
   }
 }
