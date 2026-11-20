@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T07:30:52Z",
+    "description": "Your coin didn't pump. The stock did. Read-only Robinhood Chain coin research: blame split, fake-copy warning, launch reports. Not financial advice.",
+    "detected_at": "2026-11-20T07:36:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "blamethestock/blamethestock",
+    "homepage": "https://blamethestock.com",
+    "html_url": "https://github.com/blamethestock/blamethestock",
+    "pushed_at": "2026-11-20T07:30:58Z",
+    "repo_id": 1465122209,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
