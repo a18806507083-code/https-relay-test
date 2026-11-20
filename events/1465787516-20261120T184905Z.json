@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T18:48:04Z",
+    "description": "One API key for low-refusal AI models. No account, signed receipts, crypto deposits. Adults only. Source-available, non-commercial licence.",
+    "detected_at": "2026-11-20T18:49:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "anonymo-tech/anonymo",
+    "homepage": "https://anonymo.tech",
+    "html_url": "https://github.com/anonymo-tech/anonymo",
+    "pushed_at": "2026-11-20T18:48:22Z",
+    "repo_id": 1465787516,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
