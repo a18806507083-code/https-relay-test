@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T14:57:21Z",
+    "description": null,
+    "detected_at": "2026-11-20T16:12:58Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "doms99999/stoa-trade-bot",
+    "homepage": null,
+    "html_url": "https://github.com/doms99999/stoa-trade-bot",
+    "pushed_at": "2026-11-20T16:04:06Z",
+    "repo_id": 1465557629,
+    "score": 6,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
