@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T16:29:32.221Z",
+    "detected_at": "2026-11-20T16:30:48Z",
+    "display": "59498 Grant Application — 8thGuard Voluntary Evidence Handoff Kit for Zcash — $25,000",
+    "key": "forum:59498",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-8thguard-voluntary-evidence-handoff-kit-for-zcash-25-000",
+      "title": "Grant Application — 8thGuard Voluntary Evidence Handoff Kit for Zcash — $25,000",
+      "topic_id": 59498
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59498,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-8thguard-voluntary-evidence-handoff-kit-for-zcash-25-000/59498"
+  },
+  "schema": "zcash-fast-event/1"
+}
