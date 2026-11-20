@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T13:26:56Z",
+    "description": null,
+    "detected_at": "2026-11-20T13:38:14Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "CorbelFinance/Corbel",
+    "homepage": null,
+    "html_url": "https://github.com/CorbelFinance/Corbel",
+    "pushed_at": "2026-11-20T13:37:54Z",
+    "repo_id": 1465462011,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
