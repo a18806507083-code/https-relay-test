@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T11:58:05Z",
+    "detected_at": "2026-11-20T12:00:24Z",
+    "display": "lopeselio/zcash-batch-payouts",
+    "key": "repo:1465375779",
+    "metadata": {
+      "description": "Planned: pay many people in one shielded Zcash transaction from a CSV, via a multi-payment ZIP-321 request.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "lopeselio/zcash-batch-payouts",
+      "homepage": null,
+      "pushed_at": "2026-11-20T11:58:11Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1465375779,
+    "url": "https://github.com/lopeselio/zcash-batch-payouts"
+  },
+  "schema": "zcash-fast-event/1"
+}
