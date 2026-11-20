@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T11:57:40Z",
+    "detected_at": "2026-11-20T12:00:24Z",
+    "display": "lopeselio/zcash-pay-link",
+    "key": "repo:1465375405",
+    "metadata": {
+      "description": "Make a Zcash payment link, QR code or Pay with Zcash button (ZIP-321). Runs entirely in the browser.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "lopeselio/zcash-pay-link",
+      "homepage": "https://lopeselio.github.io/zcash-pay-link/",
+      "pushed_at": "2026-11-20T11:57:47Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1465375405,
+    "url": "https://github.com/lopeselio/zcash-pay-link"
+  },
+  "schema": "zcash-fast-event/1"
+}
