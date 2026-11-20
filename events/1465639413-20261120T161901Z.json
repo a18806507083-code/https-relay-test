@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T16:13:51Z",
+    "description": "AI wallet agent for Robinhood Chain. Type what you want in plain words: the agent plans the ETH transfer, you confirm, your own wallet signs, and every move lands in the books. Web app (Next.js on Cloudflare Workers) + CLI.",
+    "detected_at": "2026-11-20T16:19:01Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "GTA-agency/grandtransfer_agency",
+    "homepage": "https://grandtransfer.agency",
+    "html_url": "https://github.com/GTA-agency/grandtransfer_agency",
+    "pushed_at": "2026-11-20T16:16:43Z",
+    "repo_id": 1465639413,
+    "score": 15,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
