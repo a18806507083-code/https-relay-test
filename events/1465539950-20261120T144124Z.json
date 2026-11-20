@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T14:40:52Z",
+    "description": "AO by AOLABS \u2014 open-source on-chain wallet memory AI agent for Robinhood Chain. Bring your own LLM endpoint and RPC, runs fully locally in your browser.",
+    "detected_at": "2026-11-20T14:41:24Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "AO-LABS-Agent/aolabs",
+    "homepage": "https://aolabs.xyz",
+    "html_url": "https://github.com/AO-LABS-Agent/aolabs",
+    "pushed_at": "2026-11-20T14:41:12Z",
+    "repo_id": 1465539950,
+    "score": 13,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
