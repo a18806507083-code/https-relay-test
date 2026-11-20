@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T15:55:15.729Z",
+    "detected_at": "2026-11-20T16:00:07Z",
+    "display": "59495 Transphobia on X is a Zcash community issue",
+    "key": "forum:59495",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "transphobia-on-x-is-a-zcash-community-issue",
+      "title": "Transphobia on X is a Zcash community issue",
+      "topic_id": 59495
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59495,
+    "url": "https://forum.zcashcommunity.com/t/transphobia-on-x-is-a-zcash-community-issue/59495"
+  },
+  "schema": "zcash-fast-event/1"
+}
