@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T11:57:28Z",
+    "detected_at": "2026-11-20T12:00:24Z",
+    "display": "lopeselio/zip321-playground",
+    "key": "repo:1465375231",
+    "metadata": {
+      "description": "Inspect Zcash ZIP-321 payment request URIs in the browser: payments, addresses, memos, errors. Built on zip321, no WASM.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "lopeselio/zip321-playground",
+      "homepage": "https://lopeselio.github.io/zip321-playground/",
+      "pushed_at": "2026-11-20T11:57:39Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1465375231,
+    "url": "https://github.com/lopeselio/zip321-playground"
+  },
+  "schema": "zcash-fast-event/1"
+}
