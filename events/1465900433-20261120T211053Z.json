@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T21:03:23Z",
+    "description": "Open-source ERC-8056 oracle safety layer, atomic Uniswap v3 circuit-breaker router (0xE890...690F), bounded agent vault, and MCP/x402 guardrail infrastructure for Robinhood Chain (4663).",
+    "detected_at": "2026-11-20T21:10:53Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "Dengel88/riskguard-rwa",
+    "homepage": "https://robinhoodchain.blockscout.com/address/0xE890D81346C465fAE5bCa38ad825669dE448690F",
+    "html_url": "https://github.com/Dengel88/riskguard-rwa",
+    "pushed_at": "2026-11-20T21:04:14Z",
+    "repo_id": 1465900433,
+    "score": 21,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
