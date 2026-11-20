@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T11:59:52Z",
+    "detected_at": "2026-11-20T12:00:24Z",
+    "display": "lopeselio/zcash-link-guard",
+    "key": "repo:1465377402",
+    "metadata": {
+      "description": "Preview zcash: payment links before you pay and warn about phishing, wrong networks and public (transparent) recipients. Browser extension + library.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "lopeselio/zcash-link-guard",
+      "homepage": null,
+      "pushed_at": "2026-11-20T11:59:58Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1465377402,
+    "url": "https://github.com/lopeselio/zcash-link-guard"
+  },
+  "schema": "zcash-fast-event/1"
+}
