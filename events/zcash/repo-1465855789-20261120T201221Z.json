@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-11-20T20:07:40Z",
+    "detected_at": "2026-11-20T20:12:21Z",
+    "display": "ZcashFoundation/zcash-stack",
+    "key": "repo:1465855789",
+    "metadata": {
+      "description": null,
+      "fixed_owner": "ZcashFoundation",
+      "full_name": "ZcashFoundation/zcash-stack",
+      "homepage": null,
+      "pushed_at": "2026-11-17T04:13:19Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1465855789,
+    "url": "https://github.com/ZcashFoundation/zcash-stack"
+  },
+  "schema": "zcash-fast-event/1"
+}
