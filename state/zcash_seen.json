@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-20T05:13:51Z",
+  "last_run_at": "2026-11-20T05:21:06Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-20T04:31:43Z",
+      "cutoff": "2026-11-20T04:43:51Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-20T04:31:43Z",
+      "cutoff": "2026-11-20T04:43:51Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-20T04:31:43Z",
-      "matches": 0,
-      "status": "PASS"
+      "cutoff": "2026-11-20T04:43:51Z",
+      "error": "GitHub HTTP 403: https://api.github.com/search/repositories?q=zcash+in%3Aname%2Cdescription%2Creadme+created%3A%3E%3D2026-11-20+fork%3Afalse+archived%3Afalse&sort=updated&order=desc&per_page=50: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) If you reach out to GitHub Support for help, please include the request ID 3422:3B0F1C:BD4CC9:25132CE:6AFFD8C2.\"\n}",
+      "status": "FAIL"
     },
     "zcg": {
-      "cutoff": "2026-11-20T04:31:43Z",
+      "cutoff": "2026-11-20T04:43:51Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -13235,9 +13235,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-20T05:13:51Z",
-    "forum": "2026-11-20T05:13:51Z",
+    "fixed_orgs": "2026-11-20T05:21:06Z",
+    "forum": "2026-11-20T05:21:06Z",
     "github": "2026-11-20T05:13:51Z",
-    "zcg": "2026-11-20T05:13:51Z"
+    "zcg": "2026-11-20T05:21:06Z"
   }
 }
