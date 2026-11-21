@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T21:55:22Z",
+    "detected_at": "2026-11-21T21:56:26Z",
+    "display": "zodl-inc/ohttp-relay-weights",
+    "key": "repo:1466987409",
+    "metadata": {
+      "description": "Signed relay weights for ZODL OHTTP clients: weights, signing job and the log of every signed block",
+      "fixed_owner": "zodl-inc",
+      "full_name": "zodl-inc/ohttp-relay-weights",
+      "homepage": "",
+      "pushed_at": "2026-11-21T21:55:24Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1466987409,
+    "url": "https://github.com/zodl-inc/ohttp-relay-weights"
+  },
+  "schema": "zcash-fast-event/1"
+}
