@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-21T16:54:04Z",
+  "last_run_at": "2026-11-21T16:59:46Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-21T16:18:12Z",
+      "cutoff": "2026-11-21T16:24:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-21T16:18:12Z",
+      "cutoff": "2026-11-21T16:24:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-21T16:18:12Z",
+      "cutoff": "2026-11-21T16:24:04Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-21T16:18:12Z",
-      "matches": 0,
+      "cutoff": "2026-11-21T16:24:04Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -13486,14 +13486,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4012",
       "first_seen_at": "2026-11-21T15:54:18Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6531774990": {
+      "created_at": "2026-11-21T16:58:58Z",
+      "display": "#589 Grant Application - Zcash Mining Job Delivery Benchmark",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4017",
+      "first_seen_at": "2026-11-21T16:59:46Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-21T16:54:04Z",
-    "forum": "2026-11-21T16:54:04Z",
-    "github": "2026-11-21T16:54:04Z",
-    "zcg": "2026-11-21T16:54:04Z"
+    "fixed_orgs": "2026-11-21T16:59:46Z",
+    "forum": "2026-11-21T16:59:46Z",
+    "github": "2026-11-21T16:59:46Z",
+    "zcg": "2026-11-21T16:59:46Z"
   }
 }
