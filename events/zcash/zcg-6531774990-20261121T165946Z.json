@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T16:58:58Z",
+    "detected_at": "2026-11-21T16:59:46Z",
+    "display": "#589 Grant Application - Zcash Mining Job Delivery Benchmark",
+    "key": "zcg:6531774990",
+    "metadata": {
+      "author": "Supercoolkayy",
+      "issue_number": 589,
+      "labels": [],
+      "title": "Grant Application - Zcash Mining Job Delivery Benchmark"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6531774990,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/589"
+  },
+  "schema": "zcash-fast-event/1"
+}
