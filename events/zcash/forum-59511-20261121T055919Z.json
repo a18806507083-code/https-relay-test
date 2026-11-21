@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T05:58:44.965Z",
+    "detected_at": "2026-11-21T05:59:19Z",
+    "display": "59511 Zcash Hackathon @ Blockchain UNN 5.0",
+    "key": "forum:59511",
+    "metadata": {
+      "category_id": 17,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-hackathon-blockchain-unn-5-0",
+      "title": "Zcash Hackathon @ Blockchain UNN 5.0",
+      "topic_id": 59511
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59511,
+    "url": "https://forum.zcashcommunity.com/t/zcash-hackathon-blockchain-unn-5-0/59511"
+  },
+  "schema": "zcash-fast-event/1"
+}
