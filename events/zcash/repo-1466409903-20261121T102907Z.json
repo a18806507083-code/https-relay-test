@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T10:04:26Z",
+    "detected_at": "2026-11-21T10:29:07Z",
+    "display": "ShieldZCash/shieldz-swap-mcp",
+    "key": "repo:1466409903",
+    "metadata": {
+      "description": "Swap crypto across 40+ chains from Claude, Cursor or any AI agent. MCP server for Shieldz Swap (swap.shieldz.cash): best-route quotes, non-custodial, no account, no KYC, 0.15% fee.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "ShieldZCash/shieldz-swap-mcp",
+      "homepage": "https://swap.shieldz.cash",
+      "pushed_at": "2026-11-21T10:24:46Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1466409903,
+    "url": "https://github.com/ShieldZCash/shieldz-swap-mcp"
+  },
+  "schema": "zcash-fast-event/1"
+}
