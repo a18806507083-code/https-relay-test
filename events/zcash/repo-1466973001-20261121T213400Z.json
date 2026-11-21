@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T21:33:25Z",
+    "detected_at": "2026-11-21T21:34:00Z",
+    "display": "ryssroad/ryssroad",
+    "key": "repo:1466973001",
+    "metadata": {
+      "description": "Profile README",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ryssroad/ryssroad",
+      "homepage": null,
+      "pushed_at": "2026-11-21T21:33:30Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1466973001,
+    "url": "https://github.com/ryssroad/ryssroad"
+  },
+  "schema": "zcash-fast-event/1"
+}
