@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T15:56:21.840Z",
+    "detected_at": "2026-11-21T15:59:58Z",
+    "display": "59521 Grant Application - Keep ZecHub AI Search Current When Wallet Guidance Changes",
+    "key": "forum:59521",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-keep-zechub-ai-search-current-when-wallet-guidance-changes",
+      "title": "Grant Application - Keep ZecHub AI Search Current When Wallet Guidance Changes",
+      "topic_id": 59521
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59521,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-keep-zechub-ai-search-current-when-wallet-guidance-changes/59521"
+  },
+  "schema": "zcash-fast-event/1"
+}
