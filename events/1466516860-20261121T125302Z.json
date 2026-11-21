@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T12:22:47Z",
+    "description": null,
+    "detected_at": "2026-11-21T12:53:02Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "pixelgamesite-maker/Reptillio",
+    "homepage": null,
+    "html_url": "https://github.com/pixelgamesite-maker/Reptillio",
+    "pushed_at": "2026-11-21T12:49:10Z",
+    "repo_id": 1466516860,
+    "score": 6,
+    "tech_signals": [
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
