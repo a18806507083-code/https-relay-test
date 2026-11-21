@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T06:41:57Z",
+    "description": "Claude creation studio: websites, logos, motion and X posts, paid per use with ETH credits on Robinhood Chain. Agents use it over MCP.",
+    "detected_at": "2026-11-21T06:47:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "brakeline-devv/molten",
+    "homepage": null,
+    "html_url": "https://github.com/brakeline-devv/molten",
+    "pushed_at": "2026-11-21T06:42:18Z",
+    "repo_id": 1466263666,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
