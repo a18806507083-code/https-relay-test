@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T03:16:42Z",
+    "description": null,
+    "detected_at": "2026-11-21T03:23:00Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "kradlxyz/kradlxyz",
+    "homepage": null,
+    "html_url": "https://github.com/kradlxyz/kradlxyz",
+    "pushed_at": "2026-11-21T03:17:46Z",
+    "repo_id": 1466130062,
+    "score": 10,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
