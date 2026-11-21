@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T06:44:53.236Z",
+    "detected_at": "2026-11-21T06:47:25Z",
+    "display": "59512 Withdrawing ZEC from an exchange: which address type to use (and why some withdrawals fail)",
+    "key": "forum:59512",
+    "metadata": {
+      "category_id": 17,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "withdrawing-zec-from-an-exchange-which-address-type-to-use-and-why-some-withdrawals-fail",
+      "title": "Withdrawing ZEC from an exchange: which address type to use (and why some withdrawals fail)",
+      "topic_id": 59512
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59512,
+    "url": "https://forum.zcashcommunity.com/t/withdrawing-zec-from-an-exchange-which-address-type-to-use-and-why-some-withdrawals-fail/59512"
+  },
+  "schema": "zcash-fast-event/1"
+}
