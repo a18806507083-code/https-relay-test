@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T01:13:54Z",
+    "description": "Public dashboard of Stoa swaps on Robinhood Chain (volume, traders, routes per venue) \u2014 Stoa build bounty #3",
+    "detected_at": "2026-11-21T01:19:44Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "eded050896-tech/stoa-dashboard",
+    "homepage": null,
+    "html_url": "https://github.com/eded050896-tech/stoa-dashboard",
+    "pushed_at": "2026-11-21T01:14:00Z",
+    "repo_id": 1466060113,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
