@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T05:00:58Z",
+    "description": "Two identical AI agents take a fresh Robinhood Chain quiz every hour. Only Holmes keeps notes. Every hour is sealed on chain. Includes casebook-memory, the notebook engine for coding agents.",
+    "detected_at": "2026-11-21T05:09:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "casebookduel/casebook",
+    "homepage": "https://casebookduel.com",
+    "html_url": "https://github.com/casebookduel/casebook",
+    "pushed_at": "2026-11-21T05:01:48Z",
+    "repo_id": 1466196432,
+    "score": 15,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
