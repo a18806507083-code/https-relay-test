@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T10:24:45Z",
+    "detected_at": "2026-11-21T10:29:07Z",
+    "display": "fabiofurini/algoritmi-euristici",
+    "key": "repo:1466425310",
+    "metadata": {
+      "description": "Algoritmi euristici: euristiche costruttive, ricerca locale, metaeuristiche ed euristiche MIP",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "fabiofurini/algoritmi-euristici",
+      "homepage": null,
+      "pushed_at": "2026-11-21T10:28:55Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1466425310,
+    "url": "https://github.com/fabiofurini/algoritmi-euristici"
+  },
+  "schema": "zcash-fast-event/1"
+}
