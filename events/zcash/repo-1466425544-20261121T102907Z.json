@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T10:25:04Z",
+    "detected_at": "2026-11-21T10:29:07Z",
+    "display": "fabiofurini/algoritmi-di-approssimazione",
+    "key": "repo:1466425544",
+    "metadata": {
+      "description": "Algoritmi di approssimazione: garanzie di prestazione, schemi di approssimazione e limiti",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "fabiofurini/algoritmi-di-approssimazione",
+      "homepage": null,
+      "pushed_at": "2026-11-21T10:28:59Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1466425544,
+    "url": "https://github.com/fabiofurini/algoritmi-di-approssimazione"
+  },
+  "schema": "zcash-fast-event/1"
+}
