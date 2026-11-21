@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T15:26:31Z",
+    "detected_at": "2026-11-21T15:30:37Z",
+    "display": "Supercoolkayy/zcash-mining-job-delivery-checks",
+    "key": "repo:1466678433",
+    "metadata": {
+      "description": "Three offline checks for Zcash mining pools covering how a pool adapter handles revised block templates, how Stratum jobs reach a local worker connection, and how RPC long polling behaves.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Supercoolkayy/zcash-mining-job-delivery-checks",
+      "homepage": null,
+      "pushed_at": "2026-11-21T15:27:52Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1466678433,
+    "url": "https://github.com/Supercoolkayy/zcash-mining-job-delivery-checks"
+  },
+  "schema": "zcash-fast-event/1"
+}
