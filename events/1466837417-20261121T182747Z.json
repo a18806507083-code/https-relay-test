@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T18:25:37Z",
+    "description": "Stink bids for tokenized stocks on Robinhood Chain. Signed USDG buy orders that fill on-chain when the price falls to them.",
+    "detected_at": "2026-11-21T18:27:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "stinkbid/stinkbid",
+    "homepage": "https://stinkbid.pro",
+    "html_url": "https://github.com/stinkbid/stinkbid",
+    "pushed_at": "2026-11-21T18:27:40Z",
+    "repo_id": 1466837417,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
