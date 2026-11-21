@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T05:53:18Z",
+    "description": "Holmes keeps notes. Moriarty starts over. The profile page of Casebook.",
+    "detected_at": "2026-11-21T05:59:10Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "casebookduel/casebookduel",
+    "homepage": null,
+    "html_url": "https://github.com/casebookduel/casebookduel",
+    "pushed_at": "2026-11-21T05:53:58Z",
+    "repo_id": 1466230633,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
