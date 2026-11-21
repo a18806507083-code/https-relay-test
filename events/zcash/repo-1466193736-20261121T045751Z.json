@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T04:57:00Z",
+    "detected_at": "2026-11-21T04:57:51Z",
+    "display": "zent00/opencode-redact",
+    "key": "repo:1466193736",
+    "metadata": {
+      "description": "Bidirectional local privacy & secret redaction plugin for OpenCode v2, inspired by Magpie",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "zent00/opencode-redact",
+      "homepage": null,
+      "pushed_at": "2026-11-21T04:57:35Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1466193736,
+    "url": "https://github.com/zent00/opencode-redact"
+  },
+  "schema": "zcash-fast-event/1"
+}
