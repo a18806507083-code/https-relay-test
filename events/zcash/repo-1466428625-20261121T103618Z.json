@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T10:29:01Z",
+    "detected_at": "2026-11-21T10:36:18Z",
+    "display": "fabiofurini/programmazione-dinamica",
+    "key": "repo:1466428625",
+    "metadata": {
+      "description": "Programmazione dinamica: principi e algoritmi di PD per zaino, lot sizing, cambio monete e taglio delle aste",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "fabiofurini/programmazione-dinamica",
+      "homepage": null,
+      "pushed_at": "2026-11-21T10:29:08Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1466428625,
+    "url": "https://github.com/fabiofurini/programmazione-dinamica"
+  },
+  "schema": "zcash-fast-event/1"
+}
