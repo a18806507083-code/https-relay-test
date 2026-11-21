@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T17:13:02Z",
+    "detected_at": "2026-11-21T17:15:13Z",
+    "display": "Broshan1337/fake-grim-client-silentnet-analysis",
+    "key": "repo:1466776698",
+    "metadata": {
+      "description": "Reverse engineering Grim Client 1.0 (a.k.a. SilentNet): a Minecraft mod stealer with an on-chain Polygon C2, PNG-stego second stage and a cracked Nuitka Python stealer.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Broshan1337/fake-grim-client-silentnet-analysis",
+      "homepage": null,
+      "pushed_at": "2026-11-21T17:13:08Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1466776698,
+    "url": "https://github.com/Broshan1337/fake-grim-client-silentnet-analysis"
+  },
+  "schema": "zcash-fast-event/1"
+}
