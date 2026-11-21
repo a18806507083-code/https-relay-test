@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T18:34:33Z",
+    "detected_at": "2026-11-21T18:35:00Z",
+    "display": "max2006-zcash/aws-eks-blueprint-langflow",
+    "key": "repo:1466844395",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "max2006-zcash/aws-eks-blueprint-langflow",
+      "homepage": null,
+      "pushed_at": "2026-11-21T18:34:37Z",
+      "tech_signals": [
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1466844395,
+    "url": "https://github.com/max2006-zcash/aws-eks-blueprint-langflow"
+  },
+  "schema": "zcash-fast-event/1"
+}
