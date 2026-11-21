@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T18:56:20Z",
+    "description": "Telegram trading bot for Robinhood Chain, Ethereum, Base, Arbitrum, Solana and Igra (Kaspa L2). Exits set before you buy.",
+    "detected_at": "2026-11-21T18:58:28Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ZuzTrade/zuz",
+    "homepage": null,
+    "html_url": "https://github.com/ZuzTrade/zuz",
+    "pushed_at": "2026-11-21T18:56:34Z",
+    "repo_id": 1466861532,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
