@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T01:01:04Z",
+    "description": null,
+    "detected_at": "2026-11-21T01:13:29Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "NoLife0/stoa-dashboard",
+    "homepage": null,
+    "html_url": "https://github.com/NoLife0/stoa-dashboard",
+    "pushed_at": "2026-11-21T01:01:34Z",
+    "repo_id": 1466053095,
+    "score": 13,
+    "tech_signals": [
+      "Oracle"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
