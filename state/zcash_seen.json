@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-21T10:23:25Z",
+  "last_run_at": "2026-11-21T10:29:07Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-21T09:47:03Z",
+      "cutoff": "2026-11-21T09:53:25Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-21T09:47:03Z",
-      "matches": 0,
+      "cutoff": "2026-11-21T09:53:25Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-21T09:47:03Z",
-      "matches": 0,
+      "cutoff": "2026-11-21T09:53:25Z",
+      "matches": 3,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-21T09:47:03Z",
+      "cutoff": "2026-11-21T09:53:25Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -3605,6 +3605,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3990",
       "first_seen_at": "2026-11-21T06:47:25Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59517": {
+      "created_at": "2026-11-21T10:24:53.443Z",
+      "display": "59517 Applied Zcash: a pattern reference for building apps on Zcash today",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3995",
+      "first_seen_at": "2026-11-21T10:29:07Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -12159,6 +12167,30 @@
       "first_seen_at": "2026-11-21T06:41:11Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1466409903": {
+      "created_at": "2026-11-21T10:04:26Z",
+      "display": "ShieldZCash/shieldz-swap-mcp",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3997",
+      "first_seen_at": "2026-11-21T10:29:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1466425310": {
+      "created_at": "2026-11-21T10:24:45Z",
+      "display": "fabiofurini/algoritmi-euristici",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3996",
+      "first_seen_at": "2026-11-21T10:29:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1466425544": {
+      "created_at": "2026-11-21T10:25:04Z",
+      "display": "fabiofurini/algoritmi-di-approssimazione",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3994",
+      "first_seen_at": "2026-11-21T10:29:07Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -13403,9 +13435,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-21T10:23:25Z",
-    "forum": "2026-11-21T10:23:25Z",
-    "github": "2026-11-21T10:23:25Z",
-    "zcg": "2026-11-21T10:23:25Z"
+    "fixed_orgs": "2026-11-21T10:29:07Z",
+    "forum": "2026-11-21T10:29:07Z",
+    "github": "2026-11-21T10:29:07Z",
+    "zcg": "2026-11-21T10:29:07Z"
   }
 }
