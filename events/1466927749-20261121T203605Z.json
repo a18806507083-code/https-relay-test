@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T20:26:09Z",
+    "description": "A toolset, that monitors liquidity pool positions on several blockchains and protocols, sends push notifications via Telegram on an hourly basis, that reflect the latest fees gained and shows historical performance data on a web frontend, that can filter data by diverse criteria. Integrates with Cointracking crypto portfolio tracker.",
+    "detected_at": "2026-11-21T20:36:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "KurtYstad/lp-dashboard",
+    "homepage": null,
+    "html_url": "https://github.com/KurtYstad/lp-dashboard",
+    "pushed_at": "2026-11-21T20:32:11Z",
+    "repo_id": 1466927749,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
