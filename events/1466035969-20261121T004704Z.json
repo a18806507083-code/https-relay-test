@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T00:31:08Z",
+    "description": "Policy-driven execution infrastructure for autonomous onchain agents.",
+    "detected_at": "2026-11-21T00:47:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Techsentri/sentri",
+    "homepage": null,
+    "html_url": "https://github.com/Techsentri/sentri",
+    "pushed_at": "2026-11-21T00:32:34Z",
+    "repo_id": 1466035969,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
