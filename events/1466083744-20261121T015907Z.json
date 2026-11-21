@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T01:57:03Z",
+    "description": "Create, check and buy Flash Deals from TypeScript.",
+    "detected_at": "2026-11-21T01:59:07Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Flasetai/flash-deals-sdk",
+    "homepage": "https://flaset.ai",
+    "html_url": "https://github.com/Flasetai/flash-deals-sdk",
+    "pushed_at": "2026-11-21T01:57:08Z",
+    "repo_id": 1466083744,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
