@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T01:07:14Z",
+    "description": "Public dashboard of Stoa swaps on Robinhood Chain (chain 4663): volume, traders, routes per venue \u2014 from on-chain Routed events. Stoa build bounty #3.",
+    "detected_at": "2026-11-21T01:13:29Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC"
+    ],
+    "full_name": "Moczilla12/stoa-dashboard",
+    "homepage": null,
+    "html_url": "https://github.com/Moczilla12/stoa-dashboard",
+    "pushed_at": "2026-11-21T01:07:21Z",
+    "repo_id": 1466056523,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
