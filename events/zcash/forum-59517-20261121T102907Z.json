@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T10:24:53.443Z",
+    "detected_at": "2026-11-21T10:29:07Z",
+    "display": "59517 Applied Zcash: a pattern reference for building apps on Zcash today",
+    "key": "forum:59517",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "applied-zcash-a-pattern-reference-for-building-apps-on-zcash-today",
+      "title": "Applied Zcash: a pattern reference for building apps on Zcash today",
+      "topic_id": 59517
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59517,
+    "url": "https://forum.zcashcommunity.com/t/applied-zcash-a-pattern-reference-for-building-apps-on-zcash-today/59517"
+  },
+  "schema": "zcash-fast-event/1"
+}
