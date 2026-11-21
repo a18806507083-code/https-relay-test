@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-21T09:59:31Z",
+  "last_run_at": "2026-11-21T10:11:10Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-21T09:24:02Z",
+      "cutoff": "2026-11-21T09:29:31Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-21T09:24:02Z",
+      "cutoff": "2026-11-21T09:29:31Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-21T09:24:02Z",
+      "cutoff": "2026-11-21T09:29:31Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-21T09:24:02Z",
-      "matches": 0,
+      "cutoff": "2026-11-21T09:29:31Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -13390,14 +13390,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3950",
       "first_seen_at": "2026-11-20T16:19:18Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6527477947": {
+      "created_at": "2026-11-21T10:11:14Z",
+      "display": "#587 Grant Application - {(Fuzzing and Pentesting grant) High severity finding in Lightwalletd . And a finding in zebra ( Asking for $35,000)}",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3993",
+      "first_seen_at": "2026-11-21T10:11:10Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-21T09:59:31Z",
-    "forum": "2026-11-21T09:59:31Z",
-    "github": "2026-11-21T09:59:31Z",
-    "zcg": "2026-11-21T09:59:31Z"
+    "fixed_orgs": "2026-11-21T10:11:10Z",
+    "forum": "2026-11-21T10:11:10Z",
+    "github": "2026-11-21T10:11:10Z",
+    "zcg": "2026-11-21T10:11:10Z"
   }
 }
