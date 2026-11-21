@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T15:07:20Z",
+    "detected_at": "2026-11-21T15:12:56Z",
+    "display": "Prodiggyy/zechub-ai-index-refresh-repro",
+    "key": "repo:1466660491",
+    "metadata": {
+      "description": "Reproduces how the published ZecHub AI search indexer retains outdated wallet guidance after a wiki edit. Includes runnable checks for removing stale passages, retrieving corrections, and recovering from an interrupted refresh.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Prodiggyy/zechub-ai-index-refresh-repro",
+      "homepage": null,
+      "pushed_at": "2026-11-21T15:09:01Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1466660491,
+    "url": "https://github.com/Prodiggyy/zechub-ai-index-refresh-repro"
+  },
+  "schema": "zcash-fast-event/1"
+}
