@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T21:43:25Z",
+    "description": "The till pays the guard.",
+    "detected_at": "2026-11-21T22:24:10Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH testnet 46630"
+    ],
+    "full_name": "athucode/aethernet",
+    "homepage": "https://aethernet.world/",
+    "html_url": "https://github.com/athucode/aethernet",
+    "pushed_at": "2026-11-21T22:22:21Z",
+    "repo_id": 1466979339,
+    "score": 12,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
