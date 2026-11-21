@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T11:42:07Z",
+    "description": "2-second on-chain smart contract & bytecode safety scanner for Base (8453) and Robinhood Chain (4663) with REST API & Telegram Bot.",
+    "detected_at": "2026-11-21T11:44:57Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "kradlxyz/vigil",
+    "homepage": null,
+    "html_url": "https://github.com/kradlxyz/vigil",
+    "pushed_at": "2026-11-21T11:42:38Z",
+    "repo_id": 1466484536,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
