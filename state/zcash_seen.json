@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-21T06:41:11Z",
+  "last_run_at": "2026-11-21T06:47:25Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-21T06:02:12Z",
+      "cutoff": "2026-11-21T06:11:11Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-21T06:02:12Z",
-      "matches": 0,
+      "cutoff": "2026-11-21T06:11:11Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-21T06:02:12Z",
+      "cutoff": "2026-11-21T06:11:11Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-21T06:02:12Z",
+      "cutoff": "2026-11-21T06:11:11Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3597,6 +3597,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3986",
       "first_seen_at": "2026-11-21T05:59:19Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59512": {
+      "created_at": "2026-11-21T06:44:53.236Z",
+      "display": "59512 Withdrawing ZEC from an exchange: which address type to use (and why some withdrawals fail)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/3990",
+      "first_seen_at": "2026-11-21T06:47:25Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -13387,9 +13395,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-21T06:41:11Z",
-    "forum": "2026-11-21T06:41:11Z",
-    "github": "2026-11-21T06:41:11Z",
-    "zcg": "2026-11-21T06:41:11Z"
+    "fixed_orgs": "2026-11-21T06:47:25Z",
+    "forum": "2026-11-21T06:47:25Z",
+    "github": "2026-11-21T06:47:25Z",
+    "zcg": "2026-11-21T06:47:25Z"
   }
 }
