@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T17:07:55.450Z",
+    "detected_at": "2026-11-21T17:09:34Z",
+    "display": "59522 Conservatism and Tolerance",
+    "key": "forum:59522",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "conservatism-and-tolerance",
+      "title": "Conservatism and Tolerance",
+      "topic_id": 59522
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59522,
+    "url": "https://forum.zcashcommunity.com/t/conservatism-and-tolerance/59522"
+  },
+  "schema": "zcash-fast-event/1"
+}
