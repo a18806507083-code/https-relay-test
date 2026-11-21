@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T15:54:29Z",
+    "description": "Smart contracts for Ether Share, a Uniswap v4 token launchpad on Robinhood Chain",
+    "detected_at": "2026-11-21T15:59:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "jpretak/ether-share-contracts",
+    "homepage": null,
+    "html_url": "https://github.com/jpretak/ether-share-contracts",
+    "pushed_at": "2026-11-21T15:54:34Z",
+    "repo_id": 1466704715,
+    "score": 17,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
