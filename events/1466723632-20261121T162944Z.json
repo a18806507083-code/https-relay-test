@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-21T16:14:26Z",
+    "description": "Scripts for Florin testnet on Robinhood Chain Testnet (Liquity V2 fork: troves, Multiply, Stability Pool).",
+    "detected_at": "2026-11-21T16:29:44Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "rixa/florin-testnet",
+    "homepage": null,
+    "html_url": "https://github.com/rixa/florin-testnet",
+    "pushed_at": "2026-11-21T16:25:05Z",
+    "repo_id": 1466723632,
+    "score": 10,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
