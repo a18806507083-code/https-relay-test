@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T22:17:34Z",
+    "detected_at": "2026-11-22T22:23:16Z",
+    "display": "gigliofr/heroquest-studio",
+    "key": "repo:1468039355",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "gigliofr/heroquest-studio",
+      "homepage": null,
+      "pushed_at": "2026-11-22T22:18:04Z",
+      "tech_signals": [
+        "node/indexer",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468039355,
+    "url": "https://github.com/gigliofr/heroquest-studio"
+  },
+  "schema": "zcash-fast-event/1"
+}
