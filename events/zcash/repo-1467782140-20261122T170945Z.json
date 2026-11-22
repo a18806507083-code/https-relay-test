@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T16:57:49Z",
+    "detected_at": "2026-11-22T17:09:45Z",
+    "display": "nghtcp/Dnd_ScatolaRossa",
+    "key": "repo:1467782140",
+    "metadata": {
+      "description": "Dungeon Master gestito da AI",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "nghtcp/Dnd_ScatolaRossa",
+      "homepage": null,
+      "pushed_at": "2026-11-22T17:05:34Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1467782140,
+    "url": "https://github.com/nghtcp/Dnd_ScatolaRossa"
+  },
+  "schema": "zcash-fast-event/1"
+}
