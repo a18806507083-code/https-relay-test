@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T18:26:17Z",
+    "detected_at": "2026-11-22T18:37:14Z",
+    "display": "donnygiac/Round-Valley",
+    "key": "repo:1467859740",
+    "metadata": {
+      "description": "Locorotondo, la Valle d'Itria dipinta: un gioco 3D nel browser che ricostruisce il paese vero e le sue 154 contrade. A piedi, in bici, a cavallo, in mongolfiera o in volo, tra missioni, mestieri, skate park, festa di San Rocco e altri giocatori online. three.js, WebGL2.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "donnygiac/Round-Valley",
+      "homepage": null,
+      "pushed_at": "2026-11-22T18:35:38Z",
+      "tech_signals": [
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1467859740,
+    "url": "https://github.com/donnygiac/Round-Valley"
+  },
+  "schema": "zcash-fast-event/1"
+}
