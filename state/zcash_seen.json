@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-22T11:57:35Z",
+  "last_run_at": "2026-11-22T12:11:24Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-22T11:22:13Z",
+      "cutoff": "2026-11-22T11:27:35Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-22T11:22:13Z",
+      "cutoff": "2026-11-22T11:27:35Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-22T11:22:13Z",
-      "matches": 0,
+      "cutoff": "2026-11-22T11:27:35Z",
+      "matches": 2,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-22T11:22:13Z",
-      "matches": 0,
+      "cutoff": "2026-11-22T11:27:35Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -12343,6 +12343,22 @@
       "first_seen_at": "2026-11-22T11:22:37Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1467495788": {
+      "created_at": "2026-11-22T11:36:46Z",
+      "display": "Garoth93/valigia-IOS",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4055",
+      "first_seen_at": "2026-11-22T12:11:24Z",
+      "source": "GITHUB_NEW_REPO"
+    },
+    "repo:1467523217": {
+      "created_at": "2026-11-22T12:10:54Z",
+      "display": "Prawira97/bug-bounty-programs",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4053",
+      "first_seen_at": "2026-11-22T12:11:24Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -13598,14 +13614,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4017",
       "first_seen_at": "2026-11-21T16:59:46Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6542194162": {
+      "created_at": "2026-11-22T12:09:49Z",
+      "display": "#590 Grant Application - halo2-bilinear-opt: Certified Pairing & Pasta Wrong-Field Gadgets for Zcash Halo2 and Tachyon",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4054",
+      "first_seen_at": "2026-11-22T12:11:24Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-22T11:57:35Z",
-    "forum": "2026-11-22T11:57:35Z",
-    "github": "2026-11-22T11:57:35Z",
-    "zcg": "2026-11-22T11:57:35Z"
+    "fixed_orgs": "2026-11-22T12:11:24Z",
+    "forum": "2026-11-22T12:11:24Z",
+    "github": "2026-11-22T12:11:24Z",
+    "zcg": "2026-11-22T12:11:24Z"
   }
 }
