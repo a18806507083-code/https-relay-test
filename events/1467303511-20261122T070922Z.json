@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T07:05:07Z",
+    "description": "Vault contract: spend caps, allowlist, time-lock and kill switch for onchain agents",
+    "detected_at": "2026-11-22T07:09:22Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "jameshunter98/ravelin-contracts",
+    "homepage": "https://ravelin.pro",
+    "html_url": "https://github.com/jameshunter98/ravelin-contracts",
+    "pushed_at": "2026-11-22T07:08:14Z",
+    "repo_id": 1467303511,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
