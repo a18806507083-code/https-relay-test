@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T21:22:07Z",
+    "description": "Pay any x402 API with any token on Robinhood Chain. Merchants get exact USDG.",
+    "detected_at": "2026-11-22T21:30:56Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "paywithtender/tender",
+    "homepage": null,
+    "html_url": "https://github.com/paywithtender/tender",
+    "pushed_at": "2026-11-22T21:30:34Z",
+    "repo_id": 1468000543,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
