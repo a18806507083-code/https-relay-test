@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-22T07:58:49Z",
+  "last_run_at": "2026-11-22T08:14:34Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-22T07:23:20Z",
+      "cutoff": "2026-11-22T07:28:49Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-22T07:23:20Z",
+      "cutoff": "2026-11-22T07:28:49Z",
       "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-22T07:23:20Z",
-      "matches": 0,
+      "cutoff": "2026-11-22T07:28:49Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-22T07:23:20Z",
+      "cutoff": "2026-11-22T07:28:49Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -12319,6 +12319,14 @@
       "first_seen_at": "2026-11-22T06:57:54Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1467339556": {
+      "created_at": "2026-11-22T08:01:07Z",
+      "display": "harunsulaiman/awesome-web3-security-outreach",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4046",
+      "first_seen_at": "2026-11-22T08:14:34Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -13579,9 +13587,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-22T07:58:49Z",
-    "forum": "2026-11-22T07:58:49Z",
-    "github": "2026-11-22T07:58:49Z",
-    "zcg": "2026-11-22T07:58:49Z"
+    "fixed_orgs": "2026-11-22T08:14:34Z",
+    "forum": "2026-11-22T08:14:34Z",
+    "github": "2026-11-22T08:14:34Z",
+    "zcg": "2026-11-22T08:14:34Z"
   }
 }
