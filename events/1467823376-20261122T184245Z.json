@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T17:44:10Z",
+    "description": null,
+    "detected_at": "2026-11-22T18:42:45Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "railpayapp/railpay-agent-tools",
+    "homepage": null,
+    "html_url": "https://github.com/railpayapp/railpay-agent-tools",
+    "pushed_at": "2026-11-22T18:42:30Z",
+    "repo_id": 1467823376,
+    "score": 9,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
