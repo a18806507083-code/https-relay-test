@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T14:19:37Z",
+    "detected_at": "2026-11-22T14:22:16Z",
+    "display": "deegalabs/orchard-address-proof",
+    "key": "repo:1467634525",
+    "metadata": {
+      "description": "Orchard address-ownership proof with the unchanged Action circuit (research code, not audited by a third party)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "deegalabs/orchard-address-proof",
+      "homepage": null,
+      "pushed_at": "2026-11-22T14:19:52Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1467634525,
+    "url": "https://github.com/deegalabs/orchard-address-proof"
+  },
+  "schema": "zcash-fast-event/1"
+}
