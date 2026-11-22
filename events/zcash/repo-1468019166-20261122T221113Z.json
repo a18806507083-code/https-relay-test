@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T21:48:33Z",
+    "detected_at": "2026-11-22T22:11:13Z",
+    "display": "ndassistip-sketch/Zona-pda",
+    "key": "repo:1468019166",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "ndassistip-sketch/Zona-pda",
+      "homepage": null,
+      "pushed_at": "2026-11-22T22:08:34Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468019166,
+    "url": "https://github.com/ndassistip-sketch/Zona-pda"
+  },
+  "schema": "zcash-fast-event/1"
+}
