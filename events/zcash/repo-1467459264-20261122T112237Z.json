@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T10:50:33Z",
+    "detected_at": "2026-11-22T11:22:37Z",
+    "display": "Garoth93/montagna-360",
+    "key": "repo:1467459264",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "Garoth93/montagna-360",
+      "homepage": null,
+      "pushed_at": "2026-11-22T11:22:22Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1467459264,
+    "url": "https://github.com/Garoth93/montagna-360"
+  },
+  "schema": "zcash-fast-event/1"
+}
