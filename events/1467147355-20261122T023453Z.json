@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T02:31:49Z",
+    "description": "Company profile (portfolio lead) \u2014 Priors",
+    "detected_at": "2026-11-22T02:34:53Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "api-evangelist/priors-trade",
+    "homepage": null,
+    "html_url": "https://github.com/api-evangelist/priors-trade",
+    "pushed_at": "2026-11-22T02:32:13Z",
+    "repo_id": 1467147355,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
