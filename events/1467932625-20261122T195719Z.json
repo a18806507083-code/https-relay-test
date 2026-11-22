@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T19:54:12Z",
+    "description": "An equity-powered EVM Layer 3 for the agent economy on Robinhood Chain.",
+    "detected_at": "2026-11-22T19:57:19Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "spcxchain/spcx-chain",
+    "homepage": null,
+    "html_url": "https://github.com/spcxchain/spcx-chain",
+    "pushed_at": "2026-11-22T19:54:14Z",
+    "repo_id": 1467932625,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
