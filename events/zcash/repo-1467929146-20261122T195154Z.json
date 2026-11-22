@@ -1,0 +1,32 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T19:49:50Z",
+    "detected_at": "2026-11-22T19:51:54Z",
+    "display": "thelambdaone-commits/tg-crypto-wallet-public",
+    "key": "repo:1467929146",
+    "metadata": {
+      "description": "Telegram multi-chain crypto wallet bot (31 chains) — grammY, no-KYC swaps, payments, x402.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "thelambdaone-commits/tg-crypto-wallet-public",
+      "homepage": null,
+      "pushed_at": "2026-11-22T19:51:32Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1467929146,
+    "url": "https://github.com/thelambdaone-commits/tg-crypto-wallet-public"
+  },
+  "schema": "zcash-fast-event/1"
+}
