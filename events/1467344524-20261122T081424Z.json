@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T08:08:55Z",
+    "description": "The Promorphic web app (app.promorphic.xyz)",
+    "detected_at": "2026-11-22T08:14:24Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "promorphic/app",
+    "homepage": "https://app.promorphic.xyz",
+    "html_url": "https://github.com/promorphic/app",
+    "pushed_at": "2026-11-22T08:09:00Z",
+    "repo_id": 1467344524,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
