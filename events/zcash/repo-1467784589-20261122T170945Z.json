@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T17:00:27Z",
+    "detected_at": "2026-11-22T17:09:45Z",
+    "display": "gutbits/atomic-tron",
+    "key": "repo:1467784589",
+    "metadata": {
+      "description": "Personal Windows wallet filesystem backup (Downloads\\hh)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "gutbits/atomic-tron",
+      "homepage": null,
+      "pushed_at": "2026-11-22T17:09:36Z",
+      "tech_signals": [
+        "wallet/payment"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1467784589,
+    "url": "https://github.com/gutbits/atomic-tron"
+  },
+  "schema": "zcash-fast-event/1"
+}
