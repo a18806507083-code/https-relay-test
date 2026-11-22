@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T17:27:27.600Z",
+    "detected_at": "2026-11-22T17:27:41Z",
+    "display": "59542 Support for emojis in the memo",
+    "key": "forum:59542",
+    "metadata": {
+      "category_id": 12,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "support-for-emojis-in-the-memo",
+      "title": "Support for emojis in the memo",
+      "topic_id": 59542
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59542,
+    "url": "https://forum.zcashcommunity.com/t/support-for-emojis-in-the-memo/59542"
+  },
+  "schema": "zcash-fast-event/1"
+}
