@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-22T17:21:43Z",
+  "last_run_at": "2026-11-22T17:27:41Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-22T16:45:37Z",
+      "cutoff": "2026-11-22T16:51:43Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-22T16:45:37Z",
-      "matches": 0,
+      "cutoff": "2026-11-22T16:51:43Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-22T16:45:37Z",
+      "cutoff": "2026-11-22T16:51:43Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-22T16:45:37Z",
+      "cutoff": "2026-11-22T16:51:43Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3669,6 +3669,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4069",
       "first_seen_at": "2026-11-22T15:54:24Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59542": {
+      "created_at": "2026-11-22T17:27:27.600Z",
+      "display": "59542 Support for emojis in the memo",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4076",
+      "first_seen_at": "2026-11-22T17:27:41Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -13715,9 +13723,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-22T17:21:43Z",
-    "forum": "2026-11-22T17:21:43Z",
-    "github": "2026-11-22T17:21:43Z",
-    "zcg": "2026-11-22T17:21:43Z"
+    "fixed_orgs": "2026-11-22T17:27:41Z",
+    "forum": "2026-11-22T17:27:41Z",
+    "github": "2026-11-22T17:27:41Z",
+    "zcg": "2026-11-22T17:27:41Z"
   }
 }
