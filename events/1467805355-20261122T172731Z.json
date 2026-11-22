@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T17:23:46Z",
+    "description": null,
+    "detected_at": "2026-11-22T17:27:31Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "aispr7391-create/launch",
+    "homepage": null,
+    "html_url": "https://github.com/aispr7391-create/launch",
+    "pushed_at": "2026-11-22T17:24:28Z",
+    "repo_id": 1467805355,
+    "score": 18,
+    "tech_signals": [
+      "Uniswap",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
