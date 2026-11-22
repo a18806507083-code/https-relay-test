@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T19:02:16Z",
+    "description": "Withdraw everything from Furtive with only your 12 words. Runs on your device, no Furtive servers needed.",
+    "detected_at": "2026-11-22T19:10:02Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "furtiveapp/furtive-rescue",
+    "homepage": "https://furtiveapp.github.io/furtive-rescue/",
+    "html_url": "https://github.com/furtiveapp/furtive-rescue",
+    "pushed_at": "2026-11-22T19:04:46Z",
+    "repo_id": 1467890513,
+    "score": 7,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
