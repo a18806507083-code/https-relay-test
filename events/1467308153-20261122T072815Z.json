@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T07:12:30Z",
+    "description": "Source for ravelin.pro",
+    "detected_at": "2026-11-22T07:28:15Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "jameshunter98/ravelin-website",
+    "homepage": "https://ravelin.pro/",
+    "html_url": "https://github.com/jameshunter98/ravelin-website",
+    "pushed_at": "2026-11-22T07:25:18Z",
+    "repo_id": 1467308153,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
