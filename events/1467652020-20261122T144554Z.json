@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T14:38:33Z",
+    "description": null,
+    "detected_at": "2026-11-22T14:45:54Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "tomhotman/robinhood-scanner",
+    "homepage": null,
+    "html_url": "https://github.com/tomhotman/robinhood-scanner",
+    "pushed_at": "2026-11-22T14:43:37Z",
+    "repo_id": 1467652020,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
