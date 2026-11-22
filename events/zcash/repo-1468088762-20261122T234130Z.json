@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T23:37:59Z",
+    "detected_at": "2026-11-22T23:41:30Z",
+    "display": "helioswarmai/zolcash",
+    "key": "repo:1468088762",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "helioswarmai/zolcash",
+      "homepage": null,
+      "pushed_at": "2026-11-22T23:39:25Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468088762,
+    "url": "https://github.com/helioswarmai/zolcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
