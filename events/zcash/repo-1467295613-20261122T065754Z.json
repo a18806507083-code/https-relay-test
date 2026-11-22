@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T06:52:33Z",
+    "detected_at": "2026-11-22T06:57:54Z",
+    "display": "lidq79/monero-vps-anonymity",
+    "key": "repo:1467295613",
+    "metadata": {
+      "description": "Anonymous VPS Monero Guide: Is AVA Hosting Actually Anonymous, Which Plan Fits, and What €5/Month Really Includes",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "lidq79/monero-vps-anonymity",
+      "homepage": "",
+      "pushed_at": "2026-11-22T06:52:54Z",
+      "tech_signals": [
+        "wallet/payment",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1467295613,
+    "url": "https://github.com/lidq79/monero-vps-anonymity"
+  },
+  "schema": "zcash-fast-event/1"
+}
