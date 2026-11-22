@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T15:16:52Z",
+    "description": "Non-upgradeable vault protocol on Robinhood Chain: official addresses and ABIs.",
+    "detected_at": "2026-11-22T15:19:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "lavFACTORY/lavfactory",
+    "homepage": null,
+    "html_url": "https://github.com/lavFACTORY/lavfactory",
+    "pushed_at": "2026-11-22T15:18:32Z",
+    "repo_id": 1467688170,
+    "score": 14,
+    "tech_signals": [
+      "RWA/stock",
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
