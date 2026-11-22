@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T09:59:58Z",
+    "description": "Private OTC desk for Robinhood Chain stock tokens. Post a block, get sealed bids, settle both sides in one transaction.",
+    "detected_at": "2026-11-22T10:10:55Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "forge-trade-agent/forge",
+    "homepage": "https://forgetrade.sbs",
+    "html_url": "https://github.com/forge-trade-agent/forge",
+    "pushed_at": "2026-11-22T10:10:19Z",
+    "repo_id": 1467421479,
+    "score": 18,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
