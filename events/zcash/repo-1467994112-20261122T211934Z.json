@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T21:13:06Z",
+    "detected_at": "2026-11-22T21:19:34Z",
+    "display": "evadsh3ll/kavach",
+    "key": "repo:1467994112",
+    "metadata": {
+      "description": "Kavach (कवच) — zero-knowledge health-insurance claims. Insurers pay, diagnoses stay sealed. Noir · UltraHonk · Anon Aadhaar · IPFS · FHIR",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "evadsh3ll/kavach",
+      "homepage": "",
+      "pushed_at": "2026-11-22T21:13:17Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1467994112,
+    "url": "https://github.com/evadsh3ll/kavach"
+  },
+  "schema": "zcash-fast-event/1"
+}
