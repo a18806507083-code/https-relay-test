@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T02:58:07Z",
+    "detected_at": "2026-11-22T03:10:15Z",
+    "display": "Udoka-AM/tachyon-receipts",
+    "key": "repo:1467161299",
+    "metadata": {
+      "description": "Payment receipts for Zcash's Tachyon pool: prove one payment without a viewing key. Draft v0.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Udoka-AM/tachyon-receipts",
+      "homepage": null,
+      "pushed_at": "2026-11-22T02:58:14Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1467161299,
+    "url": "https://github.com/Udoka-AM/tachyon-receipts"
+  },
+  "schema": "zcash-fast-event/1"
+}
