@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T22:42:09Z",
+    "detected_at": "2026-11-22T22:48:10Z",
+    "display": "CosimoZingaropoli/quacky-capsule",
+    "key": "repo:1468054855",
+    "metadata": {
+      "description": "Firmware aperto della Capsule di Quacky: tasto a papera su M5Stack Capsule (ESP32-S3) che registra note vocali e le invia al diario. Con protocollo, strumenti, prove e scocca da stampare.",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "CosimoZingaropoli/quacky-capsule",
+      "homepage": "https://quacky.eu/capsule/",
+      "pushed_at": "2026-11-22T22:42:16Z",
+      "tech_signals": [
+        "node/indexer",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468054855,
+    "url": "https://github.com/CosimoZingaropoli/quacky-capsule"
+  },
+  "schema": "zcash-fast-event/1"
+}
