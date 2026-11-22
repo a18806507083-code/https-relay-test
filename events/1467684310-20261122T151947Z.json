@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T15:12:47Z",
+    "description": null,
+    "detected_at": "2026-11-22T15:19:47Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "workteamorders/SightPool",
+    "homepage": null,
+    "html_url": "https://github.com/workteamorders/SightPool",
+    "pushed_at": "2026-11-22T15:18:25Z",
+    "repo_id": 1467684310,
+    "score": 7,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
