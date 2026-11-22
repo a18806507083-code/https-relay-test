@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T15:37:57Z",
+    "detected_at": "2026-11-22T15:42:45Z",
+    "display": "halfabillion/zecvyapar",
+    "key": "repo:1467707466",
+    "metadata": {
+      "description": "GST-ready INR invoices for Indian merchants, paid in shielded ZEC",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "halfabillion/zecvyapar",
+      "homepage": "https://halfabillion.github.io/zecvyapar/",
+      "pushed_at": "2026-11-22T15:38:03Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1467707466,
+    "url": "https://github.com/halfabillion/zecvyapar"
+  },
+  "schema": "zcash-fast-event/1"
+}
