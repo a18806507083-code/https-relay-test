@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T18:34:41Z",
+    "description": "Executable-edge evidence collector for cross-venue arbitrage",
+    "detected_at": "2026-11-22T18:37:04Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Willy-Wonka28/bigBlue_collector",
+    "homepage": null,
+    "html_url": "https://github.com/Willy-Wonka28/bigBlue_collector",
+    "pushed_at": "2026-11-22T18:34:54Z",
+    "repo_id": 1467867065,
+    "score": 7,
+    "tech_signals": [
+      "Uniswap"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
