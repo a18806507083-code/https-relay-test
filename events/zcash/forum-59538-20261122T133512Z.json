@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T13:33:32.553Z",
+    "detected_at": "2026-11-22T13:35:12Z",
+    "display": "59538 Grant Application - halo2-bilinear-opt: Certified Pairing & Pasta Wrong-Field Gadgets for Zcash Halo2 and Tachyon",
+    "key": "forum:59538",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-halo2-bilinear-opt-certified-pairing-pasta-wrong-field-gadgets-for-zcash-halo2-and-tachyon",
+      "title": "Grant Application - halo2-bilinear-opt: Certified Pairing & Pasta Wrong-Field Gadgets for Zcash Halo2 and Tachyon",
+      "topic_id": 59538
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59538,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-halo2-bilinear-opt-certified-pairing-pasta-wrong-field-gadgets-for-zcash-halo2-and-tachyon/59538"
+  },
+  "schema": "zcash-fast-event/1"
+}
