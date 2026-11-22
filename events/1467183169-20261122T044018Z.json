@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T03:39:38Z",
+    "description": "Ivorypad: the memecoin launchpad on Whitechain. Launch in one signature, ownership renounced, LP burned at graduation.",
+    "detected_at": "2026-11-22T04:40:18Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ivorylaunchpad/ivorypad",
+    "homepage": "https://ivorypads.com",
+    "html_url": "https://github.com/ivorylaunchpad/ivorypad",
+    "pushed_at": "2026-11-22T04:36:30Z",
+    "repo_id": 1467183169,
+    "score": 7,
+    "tech_signals": [
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
