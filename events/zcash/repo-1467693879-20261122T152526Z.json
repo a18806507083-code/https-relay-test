@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T15:23:00Z",
+    "detected_at": "2026-11-22T15:25:26Z",
+    "display": "CreativesOnchain/zcash-ios-memo-proof",
+    "key": "repo:1467693879",
+    "metadata": {
+      "description": "iOS Simulator test comparing standard Zcash Ironwood memo retrieval with private retrieval through Valar. Checks whether the wallet sends the transaction ID to lightwalletd when receiving a memo, refreshing the wallet, or retrying while Valar is offline.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "CreativesOnchain/zcash-ios-memo-proof",
+      "homepage": null,
+      "pushed_at": "2026-11-22T15:23:02Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "protocol/ZK"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1467693879,
+    "url": "https://github.com/CreativesOnchain/zcash-ios-memo-proof"
+  },
+  "schema": "zcash-fast-event/1"
+}
