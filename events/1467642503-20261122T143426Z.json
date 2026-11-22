@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T14:28:21Z",
+    "description": "Token research and trading on Robinhood Chain",
+    "detected_at": "2026-11-22T14:34:26Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "hormus-ai/hormus",
+    "homepage": null,
+    "html_url": "https://github.com/hormus-ai/hormus",
+    "pushed_at": "2026-11-22T14:31:28Z",
+    "repo_id": 1467642503,
+    "score": 14,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
