@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T03:12:31Z",
+    "description": null,
+    "detected_at": "2026-11-23T03:18:57Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "aramexbit/bull-poc-b49-resume-state-tampering",
+    "homepage": null,
+    "html_url": "https://github.com/aramexbit/bull-poc-b49-resume-state-tampering",
+    "pushed_at": "2026-11-23T03:12:39Z",
+    "repo_id": 1468227988,
+    "score": 7,
+    "tech_signals": [
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
