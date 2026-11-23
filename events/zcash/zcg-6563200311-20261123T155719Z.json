@@ -1,0 +1,20 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T15:54:17Z",
+    "detected_at": "2026-11-23T15:57:19Z",
+    "display": "#593 V12 Credits Application - zec-agent-wallet",
+    "key": "zcg:6563200311",
+    "metadata": {
+      "author": "Sofiia7",
+      "issue_number": 593,
+      "labels": [
+        "🛡️ V12 Credits Application"
+      ],
+      "title": "V12 Credits Application - zec-agent-wallet"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6563200311,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/593"
+  },
+  "schema": "zcash-fast-event/1"
+}
