@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T19:38:00Z",
+    "detected_at": "2026-11-23T19:40:28Z",
+    "display": "tidelit4/0xramp-carrusel",
+    "key": "repo:1469224909",
+    "metadata": {
+      "description": "Carrusel educativo (6 imágenes, español) sobre las funciones de 0xramp, para Zcash en Español / ZecHub",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "tidelit4/0xramp-carrusel",
+      "homepage": null,
+      "pushed_at": "2026-11-23T19:38:08Z",
+      "tech_signals": [
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1469224909,
+    "url": "https://github.com/tidelit4/0xramp-carrusel"
+  },
+  "schema": "zcash-fast-event/1"
+}
