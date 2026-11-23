@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-23T09:44:43Z",
+  "last_run_at": "2026-11-23T09:50:51Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-23T09:08:54Z",
+      "cutoff": "2026-11-23T09:14:43Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-23T09:08:54Z",
-      "matches": 1,
+      "cutoff": "2026-11-23T09:14:43Z",
+      "matches": 2,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-23T09:08:54Z",
+      "cutoff": "2026-11-23T09:14:43Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-23T09:08:54Z",
+      "cutoff": "2026-11-23T09:14:43Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3725,6 +3725,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4119",
       "first_seen_at": "2026-11-23T09:22:06Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59551": {
+      "created_at": "2026-11-23T09:50:28.748Z",
+      "display": "59551 Broken website: z.cash",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4121",
+      "first_seen_at": "2026-11-23T09:50:51Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -13907,9 +13915,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-23T09:44:43Z",
-    "forum": "2026-11-23T09:44:43Z",
-    "github": "2026-11-23T09:44:43Z",
-    "zcg": "2026-11-23T09:44:43Z"
+    "fixed_orgs": "2026-11-23T09:50:51Z",
+    "forum": "2026-11-23T09:50:51Z",
+    "github": "2026-11-23T09:50:51Z",
+    "zcg": "2026-11-23T09:50:51Z"
   }
 }
