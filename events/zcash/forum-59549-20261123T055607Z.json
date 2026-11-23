@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T05:52:47.928Z",
+    "detected_at": "2026-11-23T05:56:07Z",
+    "display": "59549 Thoughts",
+    "key": "forum:59549",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "thoughts",
+      "title": "Thoughts",
+      "topic_id": 59549
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59549,
+    "url": "https://forum.zcashcommunity.com/t/thoughts/59549"
+  },
+  "schema": "zcash-fast-event/1"
+}
