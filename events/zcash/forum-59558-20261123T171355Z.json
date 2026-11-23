@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T17:12:04.849Z",
+    "detected_at": "2026-11-23T17:13:55Z",
+    "display": "59558 Launching ZEC-only apparel brand - Private Key",
+    "key": "forum:59558",
+    "metadata": {
+      "category_id": 31,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "launching-zec-only-apparel-brand-private-key",
+      "title": "Launching ZEC-only apparel brand - Private Key",
+      "topic_id": 59558
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59558,
+    "url": "https://forum.zcashcommunity.com/t/launching-zec-only-apparel-brand-private-key/59558"
+  },
+  "schema": "zcash-fast-event/1"
+}
