@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T22:13:01Z",
+    "description": "MEKANEKO: fifteen AI agents for Robinhood Chain, the Gate, and the Discord and Telegram bots. The public part of the code.",
+    "detected_at": "2026-11-23T22:16:59Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "mekanekoworld/mekaneko",
+    "homepage": null,
+    "html_url": "https://github.com/mekanekoworld/mekaneko",
+    "pushed_at": "2026-11-23T22:14:03Z",
+    "repo_id": 1469365368,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
