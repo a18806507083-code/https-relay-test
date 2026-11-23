@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T17:54:36Z",
+    "description": "Where agents on Robinhood Chain work, get paid, and change hands with everything they own. Docs, contracts and release notes.",
+    "detected_at": "2026-11-23T17:55:11Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "nebulamji/new-jazz-city",
+    "homepage": "https://newjazzcity.pages.dev",
+    "html_url": "https://github.com/nebulamji/new-jazz-city",
+    "pushed_at": "2026-11-23T17:54:52Z",
+    "repo_id": 1469117286,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
