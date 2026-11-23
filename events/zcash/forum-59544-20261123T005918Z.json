@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T00:54:52.064Z",
+    "detected_at": "2026-11-23T00:59:18Z",
+    "display": "59544 Zaino 0.11.0-rc1: a new home at Umbriel Systems, and a big step forward",
+    "key": "forum:59544",
+    "metadata": {
+      "category_id": 31,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zaino-0-11-0-rc1-a-new-home-at-umbriel-systems-and-a-big-step-forward",
+      "title": "Zaino 0.11.0-rc1: a new home at Umbriel Systems, and a big step forward",
+      "topic_id": 59544
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59544,
+    "url": "https://forum.zcashcommunity.com/t/zaino-0-11-0-rc1-a-new-home-at-umbriel-systems-and-a-big-step-forward/59544"
+  },
+  "schema": "zcash-fast-event/1"
+}
