@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T11:34:26Z",
+    "description": null,
+    "detected_at": "2026-11-23T12:32:04Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "pontra-xyz/pontra",
+    "homepage": null,
+    "html_url": "https://github.com/pontra-xyz/pontra",
+    "pushed_at": "2026-11-23T12:29:34Z",
+    "repo_id": 1468678224,
+    "score": 12,
+    "tech_signals": [
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
