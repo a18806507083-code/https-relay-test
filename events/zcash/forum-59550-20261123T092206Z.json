@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T09:20:47.638Z",
+    "detected_at": "2026-11-23T09:22:06Z",
+    "display": "59550 GitHub InjActions: A Security Flaw? :syringe:",
+    "key": "forum:59550",
+    "metadata": {
+      "category_id": 46,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "github-injactions-a-security-flaw",
+      "title": "GitHub InjActions: A Security Flaw? :syringe:",
+      "topic_id": 59550
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59550,
+    "url": "https://forum.zcashcommunity.com/t/github-injactions-a-security-flaw/59550"
+  },
+  "schema": "zcash-fast-event/1"
+}
