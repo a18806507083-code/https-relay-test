@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T16:10:54.378Z",
+    "detected_at": "2026-11-23T16:24:33Z",
+    "display": "59557 A new episode begins: Zcash + Linux",
+    "key": "forum:59557",
+    "metadata": {
+      "category_id": 41,
+      "posters": [
+        "Original Poster",
+        "Most Recent Poster"
+      ],
+      "slug": "a-new-episode-begins-zcash-linux",
+      "title": "A new episode begins: Zcash + Linux",
+      "topic_id": 59557
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59557,
+    "url": "https://forum.zcashcommunity.com/t/a-new-episode-begins-zcash-linux/59557"
+  },
+  "schema": "zcash-fast-event/1"
+}
