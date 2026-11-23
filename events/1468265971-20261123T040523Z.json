@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T04:03:01Z",
+    "description": "Hood Junkies protocol contracts (MIT), matching the verified Robinhood Chain deployment.",
+    "detected_at": "2026-11-23T04:05:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "devopsbe/hood-junkies-contracts",
+    "homepage": null,
+    "html_url": "https://github.com/devopsbe/hood-junkies-contracts",
+    "pushed_at": "2026-11-23T04:03:22Z",
+    "repo_id": 1468265971,
+    "score": 13,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
