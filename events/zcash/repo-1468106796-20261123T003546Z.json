@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T00:09:33Z",
+    "detected_at": "2026-11-23T00:35:46Z",
+    "display": "Solizardking/Zolana-public",
+    "key": "repo:1468106796",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Solizardking/Zolana-public",
+      "homepage": null,
+      "pushed_at": "2026-11-23T00:17:12Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468106796,
+    "url": "https://github.com/Solizardking/Zolana-public"
+  },
+  "schema": "zcash-fast-event/1"
+}
