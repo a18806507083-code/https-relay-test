@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-23T01:27:34Z",
+  "last_run_at": "2026-11-23T01:37:21Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-23T00:51:50Z",
+      "cutoff": "2026-11-23T00:57:34Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-23T00:51:50Z",
-      "matches": 1,
+      "cutoff": "2026-11-23T00:57:34Z",
+      "matches": 0,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-23T00:51:50Z",
+      "cutoff": "2026-11-23T00:57:34Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-23T00:51:50Z",
-      "matches": 0,
+      "cutoff": "2026-11-23T00:57:34Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -13846,14 +13846,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4054",
       "first_seen_at": "2026-11-22T12:11:24Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6550442619": {
+      "created_at": "2026-11-23T01:32:20Z",
+      "display": "#591 Grant Application - Zcash wallet restore benchmarks on Android and iPhone",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4106",
+      "first_seen_at": "2026-11-23T01:37:21Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-23T01:27:34Z",
-    "forum": "2026-11-23T01:27:34Z",
-    "github": "2026-11-23T01:27:34Z",
-    "zcg": "2026-11-23T01:27:34Z"
+    "fixed_orgs": "2026-11-23T01:37:21Z",
+    "forum": "2026-11-23T01:37:21Z",
+    "github": "2026-11-23T01:37:21Z",
+    "zcg": "2026-11-23T01:37:21Z"
   }
 }
