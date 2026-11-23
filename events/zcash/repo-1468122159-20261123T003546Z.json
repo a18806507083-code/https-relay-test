@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T00:35:25Z",
+    "detected_at": "2026-11-23T00:35:46Z",
+    "display": "intelliDean/zcash-address-history-replay",
+    "key": "repo:1468122159",
+    "metadata": {
+      "description": "Replay Zcash Testnet address-history requests and verify how many node calls lightwalletd makes for each request. Includes recorded inputs and an offline replay.",
+      "direct_signals": [
+        "Zcash",
+        "node/indexer"
+      ],
+      "full_name": "intelliDean/zcash-address-history-replay",
+      "homepage": null,
+      "pushed_at": "2026-11-23T00:35:27Z",
+      "tech_signals": [
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468122159,
+    "url": "https://github.com/intelliDean/zcash-address-history-replay"
+  },
+  "schema": "zcash-fast-event/1"
+}
