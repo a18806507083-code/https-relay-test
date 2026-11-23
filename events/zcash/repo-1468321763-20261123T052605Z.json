@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T05:20:34Z",
+    "detected_at": "2026-11-23T05:26:05Z",
+    "display": "zcash/pqzcash",
+    "key": "repo:1468321763",
+    "metadata": {
+      "description": "Post-Quantum Zcash",
+      "fixed_owner": "zcash",
+      "full_name": "zcash/pqzcash",
+      "homepage": null,
+      "pushed_at": "2026-11-23T05:22:14Z"
+    },
+    "source": "FIXED_ORG_NEW_REPO",
+    "stable_id": 1468321763,
+    "url": "https://github.com/zcash/pqzcash"
+  },
+  "schema": "zcash-fast-event/1"
+}
