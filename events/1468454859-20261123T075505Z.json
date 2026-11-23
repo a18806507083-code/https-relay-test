@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T07:54:56Z",
+    "description": "The fact layer of Robinhood Chain: recomputable facts about ERC-8004 agents, tokens and trades, over REST, MCP and A2A.",
+    "detected_at": "2026-11-23T07:55:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "factahq/facta-core",
+    "homepage": "https://factahq.xyz",
+    "html_url": "https://github.com/factahq/facta-core",
+    "pushed_at": "2026-11-23T07:54:57Z",
+    "repo_id": 1468454859,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
