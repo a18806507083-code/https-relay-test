@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T20:56:27.711Z",
+    "detected_at": "2026-11-23T20:58:44Z",
+    "display": "59567 Bad Signal! :scream:",
+    "key": "forum:59567",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "bad-signal",
+      "title": "Bad Signal! :scream:",
+      "topic_id": 59567
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59567,
+    "url": "https://forum.zcashcommunity.com/t/bad-signal/59567"
+  },
+  "schema": "zcash-fast-event/1"
+}
