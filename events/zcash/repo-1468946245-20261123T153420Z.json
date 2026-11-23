@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T15:29:08Z",
+    "detected_at": "2026-11-23T15:34:20Z",
+    "display": "ShieldZCash/shieldz-go",
+    "key": "repo:1468946245",
+    "metadata": {
+      "description": "Go client for Shieldz: non-custodial crypto payments (USDC, USDT, BTC, ZEC) with $0 fees",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "ShieldZCash/shieldz-go",
+      "homepage": "https://shieldz.cash",
+      "pushed_at": "2026-11-23T15:29:17Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468946245,
+    "url": "https://github.com/ShieldZCash/shieldz-go"
+  },
+  "schema": "zcash-fast-event/1"
+}
