@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T17:10:08Z",
+    "description": "The rules of Tall Street as code. The game contracts will follow them exactly.",
+    "detected_at": "2026-11-23T17:13:42Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Tall-street/rules",
+    "homepage": null,
+    "html_url": "https://github.com/Tall-street/rules",
+    "pushed_at": "2026-11-23T17:10:15Z",
+    "repo_id": 1469064488,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
