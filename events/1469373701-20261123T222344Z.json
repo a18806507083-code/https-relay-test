@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T22:23:31Z",
+    "description": "Department of Jazz Standards: open standards for NFTs that act. No. 1: Control Epochs (who controls a token-held agent, since when, and who may check its work).",
+    "detected_at": "2026-11-23T22:23:44Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "nebulamji/doj-standards",
+    "homepage": "https://departmentofjazz.pages.dev/standards/",
+    "html_url": "https://github.com/nebulamji/doj-standards",
+    "pushed_at": "2026-11-23T22:23:38Z",
+    "repo_id": 1469373701,
+    "score": 12,
+    "tech_signals": [
+      "Hook",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
