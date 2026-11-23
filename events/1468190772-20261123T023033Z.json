@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T02:21:37Z",
+    "description": "1,000,000 futures for NVDA. Every 10 minutes. Verifiable scenario odds, fingerprinted on Robinhood Chain.",
+    "detected_at": "2026-11-23T02:30:33Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "quintelagent/quintel",
+    "homepage": "https://quintelagent.com",
+    "html_url": "https://github.com/quintelagent/quintel",
+    "pushed_at": "2026-11-23T02:24:02Z",
+    "repo_id": 1468190772,
+    "score": 15,
+    "tech_signals": [
+      "Uniswap",
+      "Oracle",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
