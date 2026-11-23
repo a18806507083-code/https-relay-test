@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T14:35:26Z",
+    "detected_at": "2026-11-23T15:13:49Z",
+    "display": "mbilo126/screen-iso",
+    "key": "repo:1468882599",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "mbilo126/screen-iso",
+      "homepage": null,
+      "pushed_at": "2026-11-23T15:09:26Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468882599,
+    "url": "https://github.com/mbilo126/screen-iso"
+  },
+  "schema": "zcash-fast-event/1"
+}
