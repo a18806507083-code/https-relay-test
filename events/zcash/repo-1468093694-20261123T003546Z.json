@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T23:46:40Z",
+    "detected_at": "2026-11-23T00:35:46Z",
+    "display": "AAmanditaX/guia-zcash-pt",
+    "key": "repo:1468093694",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "AAmanditaX/guia-zcash-pt",
+      "homepage": null,
+      "pushed_at": "2026-11-23T00:28:35Z",
+      "tech_signals": [
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468093694,
+    "url": "https://github.com/AAmanditaX/guia-zcash-pt"
+  },
+  "schema": "zcash-fast-event/1"
+}
