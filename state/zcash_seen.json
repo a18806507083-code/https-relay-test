@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-23T17:04:00Z",
+  "last_run_at": "2026-11-23T17:13:55Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-23T16:26:09Z",
+      "cutoff": "2026-11-23T16:34:00Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-23T16:26:09Z",
-      "matches": 0,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-11-23T16:26:09Z",
+      "cutoff": "2026-11-23T16:34:00Z",
       "matches": 1,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-11-23T16:34:00Z",
+      "matches": 0,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-11-23T16:26:09Z",
+      "cutoff": "2026-11-23T16:34:00Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3757,6 +3757,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4140",
       "first_seen_at": "2026-11-23T16:24:33Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59558": {
+      "created_at": "2026-11-23T17:12:04.849Z",
+      "display": "59558 Launching ZEC-only apparel brand - Private Key",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4144",
+      "first_seen_at": "2026-11-23T17:13:55Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -14011,9 +14019,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-23T17:04:00Z",
-    "forum": "2026-11-23T17:04:00Z",
-    "github": "2026-11-23T17:04:00Z",
-    "zcg": "2026-11-23T17:04:00Z"
+    "fixed_orgs": "2026-11-23T17:13:55Z",
+    "forum": "2026-11-23T17:13:55Z",
+    "github": "2026-11-23T17:13:55Z",
+    "zcg": "2026-11-23T17:13:55Z"
   }
 }
