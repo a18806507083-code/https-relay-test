@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T12:04:29Z",
+    "detected_at": "2026-11-23T12:20:02Z",
+    "display": "malwaredev/AuotChef",
+    "key": "repo:1468710366",
+    "metadata": {
+      "description": "Automatically finds the CyberChef recipe for any obfuscated or encoded input",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "malwaredev/AuotChef",
+      "homepage": null,
+      "pushed_at": "2026-11-23T12:12:26Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468710366,
+    "url": "https://github.com/malwaredev/AuotChef"
+  },
+  "schema": "zcash-fast-event/1"
+}
