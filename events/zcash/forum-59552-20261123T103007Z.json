@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T10:28:48.760Z",
+    "detected_at": "2026-11-23T10:30:07Z",
+    "display": "59552 The Zcash Protocol Specification, Simplified",
+    "key": "forum:59552",
+    "metadata": {
+      "category_id": 17,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "the-zcash-protocol-specification-simplified",
+      "title": "The Zcash Protocol Specification, Simplified",
+      "topic_id": 59552
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59552,
+    "url": "https://forum.zcashcommunity.com/t/the-zcash-protocol-specification-simplified/59552"
+  },
+  "schema": "zcash-fast-event/1"
+}
