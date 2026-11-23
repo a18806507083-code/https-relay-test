@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-23T05:39:03Z",
+  "last_run_at": "2026-11-23T05:44:42Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-23T05:02:50Z",
+      "cutoff": "2026-11-23T05:09:03Z",
       "matches": 1,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-23T05:02:50Z",
-      "matches": 0,
+      "cutoff": "2026-11-23T05:09:03Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-23T05:02:50Z",
+      "cutoff": "2026-11-23T05:09:03Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-23T05:02:50Z",
+      "cutoff": "2026-11-23T05:09:03Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -3701,6 +3701,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4107",
       "first_seen_at": "2026-11-23T01:43:43Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59548": {
+      "created_at": "2026-11-23T05:39:21.775Z",
+      "display": "59548 Grant Application - Private Ironwood Memo Retrieval for iOS Wallets",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4116",
+      "first_seen_at": "2026-11-23T05:44:42Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -13883,9 +13891,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-23T05:39:03Z",
-    "forum": "2026-11-23T05:39:03Z",
-    "github": "2026-11-23T05:39:03Z",
-    "zcg": "2026-11-23T05:39:03Z"
+    "fixed_orgs": "2026-11-23T05:44:42Z",
+    "forum": "2026-11-23T05:44:42Z",
+    "github": "2026-11-23T05:44:42Z",
+    "zcg": "2026-11-23T05:44:42Z"
   }
 }
