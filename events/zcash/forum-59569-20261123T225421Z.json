@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T22:51:03.527Z",
+    "detected_at": "2026-11-23T22:54:21Z",
+    "display": "59569 The Zcash Desk",
+    "key": "forum:59569",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "the-zcash-desk",
+      "title": "The Zcash Desk",
+      "topic_id": 59569
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59569,
+    "url": "https://forum.zcashcommunity.com/t/the-zcash-desk/59569"
+  },
+  "schema": "zcash-fast-event/1"
+}
