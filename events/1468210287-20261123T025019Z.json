@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T02:48:56Z",
+    "description": "A collective list of free and public APIs for developers",
+    "detected_at": "2026-11-23T02:50:19Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "mansoorwanimansoorwani23-collab/public-apis",
+    "homepage": null,
+    "html_url": "https://github.com/mansoorwanimansoorwani23-collab/public-apis",
+    "pushed_at": "2026-11-23T02:49:23Z",
+    "repo_id": 1468210287,
+    "score": 11,
+    "tech_signals": [
+      "Hook",
+      "Oracle",
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
