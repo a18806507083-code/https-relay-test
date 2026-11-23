@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T20:25:27Z",
+    "description": "Gachiz: perps for collectibles, on Robinhood Chain. Source of the website (demo).",
+    "detected_at": "2026-11-23T20:27:47Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "averageballer4939/gachiz-fun",
+    "homepage": "https://www.gachiz.fun",
+    "html_url": "https://github.com/averageballer4939/gachiz-fun",
+    "pushed_at": "2026-11-23T20:25:39Z",
+    "repo_id": 1469271262,
+    "score": 7,
+    "tech_signals": [
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
