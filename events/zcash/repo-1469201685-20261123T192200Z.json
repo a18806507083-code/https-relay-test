@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T19:15:07Z",
+    "detected_at": "2026-11-23T19:22:00Z",
+    "display": "toccas/repo-cataconba",
+    "key": "repo:1469201685",
+    "metadata": {
+      "description": "incremental video game catacomb",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "toccas/repo-cataconba",
+      "homepage": null,
+      "pushed_at": "2026-11-23T19:17:05Z",
+      "tech_signals": [
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1469201685,
+    "url": "https://github.com/toccas/repo-cataconba"
+  },
+  "schema": "zcash-fast-event/1"
+}
