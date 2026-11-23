@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T22:28:26Z",
+    "description": "Build  HeliusPrivacy  powered dApps & tools on the EVM chain. ",
+    "detected_at": "2026-11-23T22:48:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "JasonOgETH/RingEVM",
+    "homepage": null,
+    "html_url": "https://github.com/JasonOgETH/RingEVM",
+    "pushed_at": "2026-11-23T22:42:57Z",
+    "repo_id": 1469377502,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
