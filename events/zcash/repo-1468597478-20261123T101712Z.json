@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T10:15:08Z",
+    "detected_at": "2026-11-23T10:17:12Z",
+    "display": "Shaker-Genopole/zk-circuits",
+    "key": "repo:1468597478",
+    "metadata": {
+      "description": "Groth16 BLS12-381 circuits, prover and Sui encoders for zero-knowledge SLA verification in healthcare edge-cloud IoT.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Shaker-Genopole/zk-circuits",
+      "homepage": null,
+      "pushed_at": "2026-11-23T10:15:34Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468597478,
+    "url": "https://github.com/Shaker-Genopole/zk-circuits"
+  },
+  "schema": "zcash-fast-event/1"
+}
