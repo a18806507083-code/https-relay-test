@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-23T22:53:28Z",
+    "detected_at": "2026-11-23T23:12:13Z",
+    "display": "bruceketta83/espo-nentia",
+    "key": "repo:1469397596",
+    "metadata": {
+      "description": "Gioco sugli esponenti e le loro proprietà",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "bruceketta83/espo-nentia",
+      "homepage": null,
+      "pushed_at": "2026-11-23T23:08:14Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1469397596,
+    "url": "https://github.com/bruceketta83/espo-nentia"
+  },
+  "schema": "zcash-fast-event/1"
+}
