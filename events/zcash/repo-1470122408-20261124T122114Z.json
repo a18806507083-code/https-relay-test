@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T12:18:04Z",
+    "detected_at": "2026-11-24T12:21:14Z",
+    "display": "quorint/quorint",
+    "key": "repo:1470122408",
+    "metadata": {
+      "description": "Independent security research and audits for blockchains, L1 protocols, zero-knowledge systems and smart contracts.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "quorint/quorint",
+      "homepage": "https://quorint.xyz",
+      "pushed_at": "2026-11-24T12:18:11Z",
+      "tech_signals": [
+        "node/indexer",
+        "protocol/ZK",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1470122408,
+    "url": "https://github.com/quorint/quorint"
+  },
+  "schema": "zcash-fast-event/1"
+}
