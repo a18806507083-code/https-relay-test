@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T23:26:47Z",
+    "description": "Shows which tool, launchpad or operator made a Solana or EVM token (from its metadata URI) on GMGN, Axiom and BasedBot.",
+    "detected_at": "2026-11-24T23:28:40Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Geeksvc/deploy-tag",
+    "homepage": null,
+    "html_url": "https://github.com/Geeksvc/deploy-tag",
+    "pushed_at": "2026-11-24T23:26:55Z",
+    "repo_id": 1470981520,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
