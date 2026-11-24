@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T07:16:40Z",
+    "detected_at": "2026-11-24T07:17:51Z",
+    "display": "slowmoonship/privacy-observatory",
+    "key": "repo:1469792511",
+    "metadata": {
+      "description": "中文隐私资产数据观察站：Monero 与 Zcash",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "slowmoonship/privacy-observatory",
+      "homepage": null,
+      "pushed_at": "2026-11-24T07:16:41Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1469792511,
+    "url": "https://github.com/slowmoonship/privacy-observatory"
+  },
+  "schema": "zcash-fast-event/1"
+}
