@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T17:45:01.902Z",
+    "detected_at": "2026-11-24T17:47:57Z",
+    "display": "59602 Introducing the Zcash Governance Portal",
+    "key": "forum:59602",
+    "metadata": {
+      "category_id": 31,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "introducing-the-zcash-governance-portal",
+      "title": "Introducing the Zcash Governance Portal",
+      "topic_id": 59602
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59602,
+    "url": "https://forum.zcashcommunity.com/t/introducing-the-zcash-governance-portal/59602"
+  },
+  "schema": "zcash-fast-event/1"
+}
