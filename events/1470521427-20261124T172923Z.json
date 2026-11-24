@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T17:22:40Z",
+    "description": "ERC-8511 (Policy-Enforced Agent Accounts): reference library, registry contracts and test vectors",
+    "detected_at": "2026-11-24T17:29:23Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "palisec/policy-enforced-accounts",
+    "homepage": "https://palisec.tech/docs/standard",
+    "html_url": "https://github.com/palisec/policy-enforced-accounts",
+    "pushed_at": "2026-11-24T17:25:37Z",
+    "repo_id": 1470521427,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
