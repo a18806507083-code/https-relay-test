@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T21:21:15.491Z",
+    "detected_at": "2026-11-24T21:23:38Z",
+    "display": "59626 Grant Application: Zigs Zcash Wallet Security Audit",
+    "key": "forum:59626",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zigs-zcash-wallet-security-audit",
+      "title": "Grant Application: Zigs Zcash Wallet Security Audit",
+      "topic_id": 59626
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59626,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zigs-zcash-wallet-security-audit/59626"
+  },
+  "schema": "zcash-fast-event/1"
+}
