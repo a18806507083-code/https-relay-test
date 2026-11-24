@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T16:20:33Z",
+    "detected_at": "2026-11-24T16:25:10Z",
+    "display": "shandrila2-pixel/zechub-0xramp-carousel",
+    "key": "repo:1470429399",
+    "metadata": {
+      "description": "Carrusel «Conoce las Funciones Principales de 0xramp» — entregable ZecHub (6 PNG 1080×1350 + SVG editables)",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "shandrila2-pixel/zechub-0xramp-carousel",
+      "homepage": null,
+      "pushed_at": "2026-11-24T16:25:11Z",
+      "tech_signals": [
+        "node/indexer",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1470429399,
+    "url": "https://github.com/shandrila2-pixel/zechub-0xramp-carousel"
+  },
+  "schema": "zcash-fast-event/1"
+}
