@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T17:05:57Z",
+    "description": "Move your AI agent to any platform. 25 platforms, rus in your browser. bargedot.fun",
+    "detected_at": "2026-11-24T17:12:07Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "usebarge/barge",
+    "homepage": null,
+    "html_url": "https://github.com/usebarge/barge",
+    "pushed_at": "2026-11-24T17:11:55Z",
+    "repo_id": 1470496786,
+    "score": 15,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
