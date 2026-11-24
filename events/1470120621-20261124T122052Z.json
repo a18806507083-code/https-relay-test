@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T12:16:34Z",
+    "description": "Prediction markets on Robinhood Chain with YES/NO shares in USDG and a non-custodial AI trading agent.",
+    "detected_at": "2026-11-24T12:20:52Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Outcomes-RH/outcomes",
+    "homepage": "https://getoutcomes.xyz",
+    "html_url": "https://github.com/Outcomes-RH/outcomes",
+    "pushed_at": "2026-11-24T12:16:42Z",
+    "repo_id": 1470120621,
+    "score": 13,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
