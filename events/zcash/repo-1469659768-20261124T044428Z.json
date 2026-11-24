@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T04:44:10Z",
+    "detected_at": "2026-11-24T04:44:28Z",
+    "display": "sovright/zcash-disaggregated",
+    "key": "repo:1469659768",
+    "metadata": {
+      "description": "Disaggregated Zcash wallet: 1-of-n detection and proving, FROST or 1/1 signing, quantum-recoverable keys",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "sovright/zcash-disaggregated",
+      "homepage": null,
+      "pushed_at": "2026-11-24T04:44:12Z",
+      "tech_signals": [
+        "wallet/payment"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1469659768,
+    "url": "https://github.com/sovright/zcash-disaggregated"
+  },
+  "schema": "zcash-fast-event/1"
+}
