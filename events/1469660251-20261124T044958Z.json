@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T04:44:54Z",
+    "description": "Let agents trade. Keep the keys. No-code trading agents, self-custody vaults and USDG payroll on Robinhood Chain.",
+    "detected_at": "2026-11-24T04:49:58Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "orla-agent/orla-app",
+    "homepage": null,
+    "html_url": "https://github.com/orla-agent/orla-app",
+    "pushed_at": "2026-11-24T04:46:36Z",
+    "repo_id": 1469660251,
+    "score": 10,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
