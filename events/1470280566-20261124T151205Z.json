@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T14:27:30Z",
+    "description": "Official source excerpts for mospho.trade, a pay-per-request research terminal on Robinhood Chain",
+    "detected_at": "2026-11-24T15:12:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Mospho/mospho-trade",
+    "homepage": "https://mospho.trade",
+    "html_url": "https://github.com/Mospho/mospho-trade",
+    "pushed_at": "2026-11-24T15:03:09Z",
+    "repo_id": 1470280566,
+    "score": 8,
+    "tech_signals": [
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
