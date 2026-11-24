@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T15:53:57.983Z",
+    "detected_at": "2026-11-24T15:55:51Z",
+    "display": "59600 Questions for ZCG Candidates (December 2026 Election)",
+    "key": "forum:59600",
+    "metadata": {
+      "category_id": 38,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "questions-for-zcg-candidates-december-2026-election",
+      "title": "Questions for ZCG Candidates (December 2026 Election)",
+      "topic_id": 59600
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59600,
+    "url": "https://forum.zcashcommunity.com/t/questions-for-zcg-candidates-december-2026-election/59600"
+  },
+  "schema": "zcash-fast-event/1"
+}
