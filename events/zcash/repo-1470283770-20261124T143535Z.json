@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T14:29:56Z",
+    "detected_at": "2026-11-24T14:35:35Z",
+    "display": "priyanshi020/zec-requst",
+    "key": "repo:1470283770",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "priyanshi020/zec-requst",
+      "homepage": null,
+      "pushed_at": "2026-11-24T14:33:10Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1470283770,
+    "url": "https://github.com/priyanshi020/zec-requst"
+  },
+  "schema": "zcash-fast-event/1"
+}
