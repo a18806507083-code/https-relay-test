@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T13:53:36Z",
+    "description": "NOIR: a private layer 2 on Robinhood Chain. Its own blocks, private balances, payments, trades and launches, with every block sealed to Robinhood Chain.",
+    "detected_at": "2026-11-24T13:54:27Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "NOIRLayer2/noir",
+    "homepage": "https://noirlayer2.xyz",
+    "html_url": "https://github.com/NOIRLayer2/noir",
+    "pushed_at": "2026-11-24T13:53:45Z",
+    "repo_id": 1470237768,
+    "score": 13,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
