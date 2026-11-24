@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T19:42:31Z",
+    "detected_at": "2026-11-24T19:46:58Z",
+    "display": "allswapio/multichain-memo-address-validator",
+    "key": "repo:1470718056",
+    "metadata": {
+      "description": "Zero-dependency mainnet crypto address and checksum validator (EIP-55, Base58Check, Bech32/Bech32m, CashAddr, CRC16) for 12 address families.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "allswapio/multichain-memo-address-validator",
+      "homepage": "https://allswap.io/tools/address-validator",
+      "pushed_at": "2026-11-24T19:42:37Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1470718056,
+    "url": "https://github.com/allswapio/multichain-memo-address-validator"
+  },
+  "schema": "zcash-fast-event/1"
+}
