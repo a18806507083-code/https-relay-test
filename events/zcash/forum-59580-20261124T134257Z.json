@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T13:39:59.123Z",
+    "detected_at": "2026-11-24T13:42:57Z",
+    "display": "59580 Zcash (ZEC) is now available in Coin Wallet",
+    "key": "forum:59580",
+    "metadata": {
+      "category_id": 16,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-zec-is-now-available-in-coin-wallet",
+      "title": "Zcash (ZEC) is now available in Coin Wallet",
+      "topic_id": 59580
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59580,
+    "url": "https://forum.zcashcommunity.com/t/zcash-zec-is-now-available-in-coin-wallet/59580"
+  },
+  "schema": "zcash-fast-event/1"
+}
