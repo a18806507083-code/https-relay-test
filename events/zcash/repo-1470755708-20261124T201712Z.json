@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T20:10:09Z",
+    "detected_at": "2026-11-24T20:17:12Z",
+    "display": "midnight-experiments/ipir-benchmark-nvidia",
+    "key": "repo:1470755708",
+    "metadata": {
+      "description": "IPIR+SP GPU answer, CPU compile and 3 s block-budget benchmark for an NVIDIA host (UmbraDB private sync modules)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "midnight-experiments/ipir-benchmark-nvidia",
+      "homepage": null,
+      "pushed_at": "2026-11-24T20:10:15Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1470755708,
+    "url": "https://github.com/midnight-experiments/ipir-benchmark-nvidia"
+  },
+  "schema": "zcash-fast-event/1"
+}
