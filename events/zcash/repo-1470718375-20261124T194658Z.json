@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T19:42:45Z",
+    "detected_at": "2026-11-24T19:46:58Z",
+    "display": "allswapio/mcp-server",
+    "key": "repo:1470718375",
+    "metadata": {
+      "description": "Read-only MCP server for AllSwap: public asset catalog, official channels and block-explorer links. No keys, no dependencies.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "allswapio/mcp-server",
+      "homepage": "https://allswap.io/docs",
+      "pushed_at": "2026-11-24T19:42:50Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1470718375,
+    "url": "https://github.com/allswapio/mcp-server"
+  },
+  "schema": "zcash-fast-event/1"
+}
