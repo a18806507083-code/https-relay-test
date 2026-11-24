@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T09:17:54Z",
+    "detected_at": "2026-11-24T09:23:15Z",
+    "display": "kaikai-cao/kaikai-cao",
+    "key": "repo:1469917707",
+    "metadata": {
+      "description": "Personal GitHub profile and research portfolio",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "kaikai-cao/kaikai-cao",
+      "homepage": null,
+      "pushed_at": "2026-11-24T09:18:39Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "protocol/ZK",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1469917707,
+    "url": "https://github.com/kaikai-cao/kaikai-cao"
+  },
+  "schema": "zcash-fast-event/1"
+}
