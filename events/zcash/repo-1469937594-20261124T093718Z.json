@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T09:35:44Z",
+    "detected_at": "2026-11-24T09:37:18Z",
+    "display": "jatinsahijwani/zcash-android-benchmark",
+    "key": "repo:1469937594",
+    "metadata": {
+      "description": "Open dataset measuring shielded Zcash wallet performance on entry-level Android phones. Collected by Zcash India. CC0.",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "jatinsahijwani/zcash-android-benchmark",
+      "homepage": null,
+      "pushed_at": "2026-11-24T09:36:05Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1469937594,
+    "url": "https://github.com/jatinsahijwani/zcash-android-benchmark"
+  },
+  "schema": "zcash-fast-event/1"
+}
