@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T19:18:44.303Z",
+    "detected_at": "2026-11-24T19:22:24Z",
+    "display": "59610 ZecFlow — Privacy-Preserving Shielded Distribution & Affiliate Protocol",
+    "key": "forum:59610",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster",
+        "Recent Poster",
+        "Recent Poster"
+      ],
+      "slug": "zecflow-privacy-preserving-shielded-distribution-affiliate-protocol",
+      "title": "ZecFlow — Privacy-Preserving Shielded Distribution & Affiliate Protocol",
+      "topic_id": 59610
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59610,
+    "url": "https://forum.zcashcommunity.com/t/zecflow-privacy-preserving-shielded-distribution-affiliate-protocol/59610"
+  },
+  "schema": "zcash-fast-event/1"
+}
