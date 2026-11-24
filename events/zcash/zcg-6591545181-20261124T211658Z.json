@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T21:14:17Z",
+    "detected_at": "2026-11-24T21:16:58Z",
+    "display": "#597 Grant Application - Zigs Zcash Wallet Security",
+    "key": "zcg:6591545181",
+    "metadata": {
+      "author": "usezigs",
+      "issue_number": 597,
+      "labels": [],
+      "title": "Grant Application - Zigs Zcash Wallet Security"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6591545181,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/597"
+  },
+  "schema": "zcash-fast-event/1"
+}
