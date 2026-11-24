@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-24T19:16:03Z",
+  "last_run_at": "2026-11-24T19:22:24Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-24T18:40:11Z",
+      "cutoff": "2026-11-24T18:46:03Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-24T18:40:11Z",
-      "matches": 0,
+      "cutoff": "2026-11-24T18:46:03Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-24T18:40:11Z",
+      "cutoff": "2026-11-24T18:46:03Z",
       "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-24T18:40:11Z",
+      "cutoff": "2026-11-24T18:46:03Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -3821,6 +3821,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4221",
       "first_seen_at": "2026-11-24T17:47:57Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59610": {
+      "created_at": "2026-11-24T19:18:44.303Z",
+      "display": "59610 ZecFlow — Privacy-Preserving Shielded Distribution & Affiliate Protocol",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4228",
+      "first_seen_at": "2026-11-24T19:22:24Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -14243,9 +14251,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-24T19:16:03Z",
-    "forum": "2026-11-24T19:16:03Z",
-    "github": "2026-11-24T19:16:03Z",
-    "zcg": "2026-11-24T19:16:03Z"
+    "fixed_orgs": "2026-11-24T19:22:24Z",
+    "forum": "2026-11-24T19:22:24Z",
+    "github": "2026-11-24T19:22:24Z",
+    "zcg": "2026-11-24T19:22:24Z"
   }
 }
