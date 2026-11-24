@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T08:09:11Z",
+    "description": "Lean proofs, checked against the deployed bytecode, of the role, pause and blocklist checks in the contract behind every Robinhood stock token",
+    "detected_at": "2026-11-24T08:19:53Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC"
+    ],
+    "full_name": "usebrainchain/stock-token-proofs",
+    "homepage": null,
+    "html_url": "https://github.com/usebrainchain/stock-token-proofs",
+    "pushed_at": "2026-11-24T08:09:16Z",
+    "repo_id": 1469844191,
+    "score": 11,
+    "tech_signals": [
+      "RWA/stock",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
