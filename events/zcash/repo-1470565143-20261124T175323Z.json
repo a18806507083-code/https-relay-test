@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T17:52:33Z",
+    "detected_at": "2026-11-24T17:53:23Z",
+    "display": "saymanlal/ZecFlow",
+    "key": "repo:1470565143",
+    "metadata": {
+      "description": "ZecFlow — Zcash-native distribution protocol with ZIP-321 payment requests and shielded commerce",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "saymanlal/ZecFlow",
+      "homepage": null,
+      "pushed_at": "2026-11-24T17:53:14Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1470565143,
+    "url": "https://github.com/saymanlal/ZecFlow"
+  },
+  "schema": "zcash-fast-event/1"
+}
