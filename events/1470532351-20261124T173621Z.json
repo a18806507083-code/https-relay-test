@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T17:30:12Z",
+    "description": "TypeScript SDK for Palisec (@palisec/sdk): ask before an agent acts, execute through a Palisec smart account",
+    "detected_at": "2026-11-24T17:36:21Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "palisec/sdk-typescript",
+    "homepage": "https://palisec.tech/docs/sdk",
+    "html_url": "https://github.com/palisec/sdk-typescript",
+    "pushed_at": "2026-11-24T17:32:01Z",
+    "repo_id": 1470532351,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
