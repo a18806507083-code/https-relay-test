@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T00:30:33Z",
+    "description": "Staking for any coin: holders stake and earn a fixed share of its creator fees. Built on QHooks' open staking module (MIT). Live on Robinhood Chain.",
+    "detected_at": "2026-11-24T00:45:17Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "nebulamji/stakekit",
+    "homepage": null,
+    "html_url": "https://github.com/nebulamji/stakekit",
+    "pushed_at": "2026-11-24T00:30:40Z",
+    "repo_id": 1469467042,
+    "score": 15,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
