@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T14:45:03Z",
+    "description": "Verified contract addresses for DeFi protocols, pinned to official sources, with an hourly exploit sweep that freezes affected protocols",
+    "detected_at": "2026-11-24T14:47:36Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Strata-Labs/protocol-registry",
+    "homepage": null,
+    "html_url": "https://github.com/Strata-Labs/protocol-registry",
+    "pushed_at": "2026-11-24T14:45:10Z",
+    "repo_id": 1470303681,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
