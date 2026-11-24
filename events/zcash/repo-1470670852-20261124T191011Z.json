@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-24T19:07:54Z",
+    "detected_at": "2026-11-24T19:10:11Z",
+    "display": "api-evangelist/seneschal-space",
+    "key": "repo:1470670852",
+    "metadata": {
+      "description": "Company profile (portfolio lead) — Seneschal",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "api-evangelist/seneschal-space",
+      "homepage": null,
+      "pushed_at": "2026-11-24T19:08:19Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1470670852,
+    "url": "https://github.com/api-evangelist/seneschal-space"
+  },
+  "schema": "zcash-fast-event/1"
+}
