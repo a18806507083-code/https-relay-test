@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-24T00:45:28Z",
+  "last_run_at": "2026-11-24T00:52:40Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-23T23:59:40Z",
+      "cutoff": "2026-11-24T00:15:28Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-23T23:59:40Z",
-      "matches": 0,
+      "cutoff": "2026-11-24T00:15:28Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-23T23:59:40Z",
+      "cutoff": "2026-11-24T00:15:28Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-23T23:59:40Z",
-      "matches": 0,
+      "cutoff": "2026-11-24T00:15:28Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -3781,6 +3781,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4166",
       "first_seen_at": "2026-11-23T22:54:21Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59571": {
+      "created_at": "2026-11-24T00:51:50.539Z",
+      "display": "59571 Grant Application - Shared shielded ZEC for groups: approve anytime, vote together, quantum-safe setup",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4171",
+      "first_seen_at": "2026-11-24T00:52:40Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -14078,14 +14086,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4139",
       "first_seen_at": "2026-11-23T15:57:19Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6571994740": {
+      "created_at": "2026-11-24T00:45:41Z",
+      "display": "#594 Grant Application - Shared shielded ZEC for groups: approve anytime, vote together, quantum-safe setup",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4172",
+      "first_seen_at": "2026-11-24T00:52:40Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-24T00:45:28Z",
-    "forum": "2026-11-24T00:45:28Z",
-    "github": "2026-11-24T00:45:28Z",
-    "zcg": "2026-11-24T00:45:28Z"
+    "fixed_orgs": "2026-11-24T00:52:40Z",
+    "forum": "2026-11-24T00:52:40Z",
+    "github": "2026-11-24T00:52:40Z",
+    "zcg": "2026-11-24T00:52:40Z"
   }
 }
