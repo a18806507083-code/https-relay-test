@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T21:58:05Z",
+    "description": "Rules for AI agents that trade tokenized assets, enforced on BNB Chain before the trade happens",
+    "detected_at": "2026-11-25T22:11:50Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "alexlapinpro/mandrail",
+    "homepage": null,
+    "html_url": "https://github.com/alexlapinpro/mandrail",
+    "pushed_at": "2026-11-25T22:07:08Z",
+    "repo_id": 1472382057,
+    "score": 10,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
