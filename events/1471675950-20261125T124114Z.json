@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T11:22:25Z",
+    "description": "Per-second compute and settlement for agents. Wrap any command, pay for the seconds it ran, get a signed receipt.",
+    "detected_at": "2026-11-25T12:41:14Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "chronarklabs/chronark",
+    "homepage": "",
+    "html_url": "https://github.com/chronarklabs/chronark",
+    "pushed_at": "2026-11-25T12:37:44Z",
+    "repo_id": 1471675950,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
