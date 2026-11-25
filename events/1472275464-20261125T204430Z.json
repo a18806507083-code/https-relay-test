@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T19:55:19Z",
+    "description": "Run BASIS from your AI assistant. 242 tools for trading, loans and prediction markets, no code needed.",
+    "detected_at": "2026-11-25T20:44:30Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Launch-On-Basis/MCP-TS",
+    "homepage": "https://launchonbasis.com",
+    "html_url": "https://github.com/Launch-On-Basis/MCP-TS",
+    "pushed_at": "2026-11-25T20:30:38Z",
+    "repo_id": 1472275464,
+    "score": 6,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
