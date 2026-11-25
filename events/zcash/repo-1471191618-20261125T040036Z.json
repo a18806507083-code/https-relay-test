@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T03:54:51Z",
+    "detected_at": "2026-11-25T04:00:36Z",
+    "display": "smk762/rm_faucet",
+    "key": "repo:1471191618",
+    "metadata": {
+      "description": "FastAPI faucet service for Komodo DeFi Framework test coins",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "smk762/rm_faucet",
+      "homepage": null,
+      "pushed_at": "2026-11-25T04:00:00Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1471191618,
+    "url": "https://github.com/smk762/rm_faucet"
+  },
+  "schema": "zcash-fast-event/1"
+}
