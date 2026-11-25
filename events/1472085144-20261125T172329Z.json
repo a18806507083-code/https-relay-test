@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T16:56:20Z",
+    "description": null,
+    "detected_at": "2026-11-25T17:23:29Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "VeilorMarkets/VeilorMarkets",
+    "homepage": null,
+    "html_url": "https://github.com/VeilorMarkets/VeilorMarkets",
+    "pushed_at": "2026-11-25T17:22:20Z",
+    "repo_id": 1472085144,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
