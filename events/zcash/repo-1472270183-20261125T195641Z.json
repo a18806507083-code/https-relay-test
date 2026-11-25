@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T19:49:43Z",
+    "detected_at": "2026-11-25T19:56:41Z",
+    "display": "nwaezechiagozie2-cloud/zpay-shield-prod",
+    "key": "repo:1472270183",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "nwaezechiagozie2-cloud/zpay-shield-prod",
+      "homepage": null,
+      "pushed_at": "2026-11-25T19:55:29Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1472270183,
+    "url": "https://github.com/nwaezechiagozie2-cloud/zpay-shield-prod"
+  },
+  "schema": "zcash-fast-event/1"
+}
