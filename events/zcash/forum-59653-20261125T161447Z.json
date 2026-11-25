@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T15:50:56.051Z",
+    "detected_at": "2026-11-25T16:14:47Z",
+    "display": "59653 One Click Cashback Program for Zcash",
+    "key": "forum:59653",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "one-click-cashback-program-for-zcash",
+      "title": "One Click Cashback Program for Zcash",
+      "topic_id": 59653
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59653,
+    "url": "https://forum.zcashcommunity.com/t/one-click-cashback-program-for-zcash/59653"
+  },
+  "schema": "zcash-fast-event/1"
+}
