@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T08:35:17Z",
+    "description": "A v4 hook that charges bots for the price gap they close and snipers a launch fee that fades. Fees fixed per pool, shown in the quote, sells never blocked.",
+    "detected_at": "2026-11-25T08:36:40Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "decoyhook/decoyhook",
+    "homepage": "https://decoyhook.com",
+    "html_url": "https://github.com/decoyhook/decoyhook",
+    "pushed_at": "2026-11-25T08:36:29Z",
+    "repo_id": 1471490684,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Lending/Vault",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
