@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T01:35:21.475Z",
+    "detected_at": "2026-11-25T01:40:29Z",
+    "display": "59631 Zcash Ecosystem Continuous Fuzzing Campaign in cloud servers: Multi-Month work",
+    "key": "forum:59631",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zcash-ecosystem-continuous-fuzzing-campaign-in-cloud-servers-multi-month-work",
+      "title": "Zcash Ecosystem Continuous Fuzzing Campaign in cloud servers: Multi-Month work",
+      "topic_id": 59631
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59631,
+    "url": "https://forum.zcashcommunity.com/t/zcash-ecosystem-continuous-fuzzing-campaign-in-cloud-servers-multi-month-work/59631"
+  },
+  "schema": "zcash-fast-event/1"
+}
