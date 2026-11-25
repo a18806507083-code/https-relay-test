@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T06:53:33Z",
+    "description": "AegisUSDG: Institutional Paxos USDG ERC-4626 Vault gated by an Arbitrum Stylus (Rust WASM) EWMA Volatility, Cornish-Fisher 99% VaR & Kelly Risk Engine",
+    "detected_at": "2026-11-25T06:59:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "chrisx9z/aegis-usdg-arbitrum",
+    "homepage": null,
+    "html_url": "https://github.com/chrisx9z/aegis-usdg-arbitrum",
+    "pushed_at": "2026-11-25T06:53:42Z",
+    "repo_id": 1471388323,
+    "score": 13,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
