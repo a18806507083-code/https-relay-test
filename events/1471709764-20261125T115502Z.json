@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T11:53:51Z",
+    "description": "Trading terminal for Bankr-launched tokens on Base",
+    "detected_at": "2026-11-25T11:55:02Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "0xAxelowETH/bankrdex",
+    "homepage": null,
+    "html_url": "https://github.com/0xAxelowETH/bankrdex",
+    "pushed_at": "2026-11-25T11:53:59Z",
+    "repo_id": 1471709764,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
