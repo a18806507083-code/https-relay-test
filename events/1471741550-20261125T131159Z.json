@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T12:22:18Z",
+    "description": null,
+    "detected_at": "2026-11-25T13:11:59Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH testnet RPC",
+      "RH Blockscout",
+      "RH testnet 46630"
+    ],
+    "full_name": "semvio/semvio",
+    "homepage": null,
+    "html_url": "https://github.com/semvio/semvio",
+    "pushed_at": "2026-11-25T12:59:39Z",
+    "repo_id": 1471741550,
+    "score": 24,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
