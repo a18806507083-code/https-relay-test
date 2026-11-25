@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T11:03:51Z",
+    "detected_at": "2026-11-25T11:37:20Z",
+    "display": "cs224/bip39-bip32-key-derivation",
+    "key": "repo:1471655919",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "cs224/bip39-bip32-key-derivation",
+      "homepage": null,
+      "pushed_at": "2026-11-25T11:31:42Z",
+      "tech_signals": [
+        "wallet/payment",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1471655919,
+    "url": "https://github.com/cs224/bip39-bip32-key-derivation"
+  },
+  "schema": "zcash-fast-event/1"
+}
