@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T04:19:54Z",
+    "detected_at": "2026-11-25T04:32:01Z",
+    "display": "EnderMark/tam_coc",
+    "key": "repo:1471220110",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "EnderMark/tam_coc",
+      "homepage": null,
+      "pushed_at": "2026-11-25T04:28:27Z",
+      "tech_signals": [
+        "node/indexer",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1471220110,
+    "url": "https://github.com/EnderMark/tam_coc"
+  },
+  "schema": "zcash-fast-event/1"
+}
