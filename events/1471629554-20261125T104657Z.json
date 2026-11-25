@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T10:40:17Z",
+    "description": "Private spending for AI agents. Signed grants, sealed ledgers, proof on Robinhood Chain.",
+    "detected_at": "2026-11-25T10:46:57Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "DuskAgents/dusk",
+    "homepage": "https://duskdot.fun",
+    "html_url": "https://github.com/DuskAgents/dusk",
+    "pushed_at": "2026-11-25T10:43:28Z",
+    "repo_id": 1471629554,
+    "score": 11,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
