@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T08:37:28Z",
+    "description": "Private AI gateway: 200+ AI models, your wallet, IP and device never reach the model. Same price as OpenRouter. Ghost Credit ledger on Robinhood Chain.",
+    "detected_at": "2026-11-25T08:42:25Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Ghostkeyai/ghostkey",
+    "homepage": "https://ghostkeyai.com",
+    "html_url": "https://github.com/Ghostkeyai/ghostkey",
+    "pushed_at": "2026-11-25T08:38:56Z",
+    "repo_id": 1471492961,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
