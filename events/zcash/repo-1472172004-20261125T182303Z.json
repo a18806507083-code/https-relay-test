@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T18:11:59Z",
+    "detected_at": "2026-11-25T18:23:03Z",
+    "display": "Ritikdhanotiya07/ZecLearn-Lab",
+    "key": "repo:1472172004",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Ritikdhanotiya07/ZecLearn-Lab",
+      "homepage": "https://zec-learn-lab.vercel.app",
+      "pushed_at": "2026-11-25T18:14:34Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "protocol/ZK",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1472172004,
+    "url": "https://github.com/Ritikdhanotiya07/ZecLearn-Lab"
+  },
+  "schema": "zcash-fast-event/1"
+}
