@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T12:07:33Z",
+    "description": "CAMO: the private trading terminal for Robinhood Chain. A fresh wallet for every position, funded through a route nobody can follow back to you.",
+    "detected_at": "2026-11-25T12:20:42Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "CAMOTerminal/camo",
+    "homepage": "https://camoterminal.xyz",
+    "html_url": "https://github.com/CAMOTerminal/camo",
+    "pushed_at": "2026-11-25T12:07:43Z",
+    "repo_id": 1471724693,
+    "score": 10,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
