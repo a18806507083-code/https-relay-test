@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T20:09:44Z",
+    "description": "Deterministic bytecode fingerprinting, content-addressed evidence modeling, and entity graph primitives for Robinhood Chain (4663)",
+    "detected_at": "2026-11-25T20:14:22Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "speculanetwork/specula-core",
+    "homepage": null,
+    "html_url": "https://github.com/speculanetwork/specula-core",
+    "pushed_at": "2026-11-25T20:09:56Z",
+    "repo_id": 1472288502,
+    "score": 10,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
