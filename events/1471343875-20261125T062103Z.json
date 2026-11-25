@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T06:07:12Z",
+    "description": "Open-source example agent: Rushr trades and outcomes remembered in Memoria (signed memory). Dry-run first. Not financial advice.",
+    "detected_at": "2026-11-25T06:21:03Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "thervee/memoria-rushr-agent",
+    "homepage": null,
+    "html_url": "https://github.com/thervee/memoria-rushr-agent",
+    "pushed_at": "2026-11-25T06:18:44Z",
+    "repo_id": 1471343875,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
