@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T19:55:07Z",
+    "description": "Python SDK for BASIS: launch tokens, trade, borrow and run prediction markets on Robinhood Chain.",
+    "detected_at": "2026-11-25T20:44:30Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Launch-On-Basis/SDK-PY",
+    "homepage": "https://launchonbasis.com",
+    "html_url": "https://github.com/Launch-On-Basis/SDK-PY",
+    "pushed_at": "2026-11-25T20:30:48Z",
+    "repo_id": 1472275295,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
