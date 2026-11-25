@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T17:36:45Z",
+    "description": "antwork: the vibecoding festival that never closes. Browser game on Robinhood Chain. Official: antwork.fun, x.com/antworkdotfun, CA 0xd9e83f1f0706ec82f5b6cb8b6dd100850fcfa041",
+    "detected_at": "2026-11-25T17:42:05Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "antworkdotfun/antwork",
+    "homepage": "https://antwork.fun",
+    "html_url": "https://github.com/antworkdotfun/antwork",
+    "pushed_at": "2026-11-25T17:37:08Z",
+    "repo_id": 1472132214,
+    "score": 15,
+    "tech_signals": [
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
