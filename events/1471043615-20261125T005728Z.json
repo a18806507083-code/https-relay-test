@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T00:54:48Z",
+    "description": null,
+    "detected_at": "2026-11-25T00:57:28Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "0x0chaa/newww",
+    "homepage": null,
+    "html_url": "https://github.com/0x0chaa/newww",
+    "pushed_at": "2026-11-25T00:56:17Z",
+    "repo_id": 1471043615,
+    "score": 18,
+    "tech_signals": [
+      "Uniswap",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
