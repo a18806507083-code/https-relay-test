@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T18:27:25Z",
+    "detected_at": "2026-11-25T18:29:34Z",
+    "display": "allswapio/address-format-test-vectors",
+    "key": "repo:1472188296",
+    "metadata": {
+      "description": "Labelled test strings for blockchain address validators, with specification sources (CC-BY-4.0)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "allswapio/address-format-test-vectors",
+      "homepage": "https://allswap.io/tools/address-validator",
+      "pushed_at": "2026-11-25T18:27:33Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1472188296,
+    "url": "https://github.com/allswapio/address-format-test-vectors"
+  },
+  "schema": "zcash-fast-event/1"
+}
