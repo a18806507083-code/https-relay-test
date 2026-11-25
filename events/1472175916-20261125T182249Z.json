@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T18:15:43Z",
+    "description": null,
+    "detected_at": "2026-11-25T18:22:49Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH testnet 46630"
+    ],
+    "full_name": "deamybro/vibescope",
+    "homepage": null,
+    "html_url": "https://github.com/deamybro/vibescope",
+    "pushed_at": "2026-11-25T18:16:03Z",
+    "repo_id": 1472175916,
+    "score": 13,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
