@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T19:54:51Z",
+    "description": "TypeScript and JavaScript SDK for BASIS: launch tokens, trade, borrow and run prediction markets on Robinhood Chain.",
+    "detected_at": "2026-11-25T20:44:30Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Launch-On-Basis/SDK-TS",
+    "homepage": "https://launchonbasis.com",
+    "html_url": "https://github.com/Launch-On-Basis/SDK-TS",
+    "pushed_at": "2026-11-25T20:30:43Z",
+    "repo_id": 1472275064,
+    "score": 10,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
