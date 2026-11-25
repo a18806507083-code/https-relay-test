@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T08:13:13Z",
+    "detected_at": "2026-11-25T08:19:02Z",
+    "display": "sviluppo-noodles/invicta_geo_pillar",
+    "key": "repo:1471467664",
+    "metadata": {
+      "description": "pillar geo page for invicta",
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "sviluppo-noodles/invicta_geo_pillar",
+      "homepage": null,
+      "pushed_at": "2026-11-25T08:15:05Z",
+      "tech_signals": [
+        "node/indexer"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1471467664,
+    "url": "https://github.com/sviluppo-noodles/invicta_geo_pillar"
+  },
+  "schema": "zcash-fast-event/1"
+}
