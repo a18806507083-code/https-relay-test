@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-25T07:21:09Z",
+    "description": null,
+    "detected_at": "2026-11-25T08:18:52Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Ratinole/ratinole",
+    "homepage": "https://ratinole.vercel.app",
+    "html_url": "https://github.com/Ratinole/ratinole",
+    "pushed_at": "2026-11-25T08:11:45Z",
+    "repo_id": 1471415221,
+    "score": 9,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
