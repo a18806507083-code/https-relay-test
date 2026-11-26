@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T15:48:17Z",
+    "detected_at": "2026-11-26T15:49:37Z",
+    "display": "KaranSinghBisht/frost-drill",
+    "key": "repo:1473365826",
+    "metadata": {
+      "description": "Hands-on lab for FROST threshold signatures on Zcash: run a 2-of-3 RedPallas signing round in your browser, then break it.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "KaranSinghBisht/frost-drill",
+      "homepage": "https://frost-drill.vercel.app",
+      "pushed_at": "2026-11-26T15:48:31Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1473365826,
+    "url": "https://github.com/KaranSinghBisht/frost-drill"
+  },
+  "schema": "zcash-fast-event/1"
+}
