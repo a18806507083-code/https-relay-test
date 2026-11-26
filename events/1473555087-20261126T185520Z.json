@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T18:49:58Z",
+    "description": null,
+    "detected_at": "2026-11-26T18:55:20Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Winx-Perp/contracts",
+    "homepage": null,
+    "html_url": "https://github.com/Winx-Perp/contracts",
+    "pushed_at": "2026-11-26T18:51:51Z",
+    "repo_id": 1473555087,
+    "score": 10,
+    "tech_signals": [
+      "Oracle",
+      "Lending/Vault",
+      "Derivatives",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
