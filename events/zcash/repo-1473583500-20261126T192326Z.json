@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T19:20:50Z",
+    "detected_at": "2026-11-26T19:23:26Z",
+    "display": "apple-addon/APPIX",
+    "key": "repo:1473583500",
+    "metadata": {
+      "description": "Auris Revanced / APPIX",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "apple-addon/APPIX",
+      "homepage": null,
+      "pushed_at": "2026-11-26T19:21:40Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1473583500,
+    "url": "https://github.com/apple-addon/APPIX"
+  },
+  "schema": "zcash-fast-event/1"
+}
