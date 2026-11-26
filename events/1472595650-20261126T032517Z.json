@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T02:57:48Z",
+    "description": null,
+    "detected_at": "2026-11-26T03:25:17Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "plimsollvault/plimsoll",
+    "homepage": null,
+    "html_url": "https://github.com/plimsollvault/plimsoll",
+    "pushed_at": "2026-11-26T03:19:53Z",
+    "repo_id": 1472595650,
+    "score": 17,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
