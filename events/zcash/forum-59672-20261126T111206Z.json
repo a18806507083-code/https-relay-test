@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T11:02:10.444Z",
+    "detected_at": "2026-11-26T11:12:06Z",
+    "display": "59672 Riemann is solved. Zcash adapts",
+    "key": "forum:59672",
+    "metadata": {
+      "category_id": 23,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "riemann-is-solved-zcash-adapts",
+      "title": "Riemann is solved. Zcash adapts",
+      "topic_id": 59672
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59672,
+    "url": "https://forum.zcashcommunity.com/t/riemann-is-solved-zcash-adapts/59672"
+  },
+  "schema": "zcash-fast-event/1"
+}
