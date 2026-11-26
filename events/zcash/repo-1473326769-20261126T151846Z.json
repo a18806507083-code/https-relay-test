@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T15:14:48Z",
+    "detected_at": "2026-11-26T15:18:46Z",
+    "display": "taellinglin/ling-wallet-public",
+    "key": "repo:1473326769",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "taellinglin/ling-wallet-public",
+      "homepage": null,
+      "pushed_at": "2026-11-26T15:17:06Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "protocol/ZK",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1473326769,
+    "url": "https://github.com/taellinglin/ling-wallet-public"
+  },
+  "schema": "zcash-fast-event/1"
+}
