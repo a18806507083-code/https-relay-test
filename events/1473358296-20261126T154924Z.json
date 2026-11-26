@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T15:41:47Z",
+    "description": "Adentra \u2014 no-code Web3 AI agent platform on Robinhood L2. Build autonomous agents, enforce wallet guardrails, and deploy agent tokens to Pons Family.",
+    "detected_at": "2026-11-26T15:49:24Z",
+    "direct_signals": [
+      "chainId 4663"
+    ],
+    "full_name": "Adentra-Agent/adentra",
+    "homepage": "https://adentra.xyz",
+    "html_url": "https://github.com/Adentra-Agent/adentra",
+    "pushed_at": "2026-11-26T15:44:08Z",
+    "repo_id": 1473358296,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
