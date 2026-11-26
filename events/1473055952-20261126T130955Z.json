@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T11:16:32Z",
+    "description": "Minerva bridge: Ethereum and Minerva vaults with explicit ledgers, guardian-attested settlement, relayer, indexer and web app.",
+    "detected_at": "2026-11-26T13:09:55Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH testnet 46630"
+    ],
+    "full_name": "MinervaQuantum/minerva-bridge",
+    "homepage": "https://minervachain.org",
+    "html_url": "https://github.com/MinervaQuantum/minerva-bridge",
+    "pushed_at": "2026-11-26T13:09:19Z",
+    "repo_id": 1473055952,
+    "score": 13,
+    "tech_signals": [
+      "Lending/Vault",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
