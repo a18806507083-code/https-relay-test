@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T10:59:05.087Z",
+    "detected_at": "2026-11-26T11:00:34Z",
+    "display": "59671 Zunker Post: building mailbox servers for Wallet-to-Wallet Messaging (ZIP draft #1435)",
+    "key": "forum:59671",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zunker-post-building-mailbox-servers-for-wallet-to-wallet-messaging-zip-draft-1435",
+      "title": "Zunker Post: building mailbox servers for Wallet-to-Wallet Messaging (ZIP draft #1435)",
+      "topic_id": 59671
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59671,
+    "url": "https://forum.zcashcommunity.com/t/zunker-post-building-mailbox-servers-for-wallet-to-wallet-messaging-zip-draft-1435/59671"
+  },
+  "schema": "zcash-fast-event/1"
+}
