@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T09:04:01Z",
+    "description": "Small programs that run against PYRA on Robinhood Chain mainnet. Two need no key.",
+    "detected_at": "2026-11-26T09:10:00Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "pyraagent/pyra-examples",
+    "homepage": "https://pyraagent.com",
+    "html_url": "https://github.com/pyraagent/pyra-examples",
+    "pushed_at": "2026-11-26T09:04:08Z",
+    "repo_id": 1472915338,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
