@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T04:14:34.065Z",
+    "detected_at": "2026-11-26T04:15:34Z",
+    "display": "59664 If Zcash ever had a programming language similar to BitcoinScript, what should it look like?",
+    "key": "forum:59664",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "if-zcash-ever-had-a-programming-language-similar-to-bitcoinscript-what-should-it-look-like",
+      "title": "If Zcash ever had a programming language similar to BitcoinScript, what should it look like?",
+      "topic_id": 59664
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59664,
+    "url": "https://forum.zcashcommunity.com/t/if-zcash-ever-had-a-programming-language-similar-to-bitcoinscript-what-should-it-look-like/59664"
+  },
+  "schema": "zcash-fast-event/1"
+}
