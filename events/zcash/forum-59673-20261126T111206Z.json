@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T11:03:31.092Z",
+    "detected_at": "2026-11-26T11:12:06Z",
+    "display": "59673 Engineering-first guide to building private applications, wallets, and zero-knowledge infra on Zcash",
+    "key": "forum:59673",
+    "metadata": {
+      "category_id": 12,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "engineering-first-guide-to-building-private-applications-wallets-and-zero-knowledge-infra-on-zcash",
+      "title": "Engineering-first guide to building private applications, wallets, and zero-knowledge infra on Zcash",
+      "topic_id": 59673
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59673,
+    "url": "https://forum.zcashcommunity.com/t/engineering-first-guide-to-building-private-applications-wallets-and-zero-knowledge-infra-on-zcash/59673"
+  },
+  "schema": "zcash-fast-event/1"
+}
