@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T19:51:32Z",
+    "description": "Robinhood Chain stock tokens vs Wall Street, built with the Cambrian API",
+    "detected_at": "2026-11-26T19:54:09Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "0xpili/robinhood-chain-vs-wall-street",
+    "homepage": "https://rh-holiday-gap.vercel.app/",
+    "html_url": "https://github.com/0xpili/robinhood-chain-vs-wall-street",
+    "pushed_at": "2026-11-26T19:51:39Z",
+    "repo_id": 1473610909,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
