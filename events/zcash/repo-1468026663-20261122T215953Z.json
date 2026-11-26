@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-22T21:58:51Z",
+    "detected_at": "2026-11-22T21:59:53Z",
+    "display": "cakewallet-opensource/cake-wallet-privacy",
+    "key": "repo:1468026663",
+    "metadata": {
+      "description": "Cake Wallet privacy and coin guides: Tor, Payjoin, Silent Payments, MWEB, Zcash, swaps and Cake Pay.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "cakewallet-opensource/cake-wallet-privacy",
+      "homepage": "https://github.com/cakewallet-opensource/cake-wallet-desktop",
+      "pushed_at": "2026-11-22T21:58:53Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1468026663,
+    "url": "https://github.com/cakewallet-opensource/cake-wallet-privacy"
+  },
+  "schema": "zcash-fast-event/1"
+}
