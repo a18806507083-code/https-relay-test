@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T19:59:19Z",
+    "description": "Independent agent vault on Robinhood Chain testnet; working title",
+    "detected_at": "2026-11-26T19:59:45Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "paidbeam/agent-vault-lab",
+    "homepage": null,
+    "html_url": "https://github.com/paidbeam/agent-vault-lab",
+    "pushed_at": "2026-11-26T19:59:41Z",
+    "repo_id": 1473617642,
+    "score": 12,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
