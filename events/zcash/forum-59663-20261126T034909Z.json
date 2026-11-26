@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T03:48:14.865Z",
+    "detected_at": "2026-11-26T03:49:09Z",
+    "display": "59663 Zk_nd3r for ZCG (December 2026)",
+    "key": "forum:59663",
+    "metadata": {
+      "category_id": 38,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "zk-nd3r-for-zcg-december-2026",
+      "title": "Zk_nd3r for ZCG (December 2026)",
+      "topic_id": 59663
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59663,
+    "url": "https://forum.zcashcommunity.com/t/zk-nd3r-for-zcg-december-2026/59663"
+  },
+  "schema": "zcash-fast-event/1"
+}
