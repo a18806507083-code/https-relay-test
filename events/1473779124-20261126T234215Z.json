@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T23:41:19Z",
+    "description": "Orle Agent frontend and contracts for Robinhood Chain testnet",
+    "detected_at": "2026-11-26T23:42:15Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "paidbeam/orle-agent",
+    "homepage": null,
+    "html_url": "https://github.com/paidbeam/orle-agent",
+    "pushed_at": "2026-11-26T23:41:26Z",
+    "repo_id": 1473779124,
+    "score": 12,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
