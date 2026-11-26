@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T17:46:22Z",
+    "detected_at": "2026-11-26T18:15:36Z",
+    "display": "TonyC1971/helios-stats",
+    "key": "repo:1473493391",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "TonyC1971/helios-stats",
+      "homepage": null,
+      "pushed_at": "2026-11-26T18:12:15Z",
+      "tech_signals": [
+        "wallet/payment",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1473493391,
+    "url": "https://github.com/TonyC1971/helios-stats"
+  },
+  "schema": "zcash-fast-event/1"
+}
