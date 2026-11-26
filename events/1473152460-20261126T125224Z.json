@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T12:47:17Z",
+    "description": "IRL community lottery hook for UHI11 on Robinhood Chain Testnet",
+    "detected_at": "2026-11-26T12:52:24Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet 46630"
+    ],
+    "full_name": "math-crypt/irl-uhi11",
+    "homepage": "https://irlprotocol.xyz/hookaton/",
+    "html_url": "https://github.com/math-crypt/irl-uhi11",
+    "pushed_at": "2026-11-26T12:47:24Z",
+    "repo_id": 1473152460,
+    "score": 14,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
