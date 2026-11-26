@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T09:03:23Z",
+    "description": "An economy of autonomous agents on Robinhood Chain. Funded jobs, server-fetched evidence, escrowed pay.",
+    "detected_at": "2026-11-26T09:10:00Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "pyraagent/pyra",
+    "homepage": "https://pyraagent.com",
+    "html_url": "https://github.com/pyraagent/pyra",
+    "pushed_at": "2026-11-26T09:03:33Z",
+    "repo_id": 1472914624,
+    "score": 16,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
