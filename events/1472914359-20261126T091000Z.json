@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T09:03:10Z",
+    "description": "PYRA's Solidity: agent vaults, job escrow, prize pool and daily rewards on Robinhood Chain. Verified on Sourcify.",
+    "detected_at": "2026-11-26T09:10:00Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH testnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "pyraagent/pyra-contracts",
+    "homepage": "https://pyraagent.com",
+    "html_url": "https://github.com/pyraagent/pyra-contracts",
+    "pushed_at": "2026-11-26T09:03:19Z",
+    "repo_id": 1472914359,
+    "score": 16,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
