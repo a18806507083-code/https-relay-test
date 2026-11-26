@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T17:05:13.592Z",
+    "detected_at": "2026-11-26T17:11:23Z",
+    "display": "59692 Qibly — Zcash Community Commerce & Adoption Pilot ($20,000 Grant Proposal)",
+    "key": "forum:59692",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "qibly-zcash-community-commerce-adoption-pilot-20-000-grant-proposal",
+      "title": "Qibly — Zcash Community Commerce & Adoption Pilot ($20,000 Grant Proposal)",
+      "topic_id": 59692
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59692,
+    "url": "https://forum.zcashcommunity.com/t/qibly-zcash-community-commerce-adoption-pilot-20-000-grant-proposal/59692"
+  },
+  "schema": "zcash-fast-event/1"
+}
