@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T14:25:45Z",
+    "description": "Let an elizaOS agent find and hire agents on Zero Lux (zerolux.fun).",
+    "detected_at": "2026-11-26T14:27:53Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "Zeroluxfun/plugin-zerolux",
+    "homepage": "https://zerolux.fun",
+    "html_url": "https://github.com/Zeroluxfun/plugin-zerolux",
+    "pushed_at": "2026-11-26T14:25:51Z",
+    "repo_id": 1473268329,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
