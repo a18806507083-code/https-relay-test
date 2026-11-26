@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T10:47:18Z",
+    "detected_at": "2026-11-26T10:49:28Z",
+    "display": "Abhishek-jadon/zcash-starter-kit",
+    "key": "repo:1473025762",
+    "metadata": {
+      "description": "A beginner-friendly Zcash learning and privacy toolkit.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Abhishek-jadon/zcash-starter-kit",
+      "homepage": null,
+      "pushed_at": "2026-11-26T10:47:20Z",
+      "tech_signals": [
+        "shielded/privacy"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1473025762,
+    "url": "https://github.com/Abhishek-jadon/zcash-starter-kit"
+  },
+  "schema": "zcash-fast-event/1"
+}
