@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T15:13:08Z",
+    "detected_at": "2026-11-26T15:18:46Z",
+    "display": "benholmesa58/pirate-seeder",
+    "key": "repo:1473324877",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "benholmesa58/pirate-seeder",
+      "homepage": null,
+      "pushed_at": "2026-11-26T15:13:48Z",
+      "tech_signals": [
+        "node/indexer",
+        "protocol/ZK",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1473324877,
+    "url": "https://github.com/benholmesa58/pirate-seeder"
+  },
+  "schema": "zcash-fast-event/1"
+}
