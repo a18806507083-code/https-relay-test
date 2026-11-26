@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T21:42:55.490Z",
+    "detected_at": "2026-11-26T21:48:30Z",
+    "display": "59698 If I Ran the Circus",
+    "key": "forum:59698",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "if-i-ran-the-circus",
+      "title": "If I Ran the Circus",
+      "topic_id": 59698
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59698,
+    "url": "https://forum.zcashcommunity.com/t/if-i-ran-the-circus/59698"
+  },
+  "schema": "zcash-fast-event/1"
+}
