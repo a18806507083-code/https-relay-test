@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T11:33:23Z",
+    "description": "Company profile (portfolio lead) \u2014 Steve Signals",
+    "detected_at": "2026-11-26T11:37:18Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "api-evangelist/stevesignals-com",
+    "homepage": null,
+    "html_url": "https://github.com/api-evangelist/stevesignals-com",
+    "pushed_at": "2026-11-26T11:33:47Z",
+    "repo_id": 1473073537,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
