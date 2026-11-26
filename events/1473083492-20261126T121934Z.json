@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T11:43:07Z",
+    "description": null,
+    "detected_at": "2026-11-26T12:19:34Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "rexson-xyz/rexson",
+    "homepage": null,
+    "html_url": "https://github.com/rexson-xyz/rexson",
+    "pushed_at": "2026-11-26T12:14:27Z",
+    "repo_id": 1473083492,
+    "score": 16,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
