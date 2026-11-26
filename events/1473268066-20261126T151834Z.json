@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T14:25:30Z",
+    "description": "RETRA landing page: Trade it. Tail it. Prove it.",
+    "detected_at": "2026-11-26T15:18:34Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "Retrahub/RETRA",
+    "homepage": null,
+    "html_url": "https://github.com/Retrahub/RETRA",
+    "pushed_at": "2026-11-26T15:14:43Z",
+    "repo_id": 1473268066,
+    "score": 13,
+    "tech_signals": [
+      "Uniswap",
+      "Hook",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
