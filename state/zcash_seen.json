@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-11-26T03:54:54Z",
+  "last_run_at": "2026-11-26T04:00:25Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-26T03:19:09Z",
+      "cutoff": "2026-11-26T03:24:54Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-26T03:19:09Z",
+      "cutoff": "2026-11-26T03:24:54Z",
       "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-26T03:19:09Z",
+      "cutoff": "2026-11-26T03:24:54Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-26T03:19:09Z",
-      "matches": 0,
+      "cutoff": "2026-11-26T03:24:54Z",
+      "matches": 1,
       "status": "PASS"
     }
   },
@@ -14502,14 +14502,22 @@
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4282",
       "first_seen_at": "2026-11-25T17:29:13Z",
       "source": "ZCG_NEW_ISSUE"
+    },
+    "zcg:6619167405": {
+      "created_at": "2026-11-26T03:57:02Z",
+      "display": "#600 Grant Application - Zcash Transparent UTXO Coin Control CLI",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4311",
+      "first_seen_at": "2026-11-26T04:00:25Z",
+      "source": "ZCG_NEW_ISSUE"
     }
   },
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-26T03:54:54Z",
-    "forum": "2026-11-26T03:54:54Z",
-    "github": "2026-11-26T03:54:54Z",
-    "zcg": "2026-11-26T03:54:54Z"
+    "fixed_orgs": "2026-11-26T04:00:25Z",
+    "forum": "2026-11-26T04:00:25Z",
+    "github": "2026-11-26T04:00:25Z",
+    "zcg": "2026-11-26T04:00:25Z"
   }
 }
