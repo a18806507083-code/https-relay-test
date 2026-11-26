@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T15:17:54.198Z",
+    "detected_at": "2026-11-26T15:18:46Z",
+    "display": "59689 Augusto Martín for ZCG (December 2026)",
+    "key": "forum:59689",
+    "metadata": {
+      "category_id": 38,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "augusto-martin-for-zcg-december-2026",
+      "title": "Augusto Martín for ZCG (December 2026)",
+      "topic_id": 59689
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59689,
+    "url": "https://forum.zcashcommunity.com/t/augusto-martin-for-zcg-december-2026/59689"
+  },
+  "schema": "zcash-fast-event/1"
+}
