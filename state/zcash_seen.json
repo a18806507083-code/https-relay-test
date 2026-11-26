@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-26T19:42:41Z",
+  "last_run_at": "2026-11-26T19:48:33Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-26T19:07:07Z",
+      "cutoff": "2026-11-26T19:12:41Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-26T19:07:07Z",
-      "matches": 0,
+      "cutoff": "2026-11-26T19:12:41Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-26T19:07:07Z",
-      "matches": 0,
+      "cutoff": "2026-11-26T19:12:41Z",
+      "matches": 1,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-26T19:07:07Z",
+      "cutoff": "2026-11-26T19:12:41Z",
       "matches": 1,
       "status": "PASS"
     }
@@ -3965,6 +3965,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4360",
       "first_seen_at": "2026-11-26T17:24:07Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59695": {
+      "created_at": "2026-11-26T19:43:30.283Z",
+      "display": "59695 T.S. for ZCG Committee (December 2026)",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4367",
+      "first_seen_at": "2026-11-26T19:48:33Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -13343,6 +13351,14 @@
       "first_seen_at": "2026-11-26T19:23:26Z",
       "source": "GITHUB_NEW_REPO"
     },
+    "repo:1473604258": {
+      "created_at": "2026-11-26T19:44:05Z",
+      "display": "apple-addon/Auris-Revanced",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4366",
+      "first_seen_at": "2026-11-26T19:48:33Z",
+      "source": "GITHUB_NEW_REPO"
+    },
     "zcg:5347395946": {
       "created_at": "2026-09-04T11:14:12Z",
       "display": "#416 Sybil Wedge: Zero-Knowledge Proof-of-Personhood and Sybil Defense Without Central Registries",
@@ -14715,9 +14731,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-26T19:42:41Z",
-    "forum": "2026-11-26T19:42:41Z",
-    "github": "2026-11-26T19:42:41Z",
-    "zcg": "2026-11-26T19:42:41Z"
+    "fixed_orgs": "2026-11-26T19:48:33Z",
+    "forum": "2026-11-26T19:48:33Z",
+    "github": "2026-11-26T19:48:33Z",
+    "zcg": "2026-11-26T19:48:33Z"
   }
 }
