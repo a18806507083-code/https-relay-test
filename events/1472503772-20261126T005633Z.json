@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T00:52:40Z",
+    "description": "AI research desk for Robinhood Chain. Wallet research, Stock Token quotes, Pons watches, saved evidence and MCP.",
+    "detected_at": "2026-11-26T00:56:33Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "mahletelias415-ai/nyra-ai",
+    "homepage": null,
+    "html_url": "https://github.com/mahletelias415-ai/nyra-ai",
+    "pushed_at": "2026-11-26T00:52:42Z",
+    "repo_id": 1472503772,
+    "score": 8,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
