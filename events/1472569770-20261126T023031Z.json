@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T02:24:37Z",
+    "description": "Nexthium ($NEXTHIUM) \u2014 Onchain MCP endpoint. Put the chain inside your assistant.",
+    "detected_at": "2026-11-26T02:30:31Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "WerelayAgent/nexthium",
+    "homepage": null,
+    "html_url": "https://github.com/WerelayAgent/nexthium",
+    "pushed_at": "2026-11-26T02:24:44Z",
+    "repo_id": 1472569770,
+    "score": 11,
+    "tech_signals": [
+      "Agent/MCP",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
