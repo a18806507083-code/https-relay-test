@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T12:00:32Z",
+    "description": null,
+    "detected_at": "2026-11-26T12:19:34Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "cirrava/cirrava-xyz",
+    "homepage": null,
+    "html_url": "https://github.com/cirrava/cirrava-xyz",
+    "pushed_at": "2026-11-26T12:12:20Z",
+    "repo_id": 1473102143,
+    "score": 16,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Lending/Vault",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
