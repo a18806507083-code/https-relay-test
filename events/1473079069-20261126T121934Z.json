@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T11:38:43Z",
+    "description": null,
+    "detected_at": "2026-11-26T12:19:34Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "zemmix-xyz/zemmix",
+    "homepage": null,
+    "html_url": "https://github.com/zemmix-xyz/zemmix",
+    "pushed_at": "2026-11-26T12:14:22Z",
+    "repo_id": 1473079069,
+    "score": 16,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
