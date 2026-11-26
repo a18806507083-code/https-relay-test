@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T06:05:25.234Z",
+    "detected_at": "2026-11-26T06:16:17Z",
+    "display": "59665 Grant Application: SEZS - Speak-ez Sessions",
+    "key": "forum:59665",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-sezs-speak-ez-sessions",
+      "title": "Grant Application: SEZS - Speak-ez Sessions",
+      "topic_id": 59665
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59665,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-sezs-speak-ez-sessions/59665"
+  },
+  "schema": "zcash-fast-event/1"
+}
