@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T22:59:04Z",
+    "description": "New Jazz City in your AI agent, one line: npx jazzcat connect claude",
+    "detected_at": "2026-11-26T22:59:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "nebulamji/jazzcat",
+    "homepage": "https://newjazzcity.pages.dev",
+    "html_url": "https://github.com/nebulamji/jazzcat",
+    "pushed_at": "2026-11-26T22:59:09Z",
+    "repo_id": 1473753254,
+    "score": 8,
+    "tech_signals": [
+      "Agent/MCP",
+      "Bridge"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
