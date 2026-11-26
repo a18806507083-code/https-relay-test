@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T11:03:00Z",
+    "description": "Always-on AI agents with their own computer and onchain-capped wallets. Close the tab. It keeps going.",
+    "detected_at": "2026-11-26T11:11:55Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "RH Blockscout"
+    ],
+    "full_name": "Daemon-Agent/daemon",
+    "homepage": "https://usedaemon.xyz",
+    "html_url": "https://github.com/Daemon-Agent/daemon",
+    "pushed_at": "2026-11-26T11:05:32Z",
+    "repo_id": 1473042095,
+    "score": 10,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
