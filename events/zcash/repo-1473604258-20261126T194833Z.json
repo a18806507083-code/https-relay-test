@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T19:44:05Z",
+    "detected_at": "2026-11-26T19:48:33Z",
+    "display": "apple-addon/Auris-Revanced",
+    "key": "repo:1473604258",
+    "metadata": {
+      "description": "Auris-Revanced",
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "apple-addon/Auris-Revanced",
+      "homepage": null,
+      "pushed_at": "2026-11-26T19:44:32Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1473604258,
+    "url": "https://github.com/apple-addon/Auris-Revanced"
+  },
+  "schema": "zcash-fast-event/1"
+}
