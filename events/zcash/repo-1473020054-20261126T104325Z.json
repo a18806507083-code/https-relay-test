@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T10:41:38Z",
+    "detected_at": "2026-11-26T10:43:25Z",
+    "display": "zunkerlabs/post",
+    "key": "repo:1473020054",
+    "metadata": {
+      "description": "Zunker Post: reference implementation of Zcash Wallet-to-Wallet Messaging (ZIP draft #1435)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "zunkerlabs/post",
+      "homepage": null,
+      "pushed_at": "2026-11-26T10:41:51Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1473020054,
+    "url": "https://github.com/zunkerlabs/post"
+  },
+  "schema": "zcash-fast-event/1"
+}
