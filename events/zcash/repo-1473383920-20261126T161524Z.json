@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T16:03:59Z",
+    "detected_at": "2026-11-26T16:15:24Z",
+    "display": "portbuster1337/cake-web",
+    "key": "repo:1473383920",
+    "metadata": {
+      "description": "Cake Wallet for the web: privacy-focused, purely client-side multi-coin wallet; every request goes through Tor (Arti in WebAssembly)",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "portbuster1337/cake-web",
+      "homepage": "https://portbuster1337.github.io/cake-web/",
+      "pushed_at": "2026-11-26T16:08:21Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1473383920,
+    "url": "https://github.com/portbuster1337/cake-web"
+  },
+  "schema": "zcash-fast-event/1"
+}
