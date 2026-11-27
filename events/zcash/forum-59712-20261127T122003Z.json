@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T12:14:26.829Z",
+    "detected_at": "2026-11-27T12:20:03Z",
+    "display": "59712 Grant Application: BlaBlaWatt: Open-Source R&D Lab for Converting Solar Energy Surplus into Zcash (ZEC)",
+    "key": "forum:59712",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-blablawatt-open-source-r-d-lab-for-converting-solar-energy-surplus-into-zcash-zec",
+      "title": "Grant Application: BlaBlaWatt: Open-Source R&D Lab for Converting Solar Energy Surplus into Zcash (ZEC)",
+      "topic_id": 59712
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59712,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-blablawatt-open-source-r-d-lab-for-converting-solar-energy-surplus-into-zcash-zec/59712"
+  },
+  "schema": "zcash-fast-event/1"
+}
