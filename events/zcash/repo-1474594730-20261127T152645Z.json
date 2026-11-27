@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T15:23:32Z",
+    "detected_at": "2026-11-27T15:26:45Z",
+    "display": "MMorana094/VaultLedger",
+    "key": "repo:1474594730",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "MMorana094/VaultLedger",
+      "homepage": null,
+      "pushed_at": "2026-11-27T15:25:16Z",
+      "tech_signals": [
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1474594730,
+    "url": "https://github.com/MMorana094/VaultLedger"
+  },
+  "schema": "zcash-fast-event/1"
+}
