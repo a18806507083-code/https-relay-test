@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T16:07:36Z",
+    "description": "The engine behind the Vireo playground: typed decisions with a confidence score and threshold routing.",
+    "detected_at": "2026-11-27T16:16:49Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "Usevireo/vireo-playground",
+    "homepage": "https://www.usevireo.dev",
+    "html_url": "https://github.com/Usevireo/vireo-playground",
+    "pushed_at": "2026-11-27T16:15:38Z",
+    "repo_id": 1474641468,
+    "score": 8,
+    "tech_signals": [
+      "Launchpad",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
