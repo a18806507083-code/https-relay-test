@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T07:00:22Z",
+    "detected_at": "2026-11-27T07:29:43Z",
+    "display": "X3FV/VoidAccess",
+    "key": "repo:1474091137",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "X3FV/VoidAccess",
+      "homepage": null,
+      "pushed_at": "2026-11-27T07:03:46Z",
+      "tech_signals": [
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1474091137,
+    "url": "https://github.com/X3FV/VoidAccess"
+  },
+  "schema": "zcash-fast-event/1"
+}
