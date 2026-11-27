@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T15:22:39Z",
+    "description": null,
+    "detected_at": "2026-11-27T16:05:23Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "jbrand777/GPUPLAY",
+    "homepage": null,
+    "html_url": "https://github.com/jbrand777/GPUPLAY",
+    "pushed_at": "2026-11-27T16:01:26Z",
+    "repo_id": 1474593689,
+    "score": 5,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
