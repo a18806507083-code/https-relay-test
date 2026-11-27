@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T16:27:36Z",
+    "description": "ATLAS MCP: read-only Robinhood Chain tools for Claude, Cursor and any MCP client.",
+    "detected_at": "2026-11-27T16:30:05Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "atlasboard/atlas-mcp",
+    "homepage": null,
+    "html_url": "https://github.com/atlasboard/atlas-mcp",
+    "pushed_at": "2026-11-27T16:28:28Z",
+    "repo_id": 1474661692,
+    "score": 9,
+    "tech_signals": [
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
