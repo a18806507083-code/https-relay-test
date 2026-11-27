@@ -1,0 +1,18 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T01:32:14Z",
+    "detected_at": "2026-11-27T01:40:35Z",
+    "display": "#604 Create-zcash-app + Builders Portal( An Onramp for Zcash Devs)",
+    "key": "zcg:6638083391",
+    "metadata": {
+      "author": "drekal0",
+      "issue_number": 604,
+      "labels": [],
+      "title": "Create-zcash-app + Builders Portal( An Onramp for Zcash Devs)"
+    },
+    "source": "ZCG_NEW_ISSUE",
+    "stable_id": 6638083391,
+    "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/604"
+  },
+  "schema": "zcash-fast-event/1"
+}
