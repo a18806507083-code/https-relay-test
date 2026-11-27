@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T19:30:44Z",
+    "description": null,
+    "detected_at": "2026-11-27T19:35:06Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "bellstocks/bellstocks",
+    "homepage": null,
+    "html_url": "https://github.com/bellstocks/bellstocks",
+    "pushed_at": "2026-11-27T19:31:56Z",
+    "repo_id": 1474831890,
+    "score": 7,
+    "tech_signals": [
+      "Hook"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
