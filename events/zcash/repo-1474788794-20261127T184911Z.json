@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T18:39:59Z",
+    "detected_at": "2026-11-27T18:49:11Z",
+    "display": "mblascoflor-create/Zaino",
+    "key": "repo:1474788794",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "mblascoflor-create/Zaino",
+      "homepage": null,
+      "pushed_at": "2026-11-27T18:47:55Z",
+      "tech_signals": [
+        "node/indexer",
+        "application"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1474788794,
+    "url": "https://github.com/mblascoflor-create/Zaino"
+  },
+  "schema": "zcash-fast-event/1"
+}
