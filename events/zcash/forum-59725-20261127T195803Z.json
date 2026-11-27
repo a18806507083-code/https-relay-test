@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T19:54:13.051Z",
+    "detected_at": "2026-11-27T19:58:03Z",
+    "display": "59725 Price Predictions Page",
+    "key": "forum:59725",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "price-predictions-page",
+      "title": "Price Predictions Page",
+      "topic_id": 59725
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59725,
+    "url": "https://forum.zcashcommunity.com/t/price-predictions-page/59725"
+  },
+  "schema": "zcash-fast-event/1"
+}
