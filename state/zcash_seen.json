@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-27T05:55:58Z",
+  "last_run_at": "2026-11-27T06:06:00Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-27T05:20:10Z",
+      "cutoff": "2026-11-27T05:25:58Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-27T05:20:10Z",
-      "matches": 0,
+      "cutoff": "2026-11-27T05:25:58Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-27T05:20:10Z",
+      "cutoff": "2026-11-27T05:25:58Z",
       "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-27T05:20:10Z",
+      "cutoff": "2026-11-27T05:25:58Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -3997,6 +3997,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4393",
       "first_seen_at": "2026-11-27T01:46:06Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59705": {
+      "created_at": "2026-11-27T06:01:08.725Z",
+      "display": "59705 Outdated documentation over at zcash.readthedocs.io :open_book:",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4398",
+      "first_seen_at": "2026-11-27T06:06:00Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -14787,9 +14795,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-27T05:55:58Z",
-    "forum": "2026-11-27T05:55:58Z",
-    "github": "2026-11-27T05:55:58Z",
-    "zcg": "2026-11-27T05:55:58Z"
+    "fixed_orgs": "2026-11-27T06:06:00Z",
+    "forum": "2026-11-27T06:06:00Z",
+    "github": "2026-11-27T06:06:00Z",
+    "zcg": "2026-11-27T06:06:00Z"
   }
 }
