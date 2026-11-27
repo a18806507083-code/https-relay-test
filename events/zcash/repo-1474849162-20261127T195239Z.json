@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T19:51:27Z",
+    "detected_at": "2026-11-27T19:52:39Z",
+    "display": "zkzoeee/zyoza",
+    "key": "repo:1474849162",
+    "metadata": {
+      "description": "Proof-carrying objects on Zcash. Research prototype built on Ragu.",
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "zkzoeee/zyoza",
+      "homepage": null,
+      "pushed_at": "2026-11-27T19:52:20Z",
+      "tech_signals": [
+        "wallet/payment",
+        "shielded/privacy",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1474849162,
+    "url": "https://github.com/zkzoeee/zyoza"
+  },
+  "schema": "zcash-fast-event/1"
+}
