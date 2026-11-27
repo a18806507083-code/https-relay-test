@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T01:49:10Z",
+    "detected_at": "2026-11-27T01:51:56Z",
+    "display": "yandreload/news-image-20261127",
+    "key": "repo:1473861098",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "yandreload/news-image-20261127",
+      "homepage": "https://make.fun/bounty/news-image-20261127",
+      "pushed_at": "2026-11-27T01:49:18Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1473861098,
+    "url": "https://github.com/yandreload/news-image-20261127"
+  },
+  "schema": "zcash-fast-event/1"
+}
