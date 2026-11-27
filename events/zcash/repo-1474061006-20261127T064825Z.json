@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T06:25:20Z",
+    "detected_at": "2026-11-27T06:48:25Z",
+    "display": "nighthawk-apps/blackhawk",
+    "key": "repo:1474061006",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "node/indexer"
+      ],
+      "full_name": "nighthawk-apps/blackhawk",
+      "homepage": null,
+      "pushed_at": "2026-11-27T06:41:37Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1474061006,
+    "url": "https://github.com/nighthawk-apps/blackhawk"
+  },
+  "schema": "zcash-fast-event/1"
+}
