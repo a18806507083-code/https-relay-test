@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T04:16:26Z",
+    "detected_at": "2026-11-27T04:19:23Z",
+    "display": "halfkey-labs/halfkey",
+    "key": "repo:1473964755",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "halfkey-labs/halfkey",
+      "homepage": null,
+      "pushed_at": "2026-11-27T04:16:33Z",
+      "tech_signals": [
+        "wallet/payment",
+        "node/indexer",
+        "SDK/library",
+        "protocol/ZK",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1473964755,
+    "url": "https://github.com/halfkey-labs/halfkey"
+  },
+  "schema": "zcash-fast-event/1"
+}
