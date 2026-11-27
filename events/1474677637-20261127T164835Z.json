@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T16:42:38Z",
+    "description": null,
+    "detected_at": "2026-11-27T16:48:35Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "BJHorseman2/Agent-wallet-guard",
+    "homepage": null,
+    "html_url": "https://github.com/BJHorseman2/Agent-wallet-guard",
+    "pushed_at": "2026-11-27T16:43:35Z",
+    "repo_id": 1474677637,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
