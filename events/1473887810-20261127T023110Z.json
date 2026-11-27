@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T02:26:58Z",
+    "description": "Count ERC-8004 agents and their on-chain ratings on any EVM chain, with controls that catch RPCs returning nothing instead of an error.",
+    "detected_at": "2026-11-27T02:31:10Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "nebulamji/agent-census",
+    "homepage": null,
+    "html_url": "https://github.com/nebulamji/agent-census",
+    "pushed_at": "2026-11-27T02:27:11Z",
+    "repo_id": 1473887810,
+    "score": 7,
+    "tech_signals": [
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
