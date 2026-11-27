@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T20:04:12.437Z",
+    "detected_at": "2026-11-27T20:09:12Z",
+    "display": "59726 Did Tachyon \"break\" public auditing? No, and I want to correct how I framed this",
+    "key": "forum:59726",
+    "metadata": {
+      "category_id": 24,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "did-tachyon-break-public-auditing-no-and-i-want-to-correct-how-i-framed-this",
+      "title": "Did Tachyon \"break\" public auditing? No, and I want to correct how I framed this",
+      "topic_id": 59726
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59726,
+    "url": "https://forum.zcashcommunity.com/t/did-tachyon-break-public-auditing-no-and-i-want-to-correct-how-i-framed-this/59726"
+  },
+  "schema": "zcash-fast-event/1"
+}
