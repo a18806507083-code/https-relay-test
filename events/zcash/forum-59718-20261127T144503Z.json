@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T14:42:51.517Z",
+    "detected_at": "2026-11-27T14:45:03Z",
+    "display": "59718 The Forge Report #005: Motion!",
+    "key": "forum:59718",
+    "metadata": {
+      "category_id": 17,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "the-forge-report-005-motion",
+      "title": "The Forge Report #005: Motion!",
+      "topic_id": 59718
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59718,
+    "url": "https://forum.zcashcommunity.com/t/the-forge-report-005-motion/59718"
+  },
+  "schema": "zcash-fast-event/1"
+}
