@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T20:24:18Z",
+    "description": "Compute for AI agents, billed by the second. Sandboxes, signed receipts, fund from any chain.",
+    "detected_at": "2026-11-27T20:29:35Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "chronyxhq/chronyx",
+    "homepage": "https://chronyxrh.com",
+    "html_url": "https://github.com/chronyxhq/chronyx",
+    "pushed_at": "2026-11-27T20:24:28Z",
+    "repo_id": 1474875632,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
