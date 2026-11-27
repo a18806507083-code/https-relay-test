@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T19:52:55Z",
+    "description": "PYRA Intelligence: the read-only Telegram assistant for PYRA on Robinhood Chain. Tutorials, live status, job and transaction analysis.",
+    "detected_at": "2026-11-27T19:57:46Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "pyraagent/pyra-telegram-agent",
+    "homepage": "https://t.me/PyraAssistantBot",
+    "html_url": "https://github.com/pyraagent/pyra-telegram-agent",
+    "pushed_at": "2026-11-27T19:53:02Z",
+    "repo_id": 1474850499,
+    "score": 8,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
