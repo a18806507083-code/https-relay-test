@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T19:10:27Z",
+    "detected_at": "2026-11-27T19:22:08Z",
+    "display": "Akshatsaini702/MUSIC-PLAYER",
+    "key": "repo:1474815042",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash",
+        "ZEC context"
+      ],
+      "full_name": "Akshatsaini702/MUSIC-PLAYER",
+      "homepage": null,
+      "pushed_at": "2026-11-27T19:20:44Z",
+      "tech_signals": [
+        "shielded/privacy",
+        "SDK/library",
+        "DeFi/asset",
+        "application",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1474815042,
+    "url": "https://github.com/Akshatsaini702/MUSIC-PLAYER"
+  },
+  "schema": "zcash-fast-event/1"
+}
