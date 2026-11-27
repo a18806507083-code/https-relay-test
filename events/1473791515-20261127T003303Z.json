@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T00:01:54Z",
+    "description": null,
+    "detected_at": "2026-11-27T00:33:03Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "InvictusLP/hackathon-backend",
+    "homepage": null,
+    "html_url": "https://github.com/InvictusLP/hackathon-backend",
+    "pushed_at": "2026-11-27T00:03:25Z",
+    "repo_id": 1473791515,
+    "score": 12,
+    "tech_signals": [
+      "Uniswap",
+      "Lending/Vault",
+      "Agent/MCP",
+      "Launchpad",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
