@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T01:41:33.816Z",
+    "detected_at": "2026-11-27T01:46:06Z",
+    "display": "59704 Create-zcash-app + Zcash Builders: from first command to shielded payment",
+    "key": "forum:59704",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "create-zcash-app-zcash-builders-from-first-command-to-shielded-payment",
+      "title": "Create-zcash-app + Zcash Builders: from first command to shielded payment",
+      "topic_id": 59704
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59704,
+    "url": "https://forum.zcashcommunity.com/t/create-zcash-app-zcash-builders-from-first-command-to-shielded-payment/59704"
+  },
+  "schema": "zcash-fast-event/1"
+}
