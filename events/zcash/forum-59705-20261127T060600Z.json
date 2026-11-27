@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T06:01:08.725Z",
+    "detected_at": "2026-11-27T06:06:00Z",
+    "display": "59705 Outdated documentation over at zcash.readthedocs.io :open_book:",
+    "key": "forum:59705",
+    "metadata": {
+      "category_id": 7,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "outdated-documentation-over-at-zcash-readthedocs-io",
+      "title": "Outdated documentation over at zcash.readthedocs.io :open_book:",
+      "topic_id": 59705
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59705,
+    "url": "https://forum.zcashcommunity.com/t/outdated-documentation-over-at-zcash-readthedocs-io/59705"
+  },
+  "schema": "zcash-fast-event/1"
+}
