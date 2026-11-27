@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T23:19:01Z",
+    "description": null,
+    "detected_at": "2026-11-27T23:22:59Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "zcminerpro/ghostra",
+    "homepage": null,
+    "html_url": "https://github.com/zcminerpro/ghostra",
+    "pushed_at": "2026-11-27T23:20:34Z",
+    "repo_id": 1474997645,
+    "score": 13,
+    "tech_signals": [
+      "Lending/Vault"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
