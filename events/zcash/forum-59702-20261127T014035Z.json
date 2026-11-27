@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T01:40:27.126Z",
+    "detected_at": "2026-11-27T01:40:35Z",
+    "display": "59702 Grant Application - Zcash Transparent UTXO Coin Control CLI",
+    "key": "forum:59702",
+    "metadata": {
+      "category_id": 36,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "grant-application-zcash-transparent-utxo-coin-control-cli",
+      "title": "Grant Application - Zcash Transparent UTXO Coin Control CLI",
+      "topic_id": 59702
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59702,
+    "url": "https://forum.zcashcommunity.com/t/grant-application-zcash-transparent-utxo-coin-control-cli/59702"
+  },
+  "schema": "zcash-fast-event/1"
+}
