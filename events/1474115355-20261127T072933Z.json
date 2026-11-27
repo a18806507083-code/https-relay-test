@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T07:28:03Z",
+    "description": " On-chain checks of tokenized stocks: supply against full mint/burn history, and who controls each issuer's tokens. Live at pegproof.com",
+    "detected_at": "2026-11-27T07:29:33Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "xplowdie/pegproof",
+    "homepage": null,
+    "html_url": "https://github.com/xplowdie/pegproof",
+    "pushed_at": "2026-11-27T07:28:17Z",
+    "repo_id": 1474115355,
+    "score": 12,
+    "tech_signals": [
+      "RWA/stock",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
