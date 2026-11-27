@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T09:51:13Z",
+    "description": "Per-second sandboxes for AI agents, with signed receipts. Plus an encrypted memory vault your AI apps read over MCP.",
+    "detected_at": "2026-11-27T09:54:29Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "ragnarokforge/ragnarok-forge",
+    "homepage": "",
+    "html_url": "https://github.com/ragnarokforge/ragnarok-forge",
+    "pushed_at": "2026-11-27T09:53:51Z",
+    "repo_id": 1474252750,
+    "score": 9,
+    "tech_signals": [
+      "Lending/Vault",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
