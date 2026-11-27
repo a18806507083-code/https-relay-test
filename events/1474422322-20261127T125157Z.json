@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T12:43:04Z",
+    "description": null,
+    "detected_at": "2026-11-27T12:51:57Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "froniq-xyz/froniq",
+    "homepage": null,
+    "html_url": "https://github.com/froniq-xyz/froniq",
+    "pushed_at": "2026-11-27T12:51:12Z",
+    "repo_id": 1474422322,
+    "score": 17,
+    "tech_signals": [
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
