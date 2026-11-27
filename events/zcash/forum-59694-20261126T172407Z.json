@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-26T17:17:50.434Z",
+    "detected_at": "2026-11-26T17:24:07Z",
+    "display": "59694 Notes for Zcash developers from building Zignal: mainnet crowd numbers, the light server's clock, Tor coverage",
+    "key": "forum:59694",
+    "metadata": {
+      "category_id": 18,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "notes-for-zcash-developers-from-building-zignal-mainnet-crowd-numbers-the-light-servers-clock-tor-coverage",
+      "title": "Notes for Zcash developers from building Zignal: mainnet crowd numbers, the light server's clock, Tor coverage",
+      "topic_id": 59694
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59694,
+    "url": "https://forum.zcashcommunity.com/t/notes-for-zcash-developers-from-building-zignal-mainnet-crowd-numbers-the-light-servers-clock-tor-coverage/59694"
+  },
+  "schema": "zcash-fast-event/1"
+}
