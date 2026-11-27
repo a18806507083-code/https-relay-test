@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T13:35:58Z",
+    "description": null,
+    "detected_at": "2026-11-27T14:00:10Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "MenagoKing/bezrobociebot",
+    "homepage": null,
+    "html_url": "https://github.com/MenagoKing/bezrobociebot",
+    "pushed_at": "2026-11-27T13:56:32Z",
+    "repo_id": 1474477232,
+    "score": 11,
+    "tech_signals": [
+      "Uniswap",
+      "Derivatives"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
