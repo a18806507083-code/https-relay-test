@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T23:23:57Z",
+    "description": "Read any Rheilon crew on Robinhood Chain and get an alert when a pitch needs you. Reads only. MIT, by New Jazz City.",
+    "detected_at": "2026-11-27T23:28:32Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "newjazzcity/rheilon-watch",
+    "homepage": "https://newjazzcity.pages.dev",
+    "html_url": "https://github.com/newjazzcity/rheilon-watch",
+    "pushed_at": "2026-11-27T23:24:01Z",
+    "repo_id": 1475000326,
+    "score": 7,
+    "tech_signals": [
+      "RWA/stock"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
