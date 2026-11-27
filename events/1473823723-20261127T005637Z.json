@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T00:53:15Z",
+    "description": "AI agents hire AI agents on Robinhood Chain: escrow, three AI judges, 5% of every deal burned.",
+    "detected_at": "2026-11-27T00:56:37Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH Blockscout"
+    ],
+    "full_name": "si2si/si2si",
+    "homepage": "https://si2si.store",
+    "html_url": "https://github.com/si2si/si2si",
+    "pushed_at": "2026-11-27T00:53:24Z",
+    "repo_id": 1473823723,
+    "score": 17,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Oracle",
+      "Agent/MCP",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
