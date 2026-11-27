@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T13:15:14.266Z",
+    "detected_at": "2026-11-27T13:16:50Z",
+    "display": "59714 On sanctions and grants",
+    "key": "forum:59714",
+    "metadata": {
+      "category_id": 33,
+      "posters": [
+        "Original Poster, Most Recent Poster"
+      ],
+      "slug": "on-sanctions-and-grants",
+      "title": "On sanctions and grants",
+      "topic_id": 59714
+    },
+    "source": "FORUM_NEW_TOPIC",
+    "stable_id": 59714,
+    "url": "https://forum.zcashcommunity.com/t/on-sanctions-and-grants/59714"
+  },
+  "schema": "zcash-fast-event/1"
+}
