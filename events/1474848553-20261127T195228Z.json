@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "created_at": "2026-11-27T19:50:45Z",
+    "description": "Source of moris-markets.netlify.app \u2014 trade stock tokens on Robinhood Chain. Published for transparency; all rights reserved.",
+    "detected_at": "2026-11-27T19:52:28Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663"
+    ],
+    "full_name": "MorisMarkets/moris-app",
+    "homepage": "https://moris-markets.netlify.app",
+    "html_url": "https://github.com/MorisMarkets/moris-app",
+    "pushed_at": "2026-11-27T19:52:17Z",
+    "repo_id": 1474848553,
+    "score": 14,
+    "tech_signals": [
+      "Morpho",
+      "RWA/stock",
+      "Lending/Vault",
+      "Bridge",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
