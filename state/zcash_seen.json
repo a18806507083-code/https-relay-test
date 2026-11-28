@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-27T23:59:03Z",
+  "last_run_at": "2026-11-28T00:30:48Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-27T23:23:18Z",
+      "cutoff": "2026-11-27T23:29:03Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-27T23:23:18Z",
-      "matches": 0,
-      "status": "PASS"
-    },
-    "github": {
-      "cutoff": "2026-11-27T23:23:18Z",
+      "cutoff": "2026-11-27T23:29:03Z",
       "matches": 1,
       "status": "PASS"
     },
+    "github": {
+      "cutoff": "2026-11-27T23:29:03Z",
+      "matches": 0,
+      "status": "PASS"
+    },
     "zcg": {
-      "cutoff": "2026-11-27T23:23:18Z",
+      "cutoff": "2026-11-27T23:29:03Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -4045,6 +4045,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4442",
       "first_seen_at": "2026-11-27T20:09:12Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59727": {
+      "created_at": "2026-11-28T00:10:28.115Z",
+      "display": "59727 Does Zingo plan to support scheduled Sapling-to-Ironwood migration?",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4448",
+      "first_seen_at": "2026-11-28T00:30:48Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -14907,9 +14915,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-27T23:59:03Z",
-    "forum": "2026-11-27T23:59:03Z",
-    "github": "2026-11-27T23:59:03Z",
-    "zcg": "2026-11-27T23:59:03Z"
+    "fixed_orgs": "2026-11-28T00:30:48Z",
+    "forum": "2026-11-28T00:30:48Z",
+    "github": "2026-11-28T00:30:48Z",
+    "zcg": "2026-11-28T00:30:48Z"
   }
 }
