@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-28T09:55:03Z",
+    "detected_at": "2026-11-28T09:55:28Z",
+    "display": "Miki-show/crypto-forecast-tracker",
+    "key": "repo:1475432359",
+    "metadata": {
+      "description": null,
+      "direct_signals": [
+        "Zcash"
+      ],
+      "full_name": "Miki-show/crypto-forecast-tracker",
+      "homepage": null,
+      "pushed_at": "2026-11-28T09:55:10Z",
+      "tech_signals": [
+        "node/indexer",
+        "SDK/library",
+        "DeFi/asset",
+        "code/build"
+      ]
+    },
+    "source": "GITHUB_NEW_REPO",
+    "stable_id": 1475432359,
+    "url": "https://github.com/Miki-show/crypto-forecast-tracker"
+  },
+  "schema": "zcash-fast-event/1"
+}
