@@ -1,23 +1,23 @@
 {
-  "last_run_at": "2026-11-28T02:39:15Z",
+  "last_run_at": "2026-11-28T02:44:44Z",
   "last_source_status": {
     "fixed_orgs": {
-      "cutoff": "2026-11-28T02:03:41Z",
+      "cutoff": "2026-11-28T02:09:15Z",
       "matches": 0,
       "status": "PASS"
     },
     "forum": {
-      "cutoff": "2026-11-28T02:03:41Z",
-      "matches": 0,
+      "cutoff": "2026-11-28T02:09:15Z",
+      "matches": 1,
       "status": "PASS"
     },
     "github": {
-      "cutoff": "2026-11-28T02:03:41Z",
-      "matches": 2,
+      "cutoff": "2026-11-28T02:09:15Z",
+      "matches": 0,
       "status": "PASS"
     },
     "zcg": {
-      "cutoff": "2026-11-28T02:03:41Z",
+      "cutoff": "2026-11-28T02:09:15Z",
       "matches": 0,
       "status": "PASS"
     }
@@ -4053,6 +4053,14 @@
       "event_type": "pull_request",
       "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4448",
       "first_seen_at": "2026-11-28T00:30:48Z",
+      "source": "FORUM_NEW_TOPIC"
+    },
+    "forum:59731": {
+      "created_at": "2026-11-28T02:39:37.962Z",
+      "display": "59731 Introducing Zecfund.me: fundraising for the Zcash community, with progress anyone can verify",
+      "event_type": "pull_request",
+      "event_url": "https://github.com/a18806507083-code/https-relay-test/pull/4452",
+      "first_seen_at": "2026-11-28T02:44:44Z",
       "source": "FORUM_NEW_TOPIC"
     },
     "repo:1357134601": {
@@ -14931,9 +14939,9 @@
   "started_at": "2026-09-04T11:11:26Z",
   "version": 1,
   "watermarks": {
-    "fixed_orgs": "2026-11-28T02:39:15Z",
-    "forum": "2026-11-28T02:39:15Z",
-    "github": "2026-11-28T02:39:15Z",
-    "zcg": "2026-11-28T02:39:15Z"
+    "fixed_orgs": "2026-11-28T02:44:44Z",
+    "forum": "2026-11-28T02:44:44Z",
+    "github": "2026-11-28T02:44:44Z",
+    "zcg": "2026-11-28T02:44:44Z"
   }
 }
