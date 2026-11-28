@@ -1,0 +1,27 @@
+{
+  "candidate": {
+    "created_at": "2026-11-28T04:40:31Z",
+    "description": null,
+    "detected_at": "2026-11-28T04:47:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "qoiraxyz/qoira",
+    "homepage": null,
+    "html_url": "https://github.com/qoiraxyz/qoira",
+    "pushed_at": "2026-11-28T04:47:37Z",
+    "repo_id": 1475199293,
+    "score": 19,
+    "tech_signals": [
+      "Uniswap",
+      "RWA/stock",
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
