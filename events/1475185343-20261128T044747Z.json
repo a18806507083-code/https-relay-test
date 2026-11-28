@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "created_at": "2026-11-28T04:21:38Z",
+    "description": "Follow the evidence behind each token. Token research tools for Robinhood Chain.",
+    "detected_at": "2026-11-28T04:47:47Z",
+    "direct_signals": [
+      "Robinhood Chain",
+      "chainId 4663",
+      "RH mainnet RPC",
+      "RH Blockscout"
+    ],
+    "full_name": "fluv-xyz/fluv",
+    "homepage": "fluv.xyz",
+    "html_url": "https://github.com/fluv-xyz/fluv",
+    "pushed_at": "2026-11-28T04:42:05Z",
+    "repo_id": 1475185343,
+    "score": 17,
+    "tech_signals": [
+      "Oracle",
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
