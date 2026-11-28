@@ -1,0 +1,22 @@
+{
+  "candidate": {
+    "created_at": "2026-11-28T03:11:55Z",
+    "description": "Agent-run basket of tokenized US stocks on Robinhood Chain, settled in USDG. Every rebalance verifiable.",
+    "detected_at": "2026-11-28T03:15:19Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "bigrceo/ballast-rh",
+    "homepage": "https://ballast-rh.vercel.app",
+    "html_url": "https://github.com/bigrceo/ballast-rh",
+    "pushed_at": "2026-11-28T03:14:17Z",
+    "repo_id": 1475136107,
+    "score": 8,
+    "tech_signals": [
+      "Oracle",
+      "Agent/MCP"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
