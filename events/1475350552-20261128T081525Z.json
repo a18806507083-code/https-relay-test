@@ -1,0 +1,21 @@
+{
+  "candidate": {
+    "created_at": "2026-11-28T08:07:41Z",
+    "description": "Marketplace for sealed LEGO sets on Robinhood Chain",
+    "detected_at": "2026-11-28T08:15:25Z",
+    "direct_signals": [
+      "Robinhood Chain"
+    ],
+    "full_name": "thiamworld/brickable",
+    "homepage": null,
+    "html_url": "https://github.com/thiamworld/brickable",
+    "pushed_at": "2026-11-28T08:11:51Z",
+    "repo_id": 1475350552,
+    "score": 7,
+    "tech_signals": [
+      "Contract tooling"
+    ]
+  },
+  "schema": "rh-fast-event/1",
+  "trigger": "NEW_REPO"
+}
